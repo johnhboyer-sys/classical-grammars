@@ -1,0 +1,1271 @@
+{
+ "page": 755,
+ "leaf": 768,
+ "archiveId": "smyth-greek-grammar-for-colleges-1920",
+ "image": "index-scan/page-0755.png",
+ "columns": 2,
+ "runningHead": "ENGLISH INDEX",
+ "pageNotes": "Two columns divided by a printed vertical rule; running head 'ENGLISH INDEX' centred, folio 755 at the upper right. No letter headings are printed, but a blank line separates the V group from W (before 'Want') in col. 2; that blank is not counted as a printed line. Col. 1 opens mid-entry: it continues the 'Verb-stems' entry begun at the foot of page 754 ('and pres. stems, 496-' + '531'). The 'Verbs' entry runs from col. 1 over the column rule into col. 2. Smyth's small-cap dialect marker is transcribed as 'D' and his small-cap note marker as 'N.'; both are recorded as ref notes.",
+ "lines": [
+  {
+   "col": 1,
+   "text": "531, 723-743; and fut. stems, 532-"
+  },
+  {
+   "col": 1,
+   "text": "541; and first aor. stems, 542-545;"
+  },
+  {
+   "col": 1,
+   "text": "and sec. aor. stems, 546-554; and"
+  },
+  {
+   "col": 1,
+   "text": "sec. perf. stems, 554, 561-573; and"
+  },
+  {
+   "col": 1,
+   "text": "first perf. stems, 555-560; and perf."
+  },
+  {
+   "col": 1,
+   "text": "mid. stems, 574-584; and first aor."
+  },
+  {
+   "col": 1,
+   "text": "pass. stems, 585-589; and sec. aor."
+  },
+  {
+   "col": 1,
+   "text": "pass. stems, 590-598; in compounds,"
+  },
+  {
+   "col": 1,
+   "text": "870, 880-882."
+  },
+  {
+   "col": 1,
+   "text": "Verbal, adjectives, in -τός, comp., 323 a;"
+  },
+  {
+   "col": 1,
+   "text": "meaning, 358. 2, 472; accent, 425 c;"
+  },
+  {
+   "col": 1,
+   "text": "how formed, 471; in pl., 1003 a,"
+  },
+  {
+   "col": 1,
+   "text": "1052; agr., 1059; dat. w., 1488; w."
+  },
+  {
+   "col": 1,
+   "text": "acc., 1598."
+  },
+  {
+   "col": 1,
+   "text": "In -τέος, meaning, 358. 2, 473,"
+  },
+  {
+   "col": 1,
+   "text": "2149; accent, 425 c; how formed,"
+  },
+  {
+   "col": 1,
+   "text": "471; in pl., 1003 a, 1052; dat. w.,"
+  },
+  {
+   "col": 1,
+   "text": "1488, 2149. 2, 2151, 2152; constr. of,"
+  },
+  {
+   "col": 1,
+   "text": "pers. and impers., 2149-2152."
+  },
+  {
+   "col": 1,
+   "text": "Nouns, defined, 355, 358; w. acc.,"
+  },
+  {
+   "col": 1,
+   "text": "1598; use, 1966-2152. See Infinitive,"
+  },
+  {
+   "col": 1,
+   "text": "Participles, Verbal adjectives."
+  },
+  {
+   "col": 1,
+   "text": "Verbs, inflec., preliminary remarks, 355-"
+  },
+  {
+   "col": 1,
+   "text": "380; stems, 367-380; primitive, 372;"
+  },
+  {
+   "col": 1,
+   "text": "denom., 372, 866-868, 892; conjug.,"
+  },
+  {
+   "col": 1,
+   "text": "381-422, 602-624, 717-743; accent,"
+  },
+  {
+   "col": 1,
+   "text": "423-427; aug. and redupl., 428-454;"
+  },
+  {
+   "col": 1,
+   "text": "tense-suffs., thematic vowel, and"
+  },
+  {
+   "col": 1,
+   "text": "mood-suffs., 455-461; pers. endings,"
+  },
+  {
+   "col": 1,
+   "text": "462-468; endings of inf., part., and"
+  },
+  {
+   "col": 1,
+   "text": "verbal adj., 469-473; formation of"
+  },
+  {
+   "col": 1,
+   "text": "tense-systems, 474-601; in -αω, -εω,"
+  },
+  {
+   "col": 1,
+   "text": "-οω, 499, 522; in -ιω, -υω, 500, 500 D,"
+  },
+  {
+   "col": 1,
+   "text": "501, 522; in -πτω, 505, 506; in -ζω,"
+  },
+  {
+   "col": 1,
+   "text": "508-512; in -ττω (Ion. and later"
+  },
+  {
+   "col": 1,
+   "text": "Att. -σσω), 513-516; liquid and nasal"
+  },
+  {
+   "col": 1,
+   "text": "stems, 517-522; of N class, 523-"
+  },
+  {
+   "col": 1,
+   "text": "525; in -σκω, 526-528; inflec. of ω-"
+  },
+  {
+   "col": 1,
+   "text": "vbs., 625-716; inflec. of μι-vbs., 744-"
+  },
+  {
+   "col": 1,
+   "text": "767; irregular μι-vbs., 768-799; pe-"
+  },
+  {
+   "col": 1,
+   "text": "culiarities in use of voice-forms,"
+  },
+  {
+   "col": 1,
+   "text": "etc., 800-818; mixture of tr. and"
+  },
+  {
+   "col": 1,
+   "text": "intr. senses, 819-821; compound, see"
+  },
+  {
+   "col": 1,
+   "text": "Compound verbs; impers., see Im-"
+  },
+  {
+   "col": 1,
+   "text": "personal verbs; tr. and intr., see"
+  },
+  {
+   "col": 1,
+   "text": "Transitive verbs, Intransitive verbs;"
+  },
+  {
+   "col": 1,
+   "text": "concord, 925, 949-972, 2501 b; omis-"
+  },
+  {
+   "col": 1,
+   "text": "sion, 944-948, 2520; gen. w., 1339-"
+  },
+  {
+   "col": 2,
+   "text": "1411; syntax, 1703-2152. See Voices,"
+  },
+  {
+   "col": 2,
+   "text": "Moods, Tenses, etc."
+  },
+  {
+   "col": 2,
+   "text": "Vocative case, 201, 202, 204, 223, 226,"
+  },
+  {
+   "col": 2,
+   "text": "233, 248, 249, 261; uses, 1283-1288,"
+  },
+  {
+   "col": 2,
+   "text": "2682, 2684."
+  },
+  {
+   "col": 2,
+   "text": "Voice-forms, peculiarities in use, 800-"
+  },
+  {
+   "col": 2,
+   "text": "818."
+  },
+  {
+   "col": 2,
+   "text": "Voiced consonants, 15 a."
+  },
+  {
+   "col": 2,
+   "text": "Voiceless consonants, 15 b."
+  },
+  {
+   "col": 2,
+   "text": "Voices, three, 355, 356; uses, 1703-1758."
+  },
+  {
+   "col": 2,
+   "text": "See Active, etc."
+  },
+  {
+   "col": 2,
+   "text": "Vowel, declensions, of substs., 204,"
+  },
+  {
+   "col": 2,
+   "text": "211-239; of adjs., 286-290; cons."
+  },
+  {
+   "col": 2,
+   "text": "and vowel decl. of adjs., 294-299."
+  },
+  {
+   "col": 2,
+   "text": "Stems, w. σ in perf. and plup."
+  },
+  {
+   "col": 2,
+   "text": "mid. and pass., 404, 407, 409 e and N."
+  },
+  {
+   "col": 2,
+   "text": "Suffixes, 859."
+  },
+  {
+   "col": 2,
+   "text": "Verbs, defined, 376; conjug., 382-"
+  },
+  {
+   "col": 2,
+   "text": "399, 404, 407, 409 e and N.; fut.,"
+  },
+  {
+   "col": 2,
+   "text": "534; first aor., 543; first perf., 557,"
+  },
+  {
+   "col": 2,
+   "text": "558; tenses, 606; not contracted,"
+  },
+  {
+   "col": 2,
+   "text": "stems, 607-610; contracted, stems,"
+  },
+  {
+   "col": 2,
+   "text": "611-613."
+  },
+  {
+   "col": 2,
+   "text": "Vowels, the, 4; quantity, 4; pronunc.,"
+  },
+  {
+   "col": 2,
+   "text": "24; vowel change, 27-45; compens."
+  },
+  {
+   "col": 2,
+   "text": "length., see Compensatory lengthen-"
+  },
+  {
+   "col": 2,
+   "text": "ing; shortening, 39, 40, 148 D.;"
+  },
+  {
+   "col": 2,
+   "text": "addition, 41; development, 42; dis-"
+  },
+  {
+   "col": 2,
+   "text": "appearance, 43, 44; assimilation, 45;"
+  },
+  {
+   "col": 2,
+   "text": "euphony, 46-76; contact, 46; con-"
+  },
+  {
+   "col": 2,
+   "text": "traction, 48-59; absorption, 56;"
+  },
+  {
+   "col": 2,
+   "text": "synizesis, 60, 61; crasis, 62-69;"
+  },
+  {
+   "col": 2,
+   "text": "elision, 70-75; apocope, 75 D;"
+  },
+  {
+   "col": 2,
+   "text": "aphaeresis, 76; conss. w., 109-117;"
+  },
+  {
+   "col": 2,
+   "text": "thematic, see Thematic vowel. See"
+  },
+  {
+   "col": 2,
+   "text": "Change, Gradation."
+  },
+  {
+   "col": 2,
+   "text": "Want, adjs. of, w. gen., 1429."
+  },
+  {
+   "col": 2,
+   "text": "Wanting, vbs. of, w. gen., 1396."
+  },
+  {
+   "col": 2,
+   "text": "Warning, expressed by voc., 1284; by"
+  },
+  {
+   "col": 2,
+   "text": "first pers. sing. of subjv., 1798; by"
+  },
+  {
+   "col": 2,
+   "text": "μή w. independent subjv. in Hom.,"
+  },
+  {
+   "col": 2,
+   "text": "1802; by οὐ w. fut., 1918; by ὅπως"
+  },
+  {
+   "col": 2,
+   "text": "or ὅπως μή w. fut. indic., 2213; con-"
+  },
+  {
+   "col": 2,
+   "text": "dit. w. εἰ w. fut. indic., 2328, w. ἐάν"
+  },
+  {
+   "col": 2,
+   "text": "w. subjv., 2328 a."
+  },
+  {
+   "col": 2,
+   "text": "Way, advs. of, 346."
+  },
+  {
+   "col": 2,
+   "text": "Whole and part, constr. of, 981-985."
+  }
+ ],
+ "entries": [
+  {
+   "headword": "Verb-stems",
+   "raw": "531, 723-743; and fut. stems, 532-541; and first aor. stems, 542-545; and sec. aor. stems, 546-554; and sec. perf. stems, 554, 561-573; and first perf. stems, 555-560; and perf. mid. stems, 574-584; and first aor. pass. stems, 585-589; and sec. aor. pass. stems, 590-598; in compounds, 870, 880-882.",
+   "col": 1,
+   "wrapped": true,
+   "wrapNote": "continued from previous page",
+   "refs": [
+    {
+     "verbatim": "531",
+     "n": 531
+    },
+    {
+     "verbatim": "723-743",
+     "n": 723,
+     "to": 743
+    },
+    {
+     "verbatim": "532-541",
+     "n": 532,
+     "to": 541
+    },
+    {
+     "verbatim": "542-545",
+     "n": 542,
+     "to": 545
+    },
+    {
+     "verbatim": "546-554",
+     "n": 546,
+     "to": 554
+    },
+    {
+     "verbatim": "554",
+     "n": 554
+    },
+    {
+     "verbatim": "561-573",
+     "n": 561,
+     "to": 573
+    },
+    {
+     "verbatim": "555-560",
+     "n": 555,
+     "to": 560
+    },
+    {
+     "verbatim": "574-584",
+     "n": 574,
+     "to": 584
+    },
+    {
+     "verbatim": "585-589",
+     "n": 585,
+     "to": 589
+    },
+    {
+     "verbatim": "590-598",
+     "n": 590,
+     "to": 598
+    },
+    {
+     "verbatim": "870",
+     "n": 870
+    },
+    {
+     "verbatim": "880-882",
+     "n": 880,
+     "to": 882
+    }
+   ],
+   "notes": "Continuation of 'Verb-stems, 367, 371-375, 826; changes in, 474-495; and pres. stems, 496-' at the foot of page 754. The opening '531' is the end of that split range: the stitched reading is 'and pres. stems, 496-531'. Headword taken from page 754."
+  },
+  {
+   "headword": "Verbal",
+   "raw": "Verbal, adjectives, in -τός, comp., 323 a; meaning, 358. 2, 472; accent, 425 c; how formed, 471; in pl., 1003 a, 1052; agr., 1059; dat. w., 1488; w. acc., 1598.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "323 a",
+     "n": 323,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "358. 2",
+     "n": 358,
+     "anchor": "2"
+    },
+    {
+     "verbatim": "472",
+     "n": 472
+    },
+    {
+     "verbatim": "425 c",
+     "n": 425,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "471",
+     "n": 471
+    },
+    {
+     "verbatim": "1003 a",
+     "n": 1003,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "1052",
+     "n": 1052
+    },
+    {
+     "verbatim": "1059",
+     "n": 1059
+    },
+    {
+     "verbatim": "1488",
+     "n": 1488
+    },
+    {
+     "verbatim": "1598",
+     "n": 1598
+    }
+   ],
+   "sub": [
+    {
+     "label": "In -τέος",
+     "raw": "In -τέος, meaning, 358. 2, 473, 2149; accent, 425 c; how formed, 471; in pl., 1003 a, 1052; dat. w., 1488, 2149. 2, 2151, 2152; constr. of, pers. and impers., 2149-2152.",
+     "refs": [
+      {
+       "verbatim": "358. 2",
+       "n": 358,
+       "anchor": "2"
+      },
+      {
+       "verbatim": "473",
+       "n": 473
+      },
+      {
+       "verbatim": "2149",
+       "n": 2149
+      },
+      {
+       "verbatim": "425 c",
+       "n": 425,
+       "anchor": "c"
+      },
+      {
+       "verbatim": "471",
+       "n": 471
+      },
+      {
+       "verbatim": "1003 a",
+       "n": 1003,
+       "anchor": "a"
+      },
+      {
+       "verbatim": "1052",
+       "n": 1052
+      },
+      {
+       "verbatim": "1488",
+       "n": 1488
+      },
+      {
+       "verbatim": "2149. 2",
+       "n": 2149,
+       "anchor": "2"
+      },
+      {
+       "verbatim": "2151",
+       "n": 2151
+      },
+      {
+       "verbatim": "2152",
+       "n": 2152
+      },
+      {
+       "verbatim": "2149-2152",
+       "n": 2149,
+       "to": 2152
+      }
+     ]
+    },
+    {
+     "label": "Nouns",
+     "raw": "Nouns, defined, 355, 358; w. acc., 1598; use, 1966-2152. See Infinitive, Participles, Verbal adjectives.",
+     "refs": [
+      {
+       "verbatim": "355",
+       "n": 355
+      },
+      {
+       "verbatim": "358",
+       "n": 358
+      },
+      {
+       "verbatim": "1598",
+       "n": 1598
+      },
+      {
+       "verbatim": "1966-2152",
+       "n": 1966,
+       "to": 2152
+      }
+     ],
+     "crossRefs": [
+      "Infinitive",
+      "Participles",
+      "Verbal adjectives"
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "Verbs",
+   "raw": "Verbs, inflec., preliminary remarks, 355-380; stems, 367-380; primitive, 372; denom., 372, 866-868, 892; conjug., 381-422, 602-624, 717-743; accent, 423-427; aug. and redupl., 428-454; tense-suffs., thematic vowel, and mood-suffs., 455-461; pers. endings, 462-468; endings of inf., part., and verbal adj., 469-473; formation of tense-systems, 474-601; in -αω, -εω, -οω, 499, 522; in -ιω, -υω, 500, 500 D, 501, 522; in -πτω, 505, 506; in -ζω, 508-512; in -ττω (Ion. and later Att. -σσω), 513-516; liquid and nasal stems, 517-522; of N class, 523-525; in -σκω, 526-528; inflec. of ω-vbs., 625-716; inflec. of μι-vbs., 744-767; irregular μι-vbs., 768-799; peculiarities in use of voice-forms, etc., 800-818; mixture of tr. and intr. senses, 819-821; compound, see Compound verbs; impers., see Impersonal verbs; tr. and intr., see Transitive verbs, Intransitive verbs; concord, 925, 949-972, 2501 b; omission, 944-948, 2520; gen. w., 1339-1411; syntax, 1703-2152. See Voices, Moods, Tenses, etc.",
+   "col": 1,
+   "wrapped": true,
+   "wrapNote": "col1->col2",
+   "refs": [
+    {
+     "verbatim": "355-380",
+     "n": 355,
+     "to": 380
+    },
+    {
+     "verbatim": "367-380",
+     "n": 367,
+     "to": 380
+    },
+    {
+     "verbatim": "372",
+     "n": 372
+    },
+    {
+     "verbatim": "372",
+     "n": 372
+    },
+    {
+     "verbatim": "866-868",
+     "n": 866,
+     "to": 868
+    },
+    {
+     "verbatim": "892",
+     "n": 892
+    },
+    {
+     "verbatim": "381-422",
+     "n": 381,
+     "to": 422
+    },
+    {
+     "verbatim": "602-624",
+     "n": 602,
+     "to": 624
+    },
+    {
+     "verbatim": "717-743",
+     "n": 717,
+     "to": 743
+    },
+    {
+     "verbatim": "423-427",
+     "n": 423,
+     "to": 427
+    },
+    {
+     "verbatim": "428-454",
+     "n": 428,
+     "to": 454
+    },
+    {
+     "verbatim": "455-461",
+     "n": 455,
+     "to": 461
+    },
+    {
+     "verbatim": "462-468",
+     "n": 462,
+     "to": 468
+    },
+    {
+     "verbatim": "469-473",
+     "n": 469,
+     "to": 473
+    },
+    {
+     "verbatim": "474-601",
+     "n": 474,
+     "to": 601
+    },
+    {
+     "verbatim": "499",
+     "n": 499
+    },
+    {
+     "verbatim": "522",
+     "n": 522
+    },
+    {
+     "verbatim": "500",
+     "n": 500
+    },
+    {
+     "verbatim": "500 D",
+     "n": 500,
+     "anchor": "D"
+    },
+    {
+     "verbatim": "501",
+     "n": 501
+    },
+    {
+     "verbatim": "522",
+     "n": 522
+    },
+    {
+     "verbatim": "505",
+     "n": 505
+    },
+    {
+     "verbatim": "506",
+     "n": 506
+    },
+    {
+     "verbatim": "508-512",
+     "n": 508,
+     "to": 512
+    },
+    {
+     "verbatim": "513-516",
+     "n": 513,
+     "to": 516
+    },
+    {
+     "verbatim": "517-522",
+     "n": 517,
+     "to": 522
+    },
+    {
+     "verbatim": "523-525",
+     "n": 523,
+     "to": 525
+    },
+    {
+     "verbatim": "526-528",
+     "n": 526,
+     "to": 528
+    },
+    {
+     "verbatim": "625-716",
+     "n": 625,
+     "to": 716
+    },
+    {
+     "verbatim": "744-767",
+     "n": 744,
+     "to": 767
+    },
+    {
+     "verbatim": "768-799",
+     "n": 768,
+     "to": 799
+    },
+    {
+     "verbatim": "800-818",
+     "n": 800,
+     "to": 818
+    },
+    {
+     "verbatim": "819-821",
+     "n": 819,
+     "to": 821
+    },
+    {
+     "verbatim": "925",
+     "n": 925
+    },
+    {
+     "verbatim": "949-972",
+     "n": 949,
+     "to": 972
+    },
+    {
+     "verbatim": "2501 b",
+     "n": 2501,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "944-948",
+     "n": 944,
+     "to": 948
+    },
+    {
+     "verbatim": "2520",
+     "n": 2520
+    },
+    {
+     "verbatim": "1339-1411",
+     "n": 1339,
+     "to": 1411
+    },
+    {
+     "verbatim": "1703-2152",
+     "n": 1703,
+     "to": 2152
+    }
+   ],
+   "crossRefs": [
+    "Compound verbs",
+    "Impersonal verbs",
+    "Transitive verbs",
+    "Intransitive verbs",
+    "Voices",
+    "Moods",
+    "Tenses"
+   ]
+  },
+  {
+   "headword": "Vocative case",
+   "raw": "Vocative case, 201, 202, 204, 223, 226, 233, 248, 249, 261; uses, 1283-1288, 2682, 2684.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "201",
+     "n": 201
+    },
+    {
+     "verbatim": "202",
+     "n": 202
+    },
+    {
+     "verbatim": "204",
+     "n": 204
+    },
+    {
+     "verbatim": "223",
+     "n": 223
+    },
+    {
+     "verbatim": "226",
+     "n": 226
+    },
+    {
+     "verbatim": "233",
+     "n": 233
+    },
+    {
+     "verbatim": "248",
+     "n": 248
+    },
+    {
+     "verbatim": "249",
+     "n": 249
+    },
+    {
+     "verbatim": "261",
+     "n": 261
+    },
+    {
+     "verbatim": "1283-1288",
+     "n": 1283,
+     "to": 1288
+    },
+    {
+     "verbatim": "2682",
+     "n": 2682
+    },
+    {
+     "verbatim": "2684",
+     "n": 2684
+    }
+   ]
+  },
+  {
+   "headword": "Voice-forms",
+   "raw": "Voice-forms, peculiarities in use, 800-818.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "800-818",
+     "n": 800,
+     "to": 818
+    }
+   ]
+  },
+  {
+   "headword": "Voiced consonants",
+   "raw": "Voiced consonants, 15 a.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "15 a",
+     "n": 15,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Voiceless consonants",
+   "raw": "Voiceless consonants, 15 b.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "15 b",
+     "n": 15,
+     "anchor": "b"
+    }
+   ]
+  },
+  {
+   "headword": "Voices",
+   "raw": "Voices, three, 355, 356; uses, 1703-1758. See Active, etc.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "355",
+     "n": 355
+    },
+    {
+     "verbatim": "356",
+     "n": 356
+    },
+    {
+     "verbatim": "1703-1758",
+     "n": 1703,
+     "to": 1758
+    }
+   ],
+   "crossRefs": [
+    "Active"
+   ]
+  },
+  {
+   "headword": "Vowel",
+   "raw": "Vowel, declensions, of substs., 204, 211-239; of adjs., 286-290; cons. and vowel decl. of adjs., 294-299.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "204",
+     "n": 204
+    },
+    {
+     "verbatim": "211-239",
+     "n": 211,
+     "to": 239
+    },
+    {
+     "verbatim": "286-290",
+     "n": 286,
+     "to": 290
+    },
+    {
+     "verbatim": "294-299",
+     "n": 294,
+     "to": 299
+    }
+   ],
+   "sub": [
+    {
+     "label": "Stems",
+     "raw": "Stems, w. σ in perf. and plup. mid. and pass., 404, 407, 409 e and N.",
+     "refs": [
+      {
+       "verbatim": "404",
+       "n": 404
+      },
+      {
+       "verbatim": "407",
+       "n": 407
+      },
+      {
+       "verbatim": "409 e",
+       "n": 409,
+       "anchor": "e"
+      },
+      {
+       "verbatim": "N.",
+       "n": 409,
+       "anchor": "e",
+       "note": "N.",
+       "inherited": true
+      }
+     ]
+    },
+    {
+     "label": "Suffixes",
+     "raw": "Suffixes, 859.",
+     "refs": [
+      {
+       "verbatim": "859",
+       "n": 859
+      }
+     ]
+    },
+    {
+     "label": "Verbs",
+     "raw": "Verbs, defined, 376; conjug., 382-399, 404, 407, 409 e and N.; fut., 534; first aor., 543; first perf., 557, 558; tenses, 606; not contracted, stems, 607-610; contracted, stems, 611-613.",
+     "refs": [
+      {
+       "verbatim": "376",
+       "n": 376
+      },
+      {
+       "verbatim": "382-399",
+       "n": 382,
+       "to": 399
+      },
+      {
+       "verbatim": "404",
+       "n": 404
+      },
+      {
+       "verbatim": "407",
+       "n": 407
+      },
+      {
+       "verbatim": "409 e",
+       "n": 409,
+       "anchor": "e"
+      },
+      {
+       "verbatim": "N.",
+       "n": 409,
+       "anchor": "e",
+       "note": "N.",
+       "inherited": true
+      },
+      {
+       "verbatim": "534",
+       "n": 534
+      },
+      {
+       "verbatim": "543",
+       "n": 543
+      },
+      {
+       "verbatim": "557",
+       "n": 557
+      },
+      {
+       "verbatim": "558",
+       "n": 558
+      },
+      {
+       "verbatim": "606",
+       "n": 606
+      },
+      {
+       "verbatim": "607-610",
+       "n": 607,
+       "to": 610
+      },
+      {
+       "verbatim": "611-613",
+       "n": 611,
+       "to": 613
+      }
+     ]
+    }
+   ],
+   "notes": "In the sub-entries 'Stems' and 'Verbs' the print reads '409 e and N.', i.e. section 409 e together with its note; recorded as two refs, '409 e' and an inherited 'N.' on the same anchor."
+  },
+  {
+   "headword": "Vowels",
+   "raw": "Vowels, the, 4; quantity, 4; pronunc., 24; vowel change, 27-45; compens. length., see Compensatory lengthening; shortening, 39, 40, 148 D.; addition, 41; development, 42; disappearance, 43, 44; assimilation, 45; euphony, 46-76; contact, 46; contraction, 48-59; absorption, 56; synizesis, 60, 61; crasis, 62-69; elision, 70-75; apocope, 75 D; aphaeresis, 76; conss. w., 109-117; thematic, see Thematic vowel. See Change, Gradation.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "4",
+     "n": 4
+    },
+    {
+     "verbatim": "4",
+     "n": 4
+    },
+    {
+     "verbatim": "24",
+     "n": 24
+    },
+    {
+     "verbatim": "27-45",
+     "n": 27,
+     "to": 45
+    },
+    {
+     "verbatim": "39",
+     "n": 39
+    },
+    {
+     "verbatim": "40",
+     "n": 40
+    },
+    {
+     "verbatim": "148 D.",
+     "n": 148,
+     "anchor": "D"
+    },
+    {
+     "verbatim": "41",
+     "n": 41
+    },
+    {
+     "verbatim": "42",
+     "n": 42
+    },
+    {
+     "verbatim": "43",
+     "n": 43
+    },
+    {
+     "verbatim": "44",
+     "n": 44
+    },
+    {
+     "verbatim": "45",
+     "n": 45
+    },
+    {
+     "verbatim": "46-76",
+     "n": 46,
+     "to": 76
+    },
+    {
+     "verbatim": "46",
+     "n": 46
+    },
+    {
+     "verbatim": "48-59",
+     "n": 48,
+     "to": 59
+    },
+    {
+     "verbatim": "56",
+     "n": 56
+    },
+    {
+     "verbatim": "60",
+     "n": 60
+    },
+    {
+     "verbatim": "61",
+     "n": 61
+    },
+    {
+     "verbatim": "62-69",
+     "n": 62,
+     "to": 69
+    },
+    {
+     "verbatim": "70-75",
+     "n": 70,
+     "to": 75
+    },
+    {
+     "verbatim": "75 D",
+     "n": 75,
+     "anchor": "D"
+    },
+    {
+     "verbatim": "76",
+     "n": 76
+    },
+    {
+     "verbatim": "109-117",
+     "n": 109,
+     "to": 117
+    }
+   ],
+   "crossRefs": [
+    "Compensatory lengthening",
+    "Thematic vowel",
+    "Change",
+    "Gradation"
+   ],
+   "notes": "The dialect marker is printed '148 D.' with a point but '75 D' without; both kept as printed."
+  },
+  {
+   "headword": "Want",
+   "raw": "Want, adjs. of, w. gen., 1429.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1429",
+     "n": 1429
+    }
+   ]
+  },
+  {
+   "headword": "Wanting",
+   "raw": "Wanting, vbs. of, w. gen., 1396.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1396",
+     "n": 1396
+    }
+   ]
+  },
+  {
+   "headword": "Warning",
+   "raw": "Warning, expressed by voc., 1284; by first pers. sing. of subjv., 1798; by μή w. independent subjv. in Hom., 1802; by οὐ w. fut., 1918; by ὅπως or ὅπως μή w. fut. indic., 2213; condit. w. εἰ w. fut. indic., 2328, w. ἐάν w. subjv., 2328 a.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1284",
+     "n": 1284
+    },
+    {
+     "verbatim": "1798",
+     "n": 1798
+    },
+    {
+     "verbatim": "1802",
+     "n": 1802
+    },
+    {
+     "verbatim": "1918",
+     "n": 1918
+    },
+    {
+     "verbatim": "2213",
+     "n": 2213
+    },
+    {
+     "verbatim": "2328",
+     "n": 2328
+    },
+    {
+     "verbatim": "2328 a",
+     "n": 2328,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Way",
+   "raw": "Way, advs. of, 346.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "346",
+     "n": 346
+    }
+   ]
+  },
+  {
+   "headword": "Whole and part",
+   "raw": "Whole and part, constr. of, 981-985.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "981-985",
+     "n": 981,
+     "to": 985
+    }
+   ]
+  }
+ ],
+ "unreadable": [],
+ "counts": {
+  "linesCol1": 48,
+  "linesCol2": 47,
+  "lines": 95,
+  "entries": 15
+ }
+}

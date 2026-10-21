@@ -1,0 +1,71 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  wordtool-packs:
+    name: Word-tool pack integrity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Pack integrity tests
+        run: python3 scripts/wordtool/test_packs.py
+      - name: Transform text rules
+        run: python3 scripts/wordtool/test_t8rows.py
+      - name: Frozen rows for the entries that settled a rule
+        run: python3 scripts/wordtool/frozen_rows.py
+      - name: Goodell English index verification
+        run: python3 scripts/verify_index_goodell.py
+
+  corpus-verifiers:
+    name: Corpus verifiers
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch pinned sources
+        run: python3 scripts/fetch_sources.py
+      - name: Allen and Greenough
+        run: python3 scripts/verify_ag.py
+      - name: Smyth
+        run: python3 scripts/verify_smyth.py
+      - name: Bennett
+        run: python3 scripts/verify_bennett.py
+      - name: Smyth constructions
+        run: python3 scripts/verify_constructions.py
+      - name: Smyth citations
+        run: python3 scripts/verify_citations.py
+      - name: Citations, all grammars
+        run: python3 scripts/verify_citations_all.py
+      - name: Gildersleeve
+        run: python3 scripts/verify_gildersleeve.py
+      - name: Goodwin Moods and Tenses
+        run: python3 scripts/verify_goodwin_gmt.py
+      - name: Smyth English index
+        run: python3 scripts/verify_index_english.py
+      - name: Smyth Greek index
+        run: python3 scripts/verify_index_greek.py
+      - name: Smyth landmarks
+        run: python3 scripts/verify_landmarks.py
+      - name: Monro
+        run: python3 scripts/verify_monro.py
+      - name: Goodell
+        run: python3 scripts/verify_goodell.py
+      - name: Smyth topic list
+        run: python3 scripts/verify_topics.py
+      - name: Topic page verifier's own rules
+        run: python3 scripts/test_verify_topic_pages.py
+      - name: Topic page citations
+        run: python3 scripts/verify_topic_pages.py --strict
+      - name: Topic page Greek against the witness, exactly
+        run: python3 scripts/check_topic_greek_exact.py
+      - name: Smyth crosswalk
+        run: python3 scripts/verify_crosswalk.py

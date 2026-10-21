@@ -1,0 +1,1232 @@
+{
+ "page": 738,
+ "leaf": 751,
+ "archiveId": "smyth-greek-grammar-for-colleges-1920",
+ "image": "index-scan/page-0738.png",
+ "columns": 2,
+ "runningHead": "ENGLISH INDEX",
+ "pageNotes": "Folio 738 at the top left, running head 'ENGLISH INDEX' centred; no foot folio and no signature line. Two columns divided by a printed vertical rule; both columns run the full depth with no letter-break gap. Only eight main entries, three of them long paragraphs with indented sub-paragraphs. The 'Indicative mood' entry, in its sub-paragraph 'In simple sent.', runs from the foot of col. 1 to the head of col. 2. Col. 2 ends mid-sub-paragraph ('Indirect' — 'Discourse'), which continues on page 739. Smyth's small-cap dialect mark is printed 'D' without a following point in '347 D 2' and '349 D'.",
+ "lines": [
+  {
+   "col": 1,
+   "text": "Inchoative, pres. stems, 526-528; im-"
+  },
+  {
+   "col": 1,
+   "text": "perf., 1900."
+  },
+  {
+   "col": 1,
+   "text": "Incorporation, 2532, 2536-2538."
+  },
+  {
+   "col": 1,
+   "text": "Indeclinable, nouns, 199 d, 284; δεῖνα,"
+  },
+  {
+   "col": 1,
+   "text": "rarely, 336; numerals, 347 D 2,"
+  },
+  {
+   "col": 1,
+   "text": "349 g, 349 D, 350; χρή, 793."
+  },
+  {
+   "col": 1,
+   "text": "Indefinite, adverbs, 181 b, 346."
+  },
+  {
+   "col": 1,
+   "text": "And definite antecs., 2505-2508."
+  },
+  {
+   "col": 1,
+   "text": "Article, place sometimes supplied"
+  },
+  {
+   "col": 1,
+   "text": "by τὶς, 1118 a."
+  },
+  {
+   "col": 1,
+   "text": "Pronouns, 181 b, 334-340; uses,"
+  },
+  {
+   "col": 1,
+   "text": "1266-1270; in ind. questions, 2663-"
+  },
+  {
+   "col": 1,
+   "text": "2674, 339 f."
+  },
+  {
+   "col": 1,
+   "text": "Independent, nom., 940; subjv., 1795-"
+  },
+  {
+   "col": 1,
+   "text": "1811."
+  },
+  {
+   "col": 1,
+   "text": "Indicative mood, 357, 359, 1760; end-"
+  },
+  {
+   "col": 1,
+   "text": "ings, 366 b; pres. and imperf., 627,"
+  },
+  {
+   "col": 1,
+   "text": "628, 635, 747, 748; fut. act. and"
+  },
+  {
+   "col": 1,
+   "text": "mid. and fut. perf., 658, 659, 754;"
+  },
+  {
+   "col": 1,
+   "text": "fut. pass., 663, 664, 754; first aor."
+  },
+  {
+   "col": 1,
+   "text": "act. and mid., 665, 666, 755; first"
+  },
+  {
+   "col": 1,
+   "text": "and sec. aor. pass., 672, 673; sec."
+  },
+  {
+   "col": 1,
+   "text": "aor. act., 682, 756; first and sec."
+  },
+  {
+   "col": 1,
+   "text": "perf. act. and plup., 689, 690, 702-"
+  },
+  {
+   "col": 1,
+   "text": "705, 762; perf. and plup. mid. and"
+  },
+  {
+   "col": 1,
+   "text": "pass., 706, 707, 767."
+  },
+  {
+   "col": 1,
+   "text": "In simple sent., without ἄν, 1770-"
+  },
+  {
+   "col": 1,
+   "text": "1783; of unfulfilled obligation ex-"
+  },
+  {
+   "col": 1,
+   "text": "pressed by, 1774-1779; unattainable"
+  },
+  {
+   "col": 1,
+   "text": "wish expressed by, 1780-1782; in"
+  },
+  {
+   "col": 1,
+   "text": "other than simple sent., 1783; in"
+  },
+  {
+   "col": 1,
+   "text": "simple sent., w. ἄν, 1784-1794, 2349;"
+  },
+  {
+   "col": 1,
+   "text": "unreal, 1786-1789; iterative, 1790-"
+  },
+  {
+   "col": 1,
+   "text": "1792; tenses, their use, 1875-1965,"
+  },
+  {
+   "col": 1,
+   "text": "see Present, etc.; assimilation to,"
+  },
+  {
+   "col": 1,
+   "text": "2185, 2205; in purpose cl. w. ὅπως,"
+  },
+  {
+   "col": 1,
+   "text": "etc., 2203; in obj. cls. after vbs. of"
+  },
+  {
+   "col": 1,
+   "text": "effort, 2211-2213, 2218, 2219; after"
+  },
+  {
+   "col": 1,
+   "text": "vbs. of fearing and caution, 2220,"
+  },
+  {
+   "col": 1,
+   "text": "2229, 2231, 2233; in causal cls., 2241-"
+  },
+  {
+   "col": 1,
+   "text": "2243; in result cls., w. ὥστε (ὡς),"
+  },
+  {
+   "col": 1,
+   "text": "2251-2259, 2273-2278; after ἐφ’ ᾧ,"
+  },
+  {
+   "col": 1,
+   "text": "ἐφ’ ᾧτε, 2279; in simple pres. or"
+  },
+  {
+   "col": 1,
+   "text": "past condits., 2298-2301; in pres. or"
+  },
+  {
+   "col": 1,
+   "text": "past unreal condits., 2302-2320; in"
+  },
+  {
+   "col": 1,
+   "text": "fut. condits., 2323-2328; in general"
+  },
+  {
+   "col": 1,
+   "text": "condits., 2336-2342; as apod. to prot."
+  },
+  {
+   "col": 1,
+   "text": "and apod. combined, 2353; in apod."
+  },
+  {
+   "col": 2,
+   "text": "of condits. of type εἰ w. opt., 2359-"
+  },
+  {
+   "col": 2,
+   "text": "2362; in temp. cls., 2394-2398, 2406,"
+  },
+  {
+   "col": 2,
+   "text": "2413, 2417, 2422, 2425; w. πρίν, 2430-"
+  },
+  {
+   "col": 2,
+   "text": "2442; w. πρότερον ἤ, 2458; w. πρὶν ἤ,"
+  },
+  {
+   "col": 2,
+   "text": "2460; ordinary use, in rel. cls., 2545;"
+  },
+  {
+   "col": 2,
+   "text": "in ordinary rel. cls., 2553; in consec."
+  },
+  {
+   "col": 2,
+   "text": "rel. cls., 2556, 2557; in rel. cls. to"
+  },
+  {
+   "col": 2,
+   "text": "express intended result, 2558; in"
+  },
+  {
+   "col": 2,
+   "text": "rel. cls. denoting what is to be ex-"
+  },
+  {
+   "col": 2,
+   "text": "pected of the subj., 2559; in simple"
+  },
+  {
+   "col": 2,
+   "text": "pres. or past condit. rel. cls., 2562,"
+  },
+  {
+   "col": 2,
+   "text": "2563; in general condit. rel. cls.,"
+  },
+  {
+   "col": 2,
+   "text": "2569-2572; in ind. disc., 2599-2615,"
+  },
+  {
+   "col": 2,
+   "text": "2617-2621, 2623, 2624, 2629 a; in"
+  },
+  {
+   "col": 2,
+   "text": "dir. questions, 2662 a; in ind. ques-"
+  },
+  {
+   "col": 2,
+   "text": "tions, 2677-2679; in exclam. sent.,"
+  },
+  {
+   "col": 2,
+   "text": "2686; οὐ w., 2703-2705; μή and μὴ"
+  },
+  {
+   "col": 2,
+   "text": "οὐ w., 2752."
+  },
+  {
+   "col": 2,
+   "text": "Indignation, inf. in exclams. of, 2015;"
+  },
+  {
+   "col": 2,
+   "text": "questions expressing, introduced by"
+  },
+  {
+   "col": 2,
+   "text": "εἶτα (κᾆτα), ἔπειτα (κἄπειτα), 2653;"
+  },
+  {
+   "col": 2,
+   "text": "marked by γάρ in questions, 2805 a;"
+  },
+  {
+   "col": 2,
+   "text": "by δαί, 2848; by καί before interrog."
+  },
+  {
+   "col": 2,
+   "text": "word, 2872."
+  },
+  {
+   "col": 2,
+   "text": "Indirect, complement (object), 920,"
+  },
+  {
+   "col": 2,
+   "text": "1454, 1469-1473."
+  },
+  {
+   "col": 2,
+   "text": "Discourse, tenses of opt. in, 1862,"
+  },
+  {
+   "col": 2,
+   "text": "1863; inf. in, 1866, 1867, 2016-2024,"
+  },
+  {
+   "col": 2,
+   "text": "2576, 2579, 2580, 2616, 2617; fut. inf."
+  },
+  {
+   "col": 2,
+   "text": "in, after vbs. of hoping, expecting,"
+  },
+  {
+   "col": 2,
+   "text": "etc., 1868, 1999, 2024; fut. inf. in,"
+  },
+  {
+   "col": 2,
+   "text": "after vbs. of willing and desiring,"
+  },
+  {
+   "col": 2,
+   "text": "1869; part. in, 1874, 2092, 2093, 2106-"
+  },
+  {
+   "col": 2,
+   "text": "2145, 2576, 2616, 2617; constr. w."
+  },
+  {
+   "col": 2,
+   "text": "vbs. of saying and thinking, 2016-"
+  },
+  {
+   "col": 2,
+   "text": "2022, 2577, 2579, 2580, 2589, 2592;"
+  },
+  {
+   "col": 2,
+   "text": "w. vbs. of perceiving, 2018, 2110-"
+  },
+  {
+   "col": 2,
+   "text": "2112, 2577, 2592; neg. of, 2020, 2608,"
+  },
+  {
+   "col": 2,
+   "text": "2710; inf. w. ἄν in, 2023; constr"
+  },
+  {
+   "col": 2,
+   "text": "w. vbs. of knowing and showing,"
+  },
+  {
+   "col": 2,
+   "text": "2106-2109, 2577, 2592; w. vbs. of"
+  },
+  {
+   "col": 2,
+   "text": "finding, 2113, 2114; omission of ὤν"
+  },
+  {
+   "col": 2,
+   "text": "in, 2119; ὡς w. part. in, 2120-2122;"
+  },
+  {
+   "col": 2,
+   "text": "vbs. which take either part. or inf.,"
+  },
+  {
+   "col": 2,
+   "text": "2123-2145, 2582; w. ὡς (rarely ὅπως)"
+  },
+  {
+   "col": 2,
+   "text": "after vbs. of fearing, 2235; ὥστε cl."
+  },
+  {
+   "col": 2,
+   "text": "in, 2269, 2270; cls. w. πρίν in,"
+  },
+  {
+   "col": 2,
+   "text": "2446, 2448, 2449; introduced by ὅτι,"
+  }
+ ],
+ "entries": [
+  {
+   "headword": "Inchoative",
+   "raw": "Inchoative, pres. stems, 526-528; imperf., 1900.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "526-528",
+     "n": 526,
+     "to": 528
+    },
+    {
+     "verbatim": "1900",
+     "n": 1900
+    }
+   ]
+  },
+  {
+   "headword": "Incorporation",
+   "raw": "Incorporation, 2532, 2536-2538.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "2532",
+     "n": 2532
+    },
+    {
+     "verbatim": "2536-2538",
+     "n": 2536,
+     "to": 2538
+    }
+   ]
+  },
+  {
+   "headword": "Indeclinable",
+   "raw": "Indeclinable, nouns, 199 d, 284; δεῖνα, rarely, 336; numerals, 347 D 2, 349 g, 349 D, 350; χρή, 793.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "199 d",
+     "n": 199,
+     "anchor": "d"
+    },
+    {
+     "verbatim": "284",
+     "n": 284
+    },
+    {
+     "verbatim": "336",
+     "n": 336
+    },
+    {
+     "verbatim": "347 D 2",
+     "n": 347,
+     "anchor": "D 2"
+    },
+    {
+     "verbatim": "349 g",
+     "n": 349,
+     "anchor": "g"
+    },
+    {
+     "verbatim": "349 D",
+     "n": 349,
+     "anchor": "D"
+    },
+    {
+     "verbatim": "350",
+     "n": 350
+    },
+    {
+     "verbatim": "793",
+     "n": 793
+    }
+   ],
+   "notes": "The dialect mark is set in small capitals and printed without a following point: '347 D 2', '349 D'."
+  },
+  {
+   "headword": "Indefinite",
+   "raw": "Indefinite, adverbs, 181 b, 346.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "181 b",
+     "n": 181,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "346",
+     "n": 346
+    }
+   ],
+   "sub": [
+    {
+     "label": "And definite antecs.",
+     "raw": "And definite antecs., 2505-2508.",
+     "refs": [
+      {
+       "verbatim": "2505-2508",
+       "n": 2505,
+       "to": 2508
+      }
+     ]
+    },
+    {
+     "label": "Article",
+     "raw": "Article, place sometimes supplied by τὶς, 1118 a.",
+     "refs": [
+      {
+       "verbatim": "1118 a",
+       "n": 1118,
+       "anchor": "a"
+      }
+     ]
+    },
+    {
+     "label": "Pronouns",
+     "raw": "Pronouns, 181 b, 334-340; uses, 1266-1270; in ind. questions, 2663-2674, 339 f.",
+     "refs": [
+      {
+       "verbatim": "181 b",
+       "n": 181,
+       "anchor": "b"
+      },
+      {
+       "verbatim": "334-340",
+       "n": 334,
+       "to": 340
+      },
+      {
+       "verbatim": "1266-1270",
+       "n": 1266,
+       "to": 1270
+      },
+      {
+       "verbatim": "2663-2674",
+       "n": 2663,
+       "to": 2674
+      },
+      {
+       "verbatim": "339 f",
+       "n": 339,
+       "anchor": "f"
+      }
+     ]
+    }
+   ],
+   "notes": "The accent on τὶς in the 'Article' sub-entry is a small worn stroke; read as a grave (indefinite τὶς), not the interrogative τίς."
+  },
+  {
+   "headword": "Independent",
+   "raw": "Independent, nom., 940; subjv., 1795-1811.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "940",
+     "n": 940
+    },
+    {
+     "verbatim": "1795-1811",
+     "n": 1795,
+     "to": 1811
+    }
+   ]
+  },
+  {
+   "headword": "Indicative mood",
+   "raw": "Indicative mood, 357, 359, 1760; endings, 366 b; pres. and imperf., 627, 628, 635, 747, 748; fut. act. and mid. and fut. perf., 658, 659, 754; fut. pass., 663, 664, 754; first aor. act. and mid., 665, 666, 755; first and sec. aor. pass., 672, 673; sec. aor. act., 682, 756; first and sec. perf. act. and plup., 689, 690, 702-705, 762; perf. and plup. mid. and pass., 706, 707, 767.",
+   "col": 1,
+   "wrapped": true,
+   "wrapNote": "col1->col2",
+   "refs": [
+    {
+     "verbatim": "357",
+     "n": 357
+    },
+    {
+     "verbatim": "359",
+     "n": 359
+    },
+    {
+     "verbatim": "1760",
+     "n": 1760
+    },
+    {
+     "verbatim": "366 b",
+     "n": 366,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "627",
+     "n": 627
+    },
+    {
+     "verbatim": "628",
+     "n": 628
+    },
+    {
+     "verbatim": "635",
+     "n": 635
+    },
+    {
+     "verbatim": "747",
+     "n": 747
+    },
+    {
+     "verbatim": "748",
+     "n": 748
+    },
+    {
+     "verbatim": "658",
+     "n": 658
+    },
+    {
+     "verbatim": "659",
+     "n": 659
+    },
+    {
+     "verbatim": "754",
+     "n": 754
+    },
+    {
+     "verbatim": "663",
+     "n": 663
+    },
+    {
+     "verbatim": "664",
+     "n": 664
+    },
+    {
+     "verbatim": "754",
+     "n": 754
+    },
+    {
+     "verbatim": "665",
+     "n": 665
+    },
+    {
+     "verbatim": "666",
+     "n": 666
+    },
+    {
+     "verbatim": "755",
+     "n": 755
+    },
+    {
+     "verbatim": "672",
+     "n": 672
+    },
+    {
+     "verbatim": "673",
+     "n": 673
+    },
+    {
+     "verbatim": "682",
+     "n": 682
+    },
+    {
+     "verbatim": "756",
+     "n": 756
+    },
+    {
+     "verbatim": "689",
+     "n": 689
+    },
+    {
+     "verbatim": "690",
+     "n": 690
+    },
+    {
+     "verbatim": "702-705",
+     "n": 702,
+     "to": 705
+    },
+    {
+     "verbatim": "762",
+     "n": 762
+    },
+    {
+     "verbatim": "706",
+     "n": 706
+    },
+    {
+     "verbatim": "707",
+     "n": 707
+    },
+    {
+     "verbatim": "767",
+     "n": 767
+    }
+   ],
+   "sub": [
+    {
+     "label": "In simple sent.",
+     "raw": "In simple sent., without ἄν, 1770-1783; of unfulfilled obligation expressed by, 1774-1779; unattainable wish expressed by, 1780-1782; in other than simple sent., 1783; in simple sent., w. ἄν, 1784-1794, 2349; unreal, 1786-1789; iterative, 1790-1792; tenses, their use, 1875-1965, see Present, etc.; assimilation to, 2185, 2205; in purpose cl. w. ὅπως, etc., 2203; in obj. cls. after vbs. of effort, 2211-2213, 2218, 2219; after vbs. of fearing and caution, 2220, 2229, 2231, 2233; in causal cls., 2241-2243; in result cls., w. ὥστε (ὡς), 2251-2259, 2273-2278; after ἐφ’ ᾧ, ἐφ’ ᾧτε, 2279; in simple pres. or past condits., 2298-2301; in pres. or past unreal condits., 2302-2320; in fut. condits., 2323-2328; in general condits., 2336-2342; as apod. to prot. and apod. combined, 2353; in apod. of condits. of type εἰ w. opt., 2359-2362; in temp. cls., 2394-2398, 2406, 2413, 2417, 2422, 2425; w. πρίν, 2430-2442; w. πρότερον ἤ, 2458; w. πρὶν ἤ, 2460; ordinary use, in rel. cls., 2545; in ordinary rel. cls., 2553; in consec. rel. cls., 2556, 2557; in rel. cls. to express intended result, 2558; in rel. cls. denoting what is to be expected of the subj., 2559; in simple pres. or past condit. rel. cls., 2562, 2563; in general condit. rel. cls., 2569-2572; in ind. disc., 2599-2615, 2617-2621, 2623, 2624, 2629 a; in dir. questions, 2662 a; in ind. questions, 2677-2679; in exclam. sent., 2686; οὐ w., 2703-2705; μή and μὴ οὐ w., 2752.",
+     "refs": [
+      {
+       "verbatim": "1770-1783",
+       "n": 1770,
+       "to": 1783
+      },
+      {
+       "verbatim": "1774-1779",
+       "n": 1774,
+       "to": 1779
+      },
+      {
+       "verbatim": "1780-1782",
+       "n": 1780,
+       "to": 1782
+      },
+      {
+       "verbatim": "1783",
+       "n": 1783
+      },
+      {
+       "verbatim": "1784-1794",
+       "n": 1784,
+       "to": 1794
+      },
+      {
+       "verbatim": "2349",
+       "n": 2349
+      },
+      {
+       "verbatim": "1786-1789",
+       "n": 1786,
+       "to": 1789
+      },
+      {
+       "verbatim": "1790-1792",
+       "n": 1790,
+       "to": 1792
+      },
+      {
+       "verbatim": "1875-1965",
+       "n": 1875,
+       "to": 1965
+      },
+      {
+       "verbatim": "2185",
+       "n": 2185
+      },
+      {
+       "verbatim": "2205",
+       "n": 2205
+      },
+      {
+       "verbatim": "2203",
+       "n": 2203
+      },
+      {
+       "verbatim": "2211-2213",
+       "n": 2211,
+       "to": 2213
+      },
+      {
+       "verbatim": "2218",
+       "n": 2218
+      },
+      {
+       "verbatim": "2219",
+       "n": 2219
+      },
+      {
+       "verbatim": "2220",
+       "n": 2220
+      },
+      {
+       "verbatim": "2229",
+       "n": 2229
+      },
+      {
+       "verbatim": "2231",
+       "n": 2231
+      },
+      {
+       "verbatim": "2233",
+       "n": 2233
+      },
+      {
+       "verbatim": "2241-2243",
+       "n": 2241,
+       "to": 2243
+      },
+      {
+       "verbatim": "2251-2259",
+       "n": 2251,
+       "to": 2259
+      },
+      {
+       "verbatim": "2273-2278",
+       "n": 2273,
+       "to": 2278
+      },
+      {
+       "verbatim": "2279",
+       "n": 2279
+      },
+      {
+       "verbatim": "2298-2301",
+       "n": 2298,
+       "to": 2301
+      },
+      {
+       "verbatim": "2302-2320",
+       "n": 2302,
+       "to": 2320
+      },
+      {
+       "verbatim": "2323-2328",
+       "n": 2323,
+       "to": 2328
+      },
+      {
+       "verbatim": "2336-2342",
+       "n": 2336,
+       "to": 2342
+      },
+      {
+       "verbatim": "2353",
+       "n": 2353
+      },
+      {
+       "verbatim": "2359-2362",
+       "n": 2359,
+       "to": 2362
+      },
+      {
+       "verbatim": "2394-2398",
+       "n": 2394,
+       "to": 2398
+      },
+      {
+       "verbatim": "2406",
+       "n": 2406
+      },
+      {
+       "verbatim": "2413",
+       "n": 2413
+      },
+      {
+       "verbatim": "2417",
+       "n": 2417
+      },
+      {
+       "verbatim": "2422",
+       "n": 2422
+      },
+      {
+       "verbatim": "2425",
+       "n": 2425
+      },
+      {
+       "verbatim": "2430-2442",
+       "n": 2430,
+       "to": 2442
+      },
+      {
+       "verbatim": "2458",
+       "n": 2458
+      },
+      {
+       "verbatim": "2460",
+       "n": 2460
+      },
+      {
+       "verbatim": "2545",
+       "n": 2545
+      },
+      {
+       "verbatim": "2553",
+       "n": 2553
+      },
+      {
+       "verbatim": "2556",
+       "n": 2556
+      },
+      {
+       "verbatim": "2557",
+       "n": 2557
+      },
+      {
+       "verbatim": "2558",
+       "n": 2558
+      },
+      {
+       "verbatim": "2559",
+       "n": 2559
+      },
+      {
+       "verbatim": "2562",
+       "n": 2562
+      },
+      {
+       "verbatim": "2563",
+       "n": 2563
+      },
+      {
+       "verbatim": "2569-2572",
+       "n": 2569,
+       "to": 2572
+      },
+      {
+       "verbatim": "2599-2615",
+       "n": 2599,
+       "to": 2615
+      },
+      {
+       "verbatim": "2617-2621",
+       "n": 2617,
+       "to": 2621
+      },
+      {
+       "verbatim": "2623",
+       "n": 2623
+      },
+      {
+       "verbatim": "2624",
+       "n": 2624
+      },
+      {
+       "verbatim": "2629 a",
+       "n": 2629,
+       "anchor": "a"
+      },
+      {
+       "verbatim": "2662 a",
+       "n": 2662,
+       "anchor": "a"
+      },
+      {
+       "verbatim": "2677-2679",
+       "n": 2677,
+       "to": 2679
+      },
+      {
+       "verbatim": "2686",
+       "n": 2686
+      },
+      {
+       "verbatim": "2703-2705",
+       "n": 2703,
+       "to": 2705
+      },
+      {
+       "verbatim": "2752",
+       "n": 2752
+      }
+     ]
+    }
+   ],
+   "crossRefs": [
+    "Present"
+   ],
+   "notes": "The main paragraph ends in col. 1; its sub-paragraph 'In simple sent.' begins in col. 1 and runs on into col. 2. The cross-reference 'see Present, etc.' stands inside that sub-paragraph."
+  },
+  {
+   "headword": "Indignation",
+   "raw": "Indignation, inf. in exclams. of, 2015; questions expressing, introduced by εἶτα (κᾆτα), ἔπειτα (κἄπειτα), 2653; marked by γάρ in questions, 2805 a; by δαί, 2848; by καί before interrog. word, 2872.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "2015",
+     "n": 2015
+    },
+    {
+     "verbatim": "2653",
+     "n": 2653
+    },
+    {
+     "verbatim": "2805 a",
+     "n": 2805,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "2848",
+     "n": 2848
+    },
+    {
+     "verbatim": "2872",
+     "n": 2872
+    }
+   ]
+  },
+  {
+   "headword": "Indirect",
+   "raw": "Indirect, complement (object), 920, 1454, 1469-1473.",
+   "col": 2,
+   "wrapped": true,
+   "wrapNote": "continues on next page",
+   "refs": [
+    {
+     "verbatim": "920",
+     "n": 920
+    },
+    {
+     "verbatim": "1454",
+     "n": 1454
+    },
+    {
+     "verbatim": "1469-1473",
+     "n": 1469,
+     "to": 1473
+    }
+   ],
+   "sub": [
+    {
+     "label": "Discourse",
+     "raw": "Discourse, tenses of opt. in, 1862, 1863; inf. in, 1866, 1867, 2016-2024, 2576, 2579, 2580, 2616, 2617; fut. inf. in, after vbs. of hoping, expecting, etc., 1868, 1999, 2024; fut. inf. in, after vbs. of willing and desiring, 1869; part. in, 1874, 2092, 2093, 2106-2145, 2576, 2616, 2617; constr. w. vbs. of saying and thinking, 2016-2022, 2577, 2579, 2580, 2589, 2592; w. vbs. of perceiving, 2018, 2110-2112, 2577, 2592; neg. of, 2020, 2608, 2710; inf. w. ἄν in, 2023; constr w. vbs. of knowing and showing, 2106-2109, 2577, 2592; w. vbs. of finding, 2113, 2114; omission of ὤν in, 2119; ὡς w. part. in, 2120-2122; vbs. which take either part. or inf., 2123-2145, 2582; w. ὡς (rarely ὅπως) after vbs. of fearing, 2235; ὥστε cl. in, 2269, 2270; cls. w. πρίν in, 2446, 2448, 2449; introduced by ὅτι,",
+     "refs": [
+      {
+       "verbatim": "1862",
+       "n": 1862
+      },
+      {
+       "verbatim": "1863",
+       "n": 1863
+      },
+      {
+       "verbatim": "1866",
+       "n": 1866
+      },
+      {
+       "verbatim": "1867",
+       "n": 1867
+      },
+      {
+       "verbatim": "2016-2024",
+       "n": 2016,
+       "to": 2024
+      },
+      {
+       "verbatim": "2576",
+       "n": 2576
+      },
+      {
+       "verbatim": "2579",
+       "n": 2579
+      },
+      {
+       "verbatim": "2580",
+       "n": 2580
+      },
+      {
+       "verbatim": "2616",
+       "n": 2616
+      },
+      {
+       "verbatim": "2617",
+       "n": 2617
+      },
+      {
+       "verbatim": "1868",
+       "n": 1868
+      },
+      {
+       "verbatim": "1999",
+       "n": 1999
+      },
+      {
+       "verbatim": "2024",
+       "n": 2024
+      },
+      {
+       "verbatim": "1869",
+       "n": 1869
+      },
+      {
+       "verbatim": "1874",
+       "n": 1874
+      },
+      {
+       "verbatim": "2092",
+       "n": 2092
+      },
+      {
+       "verbatim": "2093",
+       "n": 2093
+      },
+      {
+       "verbatim": "2106-2145",
+       "n": 2106,
+       "to": 2145
+      },
+      {
+       "verbatim": "2576",
+       "n": 2576
+      },
+      {
+       "verbatim": "2616",
+       "n": 2616
+      },
+      {
+       "verbatim": "2617",
+       "n": 2617
+      },
+      {
+       "verbatim": "2016-2022",
+       "n": 2016,
+       "to": 2022
+      },
+      {
+       "verbatim": "2577",
+       "n": 2577
+      },
+      {
+       "verbatim": "2579",
+       "n": 2579
+      },
+      {
+       "verbatim": "2580",
+       "n": 2580
+      },
+      {
+       "verbatim": "2589",
+       "n": 2589
+      },
+      {
+       "verbatim": "2592",
+       "n": 2592
+      },
+      {
+       "verbatim": "2018",
+       "n": 2018
+      },
+      {
+       "verbatim": "2110-2112",
+       "n": 2110,
+       "to": 2112
+      },
+      {
+       "verbatim": "2577",
+       "n": 2577
+      },
+      {
+       "verbatim": "2592",
+       "n": 2592
+      },
+      {
+       "verbatim": "2020",
+       "n": 2020
+      },
+      {
+       "verbatim": "2608",
+       "n": 2608
+      },
+      {
+       "verbatim": "2710",
+       "n": 2710
+      },
+      {
+       "verbatim": "2023",
+       "n": 2023
+      },
+      {
+       "verbatim": "2106-2109",
+       "n": 2106,
+       "to": 2109
+      },
+      {
+       "verbatim": "2577",
+       "n": 2577
+      },
+      {
+       "verbatim": "2592",
+       "n": 2592
+      },
+      {
+       "verbatim": "2113",
+       "n": 2113
+      },
+      {
+       "verbatim": "2114",
+       "n": 2114
+      },
+      {
+       "verbatim": "2119",
+       "n": 2119
+      },
+      {
+       "verbatim": "2120-2122",
+       "n": 2120,
+       "to": 2122
+      },
+      {
+       "verbatim": "2123-2145",
+       "n": 2123,
+       "to": 2145
+      },
+      {
+       "verbatim": "2582",
+       "n": 2582
+      },
+      {
+       "verbatim": "2235",
+       "n": 2235
+      },
+      {
+       "verbatim": "2269",
+       "n": 2269
+      },
+      {
+       "verbatim": "2270",
+       "n": 2270
+      },
+      {
+       "verbatim": "2446",
+       "n": 2446
+      },
+      {
+       "verbatim": "2448",
+       "n": 2448
+      },
+      {
+       "verbatim": "2449",
+       "n": 2449
+      }
+     ]
+    }
+   ],
+   "notes": "The 'Discourse' sub-paragraph breaks off at the foot of col. 2 after 'introduced by ὅτι,' and continues on page 739. 'constr' is printed without a following point at 'constr w. vbs. of knowing'."
+  }
+ ],
+ "unreadable": [],
+ "counts": {
+  "linesCol1": 48,
+  "linesCol2": 48,
+  "lines": 96,
+  "entries": 8
+ }
+}

@@ -1,0 +1,1239 @@
+{
+ "page": 754,
+ "leaf": 767,
+ "archiveId": "smyth-greek-grammar-for-colleges-1920",
+ "image": "index-scan/page-0754.png",
+ "columns": 2,
+ "runningHead": "ENGLISH INDEX",
+ "pageNotes": "Two columns divided by a printed vertical rule; folio 754 at the upper left, running head 'ENGLISH INDEX' centred. No letter headings are printed, but a blank line separates the T group from U (before 'Ultima') and U from V (before 'Value') in col. 2; those blanks are not counted as printed lines. Col. 1 opens mid-entry: page 753 ends with the complete main entry 'Thematic, conjugation, 602.', and this page opens with its indented sub-entry 'Vowel, defined, 377; ...'. Col. 2 ends mid-entry ('Verb-stems ... and pres. stems, 496-'), continuing on page 755. Smyth's small-cap dialect marker is transcribed as 'D' and recorded as a ref note. Stray ink specks appear in the right margin of col. 2 beside 'by μὲν οὖν,' and beside 'Variable vowel.'; they are not text.",
+ "lines": [
+  {
+   "col": 1,
+   "text": "Vowel, defined, 377; in ω-vbs.,"
+  },
+  {
+   "col": 1,
+   "text": "375 a, 456, 457, 602; not in μι-vbs.,"
+  },
+  {
+   "col": 1,
+   "text": "379, 412; pres. w. and without, 499,"
+  },
+  {
+   "col": 1,
+   "text": "503, 504; of sec. aor. in first aor.,"
+  },
+  {
+   "col": 1,
+   "text": "in Hom., 542 D; lacking in sec. aor."
+  },
+  {
+   "col": 1,
+   "text": "of ω-vbs. in Hom., 547 D; lacking in"
+  },
+  {
+   "col": 1,
+   "text": "sec. aor. of μι-vbs., 550; in perf."
+  },
+  {
+   "col": 1,
+   "text": "mid., in Hom., 574 D; in inflec.,"
+  },
+  {
+   "col": 1,
+   "text": "625-767, 776."
+  },
+  {
+   "col": 1,
+   "text": "Theme, 371. See Verb-stems."
+  },
+  {
+   "col": 1,
+   "text": "Thinking, vbs. of, foll. by εἶναι w. pred."
+  },
+  {
+   "col": 1,
+   "text": "adj., 1041; w. pred. gen., 1305; w."
+  },
+  {
+   "col": 1,
+   "text": "aor. inf. referring to fut., 1871; pers."
+  },
+  {
+   "col": 1,
+   "text": "constr. w. pass. of, 1982 a; inf. as"
+  },
+  {
+   "col": 1,
+   "text": "obj. of, 2016-2022; inf. as subj."
+  },
+  {
+   "col": 1,
+   "text": "of pass. of, 2016 a, 2021; w. artic."
+  },
+  {
+   "col": 1,
+   "text": "inf., 2034 g; rarely w. part. in ind."
+  },
+  {
+   "col": 1,
+   "text": "disc., 2106 a; w. part. and ὡς, 2121;"
+  },
+  {
+   "col": 1,
+   "text": "foll. by inf., ὅτι, ὡς, 2580, 2592 b;"
+  },
+  {
+   "col": 1,
+   "text": "foll. by dir. or ind. disc., 2589; w."
+  },
+  {
+   "col": 1,
+   "text": "οὐ and inf., 2722; w. μή and inf.,"
+  },
+  {
+   "col": 1,
+   "text": "2723."
+  },
+  {
+   "col": 1,
+   "text": "Threat, expressed by voc., 1284; by"
+  },
+  {
+   "col": 1,
+   "text": "first pers. sing. of subjv., 1798; by"
+  },
+  {
+   "col": 1,
+   "text": "εἰ w. fut. indic., 2328; by ἐᾱ́ν w."
+  },
+  {
+   "col": 1,
+   "text": "subjv., 2328 a; by ἦ μήν, 2865,"
+  },
+  {
+   "col": 1,
+   "text": "2921."
+  },
+  {
+   "col": 1,
+   "text": "Threatening, vbs. of, w. dat., 1461; w."
+  },
+  {
+   "col": 1,
+   "text": "fut., aor., and pres. inf., 1868, 1999,"
+  },
+  {
+   "col": 1,
+   "text": "2024."
+  },
+  {
+   "col": 1,
+   "text": "Time, advs. of, 346; gen., dat., and"
+  },
+  {
+   "col": 1,
+   "text": "acc. of, distinction, 1447, 1543; gen."
+  },
+  {
+   "col": 1,
+   "text": "of, 1444-1447, 1325; expressed by"
+  },
+  {
+   "col": 1,
+   "text": "dat. of part., 1498; dat. of, 1539-"
+  },
+  {
+   "col": 1,
+   "text": "1543, 1447, 1528; expressed by gen."
+  },
+  {
+   "col": 1,
+   "text": "and prep., 1583, 1685. 1 b; by ἐν w."
+  },
+  {
+   "col": 1,
+   "text": "dat., 1542; acc. of extent of, 1580,"
+  },
+  {
+   "col": 1,
+   "text": "1582-1585, 1447; expressed by acc."
+  },
+  {
+   "col": 1,
+   "text": "and prep., 1583, 1587; acc. of, where"
+  },
+  {
+   "col": 1,
+   "text": "dat. is in place, 1583; expressed by"
+  },
+  {
+   "col": 1,
+   "text": "adv. acc., 1611; by part., 2060, 2061,"
+  },
+  {
+   "col": 1,
+   "text": "2070."
+  },
+  {
+   "col": 1,
+   "text": "Of an action, expressed by tenses,"
+  },
+  {
+   "col": 1,
+   "text": "1850-1857."
+  },
+  {
+   "col": 1,
+   "text": "Tmesis, 1650-1653."
+  },
+  {
+   "col": 1,
+   "text": "Touching, vbs. of, w. gen., 1345-1347;"
+  },
+  {
+   "col": 1,
+   "text": "adjs. of, w. gen., 1416."
+  },
+  {
+   "col": 1,
+   "text": "Towns, see Cities."
+  },
+  {
+   "col": 2,
+   "text": "Transfer, of quantity, 34, 238 c, 434;"
+  },
+  {
+   "col": 2,
+   "text": "of aspiration, 126."
+  },
+  {
+   "col": 2,
+   "text": "Transition, marked by ἄρα, 2789; by"
+  },
+  {
+   "col": 2,
+   "text": "ἀτάρ, 2801; by γάρ, 2805; by ἀλλὰ"
+  },
+  {
+   "col": 2,
+   "text": "γάρ, 2819 c; by δέ, 2836; by δή,"
+  },
+  {
+   "col": 2,
+   "text": "2846; by μὲν δή, 2900; by μὲν οὖν,"
+  },
+  {
+   "col": 2,
+   "text": "2901 c; by μέντοι, 2919; by ἀλλὰ μήν"
+  },
+  {
+   "col": 2,
+   "text": "( . . . γε), 2921; by καὶ μήν, 2921;"
+  },
+  {
+   "col": 2,
+   "text": "by καὶ μὴν . . . γε, 2921; by οὖν,"
+  },
+  {
+   "col": 2,
+   "text": "2956, 2964; by τοίνυν, 2987."
+  },
+  {
+   "col": 2,
+   "text": "Transitive and intransitive senses, mix-"
+  },
+  {
+   "col": 2,
+   "text": "ture of, in same vb., 819."
+  },
+  {
+   "col": 2,
+   "text": "Transitive verbs, defined, 920; and intr.,"
+  },
+  {
+   "col": 2,
+   "text": "920, 1553-1562, 1708, 1709; pred."
+  },
+  {
+   "col": 2,
+   "text": "adj. with, 1040 b; w. acc., 1590-1597,"
+  },
+  {
+   "col": 2,
+   "text": "1706."
+  },
+  {
+   "col": 2,
+   "text": "Transposition, 128. See Metathesis."
+  },
+  {
+   "col": 2,
+   "text": "Trees, names of, gender, 199 b."
+  },
+  {
+   "col": 2,
+   "text": "Trust, put, vbs. signifying w. μή, 2725."
+  },
+  {
+   "col": 2,
+   "text": "Trusting, vbs. of, w. dat., 1464."
+  },
+  {
+   "col": 2,
+   "text": "Trying, vbs. of, w. obj. cl., 2217."
+  },
+  {
+   "col": 2,
+   "text": "Ultima, 139."
+  },
+  {
+   "col": 2,
+   "text": "Unclothing, vbs. of, w. two accs., 1628."
+  },
+  {
+   "col": 2,
+   "text": "Unlike, to be, vbs. meaning, w. dat.,"
+  },
+  {
+   "col": 2,
+   "text": "1466."
+  },
+  {
+   "col": 2,
+   "text": "Unreal, indic., 1786-1789; in causal"
+  },
+  {
+   "col": 2,
+   "text": "clause, 2243; in apod. of simple"
+  },
+  {
+   "col": 2,
+   "text": "pres. or past condit., 2300 b, 2358;"
+  },
+  {
+   "col": 2,
+   "text": "in unreal condit., 2302-2320, 2358;"
+  },
+  {
+   "col": 2,
+   "text": "in prot. and apod., 2353; in con-"
+  },
+  {
+   "col": 2,
+   "text": "junction w. εἰ and the opt., 2365;"
+  },
+  {
+   "col": 2,
+   "text": "after πρίν, 2442; condit. rel. cl., 2564."
+  },
+  {
+   "col": 2,
+   "text": "Urgency, expressed by οὐ w. fut., 1918."
+  },
+  {
+   "col": 2,
+   "text": "Value, gen. of, 1336, 1337, 1372-1374,"
+  },
+  {
+   "col": 2,
+   "text": "1379; adjs. of, w. gen., 1424."
+  },
+  {
+   "col": 2,
+   "text": "Variable vowel. See Thematic vowel."
+  },
+  {
+   "col": 2,
+   "text": "Variation, of stem formation, in third"
+  },
+  {
+   "col": 2,
+   "text": "decl., 253, 278; of quantity, in third"
+  },
+  {
+   "col": 2,
+   "text": "decl., 254; in vb.-stem, 475-495, 373,"
+  },
+  {
+   "col": 2,
+   "text": "374, see Gradation, Change, Quan-"
+  },
+  {
+   "col": 2,
+   "text": "tity, etc.; of preps., 1666."
+  },
+  {
+   "col": 2,
+   "text": "Vau, 3; see Digamma."
+  },
+  {
+   "col": 2,
+   "text": "Vengeance, vbs. of, w. gen. and acc.,"
+  },
+  {
+   "col": 2,
+   "text": "1376, 1405-1409."
+  },
+  {
+   "col": 2,
+   "text": "Verb-stems, 367, 371-375, 826; changes"
+  },
+  {
+   "col": 2,
+   "text": "in, 474-495; and pres. stems, 496-"
+  }
+ ],
+ "entries": [
+  {
+   "headword": "Thematic",
+   "raw": "Vowel, defined, 377; in ω-vbs., 375 a, 456, 457, 602; not in μι-vbs., 379, 412; pres. w. and without, 499, 503, 504; of sec. aor. in first aor., in Hom., 542 D; lacking in sec. aor. of ω-vbs. in Hom., 547 D; lacking in sec. aor. of μι-vbs., 550; in perf. mid., in Hom., 574 D; in inflec., 625-767, 776.",
+   "col": 1,
+   "wrapped": true,
+   "wrapNote": "continued from previous page",
+   "refs": [],
+   "sub": [
+    {
+     "label": "Vowel",
+     "raw": "Vowel, defined, 377; in ω-vbs., 375 a, 456, 457, 602; not in μι-vbs., 379, 412; pres. w. and without, 499, 503, 504; of sec. aor. in first aor., in Hom., 542 D; lacking in sec. aor. of ω-vbs. in Hom., 547 D; lacking in sec. aor. of μι-vbs., 550; in perf. mid., in Hom., 574 D; in inflec., 625-767, 776.",
+     "refs": [
+      {
+       "verbatim": "377",
+       "n": 377
+      },
+      {
+       "verbatim": "375 a",
+       "n": 375,
+       "anchor": "a"
+      },
+      {
+       "verbatim": "456",
+       "n": 456
+      },
+      {
+       "verbatim": "457",
+       "n": 457
+      },
+      {
+       "verbatim": "602",
+       "n": 602
+      },
+      {
+       "verbatim": "379",
+       "n": 379
+      },
+      {
+       "verbatim": "412",
+       "n": 412
+      },
+      {
+       "verbatim": "499",
+       "n": 499
+      },
+      {
+       "verbatim": "503",
+       "n": 503
+      },
+      {
+       "verbatim": "504",
+       "n": 504
+      },
+      {
+       "verbatim": "542 D",
+       "n": 542,
+       "anchor": "D"
+      },
+      {
+       "verbatim": "547 D",
+       "n": 547,
+       "anchor": "D"
+      },
+      {
+       "verbatim": "550",
+       "n": 550
+      },
+      {
+       "verbatim": "574 D",
+       "n": 574,
+       "anchor": "D"
+      },
+      {
+       "verbatim": "625-767",
+       "n": 625,
+       "to": 767
+      },
+      {
+       "verbatim": "776",
+       "n": 776
+      }
+     ]
+    }
+   ],
+   "notes": "The page opens with a sub-entry only. Page 753 closes with the complete main entry 'Thematic, conjugation, 602.'; this indented paragraph 'Vowel, defined, 377; ...' is its sub-entry, so the headword is taken from page 753. No refs belong to the main entry on this page; all refs sit in the sub-entry. 'D' is Smyth's small-cap dialect marker."
+  },
+  {
+   "headword": "Theme",
+   "raw": "Theme, 371. See Verb-stems.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "371",
+     "n": 371
+    }
+   ],
+   "crossRefs": [
+    "Verb-stems"
+   ]
+  },
+  {
+   "headword": "Thinking",
+   "raw": "Thinking, vbs. of, foll. by εἶναι w. pred. adj., 1041; w. pred. gen., 1305; w. aor. inf. referring to fut., 1871; pers. constr. w. pass. of, 1982 a; inf. as obj. of, 2016-2022; inf. as subj. of pass. of, 2016 a, 2021; w. artic. inf., 2034 g; rarely w. part. in ind. disc., 2106 a; w. part. and ὡς, 2121; foll. by inf., ὅτι, ὡς, 2580, 2592 b; foll. by dir. or ind. disc., 2589; w. οὐ and inf., 2722; w. μή and inf., 2723.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1041",
+     "n": 1041
+    },
+    {
+     "verbatim": "1305",
+     "n": 1305
+    },
+    {
+     "verbatim": "1871",
+     "n": 1871
+    },
+    {
+     "verbatim": "1982 a",
+     "n": 1982,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "2016-2022",
+     "n": 2016,
+     "to": 2022
+    },
+    {
+     "verbatim": "2016 a",
+     "n": 2016,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "2021",
+     "n": 2021
+    },
+    {
+     "verbatim": "2034 g",
+     "n": 2034,
+     "anchor": "g"
+    },
+    {
+     "verbatim": "2106 a",
+     "n": 2106,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "2121",
+     "n": 2121
+    },
+    {
+     "verbatim": "2580",
+     "n": 2580
+    },
+    {
+     "verbatim": "2592 b",
+     "n": 2592,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "2589",
+     "n": 2589
+    },
+    {
+     "verbatim": "2722",
+     "n": 2722
+    },
+    {
+     "verbatim": "2723",
+     "n": 2723
+    }
+   ]
+  },
+  {
+   "headword": "Threat",
+   "raw": "Threat, expressed by voc., 1284; by first pers. sing. of subjv., 1798; by εἰ w. fut. indic., 2328; by ἐᾱ́ν w. subjv., 2328 a; by ἦ μήν, 2865, 2921.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1284",
+     "n": 1284
+    },
+    {
+     "verbatim": "1798",
+     "n": 1798
+    },
+    {
+     "verbatim": "2328",
+     "n": 2328
+    },
+    {
+     "verbatim": "2328 a",
+     "n": 2328,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "2865",
+     "n": 2865
+    },
+    {
+     "verbatim": "2921",
+     "n": 2921
+    }
+   ]
+  },
+  {
+   "headword": "Threatening",
+   "raw": "Threatening, vbs. of, w. dat., 1461; w. fut., aor., and pres. inf., 1868, 1999, 2024.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1461",
+     "n": 1461
+    },
+    {
+     "verbatim": "1868",
+     "n": 1868
+    },
+    {
+     "verbatim": "1999",
+     "n": 1999
+    },
+    {
+     "verbatim": "2024",
+     "n": 2024
+    }
+   ]
+  },
+  {
+   "headword": "Time",
+   "raw": "Time, advs. of, 346; gen., dat., and acc. of, distinction, 1447, 1543; gen. of, 1444-1447, 1325; expressed by dat. of part., 1498; dat. of, 1539-1543, 1447, 1528; expressed by gen. and prep., 1583, 1685. 1 b; by ἐν w. dat., 1542; acc. of extent of, 1580, 1582-1585, 1447; expressed by acc. and prep., 1583, 1587; acc. of, where dat. is in place, 1583; expressed by adv. acc., 1611; by part., 2060, 2061, 2070.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "346",
+     "n": 346
+    },
+    {
+     "verbatim": "1447",
+     "n": 1447
+    },
+    {
+     "verbatim": "1543",
+     "n": 1543
+    },
+    {
+     "verbatim": "1444-1447",
+     "n": 1444,
+     "to": 1447
+    },
+    {
+     "verbatim": "1325",
+     "n": 1325
+    },
+    {
+     "verbatim": "1498",
+     "n": 1498
+    },
+    {
+     "verbatim": "1539-1543",
+     "n": 1539,
+     "to": 1543
+    },
+    {
+     "verbatim": "1447",
+     "n": 1447
+    },
+    {
+     "verbatim": "1528",
+     "n": 1528
+    },
+    {
+     "verbatim": "1583",
+     "n": 1583
+    },
+    {
+     "verbatim": "1685. 1 b",
+     "n": 1685,
+     "anchor": "1 b"
+    },
+    {
+     "verbatim": "1542",
+     "n": 1542
+    },
+    {
+     "verbatim": "1580",
+     "n": 1580
+    },
+    {
+     "verbatim": "1582-1585",
+     "n": 1582,
+     "to": 1585
+    },
+    {
+     "verbatim": "1447",
+     "n": 1447
+    },
+    {
+     "verbatim": "1583",
+     "n": 1583
+    },
+    {
+     "verbatim": "1587",
+     "n": 1587
+    },
+    {
+     "verbatim": "1583",
+     "n": 1583
+    },
+    {
+     "verbatim": "1611",
+     "n": 1611
+    },
+    {
+     "verbatim": "2060",
+     "n": 2060
+    },
+    {
+     "verbatim": "2061",
+     "n": 2061
+    },
+    {
+     "verbatim": "2070",
+     "n": 2070
+    }
+   ],
+   "sub": [
+    {
+     "label": "Of an action",
+     "raw": "Of an action, expressed by tenses, 1850-1857.",
+     "refs": [
+      {
+       "verbatim": "1850-1857",
+       "n": 1850,
+       "to": 1857
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "headword": "Tmesis",
+   "raw": "Tmesis, 1650-1653.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1650-1653",
+     "n": 1650,
+     "to": 1653
+    }
+   ]
+  },
+  {
+   "headword": "Touching",
+   "raw": "Touching, vbs. of, w. gen., 1345-1347; adjs. of, w. gen., 1416.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1345-1347",
+     "n": 1345,
+     "to": 1347
+    },
+    {
+     "verbatim": "1416",
+     "n": 1416
+    }
+   ]
+  },
+  {
+   "headword": "Towns",
+   "raw": "Towns, see Cities.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [],
+   "crossRefs": [
+    "Cities"
+   ]
+  },
+  {
+   "headword": "Transfer",
+   "raw": "Transfer, of quantity, 34, 238 c, 434; of aspiration, 126.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "34",
+     "n": 34
+    },
+    {
+     "verbatim": "238 c",
+     "n": 238,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "434",
+     "n": 434
+    },
+    {
+     "verbatim": "126",
+     "n": 126
+    }
+   ]
+  },
+  {
+   "headword": "Transition",
+   "raw": "Transition, marked by ἄρα, 2789; by ἀτάρ, 2801; by γάρ, 2805; by ἀλλὰ γάρ, 2819 c; by δέ, 2836; by δή, 2846; by μὲν δή, 2900; by μὲν οὖν, 2901 c; by μέντοι, 2919; by ἀλλὰ μήν ( . . . γε), 2921; by καὶ μήν, 2921; by καὶ μὴν . . . γε, 2921; by οὖν, 2956, 2964; by τοίνυν, 2987.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "2789",
+     "n": 2789
+    },
+    {
+     "verbatim": "2801",
+     "n": 2801
+    },
+    {
+     "verbatim": "2805",
+     "n": 2805
+    },
+    {
+     "verbatim": "2819 c",
+     "n": 2819,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "2836",
+     "n": 2836
+    },
+    {
+     "verbatim": "2846",
+     "n": 2846
+    },
+    {
+     "verbatim": "2900",
+     "n": 2900
+    },
+    {
+     "verbatim": "2901 c",
+     "n": 2901,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "2919",
+     "n": 2919
+    },
+    {
+     "verbatim": "2921",
+     "n": 2921
+    },
+    {
+     "verbatim": "2921",
+     "n": 2921
+    },
+    {
+     "verbatim": "2921",
+     "n": 2921
+    },
+    {
+     "verbatim": "2956",
+     "n": 2956
+    },
+    {
+     "verbatim": "2964",
+     "n": 2964
+    },
+    {
+     "verbatim": "2987",
+     "n": 2987
+    }
+   ]
+  },
+  {
+   "headword": "Transitive and intransitive senses",
+   "raw": "Transitive and intransitive senses, mixture of, in same vb., 819.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "819",
+     "n": 819
+    }
+   ]
+  },
+  {
+   "headword": "Transitive verbs",
+   "raw": "Transitive verbs, defined, 920; and intr., 920, 1553-1562, 1708, 1709; pred. adj. with, 1040 b; w. acc., 1590-1597, 1706.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "920",
+     "n": 920
+    },
+    {
+     "verbatim": "920",
+     "n": 920
+    },
+    {
+     "verbatim": "1553-1562",
+     "n": 1553,
+     "to": 1562
+    },
+    {
+     "verbatim": "1708",
+     "n": 1708
+    },
+    {
+     "verbatim": "1709",
+     "n": 1709
+    },
+    {
+     "verbatim": "1040 b",
+     "n": 1040,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "1590-1597",
+     "n": 1590,
+     "to": 1597
+    },
+    {
+     "verbatim": "1706",
+     "n": 1706
+    }
+   ]
+  },
+  {
+   "headword": "Transposition",
+   "raw": "Transposition, 128. See Metathesis.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "128",
+     "n": 128
+    }
+   ],
+   "crossRefs": [
+    "Metathesis"
+   ]
+  },
+  {
+   "headword": "Trees",
+   "raw": "Trees, names of, gender, 199 b.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "199 b",
+     "n": 199,
+     "anchor": "b"
+    }
+   ]
+  },
+  {
+   "headword": "Trust",
+   "raw": "Trust, put, vbs. signifying w. μή, 2725.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "2725",
+     "n": 2725
+    }
+   ]
+  },
+  {
+   "headword": "Trusting",
+   "raw": "Trusting, vbs. of, w. dat., 1464.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1464",
+     "n": 1464
+    }
+   ]
+  },
+  {
+   "headword": "Trying",
+   "raw": "Trying, vbs. of, w. obj. cl., 2217.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "2217",
+     "n": 2217
+    }
+   ]
+  },
+  {
+   "headword": "Ultima",
+   "raw": "Ultima, 139.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "139",
+     "n": 139
+    }
+   ]
+  },
+  {
+   "headword": "Unclothing",
+   "raw": "Unclothing, vbs. of, w. two accs., 1628.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1628",
+     "n": 1628
+    }
+   ]
+  },
+  {
+   "headword": "Unlike",
+   "raw": "Unlike, to be, vbs. meaning, w. dat., 1466.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1466",
+     "n": 1466
+    }
+   ]
+  },
+  {
+   "headword": "Unreal",
+   "raw": "Unreal, indic., 1786-1789; in causal clause, 2243; in apod. of simple pres. or past condit., 2300 b, 2358; in unreal condit., 2302-2320, 2358; in prot. and apod., 2353; in conjunction w. εἰ and the opt., 2365; after πρίν, 2442; condit. rel. cl., 2564.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1786-1789",
+     "n": 1786,
+     "to": 1789
+    },
+    {
+     "verbatim": "2243",
+     "n": 2243
+    },
+    {
+     "verbatim": "2300 b",
+     "n": 2300,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "2358",
+     "n": 2358
+    },
+    {
+     "verbatim": "2302-2320",
+     "n": 2302,
+     "to": 2320
+    },
+    {
+     "verbatim": "2358",
+     "n": 2358
+    },
+    {
+     "verbatim": "2353",
+     "n": 2353
+    },
+    {
+     "verbatim": "2365",
+     "n": 2365
+    },
+    {
+     "verbatim": "2442",
+     "n": 2442
+    },
+    {
+     "verbatim": "2564",
+     "n": 2564
+    }
+   ]
+  },
+  {
+   "headword": "Urgency",
+   "raw": "Urgency, expressed by οὐ w. fut., 1918.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1918",
+     "n": 1918
+    }
+   ]
+  },
+  {
+   "headword": "Value",
+   "raw": "Value, gen. of, 1336, 1337, 1372-1374, 1379; adjs. of, w. gen., 1424.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1336",
+     "n": 1336
+    },
+    {
+     "verbatim": "1337",
+     "n": 1337
+    },
+    {
+     "verbatim": "1372-1374",
+     "n": 1372,
+     "to": 1374
+    },
+    {
+     "verbatim": "1379",
+     "n": 1379
+    },
+    {
+     "verbatim": "1424",
+     "n": 1424
+    }
+   ]
+  },
+  {
+   "headword": "Variable vowel",
+   "raw": "Variable vowel. See Thematic vowel.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [],
+   "crossRefs": [
+    "Thematic vowel"
+   ]
+  },
+  {
+   "headword": "Variation",
+   "raw": "Variation, of stem formation, in third decl., 253, 278; of quantity, in third decl., 254; in vb.-stem, 475-495, 373, 374, see Gradation, Change, Quantity, etc.; of preps., 1666.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "253",
+     "n": 253
+    },
+    {
+     "verbatim": "278",
+     "n": 278
+    },
+    {
+     "verbatim": "254",
+     "n": 254
+    },
+    {
+     "verbatim": "475-495",
+     "n": 475,
+     "to": 495
+    },
+    {
+     "verbatim": "373",
+     "n": 373
+    },
+    {
+     "verbatim": "374",
+     "n": 374
+    },
+    {
+     "verbatim": "1666",
+     "n": 1666
+    }
+   ],
+   "crossRefs": [
+    "Gradation",
+    "Change",
+    "Quantity"
+   ]
+  },
+  {
+   "headword": "Vau",
+   "raw": "Vau, 3; see Digamma.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "3",
+     "n": 3
+    }
+   ],
+   "crossRefs": [
+    "Digamma"
+   ]
+  },
+  {
+   "headword": "Vengeance",
+   "raw": "Vengeance, vbs. of, w. gen. and acc., 1376, 1405-1409.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1376",
+     "n": 1376
+    },
+    {
+     "verbatim": "1405-1409",
+     "n": 1405,
+     "to": 1409
+    }
+   ]
+  },
+  {
+   "headword": "Verb-stems",
+   "raw": "Verb-stems, 367, 371-375, 826; changes in, 474-495; and pres. stems, 496-",
+   "col": 2,
+   "wrapped": true,
+   "wrapNote": "continues on next page",
+   "refs": [
+    {
+     "verbatim": "367",
+     "n": 367
+    },
+    {
+     "verbatim": "371-375",
+     "n": 371,
+     "to": 375
+    },
+    {
+     "verbatim": "826",
+     "n": 826
+    },
+    {
+     "verbatim": "474-495",
+     "n": 474,
+     "to": 495
+    },
+    {
+     "verbatim": "496-",
+     "n": 496
+    }
+   ],
+   "notes": "The last citation on the page is cut by the page break: it reads '496-' and its range end (531) stands at the head of page 755. Recorded here with n 496 and no 'to'; the build step should close the range from page 755."
+  }
+ ],
+ "unreadable": [],
+ "counts": {
+  "linesCol1": 48,
+  "linesCol2": 46,
+  "lines": 94,
+  "entries": 29
+ }
+}

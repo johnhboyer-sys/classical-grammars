@@ -1,0 +1,534 @@
+[
+ {
+  "id": "ga|758|6|1",
+  "page": 758,
+  "line": 6,
+  "headword_as_read": "ἀετός",
+  "corpus": [
+   "ἀ̄ετός"
+  ],
+  "choice": "corpus",
+  "resolved": "ἀ̄ετός",
+  "note": "Macron over alpha in headword"
+ },
+ {
+  "id": "ga|758|76|2",
+  "page": 758,
+  "line": 76,
+  "headword_as_read": "αίτερος",
+  "corpus": [
+   "αιτερος"
+  ],
+  "choice": "readers"
+ },
+ {
+  "id": "ga|759|2|3",
+  "page": 759,
+  "line": 2,
+  "headword_as_read": "ἄκων",
+  "corpus": [
+   "ἄ̄κων"
+  ],
+  "choice": "corpus",
+  "resolved": "ἄ̄κων",
+  "note": "macron over alpha in headword"
+ },
+ {
+  "id": "ga|760|12|4",
+  "page": 760,
+  "line": 12,
+  "headword_as_read": "ανύω",
+  "corpus": [
+   "ἀνύω"
+  ],
+  "choice": "custom",
+  "note": "Audit flagged this line as ανύω-vs-ἀνύω; hi-res shows the print is actually '-αννῡμι, fut. of vbs. in, 539 c.' (§539c = futures of verbs in -αννυμι). LINE OVERRIDE. Crop sent for owner verification.",
+  "resolved": "αννῡμι"
+ },
+ {
+  "id": "ga|760|42|5",
+  "page": 760,
+  "line": 42,
+  "headword_as_read": "ἀποκρίνομαι",
+  "corpus": [
+   "ἀποκρί̄νομαι"
+  ],
+  "choice": "corpus",
+  "resolved": "ἀποκρί̄νομαι",
+  "note": "macron over iota"
+ },
+ {
+  "id": "ga|761|25|6",
+  "page": 761,
+  "line": 25,
+  "headword_as_read": "ἀφίημι",
+  "corpus": [
+   "ἀφί̄ημι"
+  ],
+  "choice": "corpus",
+  "resolved": "ἀφί̄ημι",
+  "note": "macron over iota"
+ },
+ {
+  "id": "ga|761|63|7",
+  "page": 761,
+  "line": 63,
+  "headword_as_read": "βυνέω",
+  "corpus": [
+   "βῡνέω"
+  ],
+  "choice": "corpus",
+  "resolved": "βῡνέω"
+ },
+ {
+  "id": "ga|761|94|8",
+  "page": 761,
+  "line": 94,
+  "headword_as_read": "γίνομαι",
+  "corpus": [
+   "γί̄νομαι"
+  ],
+  "choice": "corpus",
+  "resolved": "γί̄νομαι",
+  "note": "macron over iota"
+ },
+ {
+  "id": "ga|762|17|9",
+  "page": 762,
+  "line": 17,
+  "headword_as_read": "δακρύω",
+  "corpus": [
+   "δακρύ̄ω"
+  ],
+  "choice": "corpus",
+  "resolved": "δακρύ̄ω",
+  "note": "macron over upsilon"
+ },
+ {
+  "id": "ga|762|22|10",
+  "page": 762,
+  "line": 22,
+  "headword_as_read": "δαῦτε",
+  "corpus": [
+   "δαὖτε"
+  ],
+  "choice": "corpus",
+  "resolved": "δαὖτε"
+ },
+ {
+  "id": "ga|763|2|11",
+  "page": 763,
+  "line": 2,
+  "headword_as_read": "διδράσκω",
+  "corpus": [
+   "διδρά̄σκω"
+  ],
+  "choice": "corpus",
+  "resolved": "διδρά̄σκω"
+ },
+ {
+  "id": "ga|765|69|12",
+  "page": 765,
+  "line": 69,
+  "headword_as_read": "ἐνθυμέομαι",
+  "corpus": [
+   "ἐνθῡμέομαι"
+  ],
+  "choice": "corpus",
+  "resolved": "ἐνθῡμέομαι"
+ },
+ {
+  "id": "ga|766|10|13",
+  "page": 766,
+  "line": 10,
+  "headword_as_read": "ἐπάν",
+  "corpus": [
+   "ἐπά̄ν"
+  ],
+  "choice": "corpus",
+  "resolved": "ἐπά̄ν"
+ },
+ {
+  "id": "ga|766|59|14",
+  "page": 766,
+  "line": 59,
+  "headword_as_read": "ἐρύκω",
+  "corpus": [
+   "ἐρύ̄κω"
+  ],
+  "choice": "corpus",
+  "resolved": "ἐρύ̄κω"
+ },
+ {
+  "id": "ga|767|11|15",
+  "page": 767,
+  "line": 11,
+  "headword_as_read": "εύς",
+  "corpus": [
+   "εῦς"
+  ],
+  "choice": "readers"
+ },
+ {
+  "id": "ga|768|9|16",
+  "page": 768,
+  "line": 9,
+  "headword_as_read": "ἡδύνω",
+  "corpus": [
+   "ἡδύ̄νω"
+  ],
+  "choice": "corpus",
+  "resolved": "ἡδύ̄νω"
+ },
+ {
+  "id": "ga|768|75|17",
+  "page": 768,
+  "line": 75,
+  "headword_as_read": "θηλύνω",
+  "corpus": [
+   "θηλύ̄νω"
+  ],
+  "choice": "corpus",
+  "resolved": "θηλύ̄νω"
+ },
+ {
+  "id": "ga|768|83|18",
+  "page": 768,
+  "line": 83,
+  "headword_as_read": "θλίβω",
+  "corpus": [
+   "θλί̄βω"
+  ],
+  "choice": "corpus",
+  "resolved": "θλί̄βω"
+ },
+ {
+  "id": "ga|768|94|19",
+  "page": 768,
+  "line": 94,
+  "headword_as_read": "θρώσκω",
+  "corpus": [
+   "θρῴσκω"
+  ],
+  "choice": "corpus",
+  "resolved": "θρῴσκω"
+ },
+ {
+  "id": "ga|769|28|20",
+  "page": 769,
+  "line": 28,
+  "headword_as_read": "ἱλάσκομαι",
+  "corpus": [
+   "ἱ̄λάσκομαι"
+  ],
+  "choice": "corpus",
+  "resolved": "ἱ̄λάσκομαι"
+ },
+ {
+  "id": "ga|769|48|21",
+  "page": 769,
+  "line": 48,
+  "headword_as_read": "ἰχθύς",
+  "corpus": [
+   "ἰχθύ̄ς",
+   "ἰχθύ̆ς",
+   "ἰχθῦς"
+  ],
+  "choice": "corpus",
+  "resolved": "ἰχθύ̄ς",
+  "note": "it's ἰχθύς but with macron over υ"
+ },
+ {
+  "id": "ga|771|46|22",
+  "page": 771,
+  "line": 46,
+  "headword_as_read": "μαστιγόω",
+  "corpus": [
+   "μαστῑγόω"
+  ],
+  "choice": "corpus",
+  "resolved": "μαστῑγόω"
+ },
+ {
+  "id": "ga|772|59|23",
+  "page": 772,
+  "line": 59,
+  "headword_as_read": "μικρός",
+  "corpus": [
+   "μῑκρός"
+  ],
+  "choice": "corpus",
+  "resolved": "μῑκρός"
+ },
+ {
+  "id": "ga|772|61|24",
+  "page": 772,
+  "line": 61,
+  "headword_as_read": "μιμέομαι",
+  "corpus": [
+   "μῑμέομαι"
+  ],
+  "choice": "corpus",
+  "resolved": "μῑμέομαι"
+ },
+ {
+  "id": "ga|772|71|25",
+  "page": 772,
+  "line": 71,
+  "headword_as_read": "μνάομαι",
+  "corpus": [
+   "μνά̄ομαι"
+  ],
+  "choice": "corpus",
+  "resolved": "μνά̄ομαι"
+ },
+ {
+  "id": "ga|773|57|26",
+  "page": 773,
+  "line": 57,
+  "headword_as_read": "ξυνός",
+  "corpus": [
+   "ξῡνός"
+  ],
+  "choice": "corpus",
+  "resolved": "ξῡνός",
+  "note": "and line below has ξύω with macron over υ"
+ },
+ {
+  "id": "ga|774|34|27",
+  "page": 774,
+  "line": 34,
+  "headword_as_read": "οἷς",
+  "corpus": [
+   "οἶς",
+   "ὄϊς"
+  ],
+  "choice": "corpus",
+  "resolved": "οἶς",
+  "note": "it's οἶς"
+ },
+ {
+  "id": "ga|776|72|28",
+  "page": 776,
+  "line": 72,
+  "headword_as_read": "οὑτοσί",
+  "corpus": [
+   "οὑτοσί̄"
+  ],
+  "choice": "corpus",
+  "resolved": "οὑτοσί̄"
+ },
+ {
+  "id": "ga|776|80|29",
+  "page": 776,
+  "line": 80,
+  "headword_as_read": "ὄφις",
+  "corpus": [
+   "ὄφῐς",
+   "ὄφῑς"
+  ],
+  "choice": "readers"
+ },
+ {
+  "id": "ga|777|40|30",
+  "page": 777,
+  "line": 40,
+  "headword_as_read": "πεινάω",
+  "corpus": [
+   "πεινά̄ω"
+  ],
+  "choice": "readers"
+ },
+ {
+  "id": "ga|777|72|31",
+  "page": 777,
+  "line": 72,
+  "headword_as_read": "πίνω",
+  "corpus": [
+   "πί̄νω"
+  ],
+  "choice": "corpus",
+  "resolved": "πί̄νω"
+ },
+ {
+  "id": "ga|777|92|32",
+  "page": 777,
+  "line": 92,
+  "headword_as_read": "πλύνω",
+  "corpus": [
+   "πλύ̄νω"
+  ],
+  "choice": "readers"
+ },
+ {
+  "id": "ga|778|38|33",
+  "page": 778,
+  "line": 38,
+  "headword_as_read": "πρᾶος",
+  "corpus": [
+   "πρᾷος"
+  ],
+  "choice": "corpus",
+  "resolved": "πρᾷος",
+  "note": "and line below (πράττω) has macron over α"
+ },
+ {
+  "id": "ga|779|11|34",
+  "page": 779,
+  "line": 11,
+  "headword_as_read": "ῥιγόω",
+  "corpus": [
+   "ῥῑγόω"
+  ],
+  "choice": "corpus",
+  "resolved": "ῥῑγόω"
+ },
+ {
+  "id": "ga|781|10|35",
+  "page": 781,
+  "line": 10,
+  "headword_as_read": "τοί",
+  "corpus": [
+   "τοι",
+   "τοὶ"
+  ],
+  "choice": "readers"
+ },
+ {
+  "id": "ga|781|27|36",
+  "page": 781,
+  "line": 27,
+  "headword_as_read": "τουτί",
+  "corpus": [
+   "τουτί̄"
+  ],
+  "choice": "corpus",
+  "resolved": "τουτί̄"
+ },
+ {
+  "id": "ga|781|32|37",
+  "page": 781,
+  "line": 32,
+  "headword_as_read": "τρίβω",
+  "corpus": [
+   "τρί̄βω"
+  ],
+  "choice": "corpus",
+  "resolved": "τρί̄βω"
+ },
+ {
+  "id": "ga|781|62|38",
+  "page": 781,
+  "line": 62,
+  "headword_as_read": "ὕει",
+  "corpus": [
+   "ὕ̄ει"
+  ],
+  "choice": "corpus",
+  "resolved": "ὕ̄ει"
+ },
+ {
+  "id": "ga|781|66|39",
+  "page": 781,
+  "line": 66,
+  "headword_as_read": "ὑμέας",
+  "corpus": [
+   "ὑ̄μέας"
+  ],
+  "choice": "corpus",
+  "resolved": "ὑ̄μέας"
+ },
+ {
+  "id": "ga|781|69|40",
+  "page": 781,
+  "line": 69,
+  "headword_as_read": "ὑμέτερος",
+  "corpus": [
+   "ὑ̄μέτερος"
+  ],
+  "choice": "corpus",
+  "resolved": "ὑ̄μέτερος"
+ },
+ {
+  "id": "ga|781|72|41",
+  "page": 781,
+  "line": 72,
+  "headword_as_read": "ὑμέτερος",
+  "corpus": [
+   "υμέτερος",
+   "ὑ̄μέτερος"
+  ],
+  "choice": "corpus",
+  "resolved": "ὑ̄μέτερος",
+  "note": "macron over υ at beginning of headword"
+ },
+ {
+  "id": "ga|781|75|42",
+  "page": 781,
+  "line": 75,
+  "headword_as_read": "ὑμός",
+  "corpus": [
+   "ὑ̄μός"
+  ],
+  "choice": "corpus",
+  "resolved": "ὑ̄μός"
+ },
+ {
+  "id": "ga|781|94|43",
+  "page": 781,
+  "line": 94,
+  "headword_as_read": "ὑπεύθυνος",
+  "corpus": [
+   "ὑπεύθῡνος"
+  ],
+  "choice": "corpus",
+  "resolved": "ὑπεύθῡνος"
+ },
+ {
+  "id": "ga|782|84|44",
+  "page": 782,
+  "line": 84,
+  "headword_as_read": "Φοῖνιξ",
+  "corpus": [
+   "Φοῖνῐξ"
+  ],
+  "choice": "corpus",
+  "resolved": "Φοῖνῐξ"
+ },
+ {
+  "id": "ga|783|1|45",
+  "page": 783,
+  "line": 1,
+  "headword_as_read": "φρίττω",
+  "corpus": [
+   "φρί̄ττω"
+  ],
+  "choice": "corpus",
+  "resolved": "φρί̄ττω"
+ },
+ {
+  "id": "ga|784|12|46",
+  "page": 784,
+  "line": 12,
+  "headword_as_read": "ὠνήρ",
+  "corpus": [
+   "ὡνήρ",
+   "ὡνηρ"
+  ],
+  "choice": "corpus",
+  "resolved": "ὡνήρ",
+  "note": "Hi-res: ὡνήρ, 68 D — acute on eta. Crop sent for owner verification."
+ },
+ {
+  "id": "ga-extra|773|58",
+  "choice": "custom",
+  "resolved": "ξύ̄ω",
+  "note": "Owner bonus catch (audit card 26): line below ξῡνός — ξύω has macron over υ -> ξύ̄ω."
+ },
+ {
+  "id": "ga-extra|778|39",
+  "choice": "custom",
+  "resolved": "πρά̄ττω",
+  "note": "Owner bonus catch (audit card 33): line below πρᾷος — πράττω has macron over α -> πρά̄ττω."
+ }
+]

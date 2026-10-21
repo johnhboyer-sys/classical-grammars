@@ -1,0 +1,3164 @@
+{
+ "work": "goodell",
+ "source": {
+  "edition": "Thomas Dwight Goodell, A School Grammar of Attic Greek, DCC corrected edition, ed. Meagan Ayer et al.",
+  "url": "https://dcc.dickinson.edu/grammar/goodell/english-index",
+  "file": "grammar-goodell/src/dcc/english-index.html",
+  "license": "CC BY-SA",
+  "preamble": "The Indices are intended to supplement the Table of Contents and the Verb List; for verb forms look first in the latter. References are to sections; but a few references in the English Index are to the Introduction."
+ },
+ "entries": [
+  {
+   "headword": "Accent",
+   "raw": "Accent, general rules 9-15, 16; in contraction 30; in crasis 37; in elision 34; of nouns 63, 68, 81, 84, 93.b & c, 131.a, 133.a; of monosyll. cons. stems 101; recessive in certain vocatives 72.d, 104, 105, 128.a, 153.a; of adjs., fem. plu. 77.b; of contract adjs. 89.b; recessive in certain adjs. 148, 150, 153.a; of verbs 268.a, 296, 300.d, 349 & 349.a, 362 (3), 379 (4), 384.d; of verbal nouns 402.a; of compounds 439.a.",
+   "refs": [
+    {
+     "verbatim": "9-15",
+     "n": 9,
+     "to": 15
+    },
+    {
+     "verbatim": "16",
+     "n": 16
+    },
+    {
+     "verbatim": "30",
+     "n": 30
+    },
+    {
+     "verbatim": "37",
+     "n": 37
+    },
+    {
+     "verbatim": "34",
+     "n": 34
+    },
+    {
+     "verbatim": "63",
+     "n": 63
+    },
+    {
+     "verbatim": "68",
+     "n": 68
+    },
+    {
+     "verbatim": "81",
+     "n": 81
+    },
+    {
+     "verbatim": "84",
+     "n": 84
+    },
+    {
+     "verbatim": "93.b",
+     "n": 93,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "c",
+     "n": 93,
+     "anchor": "c",
+     "inherited": true
+    },
+    {
+     "verbatim": "131.a",
+     "n": 131,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "133.a",
+     "n": 133,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "101",
+     "n": 101
+    },
+    {
+     "verbatim": "72.d",
+     "n": 72,
+     "anchor": "d"
+    },
+    {
+     "verbatim": "104",
+     "n": 104
+    },
+    {
+     "verbatim": "105",
+     "n": 105
+    },
+    {
+     "verbatim": "128.a",
+     "n": 128,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "153.a",
+     "n": 153,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "77.b",
+     "n": 77,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "89.b",
+     "n": 89,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "148",
+     "n": 148
+    },
+    {
+     "verbatim": "150",
+     "n": 150
+    },
+    {
+     "verbatim": "153.a",
+     "n": 153,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "268.a",
+     "n": 268,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "296",
+     "n": 296
+    },
+    {
+     "verbatim": "300.d",
+     "n": 300,
+     "anchor": "d"
+    },
+    {
+     "verbatim": "349",
+     "n": 349
+    },
+    {
+     "verbatim": "349.a",
+     "n": 349,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "362 (3)",
+     "n": 362,
+     "anchor": "(3)"
+    },
+    {
+     "verbatim": "379 (4)",
+     "n": 379,
+     "anchor": "(4)"
+    },
+    {
+     "verbatim": "384.d",
+     "n": 384,
+     "anchor": "d"
+    },
+    {
+     "verbatim": "402.a",
+     "n": 402,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "439.a",
+     "n": 439,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Accusative neuter as adv",
+   "raw": "Accusative neuter as adv. 230, 234.",
+   "refs": [
+    {
+     "verbatim": "230",
+     "n": 230
+    },
+    {
+     "verbatim": "234",
+     "n": 234
+    }
+   ]
+  },
+  {
+   "headword": "Action",
+   "raw": "Action, suffixes denoting 406.",
+   "refs": [
+    {
+     "verbatim": "406",
+     "n": 406
+    }
+   ]
+  },
+  {
+   "headword": "Adscript ι",
+   "raw": "Adscript ι 5.b.",
+   "refs": [
+    {
+     "verbatim": "5.b",
+     "n": 5,
+     "anchor": "b"
+    }
+   ]
+  },
+  {
+   "headword": "Agent",
+   "raw": "Agent, suffixes denoting 405; expressed by gen. 509.d; by dat. 524.b, 596.",
+   "refs": [
+    {
+     "verbatim": "405",
+     "n": 405
+    },
+    {
+     "verbatim": "509.d",
+     "n": 509,
+     "anchor": "d"
+    },
+    {
+     "verbatim": "524.b",
+     "n": 524,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "596",
+     "n": 596
+    }
+   ]
+  },
+  {
+   "headword": "Aiolic dialect",
+   "raw": "Aiolic dialect Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Aischylos",
+   "raw": "Aischylos Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Aorist",
+   "raw": "Aorist 247; system (sigmatic) 279; passive 303; liquid 323, 327; form. vowel or thematic 347, 348; in -α 351; root 366, 379; in -κα 371; indicative 462, 468; in a wish 470.a; passive 501. See Tenses.",
+   "refs": [
+    {
+     "verbatim": "247",
+     "n": 247
+    },
+    {
+     "verbatim": "279",
+     "n": 279
+    },
+    {
+     "verbatim": "303",
+     "n": 303
+    },
+    {
+     "verbatim": "323",
+     "n": 323
+    },
+    {
+     "verbatim": "327",
+     "n": 327
+    },
+    {
+     "verbatim": "347",
+     "n": 347
+    },
+    {
+     "verbatim": "348",
+     "n": 348
+    },
+    {
+     "verbatim": "351",
+     "n": 351
+    },
+    {
+     "verbatim": "366",
+     "n": 366
+    },
+    {
+     "verbatim": "379",
+     "n": 379
+    },
+    {
+     "verbatim": "371",
+     "n": 371
+    },
+    {
+     "verbatim": "462",
+     "n": 462
+    },
+    {
+     "verbatim": "468",
+     "n": 468
+    },
+    {
+     "verbatim": "470.a",
+     "n": 470,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "501",
+     "n": 501
+    }
+   ],
+   "crossRefs": [
+    "Tenses"
+   ]
+  },
+  {
+   "headword": "Apostrophe",
+   "raw": "Apostrophe 32.",
+   "refs": [
+    {
+     "verbatim": "32",
+     "n": 32
+    }
+   ]
+  },
+  {
+   "headword": "Appositive",
+   "raw": "Appositive 502; to a sentence 504.",
+   "refs": [
+    {
+     "verbatim": "502",
+     "n": 502
+    },
+    {
+     "verbatim": "504",
+     "n": 504
+    }
+   ]
+  },
+  {
+   "headword": "Aristophanes",
+   "raw": "Aristophanes Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Aristotle",
+   "raw": "Aristotle Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Article",
+   "raw": "Article 61.",
+   "refs": [
+    {
+     "verbatim": "61",
+     "n": 61
+    }
+   ]
+  },
+  {
+   "headword": "Asyndeton",
+   "raw": "Asyndeton 600.a.",
+   "refs": [
+    {
+     "verbatim": "600.a",
+     "n": 600,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Attic dialect",
+   "raw": "Attic dialect Introduction; Attic reduplication 291.c.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    },
+    {
+     "verbatim": "291.c",
+     "n": 291,
+     "anchor": "c"
+    }
+   ]
+  },
+  {
+   "headword": "Attraction",
+   "raw": "Attraction, of rel. pron. 613.b; of antecedent 613.c; of mode 642.d.",
+   "refs": [
+    {
+     "verbatim": "613.b",
+     "n": 613,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "613.c",
+     "n": 613,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "642.d",
+     "n": 642,
+     "anchor": "d"
+    }
+   ]
+  },
+  {
+   "headword": "Attributive position",
+   "raw": "Attributive position 552.a.",
+   "refs": [
+    {
+     "verbatim": "552.a",
+     "n": 552,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Augment",
+   "raw": "Augment 264, 265, 266, 267, 268; of plupf. 293.",
+   "refs": [
+    {
+     "verbatim": "264",
+     "n": 264
+    },
+    {
+     "verbatim": "265",
+     "n": 265
+    },
+    {
+     "verbatim": "266",
+     "n": 266
+    },
+    {
+     "verbatim": "267",
+     "n": 267
+    },
+    {
+     "verbatim": "268",
+     "n": 268
+    },
+    {
+     "verbatim": "293",
+     "n": 293
+    }
+   ]
+  },
+  {
+   "headword": "Breathings",
+   "raw": "Breathings 6.",
+   "refs": [
+    {
+     "verbatim": "6",
+     "n": 6
+    }
+   ]
+  },
+  {
+   "headword": "Byzantine",
+   "raw": "Byzantine, empire and dialect Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Cases",
+   "raw": "Cases 59.",
+   "refs": [
+    {
+     "verbatim": "59",
+     "n": 59
+    }
+   ]
+  },
+  {
+   "headword": "Chiasmus",
+   "raw": "Chiasmus 682.a.",
+   "refs": [
+    {
+     "verbatim": "682.a",
+     "n": 682,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Christian Fathers",
+   "raw": "Christian Fathers Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Circumstantial participle",
+   "raw": "Circumstantial participle 583.",
+   "refs": [
+    {
+     "verbatim": "583",
+     "n": 583
+    }
+   ]
+  },
+  {
+   "headword": "Common dialect",
+   "raw": "Common dialect Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Composition",
+   "raw": "Composition 397.",
+   "refs": [
+    {
+     "verbatim": "397",
+     "n": 397
+    }
+   ]
+  },
+  {
+   "headword": "Compounds",
+   "raw": "Compounds, analysis of 435; syllabication of 8.",
+   "refs": [
+    {
+     "verbatim": "435",
+     "n": 435
+    },
+    {
+     "verbatim": "8",
+     "n": 8
+    }
+   ]
+  },
+  {
+   "headword": "Conditional expressions",
+   "raw": "Conditional expressions 645.",
+   "refs": [
+    {
+     "verbatim": "645",
+     "n": 645
+    }
+   ]
+  },
+  {
+   "headword": "Conjunctions",
+   "raw": "Conjunctions, coordinating 602",
+   "refs": [
+    {
+     "verbatim": "602",
+     "n": 602
+    }
+   ]
+  },
+  {
+   "headword": "Consonants",
+   "raw": "Consonants, classified 38, 39; sound changes of 38 – 56; final 40.",
+   "refs": [
+    {
+     "verbatim": "38",
+     "n": 38
+    },
+    {
+     "verbatim": "39",
+     "n": 39
+    },
+    {
+     "verbatim": "38 – 56",
+     "n": 38,
+     "to": 56
+    },
+    {
+     "verbatim": "40",
+     "n": 40
+    }
+   ]
+  },
+  {
+   "headword": "Contraction",
+   "raw": "Contraction, general rules 29; accent in 30; in adjectives 89.a.",
+   "refs": [
+    {
+     "verbatim": "29",
+     "n": 29
+    },
+    {
+     "verbatim": "30",
+     "n": 30
+    },
+    {
+     "verbatim": "89.a",
+     "n": 89,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Correlative pronouns",
+   "raw": "Correlative pronouns, table 227; adverbs, table 236.",
+   "refs": [
+    {
+     "verbatim": "227",
+     "n": 227
+    },
+    {
+     "verbatim": "236",
+     "n": 236
+    }
+   ]
+  },
+  {
+   "headword": "Crasis",
+   "raw": "Crasis 31, 35, 36; accent in 37.",
+   "refs": [
+    {
+     "verbatim": "31",
+     "n": 31
+    },
+    {
+     "verbatim": "35",
+     "n": 35
+    },
+    {
+     "verbatim": "36",
+     "n": 36
+    },
+    {
+     "verbatim": "37",
+     "n": 37
+    }
+   ]
+  },
+  {
+   "headword": "Defective verbs",
+   "raw": "Defective verbs, supplementing one another 391.",
+   "refs": [
+    {
+     "verbatim": "391",
+     "n": 391
+    }
+   ]
+  },
+  {
+   "headword": "Demosthenes",
+   "raw": "Demosthenes Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Denominatives",
+   "raw": "Denominatives 399.",
+   "refs": [
+    {
+     "verbatim": "399",
+     "n": 399
+    }
+   ]
+  },
+  {
+   "headword": "Dependent compounds",
+   "raw": "Dependent compounds 446 a.",
+   "refs": [
+    {
+     "verbatim": "446 a",
+     "n": 446,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Deponent verbs",
+   "raw": "Deponent verbs 394, 501; perf. of 396.",
+   "refs": [
+    {
+     "verbatim": "394",
+     "n": 394
+    },
+    {
+     "verbatim": "501",
+     "n": 501
+    },
+    {
+     "verbatim": "396",
+     "n": 396
+    }
+   ]
+  },
+  {
+   "headword": "Derivation",
+   "raw": "Derivation 397.",
+   "refs": [
+    {
+     "verbatim": "397",
+     "n": 397
+    }
+   ]
+  },
+  {
+   "headword": "Descent",
+   "raw": "Descent, nouns denoting 433.",
+   "refs": [
+    {
+     "verbatim": "433",
+     "n": 433
+    }
+   ]
+  },
+  {
+   "headword": "Descriptive compounds",
+   "raw": "Descriptive compounds 446.b.",
+   "refs": [
+    {
+     "verbatim": "446.b",
+     "n": 446,
+     "anchor": "b"
+    }
+   ]
+  },
+  {
+   "headword": "Determinative compounds",
+   "raw": "Determinative compounds 445.a, 446.",
+   "refs": [
+    {
+     "verbatim": "445.a",
+     "n": 445,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "446",
+     "n": 446
+    }
+   ]
+  },
+  {
+   "headword": "Dialects of Greek",
+   "raw": "Dialects of Greek Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Digraph and diphthong ει and ου",
+   "raw": "Digraph and diphthong ει and ου 27.a.",
+   "refs": [
+    {
+     "verbatim": "27.a",
+     "n": 27,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Diminutives",
+   "raw": "Diminutives 431.",
+   "refs": [
+    {
+     "verbatim": "431",
+     "n": 431
+    }
+   ]
+  },
+  {
+   "headword": "Diphthongs",
+   "raw": "Diphthongs 5.",
+   "refs": [
+    {
+     "verbatim": "5",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "headword": "Direct middle",
+   "raw": "Direct middle 500.a.",
+   "refs": [
+    {
+     "verbatim": "500.a",
+     "n": 500,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Disappearance of close vowels",
+   "raw": "Disappearance of close vowels 27.",
+   "refs": [
+    {
+     "verbatim": "27",
+     "n": 27
+    }
+   ]
+  },
+  {
+   "headword": "Doric dialect",
+   "raw": "Doric dialect Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Doric forms retaining ᾱ",
+   "raw": "Doric forms retaining ᾱ 69.b, 72.e.",
+   "refs": [
+    {
+     "verbatim": "69.b",
+     "n": 69,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "72.e",
+     "n": 72,
+     "anchor": "e"
+    }
+   ]
+  },
+  {
+   "headword": "Double augment",
+   "raw": "Double augment 267.a, 268.d.",
+   "refs": [
+    {
+     "verbatim": "267.a",
+     "n": 267,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "268.d",
+     "n": 268,
+     "anchor": "d"
+    }
+   ]
+  },
+  {
+   "headword": "Double negatives",
+   "raw": "Double negatives 487.",
+   "refs": [
+    {
+     "verbatim": "487",
+     "n": 487
+    }
+   ]
+  },
+  {
+   "headword": "Dubitative subjv",
+   "raw": "Dubitative subjv. 471.",
+   "refs": [
+    {
+     "verbatim": "471",
+     "n": 471
+    }
+   ]
+  },
+  {
+   "headword": "Eastern Roman Empire",
+   "raw": "Eastern Roman Empire Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Elision",
+   "raw": "Elision 31, 32, 33; accent in 34.",
+   "refs": [
+    {
+     "verbatim": "31",
+     "n": 31
+    },
+    {
+     "verbatim": "32",
+     "n": 32
+    },
+    {
+     "verbatim": "33",
+     "n": 33
+    },
+    {
+     "verbatim": "34",
+     "n": 34
+    }
+   ]
+  },
+  {
+   "headword": "Empire of Alexander",
+   "raw": "Empire of Alexander Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Enclitics",
+   "raw": "Enclitics 16, 19, 20, 21.",
+   "refs": [
+    {
+     "verbatim": "16",
+     "n": 16
+    },
+    {
+     "verbatim": "19",
+     "n": 19
+    },
+    {
+     "verbatim": "20",
+     "n": 20
+    },
+    {
+     "verbatim": "21",
+     "n": 21
+    }
+   ]
+  },
+  {
+   "headword": "Euripides",
+   "raw": "Euripides Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Exclamations",
+   "raw": "Exclamations 491.b, 509.c.",
+   "refs": [
+    {
+     "verbatim": "491.b",
+     "n": 491,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "509.c",
+     "n": 509,
+     "anchor": "c"
+    }
+   ]
+  },
+  {
+   "headword": "Formative-vowel aorist",
+   "raw": "Formative-vowel aorist 347, 348.",
+   "refs": [
+    {
+     "verbatim": "347",
+     "n": 347
+    },
+    {
+     "verbatim": "348",
+     "n": 348
+    }
+   ]
+  },
+  {
+   "headword": "Future",
+   "raw": "Future, of vowel verbs 277, 278; liquid 323, 324; Doric 326; in -ῶ 346.a; mid. with act. meaning 392; mid. with pass. meaning 393; passive 310. See Tenses.",
+   "refs": [
+    {
+     "verbatim": "277",
+     "n": 277
+    },
+    {
+     "verbatim": "278",
+     "n": 278
+    },
+    {
+     "verbatim": "323",
+     "n": 323
+    },
+    {
+     "verbatim": "324",
+     "n": 324
+    },
+    {
+     "verbatim": "326",
+     "n": 326
+    },
+    {
+     "verbatim": "346.a",
+     "n": 346,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "392",
+     "n": 392
+    },
+    {
+     "verbatim": "393",
+     "n": 393
+    },
+    {
+     "verbatim": "310",
+     "n": 310
+    }
+   ],
+   "crossRefs": [
+    "Tenses"
+   ]
+  },
+  {
+   "headword": "Genders",
+   "raw": "Genders 58; diff. in sing. and plu. 144.",
+   "refs": [
+    {
+     "verbatim": "58",
+     "n": 58
+    },
+    {
+     "verbatim": "144",
+     "n": 144
+    }
+   ]
+  },
+  {
+   "headword": "Genitive absolute",
+   "raw": "Genitive absolute 589, 590.",
+   "refs": [
+    {
+     "verbatim": "589",
+     "n": 589
+    },
+    {
+     "verbatim": "590",
+     "n": 590
+    }
+   ]
+  },
+  {
+   "headword": "Gentile nouns",
+   "raw": "Gentile nouns 434.",
+   "refs": [
+    {
+     "verbatim": "434",
+     "n": 434
+    }
+   ]
+  },
+  {
+   "headword": "Gnomic aorist",
+   "raw": "Gnomic aorist 465.",
+   "refs": [
+    {
+     "verbatim": "465",
+     "n": 465
+    }
+   ]
+  },
+  {
+   "headword": "Greek language",
+   "raw": "Greek language, dialects and periods Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Headings and titles",
+   "raw": "Headings and titles 491.c.",
+   "refs": [
+    {
+     "verbatim": "491.c",
+     "n": 491,
+     "anchor": "c"
+    }
+   ]
+  },
+  {
+   "headword": "Hellenistic dialect",
+   "raw": "Hellenistic dialect Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Herodotos",
+   "raw": "Herodotos Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Hiatus",
+   "raw": "Hiatus 31.",
+   "refs": [
+    {
+     "verbatim": "31",
+     "n": 31
+    }
+   ]
+  },
+  {
+   "headword": "Historical tenses",
+   "raw": "Historical tenses 246.",
+   "refs": [
+    {
+     "verbatim": "246",
+     "n": 246
+    }
+   ]
+  },
+  {
+   "headword": "Homer",
+   "raw": "Homer Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Hopeless wish",
+   "raw": "Hopeless wish 470.a.",
+   "refs": [
+    {
+     "verbatim": "470.a",
+     "n": 470,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Hortative subjunctive",
+   "raw": "Hortative subjunctive 472.",
+   "refs": [
+    {
+     "verbatim": "472",
+     "n": 472
+    }
+   ]
+  },
+  {
+   "headword": "Hypothetical indic",
+   "raw": "Hypothetical indic. 461.c, 467.c, 468.b; optative 479, 480, 481, 482.",
+   "refs": [
+    {
+     "verbatim": "461.c",
+     "n": 461,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "467.c",
+     "n": 467,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "468.b",
+     "n": 468,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "479",
+     "n": 479
+    },
+    {
+     "verbatim": "480",
+     "n": 480
+    },
+    {
+     "verbatim": "481",
+     "n": 481
+    },
+    {
+     "verbatim": "482",
+     "n": 482
+    }
+   ]
+  },
+  {
+   "headword": "Imperative mode",
+   "raw": "Imperative mode 245; endings 271; uses of 484, 485; tenses of 484.",
+   "refs": [
+    {
+     "verbatim": "245",
+     "n": 245
+    },
+    {
+     "verbatim": "271",
+     "n": 271
+    },
+    {
+     "verbatim": "484",
+     "n": 484
+    },
+    {
+     "verbatim": "485",
+     "n": 485
+    },
+    {
+     "verbatim": "484",
+     "n": 484
+    }
+   ]
+  },
+  {
+   "headword": "Imperfect",
+   "raw": "Imperfect 264, 459, 460, 461, 470.a.",
+   "refs": [
+    {
+     "verbatim": "264",
+     "n": 264
+    },
+    {
+     "verbatim": "459",
+     "n": 459
+    },
+    {
+     "verbatim": "460",
+     "n": 460
+    },
+    {
+     "verbatim": "461",
+     "n": 461
+    },
+    {
+     "verbatim": "470.a",
+     "n": 470,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Impersonal verbs",
+   "raw": "Impersonal verbs 493.a, 520.b.",
+   "refs": [
+    {
+     "verbatim": "493.a",
+     "n": 493,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "520.b",
+     "n": 520,
+     "anchor": "b"
+    }
+   ]
+  },
+  {
+   "headword": "Inceptive aorist",
+   "raw": "Inceptive aorist 464.",
+   "refs": [
+    {
+     "verbatim": "464",
+     "n": 464
+    }
+   ]
+  },
+  {
+   "headword": "Inceptive class",
+   "raw": "Inceptive class 260.",
+   "refs": [
+    {
+     "verbatim": "260",
+     "n": 260
+    }
+   ]
+  },
+  {
+   "headword": "Indicative mode",
+   "raw": "Indicative mode 245, 281; pers. endings 263; in simple sentences 452 – 470, 488, 489.b; in subordinate clauses 617, 618, 620, 622, 624, 627 – 635, 636.c, 638.a, b, d & e, 639, 641, 642.c, 644.a, 647, 648, 649, 655.",
+   "refs": [
+    {
+     "verbatim": "245",
+     "n": 245
+    },
+    {
+     "verbatim": "281",
+     "n": 281
+    },
+    {
+     "verbatim": "263",
+     "n": 263
+    },
+    {
+     "verbatim": "452 – 470",
+     "n": 452,
+     "to": 470
+    },
+    {
+     "verbatim": "488",
+     "n": 488
+    },
+    {
+     "verbatim": "489.b",
+     "n": 489,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "617",
+     "n": 617
+    },
+    {
+     "verbatim": "618",
+     "n": 618
+    },
+    {
+     "verbatim": "620",
+     "n": 620
+    },
+    {
+     "verbatim": "622",
+     "n": 622
+    },
+    {
+     "verbatim": "624",
+     "n": 624
+    },
+    {
+     "verbatim": "627 – 635",
+     "n": 627,
+     "to": 635
+    },
+    {
+     "verbatim": "636.c",
+     "n": 636,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "638.a",
+     "n": 638,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "b",
+     "n": 638,
+     "anchor": "b",
+     "inherited": true
+    },
+    {
+     "verbatim": "d",
+     "n": 638,
+     "anchor": "d",
+     "inherited": true
+    },
+    {
+     "verbatim": "e",
+     "n": 638,
+     "anchor": "e",
+     "inherited": true
+    },
+    {
+     "verbatim": "639",
+     "n": 639
+    },
+    {
+     "verbatim": "641",
+     "n": 641
+    },
+    {
+     "verbatim": "642.c",
+     "n": 642,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "644.a",
+     "n": 644,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "647",
+     "n": 647
+    },
+    {
+     "verbatim": "648",
+     "n": 648
+    },
+    {
+     "verbatim": "649",
+     "n": 649
+    },
+    {
+     "verbatim": "655",
+     "n": 655
+    }
+   ]
+  },
+  {
+   "headword": "Indirect middle",
+   "raw": "Indirect middle 500.b & d.",
+   "refs": [
+    {
+     "verbatim": "500.b",
+     "n": 500,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "d",
+     "n": 500,
+     "anchor": "d",
+     "inherited": true
+    }
+   ]
+  },
+  {
+   "headword": "Indirect quotation",
+   "raw": "Indirect quotation 624.a, 657-664.",
+   "refs": [
+    {
+     "verbatim": "624.a",
+     "n": 624,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "657-664",
+     "n": 657,
+     "to": 664
+    }
+   ]
+  },
+  {
+   "headword": "Infinitive",
+   "raw": "Infinitive, endings 273; uses 245, 492, 562 – 579, 658.",
+   "refs": [
+    {
+     "verbatim": "273",
+     "n": 273
+    },
+    {
+     "verbatim": "245",
+     "n": 245
+    },
+    {
+     "verbatim": "492",
+     "n": 492
+    },
+    {
+     "verbatim": "562 – 579",
+     "n": 562,
+     "to": 579
+    },
+    {
+     "verbatim": "658",
+     "n": 658
+    }
+   ]
+  },
+  {
+   "headword": "Ingressive aorist",
+   "raw": "Ingressive aorist 464.",
+   "refs": [
+    {
+     "verbatim": "464",
+     "n": 464
+    }
+   ]
+  },
+  {
+   "headword": "Interchange of open vowels",
+   "raw": "Interchange of open vowels 25, 26; of long and short vowels 28.",
+   "refs": [
+    {
+     "verbatim": "25",
+     "n": 25
+    },
+    {
+     "verbatim": "26",
+     "n": 26
+    },
+    {
+     "verbatim": "28",
+     "n": 28
+    }
+   ]
+  },
+  {
+   "headword": "Interjections",
+   "raw": "Interjections 491 a.",
+   "refs": [
+    {
+     "verbatim": "491 a",
+     "n": 491,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Ionic dialect",
+   "raw": "Ionic dialect Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Liquids",
+   "raw": "Liquids, sound changes in 48, 49, 50, 51, 52, 53.",
+   "refs": [
+    {
+     "verbatim": "48",
+     "n": 48
+    },
+    {
+     "verbatim": "49",
+     "n": 49
+    },
+    {
+     "verbatim": "50",
+     "n": 50
+    },
+    {
+     "verbatim": "51",
+     "n": 51
+    },
+    {
+     "verbatim": "52",
+     "n": 52
+    },
+    {
+     "verbatim": "53",
+     "n": 53
+    }
+   ]
+  },
+  {
+   "headword": "Liquid verbs",
+   "raw": "Liquid verbs 248.",
+   "refs": [
+    {
+     "verbatim": "248",
+     "n": 248
+    }
+   ]
+  },
+  {
+   "headword": "Lucian",
+   "raw": "Lucian Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Middle",
+   "raw": "Middle, direct 500.a; indirect 500.b & d; participles, declined 276.",
+   "refs": [
+    {
+     "verbatim": "500.a",
+     "n": 500,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "500.b",
+     "n": 500,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "d",
+     "n": 500,
+     "anchor": "d",
+     "inherited": true
+    },
+    {
+     "verbatim": "276",
+     "n": 276
+    }
+   ]
+  },
+  {
+   "headword": "Modern Greek",
+   "raw": "Modern Greek Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Modes",
+   "raw": "Modes 242.",
+   "refs": [
+    {
+     "verbatim": "242",
+     "n": 242
+    }
+   ]
+  },
+  {
+   "headword": "Modesuffix",
+   "raw": "Modesuffix, of subjv. 269; of opt. 270.",
+   "refs": [
+    {
+     "verbatim": "269",
+     "n": 269
+    },
+    {
+     "verbatim": "270",
+     "n": 270
+    }
+   ]
+  },
+  {
+   "headword": "Movable consonant",
+   "raw": "Movable consonant 31.",
+   "refs": [
+    {
+     "verbatim": "31",
+     "n": 31
+    }
+   ]
+  },
+  {
+   "headword": "Mutes",
+   "raw": "Mutes, sound changes in 42, 43, 44, 45, 46, 47.",
+   "refs": [
+    {
+     "verbatim": "42",
+     "n": 42
+    },
+    {
+     "verbatim": "43",
+     "n": 43
+    },
+    {
+     "verbatim": "44",
+     "n": 44
+    },
+    {
+     "verbatim": "45",
+     "n": 45
+    },
+    {
+     "verbatim": "46",
+     "n": 46
+    },
+    {
+     "verbatim": "47",
+     "n": 47
+    }
+   ]
+  },
+  {
+   "headword": "Nasal class",
+   "raw": "Nasal class 261, 356.",
+   "refs": [
+    {
+     "verbatim": "261",
+     "n": 261
+    },
+    {
+     "verbatim": "356",
+     "n": 356
+    }
+   ]
+  },
+  {
+   "headword": "Nasals",
+   "raw": "Nasals, pronunciation 38.d.",
+   "refs": [
+    {
+     "verbatim": "38.d",
+     "n": 38,
+     "anchor": "d"
+    }
+   ]
+  },
+  {
+   "headword": "Negatives",
+   "raw": "Negatives, double 487.",
+   "refs": [
+    {
+     "verbatim": "487",
+     "n": 487
+    }
+   ]
+  },
+  {
+   "headword": "New Testament",
+   "raw": "New Testament Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Nom. for voc",
+   "raw": "Nom. for voc. 62.b, 103.c.",
+   "refs": [
+    {
+     "verbatim": "62.b",
+     "n": 62,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "103.c",
+     "n": 103,
+     "anchor": "c"
+    }
+   ]
+  },
+  {
+   "headword": "Number",
+   "raw": "Number, adverbs of 232; nouns of 192.",
+   "refs": [
+    {
+     "verbatim": "232",
+     "n": 232
+    },
+    {
+     "verbatim": "192",
+     "n": 192
+    }
+   ]
+  },
+  {
+   "headword": "Optative mode",
+   "raw": "Optative mode 245, 476 – 483, 485; in subord. clauses, 611.c, 616.b, 618.b, 620, 624.b, 627, 629, 630, 631, 636.b, 638.c, 642.b, 644.c, 651, 659.a.",
+   "refs": [
+    {
+     "verbatim": "245",
+     "n": 245
+    },
+    {
+     "verbatim": "476 – 483",
+     "n": 476,
+     "to": 483
+    },
+    {
+     "verbatim": "485",
+     "n": 485
+    },
+    {
+     "verbatim": "611.c",
+     "n": 611,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "616.b",
+     "n": 616,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "618.b",
+     "n": 618,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "620",
+     "n": 620
+    },
+    {
+     "verbatim": "624.b",
+     "n": 624,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "627",
+     "n": 627
+    },
+    {
+     "verbatim": "629",
+     "n": 629
+    },
+    {
+     "verbatim": "630",
+     "n": 630
+    },
+    {
+     "verbatim": "631",
+     "n": 631
+    },
+    {
+     "verbatim": "636.b",
+     "n": 636,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "638.c",
+     "n": 638,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "642.b",
+     "n": 642,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "644.c",
+     "n": 644,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "651",
+     "n": 651
+    },
+    {
+     "verbatim": "659.a",
+     "n": 659,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Participle",
+   "raw": "Participle 245; declension of 162.b, 164.b, 166, 168, 169, 170, 171, 172, 173, 276; compared 180; endings 275; syntax 580 – 595.",
+   "refs": [
+    {
+     "verbatim": "245",
+     "n": 245
+    },
+    {
+     "verbatim": "162.b",
+     "n": 162,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "164.b",
+     "n": 164,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "166",
+     "n": 166
+    },
+    {
+     "verbatim": "168",
+     "n": 168
+    },
+    {
+     "verbatim": "169",
+     "n": 169
+    },
+    {
+     "verbatim": "170",
+     "n": 170
+    },
+    {
+     "verbatim": "171",
+     "n": 171
+    },
+    {
+     "verbatim": "172",
+     "n": 172
+    },
+    {
+     "verbatim": "173",
+     "n": 173
+    },
+    {
+     "verbatim": "276",
+     "n": 276
+    },
+    {
+     "verbatim": "180",
+     "n": 180
+    },
+    {
+     "verbatim": "275",
+     "n": 275
+    },
+    {
+     "verbatim": "580 – 595",
+     "n": 580,
+     "to": 595
+    }
+   ]
+  },
+  {
+   "headword": "Passive voice",
+   "raw": "Passive voice 244; fut. perf. pass. 301; θη-pass. 302 – 310; η-pass. 334, 335, 336, 337; pass. deponents 394, 395; use 499, 501.",
+   "refs": [
+    {
+     "verbatim": "244",
+     "n": 244
+    },
+    {
+     "verbatim": "301",
+     "n": 301
+    },
+    {
+     "verbatim": "302 – 310",
+     "n": 302,
+     "to": 310
+    },
+    {
+     "verbatim": "334",
+     "n": 334
+    },
+    {
+     "verbatim": "335",
+     "n": 335
+    },
+    {
+     "verbatim": "336",
+     "n": 336
+    },
+    {
+     "verbatim": "337",
+     "n": 337
+    },
+    {
+     "verbatim": "394",
+     "n": 394
+    },
+    {
+     "verbatim": "395",
+     "n": 395
+    },
+    {
+     "verbatim": "499",
+     "n": 499
+    },
+    {
+     "verbatim": "501",
+     "n": 501
+    }
+   ]
+  },
+  {
+   "headword": "Patronymics",
+   "raw": "Patronymics 433.",
+   "refs": [
+    {
+     "verbatim": "433",
+     "n": 433
+    }
+   ]
+  },
+  {
+   "headword": "Perfect",
+   "raw": "Perfect, κα-perf. 287-297, 342; α-perf. 332, 333, 342.b; root perf. 370; mid. 298, 299, 300, 301, 338, 339; of some deponents 396; rendered by pres. 456.b & c.",
+   "refs": [
+    {
+     "verbatim": "287-297",
+     "n": 287,
+     "to": 297
+    },
+    {
+     "verbatim": "342",
+     "n": 342
+    },
+    {
+     "verbatim": "332",
+     "n": 332
+    },
+    {
+     "verbatim": "333",
+     "n": 333
+    },
+    {
+     "verbatim": "342.b",
+     "n": 342,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "370",
+     "n": 370
+    },
+    {
+     "verbatim": "298",
+     "n": 298
+    },
+    {
+     "verbatim": "299",
+     "n": 299
+    },
+    {
+     "verbatim": "300",
+     "n": 300
+    },
+    {
+     "verbatim": "301",
+     "n": 301
+    },
+    {
+     "verbatim": "338",
+     "n": 338
+    },
+    {
+     "verbatim": "339",
+     "n": 339
+    },
+    {
+     "verbatim": "396",
+     "n": 396
+    },
+    {
+     "verbatim": "456.b",
+     "n": 456,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "c",
+     "n": 456,
+     "anchor": "c",
+     "inherited": true
+    }
+   ]
+  },
+  {
+   "headword": "Periods of Greek language",
+   "raw": "Periods of Greek language Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Personal endings",
+   "raw": "Personal endings, indic. 263; impv. 271.",
+   "refs": [
+    {
+     "verbatim": "263",
+     "n": 263
+    },
+    {
+     "verbatim": "271",
+     "n": 271
+    }
+   ]
+  },
+  {
+   "headword": "Pindar",
+   "raw": "Pindar Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Place",
+   "raw": "Place, endings denoting 228.",
+   "refs": [
+    {
+     "verbatim": "228",
+     "n": 228
+    }
+   ]
+  },
+  {
+   "headword": "Plato",
+   "raw": "Plato Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Pluperfect",
+   "raw": "Pluperfect 469, 649.",
+   "refs": [
+    {
+     "verbatim": "469",
+     "n": 469
+    },
+    {
+     "verbatim": "649",
+     "n": 649
+    }
+   ]
+  },
+  {
+   "headword": "Plutarch",
+   "raw": "Plutarch Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Polybios",
+   "raw": "Polybios Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Possessive compounds",
+   "raw": "Possessive compounds 445 b, 447.",
+   "refs": [
+    {
+     "verbatim": "445 b",
+     "n": 445,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "447",
+     "n": 447
+    }
+   ]
+  },
+  {
+   "headword": "Possessive pronouns",
+   "raw": "Possessive pronouns 204.",
+   "refs": [
+    {
+     "verbatim": "204",
+     "n": 204
+    }
+   ]
+  },
+  {
+   "headword": "Predicate nouns",
+   "raw": "Predicate nouns 502.",
+   "refs": [
+    {
+     "verbatim": "502",
+     "n": 502
+    }
+   ]
+  },
+  {
+   "headword": "Predicate position",
+   "raw": "Predicate position 552.c.",
+   "refs": [
+    {
+     "verbatim": "552.c",
+     "n": 552,
+     "anchor": "c"
+    }
+   ]
+  },
+  {
+   "headword": "Prepositional-phrase compounds",
+   "raw": "Prepositional-phrase compounds 445.c, 448.",
+   "refs": [
+    {
+     "verbatim": "445.c",
+     "n": 445,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "448",
+     "n": 448
+    }
+   ]
+  },
+  {
+   "headword": "Prepositions",
+   "raw": "Prepositions 437, 440.a, 447.b.",
+   "refs": [
+    {
+     "verbatim": "437",
+     "n": 437
+    },
+    {
+     "verbatim": "440.a",
+     "n": 440,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "447.b",
+     "n": 447,
+     "anchor": "b"
+    }
+   ]
+  },
+  {
+   "headword": "Present system",
+   "raw": "Present system, classes in 256, 257, 258, 259, 260, 261, 262, 356, 357. See Tenses.",
+   "refs": [
+    {
+     "verbatim": "256",
+     "n": 256
+    },
+    {
+     "verbatim": "257",
+     "n": 257
+    },
+    {
+     "verbatim": "258",
+     "n": 258
+    },
+    {
+     "verbatim": "259",
+     "n": 259
+    },
+    {
+     "verbatim": "260",
+     "n": 260
+    },
+    {
+     "verbatim": "261",
+     "n": 261
+    },
+    {
+     "verbatim": "262",
+     "n": 262
+    },
+    {
+     "verbatim": "356",
+     "n": 356
+    },
+    {
+     "verbatim": "357",
+     "n": 357
+    }
+   ],
+   "crossRefs": [
+    "Tenses"
+   ]
+  },
+  {
+   "headword": "Primary tenses",
+   "raw": "Primary tenses 246.",
+   "refs": [
+    {
+     "verbatim": "246",
+     "n": 246
+    }
+   ]
+  },
+  {
+   "headword": "Principal parts of verb",
+   "raw": "Principal parts of verb 311.",
+   "refs": [
+    {
+     "verbatim": "311",
+     "n": 311
+    }
+   ]
+  },
+  {
+   "headword": "Proclitics",
+   "raw": "Proclitics 16, 17, 18.",
+   "refs": [
+    {
+     "verbatim": "16",
+     "n": 16
+    },
+    {
+     "verbatim": "17",
+     "n": 17
+    },
+    {
+     "verbatim": "18",
+     "n": 18
+    }
+   ]
+  },
+  {
+   "headword": "Prohibition",
+   "raw": "Prohibition 485.",
+   "refs": [
+    {
+     "verbatim": "485",
+     "n": 485
+    }
+   ]
+  },
+  {
+   "headword": "Prohibitive subjunctive",
+   "raw": "Prohibitive subjunctive 473.",
+   "refs": [
+    {
+     "verbatim": "473",
+     "n": 473
+    }
+   ]
+  },
+  {
+   "headword": "Pronunciation",
+   "raw": "Pronunciation 1 – 7, 38.",
+   "refs": [
+    {
+     "verbatim": "1 – 7",
+     "n": 1,
+     "to": 7
+    },
+    {
+     "verbatim": "38",
+     "n": 38
+    }
+   ]
+  },
+  {
+   "headword": "Punctuation",
+   "raw": "Punctuation 22.",
+   "refs": [
+    {
+     "verbatim": "22",
+     "n": 22
+    }
+   ]
+  },
+  {
+   "headword": "Purpose",
+   "raw": "Purpose, expressions of 565.a, 576, 615, 619, 631.b, 634, 636, 638 a, c & d, 640, 642.",
+   "refs": [
+    {
+     "verbatim": "565.a",
+     "n": 565,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "576",
+     "n": 576
+    },
+    {
+     "verbatim": "615",
+     "n": 615
+    },
+    {
+     "verbatim": "619",
+     "n": 619
+    },
+    {
+     "verbatim": "631.b",
+     "n": 631,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "634",
+     "n": 634
+    },
+    {
+     "verbatim": "636",
+     "n": 636
+    },
+    {
+     "verbatim": "638 a",
+     "n": 638,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "c",
+     "n": 638,
+     "anchor": "c",
+     "inherited": true
+    },
+    {
+     "verbatim": "d",
+     "n": 638,
+     "anchor": "d",
+     "inherited": true
+    },
+    {
+     "verbatim": "640",
+     "n": 640
+    },
+    {
+     "verbatim": "642",
+     "n": 642
+    }
+   ]
+  },
+  {
+   "headword": "Quality",
+   "raw": "Quality, nouns of 429.",
+   "refs": [
+    {
+     "verbatim": "429",
+     "n": 429
+    }
+   ]
+  },
+  {
+   "headword": "Quantity of vowels",
+   "raw": "Quantity of vowels 4.",
+   "refs": [
+    {
+     "verbatim": "4",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "headword": "Questions",
+   "raw": "Questions 488.",
+   "refs": [
+    {
+     "verbatim": "488",
+     "n": 488
+    }
+   ]
+  },
+  {
+   "headword": "Reciprocal pronoun",
+   "raw": "Reciprocal pronoun 202.",
+   "refs": [
+    {
+     "verbatim": "202",
+     "n": 202
+    }
+   ]
+  },
+  {
+   "headword": "Reduplication",
+   "raw": "Reduplication, pres. 257.a; perf. 289, 290, 291.",
+   "refs": [
+    {
+     "verbatim": "257.a",
+     "n": 257,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "289",
+     "n": 289
+    },
+    {
+     "verbatim": "290",
+     "n": 290
+    },
+    {
+     "verbatim": "291",
+     "n": 291
+    }
+   ]
+  },
+  {
+   "headword": "Reflexive pronouns",
+   "raw": "Reflexive pronouns 197, 200, 203.",
+   "refs": [
+    {
+     "verbatim": "197",
+     "n": 197
+    },
+    {
+     "verbatim": "200",
+     "n": 200
+    },
+    {
+     "verbatim": "203",
+     "n": 203
+    }
+   ]
+  },
+  {
+   "headword": "Relative words as indir. interrog",
+   "raw": "Relative words as indir. interrog. 223, 621.",
+   "refs": [
+    {
+     "verbatim": "223",
+     "n": 223
+    },
+    {
+     "verbatim": "621",
+     "n": 621
+    }
+   ]
+  },
+  {
+   "headword": "Result",
+   "raw": "Result, suffixes denoting 407.",
+   "refs": [
+    {
+     "verbatim": "407",
+     "n": 407
+    }
+   ]
+  },
+  {
+   "headword": "Roman Empire",
+   "raw": "Roman Empire Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Sappho",
+   "raw": "Sappho Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Secondary tenses",
+   "raw": "Secondary tenses 246.",
+   "refs": [
+    {
+     "verbatim": "246",
+     "n": 246
+    }
+   ]
+  },
+  {
+   "headword": "Sociative",
+   "raw": "Sociative 525.",
+   "refs": [
+    {
+     "verbatim": "525",
+     "n": 525
+    }
+   ]
+  },
+  {
+   "headword": "Sophokles",
+   "raw": "Sophokles Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Speech-tune",
+   "raw": "Speech-tune 9.a.",
+   "refs": [
+    {
+     "verbatim": "9.a",
+     "n": 9,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Stem of noun or adj",
+   "raw": "Stem of noun or adj. 60.",
+   "refs": [
+    {
+     "verbatim": "60",
+     "n": 60
+    }
+   ]
+  },
+  {
+   "headword": "Subjective middle",
+   "raw": "Subjective middle 500.c & d.",
+   "refs": [
+    {
+     "verbatim": "500.c",
+     "n": 500,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "d",
+     "n": 500,
+     "anchor": "d",
+     "inherited": true
+    }
+   ]
+  },
+  {
+   "headword": "Subjunctive",
+   "raw": "Subjunctive 245, 269; tenses of 475; w. οὐ μή 489.a; in simple sent. 471, 472, 473, 474, 475; in subord. clauses 611.b, 616.a, 618.a, 620, 627, 628, 629, 630, 631, 636.a, 638.c, 642.a, 644.b, 650, 652.",
+   "refs": [
+    {
+     "verbatim": "245",
+     "n": 245
+    },
+    {
+     "verbatim": "269",
+     "n": 269
+    },
+    {
+     "verbatim": "475",
+     "n": 475
+    },
+    {
+     "verbatim": "489.a",
+     "n": 489,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "471",
+     "n": 471
+    },
+    {
+     "verbatim": "472",
+     "n": 472
+    },
+    {
+     "verbatim": "473",
+     "n": 473
+    },
+    {
+     "verbatim": "474",
+     "n": 474
+    },
+    {
+     "verbatim": "475",
+     "n": 475
+    },
+    {
+     "verbatim": "611.b",
+     "n": 611,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "616.a",
+     "n": 616,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "618.a",
+     "n": 618,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "620",
+     "n": 620
+    },
+    {
+     "verbatim": "627",
+     "n": 627
+    },
+    {
+     "verbatim": "628",
+     "n": 628
+    },
+    {
+     "verbatim": "629",
+     "n": 629
+    },
+    {
+     "verbatim": "630",
+     "n": 630
+    },
+    {
+     "verbatim": "631",
+     "n": 631
+    },
+    {
+     "verbatim": "636.a",
+     "n": 636,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "638.c",
+     "n": 638,
+     "anchor": "c"
+    },
+    {
+     "verbatim": "642.a",
+     "n": 642,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "644.b",
+     "n": 644,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "650",
+     "n": 650
+    },
+    {
+     "verbatim": "652",
+     "n": 652
+    }
+   ]
+  },
+  {
+   "headword": "Suffix in derivation",
+   "raw": "Suffix in derivation, meaning 402.",
+   "refs": [
+    {
+     "verbatim": "402",
+     "n": 402
+    }
+   ]
+  },
+  {
+   "headword": "Syllables",
+   "raw": "Syllables 8.",
+   "refs": [
+    {
+     "verbatim": "8",
+     "n": 8
+    }
+   ]
+  },
+  {
+   "headword": "Tenses",
+   "raw": "Tenses 242, 247; of ἵστημι 363; of indic. 453-470; of subjv. 475; of opt. 483; of impv. 484; of infin. 563; of partic. 581; in subord. clauses 607.",
+   "refs": [
+    {
+     "verbatim": "242",
+     "n": 242
+    },
+    {
+     "verbatim": "247",
+     "n": 247
+    },
+    {
+     "verbatim": "363",
+     "n": 363
+    },
+    {
+     "verbatim": "453-470",
+     "n": 453,
+     "to": 470
+    },
+    {
+     "verbatim": "475",
+     "n": 475
+    },
+    {
+     "verbatim": "483",
+     "n": 483
+    },
+    {
+     "verbatim": "484",
+     "n": 484
+    },
+    {
+     "verbatim": "563",
+     "n": 563
+    },
+    {
+     "verbatim": "581",
+     "n": 581
+    },
+    {
+     "verbatim": "607",
+     "n": 607
+    }
+   ]
+  },
+  {
+   "headword": "Theokritos",
+   "raw": "Theokritos Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Thukydides",
+   "raw": "Thukydides Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  },
+  {
+   "headword": "Titles and headings",
+   "raw": "Titles and headings 491.c.",
+   "refs": [
+    {
+     "verbatim": "491.c",
+     "n": 491,
+     "anchor": "c"
+    }
+   ]
+  },
+  {
+   "headword": "Tmesis",
+   "raw": "Tmesis 437.a.",
+   "refs": [
+    {
+     "verbatim": "437.a",
+     "n": 437,
+     "anchor": "a"
+    }
+   ]
+  },
+  {
+   "headword": "Verbal nouns and adjs",
+   "raw": "Verbal nouns and adjs. 399, 402 – 414.",
+   "refs": [
+    {
+     "verbatim": "399",
+     "n": 399
+    },
+    {
+     "verbatim": "402 – 414",
+     "n": 402,
+     "to": 414
+    }
+   ]
+  },
+  {
+   "headword": "Verbals in -τος and -τέος",
+   "raw": "Verbals in -τος and -τέος 352, 353, 354, 411, 596.",
+   "refs": [
+    {
+     "verbatim": "352",
+     "n": 352
+    },
+    {
+     "verbatim": "353",
+     "n": 353
+    },
+    {
+     "verbatim": "354",
+     "n": 354
+    },
+    {
+     "verbatim": "411",
+     "n": 411
+    },
+    {
+     "verbatim": "596",
+     "n": 596
+    }
+   ]
+  },
+  {
+   "headword": "Verbs",
+   "raw": "Verbs, accent, see Accent; defective supplementing one another 391; impers. 493.a; semi-impers. 520.b; omitted 493.b; depon. 394, 396, 501.",
+   "refs": [
+    {
+     "verbatim": "391",
+     "n": 391
+    },
+    {
+     "verbatim": "493.a",
+     "n": 493,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "520.b",
+     "n": 520,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "493.b",
+     "n": 493,
+     "anchor": "b"
+    },
+    {
+     "verbatim": "394",
+     "n": 394
+    },
+    {
+     "verbatim": "396",
+     "n": 396
+    },
+    {
+     "verbatim": "501",
+     "n": 501
+    }
+   ],
+   "crossRefs": [
+    "Accent"
+   ]
+  },
+  {
+   "headword": "Verb stems",
+   "raw": "Verb stems 248, in compounds 442; from nouns 415.",
+   "refs": [
+    {
+     "verbatim": "248",
+     "n": 248
+    },
+    {
+     "verbatim": "442",
+     "n": 442
+    },
+    {
+     "verbatim": "415",
+     "n": 415
+    }
+   ]
+  },
+  {
+   "headword": "Voices",
+   "raw": "Voices 242, 244, 499, 501.",
+   "refs": [
+    {
+     "verbatim": "242",
+     "n": 242
+    },
+    {
+     "verbatim": "244",
+     "n": 244
+    },
+    {
+     "verbatim": "499",
+     "n": 499
+    },
+    {
+     "verbatim": "501",
+     "n": 501
+    }
+   ]
+  },
+  {
+   "headword": "Vowels",
+   "raw": "Vowels, open or close 24; lengthening of 28.b.",
+   "refs": [
+    {
+     "verbatim": "24",
+     "n": 24
+    },
+    {
+     "verbatim": "28.b",
+     "n": 28,
+     "anchor": "b"
+    }
+   ]
+  },
+  {
+   "headword": "Wish",
+   "raw": "Wish, expressions of 470.a, 476, 477, 478.",
+   "refs": [
+    {
+     "verbatim": "470.a",
+     "n": 470,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "476",
+     "n": 476
+    },
+    {
+     "verbatim": "477",
+     "n": 477
+    },
+    {
+     "verbatim": "478",
+     "n": 478
+    }
+   ]
+  },
+  {
+   "headword": "Xenophon",
+   "raw": "Xenophon Introduction.",
+   "refs": [
+    {
+     "verbatim": "Introduction",
+     "nonSection": true
+    }
+   ]
+  }
+ ],
+ "_meta": {
+  "status": "dcc-digital",
+  "entryCount": 163,
+  "refCount": 461,
+  "crossRefCount": 4,
+  "inheritedCount": 10,
+  "unresolvedRefs": [
+   {
+    "headword": "Aiolic dialect",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Aischylos",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Aristophanes",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Aristotle",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Attic dialect",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Byzantine",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Christian Fathers",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Common dialect",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Demosthenes",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Dialects of Greek",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Doric dialect",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Eastern Roman Empire",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Empire of Alexander",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Euripides",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Greek language",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Hellenistic dialect",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Herodotos",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Homer",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Ionic dialect",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Lucian",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Modern Greek",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "New Testament",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Periods of Greek language",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Pindar",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Plato",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Plutarch",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Polybios",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Roman Empire",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Sappho",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Sophokles",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Theokritos",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Thukydides",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   },
+   {
+    "headword": "Xenophon",
+    "verbatim": "Introduction",
+    "reason": "not a section reference"
+   }
+  ],
+  "repairs": [
+   {
+    "headword": "Reflexive pronouns",
+    "source": "Relexive pronouns"
+   },
+   {
+    "split": "Consonants",
+    "source": "two entries on one line in the DCC page"
+   }
+  ]
+ }
+}

@@ -1,0 +1,1145 @@
+[
+ {
+  "id": "g|757|27|1",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|29|2",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|31|3",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|33|4",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|35|5",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|36|6",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|37|7",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|49|9",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|50|10",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|52|11",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|56|12",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|57|13",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|58|14",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|64|15",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|66|16",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|5|17",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|19|18",
+  "choice": "terra"
+ },
+ {
+  "id": "g|758|22|19",
+  "choice": "genie"
+ },
+ {
+  "id": "g|758|27|20",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|46|21",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|48|22",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|58|23",
+  "choice": "genie"
+ },
+ {
+  "id": "g|759|15|24",
+  "choice": "genie"
+ },
+ {
+  "id": "g|759|21|25",
+  "choice": "terra"
+ },
+ {
+  "id": "g|759|27|26",
+  "choice": "terra"
+ },
+ {
+  "id": "g|759|34|27",
+  "choice": "terra"
+ },
+ {
+  "id": "g|759|36|28",
+  "choice": "terra"
+ },
+ {
+  "id": "g|759|37|29",
+  "choice": "terra"
+ },
+ {
+  "id": "g|759|40|30",
+  "choice": "genie"
+ },
+ {
+  "id": "g|759|56|31",
+  "choice": "sol"
+ },
+ {
+  "id": "g|759|60|32",
+  "choice": "sol"
+ },
+ {
+  "id": "g|759|61|33",
+  "choice": "sol"
+ },
+ {
+  "id": "g|759|63|34",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|4|35",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|14|36",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|18|37",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|22|38",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|40|39",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|56|40",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|57|41",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|57|42",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|65|43",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|67|45",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|81|46",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|83|47",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|83|48",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|93|49",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|94|50",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|95|51",
+  "choice": "terra"
+ },
+ {
+  "id": "g|760|96|52",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|3|53",
+  "choice": "terra"
+ },
+ {
+  "id": "g|761|6|54",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|23|55",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|30|56",
+  "choice": "terra"
+ },
+ {
+  "id": "g|761|36|57",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|74|59",
+  "choice": "terra"
+ },
+ {
+  "id": "g|761|74|60",
+  "choice": "genie"
+ },
+ {
+  "id": "g|762|24|61",
+  "choice": "terra"
+ },
+ {
+  "id": "g|762|67|63",
+  "choice": "terra"
+ },
+ {
+  "id": "g|763|5|65",
+  "choice": "terra"
+ },
+ {
+  "id": "g|763|16|66",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|47|8",
+  "choice": "terra",
+  "note": "Owner heads-up: line above has ἄγνυμι but with macron on upsilon -> ἄγνῡμι (headword correction, matches part-1 card 9 sol ruling ἄγνῡμι)."
+ },
+ {
+  "id": "g|760|66|44",
+  "choice": "custom",
+  "resolved": "Ἄρης",
+  "note": "Owner: whole line is Ἄρης; the stray double-quote before Ἄρης in the grey box is a terra frame artifact — strip at apply."
+ },
+ {
+  "id": "g|761|48|58",
+  "choice": "custom",
+  "resolved": "βελτί̄ων",
+  "note": "Owner: accent AND macron on headword iota -> βελτί̄ων (majority had accent only)."
+ },
+ {
+  "id": "g|763|20|67",
+  "choice": "custom",
+  "resolved": "Διονύ̄σια",
+  "note": "Owner: macron and accent on upsilon -> Διονύ̄σια."
+ },
+ {
+  "id": "g|763|26|68",
+  "choice": "majority",
+  "resolved": "γρα φήν",
+  "note": "Owner: probably majority — genie ignored the line-wrap hyphen (διώκω γρα-/φήν). Majority preserves the physical split; apply dehyphenates."
+ },
+ {
+  "id": "g|762|69|64",
+  "choice": "majority",
+  "resolved": "δῆλός",
+  "note": "Same line verified in part-1 card 80's hi-res crop: δῆλός εἰμι (circumflex + acute) — majority right."
+ },
+ {
+  "id": "g|762|64|62",
+  "choice": "majority",
+  "resolved": "ἦ",
+  "note": "Recrop shows ἦ δή with circumflex — majority right."
+ },
+ {
+  "id": "g|763|31|69",
+  "choice": "majority",
+  "resolved": "μοί",
+  "note": "Full-width crop: δοκεῖ μοί (acute before enclitic τινα) — majority right."
+ },
+ {
+  "id": "g|763|40|71",
+  "choice": "genie"
+ },
+ {
+  "id": "g|763|72|72",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|75|73",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|75|74",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|76|75",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|77|76",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|80|78",
+  "choice": "terra"
+ },
+ {
+  "id": "g|764|39|79",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|49|80",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|49|81",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|51|82",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|51|83",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|54|84",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|58|86",
+  "choice": "llama"
+ },
+ {
+  "id": "g|764|63|87",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|74|88",
+  "choice": "terra"
+ },
+ {
+  "id": "g|764|76|89",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|87|90",
+  "choice": "sol"
+ },
+ {
+  "id": "g|765|6|91",
+  "choice": "sol"
+ },
+ {
+  "id": "g|765|7|92",
+  "choice": "sol"
+ },
+ {
+  "id": "g|765|11|94",
+  "choice": "sol"
+ },
+ {
+  "id": "g|765|26|95",
+  "choice": "sol"
+ },
+ {
+  "id": "g|765|92|96",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|6|97",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|27|98",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|32|99",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|44|100",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|48|101",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|62|102",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|67|103",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|68|104",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|80|105",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|94|106",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|96|107",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|12|108",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|13|109",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|16|110",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|21|111",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|21|112",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|35|113",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|41|114",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|43|115",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|55|116",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|61|117",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|74|118",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|78|119",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|81|120",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|81|121",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|82|122",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|84|123",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|86|124",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|88|125",
+  "choice": "terra"
+ },
+ {
+  "id": "g|768|11|126",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|16|127",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|20|128",
+  "choice": "llama"
+ },
+ {
+  "id": "g|768|26|129",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|40|131",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|52|132",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|53|133",
+  "choice": "terra"
+ },
+ {
+  "id": "g|768|34|130",
+  "choice": "genie",
+  "note": "Owner: also, at end of line, ἐάν has a macron over the alpha -> ἐά̄ν (line correction)."
+ },
+ {
+  "id": "g|763|32|70",
+  "choice": "majority",
+  "resolved": "ἐλ θεῖν",
+  "note": "Owner: probably majority (genie dropped the line-wrap hyphen ἐλ-/θεῖν; wrap verified in the δοκεῖ μοί crop). Apply dehyphenates."
+ },
+ {
+  "id": "g|763|78|77",
+  "choice": "custom",
+  "resolved": "ᾱ̓́ν",
+  "note": "Owner: macron on the alpha in ἄν (sol's ᾰ̓́ν close but breve wrong) -> ᾱ̓́ν. Matches ἐά̄ν τε (ἤν τε, ᾱ̓́ν... family on this line; part-1 card 92 ruled ἐᾱ̀ν earlier on same line."
+ },
+ {
+  "id": "g|764|55|85",
+  "choice": "custom",
+  "resolved": "ἦς",
+  "note": "Owner: no iota subscript; breathing uncertain but probably smooth -> ἦς (majority's ᾖς had subscript; terra's ῇς had subscript+rough)."
+ },
+ {
+  "id": "g|765|10|93",
+  "choice": "custom",
+  "resolved": "ἐλά̄ττων ἐλά̄σσων",
+  "note": "Owner: sol closest; they're macrons, not breves -> ἐλά̄ττων, ἐλά̄σσων."
+ },
+ {
+  "id": "g|777|2|218",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|6|219",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|63|220",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|66|223",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|82|224",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|86|225",
+  "choice": "genie"
+ },
+ {
+  "id": "g|778|49|227",
+  "choice": "terra"
+ },
+ {
+  "id": "g|778|94|229",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|6|230",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|7|231",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|15|233",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|27|235",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|67|236",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|86|237",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|91|238",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|93|239",
+  "choice": "terra"
+ },
+ {
+  "id": "g|780|10|240",
+  "choice": "terra"
+ },
+ {
+  "id": "g|780|19|241",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|38|242",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|60|243",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|92|245",
+  "choice": "genie"
+ },
+ {
+  "id": "g|777|65|221",
+  "choice": "custom",
+  "resolved": "πῄ",
+  "note": "Owner: line reads πῄ, 181 b, 346; πῇ, 346. First word acute + subscript (all readers wrong: they read circumflex)."
+ },
+ {
+  "id": "g|777|65|222",
+  "choice": "custom",
+  "resolved": "πῇ",
+  "note": "Owner: second word πῇ — circumflex + subscript (majority right; llama's πῆ lacked subscript)."
+ },
+ {
+  "id": "g|778|39|226",
+  "choice": "custom",
+  "resolved": "πρά̄ττω",
+  "note": "Owner: πράττω with macron over alpha -> πρά̄ττω. Confirms audit bonus record ga-extra|778|39."
+ },
+ {
+  "id": "g|778|82|228",
+  "choice": "sol",
+  "resolved": "πτύ̄ω",
+  "note": "Owner: sol + macron over upsilon confirmed; codepoints verified Greek (ύ + U+0304)."
+ },
+ {
+  "id": "g|779|10|232",
+  "choice": "sol",
+  "resolved": "ῥήγνῡμι",
+  "note": "Owner asked whether sol's macron-upsilon is Greek: verified GREEK SMALL LETTER UPSILON WITH MACRON (U+1FE1), not Latin u."
+ },
+ {
+  "id": "g|779|16|234",
+  "choice": "sol",
+  "resolved": "ῥώννῡμι",
+  "note": "Owner: macron verified on GREEK upsilon (U+1FE1)."
+ },
+ {
+  "id": "g|780|66|244",
+  "choice": "custom",
+  "resolved": "τι̯",
+  "note": "Owner: τι with circumflex under ι = non-syllabic iota (yod, U+032F), third instance after λι̯/χι̯. §§113-114 = τ+ι̯ changes."
+ },
+ {
+  "id": "g|781|1|246",
+  "choice": "majority",
+  "resolved": "μή",
+  "note": "Full-width crop: μή τί γε, 2763 e — acute on μή. Majority right, terra's grave wrong."
+ },
+ {
+  "id": "g|768|67|134",
+  "choice": "terra"
+ },
+ {
+  "id": "g|768|76|135",
+  "choice": "terra"
+ },
+ {
+  "id": "g|768|84|136",
+  "choice": "terra"
+ },
+ {
+  "id": "g|769|8|137",
+  "choice": "terra"
+ },
+ {
+  "id": "g|769|16|138",
+  "choice": "terra"
+ },
+ {
+  "id": "g|769|19|140",
+  "choice": "terra"
+ },
+ {
+  "id": "g|769|39|142",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|40|143",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|42|144",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|42|145",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|45|146",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|49|147",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|70|149",
+  "choice": "terra"
+ },
+ {
+  "id": "g|770|4|150",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|18|152",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|36|153",
+  "choice": "genie"
+ },
+ {
+  "id": "g|770|42|155",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|49|156",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|50|157",
+  "choice": "genie"
+ },
+ {
+  "id": "g|770|51|158",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|70|159",
+  "choice": "genie"
+ },
+ {
+  "id": "g|770|79|160",
+  "choice": "genie"
+ },
+ {
+  "id": "g|770|82|161",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|18|162",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|20|163",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|28|164",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|49|165",
+  "choice": "sol"
+ },
+ {
+  "id": "g|772|39|167",
+  "choice": "terra"
+ },
+ {
+  "id": "g|772|51|168",
+  "choice": "sol"
+ },
+ {
+  "id": "g|772|67|170",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|5|171",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|21|172",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|42|173",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|45|174",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|78|175",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|84|176",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|85|177",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|86|178",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|18|180",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|19|181",
+  "choice": "genie"
+ },
+ {
+  "id": "g|774|21|182",
+  "choice": "genie"
+ },
+ {
+  "id": "g|774|38|183",
+  "choice": "genie"
+ },
+ {
+  "id": "g|774|82|184",
+  "choice": "genie"
+ },
+ {
+  "id": "g|775|4|185",
+  "choice": "genie"
+ },
+ {
+  "id": "g|775|8|186",
+  "choice": "genie"
+ },
+ {
+  "id": "g|775|11|187",
+  "choice": "genie"
+ },
+ {
+  "id": "g|775|15|188",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|38|189",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|43|190",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|44|191",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|70|192",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|72|193",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|72|194",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|92|195",
+  "choice": "terra"
+ },
+ {
+  "id": "g|775|96|196",
+  "choice": "genie"
+ },
+ {
+  "id": "g|776|1|197",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|15|198",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|17|199",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|18|200",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|19|201",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|22|202",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|23|203",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|24|204",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|27|205",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|28|206",
+  "choice": "llama"
+ },
+ {
+  "id": "g|776|31|207",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|38|208",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|39|209",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|42|210",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|45|211",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|46|212",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|47|213",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|48|214",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|53|215",
+  "choice": "terra"
+ },
+ {
+  "id": "g|772|62|169",
+  "choice": "genie",
+  "note": "Owner: prior line has μιμέομαι with macron over first iota -> μῑμέομαι (converges with audit card 24 corpus ruling)."
+ },
+ {
+  "id": "g|773|87|179",
+  "choice": "sol",
+  "note": "Owner line confirmation: 'οι, pronunc., 25; for ο in verse, 28 D; ει : οι : ι, 36, see ι; elided, 74; ῳ in aug.,' — no accents on any vowels."
+ },
+ {
+  "id": "g|776|57|216",
+  "choice": "llama",
+  "note": "Owner STANDING RULE: word-final accented vowel before ellipsis (. . .) prints GRAVE not acute, by the usual rule. Apply-time normalization for . . . contexts."
+ },
+ {
+  "id": "rule-grave-before-ellipsis",
+  "choice": "rule",
+  "note": "Owner rule (2026-08-03, card 216): in index entries, a word-final accent immediately before ' . . . ' is grave (e.g. τὲ . . ., ἢ . . .), matching running-text accentuation. Normalize at apply; readers often reported acute."
+ },
+ {
+  "id": "g|769|18|139",
+  "choice": "custom",
+  "resolved": "ἰ̄άομαι",
+  "note": "Owner: macron AND smooth breathing on iota -> ἰ̄άομαι."
+ },
+ {
+  "id": "g|769|26|141",
+  "choice": "custom",
+  "resolved": "ἵ̄ημι",
+  "note": "Owner: macron on first iota, majority accent right, breathing uncertain. CORPUS DECIDES: §450 and §777 print ἵ̄ημι (rough + acute + macron). Terra's smooth wrong."
+ },
+ {
+  "id": "g|769|68|148",
+  "choice": "custom",
+  "resolved": "ἦ",
+  "note": "Owner: it's ἦ καί (circumflex; §2865 asseverative). All readers wrong (acute/grave)."
+ },
+ {
+  "id": "g|770|5|151",
+  "choice": "custom",
+  "resolved": "ἢ",
+  "note": "Owner: it's ἢ (grave)."
+ },
+ {
+  "id": "g|770|37|154",
+  "choice": "custom",
+  "resolved": "κι̯",
+  "note": "Owner: κι with circumflex below ι = non-syllabic iota (yod, U+032F), 4th instance. §112 palatal + ι̯. Genie's κῑ (macron) wrong mark."
+ },
+ {
+  "id": "g|771|50|166",
+  "choice": "majority",
+  "resolved": "μετά",
+  "note": "Crop: σύν τινι (μετά τινος) — acute retained before enclitic. Majority right."
+ },
+ {
+  "id": "g|781|8|247",
+  "choice": "terra"
+ },
+ {
+  "id": "g|781|14|248",
+  "choice": "sol"
+ },
+ {
+  "id": "g|781|36|249",
+  "choice": "sol"
+ },
+ {
+  "id": "g|781|37|250",
+  "choice": "terra"
+ },
+ {
+  "id": "g|781|52|251",
+  "choice": "sol"
+ },
+ {
+  "id": "g|781|73|252",
+  "choice": "llama"
+ },
+ {
+  "id": "g|782|15|254",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|23|255",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|56|256",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|69|257",
+  "choice": "sol"
+ },
+ {
+  "id": "g|783|52|258",
+  "choice": "sol"
+ },
+ {
+  "id": "g|783|62|259",
+  "choice": "sol"
+ },
+ {
+  "id": "g|783|66|260",
+  "choice": "sol"
+ },
+ {
+  "id": "g|783|72|261",
+  "choice": "sol"
+ },
+ {
+  "id": "g|783|73|262",
+  "choice": "sol"
+ },
+ {
+  "id": "g|783|74|263",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|3|264",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|4|265",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|9|266",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|13|267",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|24|268",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|33|269",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|1|217",
+  "choice": "terra",
+  "note": "Owner STANDING RULE: final-vowel accent before enclitic τις/τινος stays ACUTE (´), not grave."
+ },
+ {
+  "id": "g|782|12|253",
+  "choice": "sol",
+  "note": "Owner: genie obviously skipped a line — next headword on next line is -ῡς."
+ },
+ {
+  "id": "rule-acute-before-enclitic",
+  "choice": "rule",
+  "note": "Owner rule (card 217): word-final accent before an enclitic (τις, τινος, ...) is acute, matching card 166's μετά τινος. Normalize at apply."
+ }
+]

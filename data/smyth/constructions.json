@@ -1,0 +1,3783 @@
+{
+  "entries": [
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(distinction and) comparison",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1401,
+          "to": 1404
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(place) location",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1448,
+          "to": 1449
+        },
+        {
+          "n": 1531,
+          "to": 1538
+        },
+        {
+          "n": 1581
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(place) path",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1581
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(place) separation",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1392,
+          "to": 1400
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(place) terminal location/direction",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1448,
+          "to": 1449
+        },
+        {
+          "n": 1531,
+          "to": 1538
+        },
+        {
+          "n": 1588,
+          "to": 1589
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(time) sequential location",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1444,
+          "to": 1447
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(time) sequential-durative",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1444,
+          "to": 1447
+        },
+        {
+          "n": 1539,
+          "to": 1543
+        },
+        {
+          "n": 1582,
+          "to": 1587
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(time) simultaneous location",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1444,
+          "to": 1447
+        },
+        {
+          "n": 1539,
+          "to": 1543
+        },
+        {
+          "n": 1582,
+          "to": 1587
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(time) temporal distance",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1539,
+          "to": 1543
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "(time) temporal extent",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1444,
+          "to": 1447
+        },
+        {
+          "n": 1539,
+          "to": 1543
+        },
+        {
+          "n": 1582,
+          "to": 1587
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with διά) instrument or means",
+      "construction": "(with διά) instrument or means",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1685
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with διά, εἰς, ἐπί, κατά, πρός) purpose",
+      "construction": "(with διά, εἰς, ἐπί, κατά, πρός) purpose",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1685
+        },
+        {
+          "n": 1686
+        },
+        {
+          "n": 1689
+        },
+        {
+          "n": 1690
+        },
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with διά, παρά, κατά) cause",
+      "construction": "(with διά, παρά, κατά) cause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1685
+        },
+        {
+          "n": 1690
+        },
+        {
+          "n": 1692
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with κατά) disadvantage",
+      "construction": "(with κατά) disadvantage",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1690
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with κατά, πρός) conformity",
+      "construction": "(with κατά, πρός) conformity",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1690
+        },
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with μετά) friendly association",
+      "construction": "(with μετά) friendly association",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1691
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with μετά) hostile association",
+      "construction": "(with μετά) hostile association",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1691
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with μετά, ὑπό) accompaniment",
+      "construction": "(with μετά, ὑπό) accompaniment",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1691
+        },
+        {
+          "n": 1698
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with μετά, ὑπό) accompanying circumstance",
+      "construction": "(with μετά, ὑπό) accompanying circumstance",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1691
+        },
+        {
+          "n": 1698
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with παρά, πρός, κατά) comparison",
+      "construction": "(with παρά, πρός, κατά) comparison",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1690
+        },
+        {
+          "n": 1692
+        },
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with πρός) friendly association",
+      "construction": "(with πρός) friendly association",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with πρός) hostile association",
+      "construction": "(with πρός) hostile association",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with πρός) reference",
+      "construction": "(with πρός) reference",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with πρός) standard of judgment",
+      "construction": "(with πρός) standard of judgment",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with πρός, εἰς) recipient or addressee",
+      "construction": "(with πρός, εἰς) recipient or addressee",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1686
+        },
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with πρός, πρό, ὑπέρ, κατά) advantage",
+      "construction": "(with πρός, πρό, ὑπέρ, κατά) advantage",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1690
+        },
+        {
+          "n": 1694
+        },
+        {
+          "n": 1695
+        },
+        {
+          "n": 1697
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with ἀνά, εἰς, κατά) manner",
+      "construction": "(with ἀνά, εἰς, κατά) manner",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1682
+        },
+        {
+          "n": 1686
+        },
+        {
+          "n": 1690
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with ἀπό, διά, ἐξ) instrument or means",
+      "construction": "(with ἀπό, διά, ἐξ) instrument or means",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1685
+        },
+        {
+          "n": 1689
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with ἀπό, διά, ἐξ, μετά, ὑπό, κατά) manner",
+      "construction": "(with ἀπό, διά, ἐξ, μετά, ὑπό, κατά) manner",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1685
+        },
+        {
+          "n": 1689
+        },
+        {
+          "n": 1690
+        },
+        {
+          "n": 1691
+        },
+        {
+          "n": 1698
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with ἀπό, ἐξ, μετά) conformity",
+      "construction": "(with ἀπό, ἐξ, μετά) conformity",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1685
+        },
+        {
+          "n": 1689
+        },
+        {
+          "n": 1691
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > adpositional genitive > (with ἀπό, ἐξ, πρός, ὑπό, παρά) agent",
+      "construction": "(with ἀπό, ἐξ, πρός, ὑπό, παρά) agent",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1685
+        },
+        {
+          "n": 1689
+        },
+        {
+          "n": 1692
+        },
+        {
+          "n": 1695
+        },
+        {
+          "n": 1698
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Dative > dependent > adpositional dative > (with ἐν, συν) conformity",
+      "construction": "(with ἐν, συν) conformity",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1687
+        },
+        {
+          "n": 1696
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > adpositional dative > (with ἐπί) condition",
+      "construction": "(with ἐπί) condition",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1689
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > adpositional dative > (with ἐπί) price and value",
+      "construction": "(with ἐπί) price and value",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1689
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > adpositional dative > (with ἐπί) purpose",
+      "construction": "(with ἐπί) purpose",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1689
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > adpositional accusative > (with ἐπί, εἰς) disadvantage",
+      "construction": "(with ἐπί, εἰς) disadvantage",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1686
+        },
+        {
+          "n": 1689
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Genitive > dependent > ablatival genitive",
+      "construction": "ablatival genitive",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1391,
+          "to": 1411
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Syntax of the infinitive > independent > absolute infinitive",
+      "construction": "absolute infinitive",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2012
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "accompaniment",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1524,
+          "to": 1526
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "accompanying circumstance",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1527
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative",
+      "construction": "Accusative",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1563
+        },
+        {
+          "n": 1580
+        },
+        {
+          "n": 1588
+        },
+        {
+          "n": 1590
+        },
+        {
+          "n": 1600
+        },
+        {
+          "n": 1606
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Articular infinitive > accusative (articular)",
+      "construction": "accusative (articular)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2034
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.3 Articular infinitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.4 Accusative of extent",
+      "construction": "Accusative of extent",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1581
+        },
+        {
+          "n": 1582
+        },
+        {
+          "n": 1587
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.4 Accusative of extent"
+    },
+    {
+      "agdtContext": "Accusative > dependent > accusative of extent",
+      "construction": "accusative of extent",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1580,
+          "to": 1587
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > accusative of extent > accusative of measure",
+      "construction": "accusative of measure",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1581
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.6 Accusative of respect",
+      "construction": "Accusative of respect",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1600,
+          "to": 1605
+        },
+        {
+          "n": 1603
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.6 Accusative of respect"
+    },
+    {
+      "agdtContext": "Accusative > dependent > accusative of respect",
+      "construction": "accusative of respect",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1600,
+          "to": 1605
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > accusative of extent > accusative of space",
+      "construction": "accusative of space",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1581
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > accusative of extent > accusative of time",
+      "construction": "accusative of time",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1582,
+          "to": 1587
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.4 Adjective clause",
+      "construction": "Adjective clause",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2553
+        },
+        {
+          "n": 2554
+        },
+        {
+          "n": 2555
+        },
+        {
+          "n": 2556,
+          "to": 2559
+        },
+        {
+          "n": 2560,
+          "to": 2573
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.4 Adjective clause"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle",
+      "construction": "Adjective participle",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2039
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "2 Morphological layer > 2.7 Adposition",
+      "construction": "Adposition",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1636,
+          "to": 1698
+        },
+        {
+          "n": 1636,
+          "to": 1702
+        },
+        {
+          "n": 1665
+        },
+        {
+          "n": 1699,
+          "to": 1702
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer > 2.7 Adposition"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions",
+      "construction": "Adpositions",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1681,
+          "to": 1698
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.5 ADV",
+      "construction": "ADV",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2008,
+          "to": 2011
+        },
+        {
+          "n": 2054,
+          "to": 2087
+        },
+        {
+          "n": 2191,
+          "to": 2487
+        },
+        {
+          "n": 2488
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.5 ADV"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "advantage",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1481,
+          "to": 1485
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "2 Morphological layer > 2.6 Adverb",
+      "construction": "Adverb",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 341,
+          "to": 346
+        },
+        {
+          "n": 346
+        },
+        {
+          "n": 1094
+        },
+        {
+          "n": 1606,
+          "to": 1611
+        },
+        {
+          "n": 2769
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer > 2.6 Adverb"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.5 Adverb clause",
+      "construction": "Adverb clause",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2193,
+          "to": 2206
+        },
+        {
+          "n": 2240,
+          "to": 2248
+        },
+        {
+          "n": 2249,
+          "to": 2278
+        },
+        {
+          "n": 2280,
+          "to": 2368
+        },
+        {
+          "n": 2369,
+          "to": 2382
+        },
+        {
+          "n": 2383,
+          "to": 2461
+        },
+        {
+          "n": 2462,
+          "to": 2487
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.5 Adverb clause"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "agent",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1488,
+          "to": 1494
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > any attendant circumstance",
+      "construction": "any attendant circumstance",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2068
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > any attendant circumstance",
+      "construction": "any attendant circumstance",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2068
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.10 APOS",
+      "construction": "APOS",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 916
+        },
+        {
+          "n": 976,
+          "to": 995
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.10 APOS"
+    },
+    {
+      "agdtContext": "2 Morphological layer > 2.1 Article",
+      "construction": "Article",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1105
+        },
+        {
+          "n": 1106,
+          "to": 1117
+        },
+        {
+          "n": 1118,
+          "to": 1189
+        },
+        {
+          "n": 1153
+        },
+        {
+          "n": 1267
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer > 2.1 Article"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > independent > assumption",
+      "construction": "assumption",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2154
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.1 Attributive participle",
+      "construction": "Attributive participle",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1166
+        },
+        {
+          "n": 2049,
+          "to": 2053
+        },
+        {
+          "n": 2053
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.1 Attributive participle"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.13 AuxC",
+      "construction": "AuxC",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2770
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.13 AuxC"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.12 AuxP",
+      "construction": "AuxP",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1636,
+          "to": 1702
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.12 AuxP"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.17 AuxY",
+      "construction": "AuxY",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1094
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.17 AuxY"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adverb clause > causal clause",
+      "construction": "causal clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2240,
+          "to": 2248
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "cause",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1405,
+          "to": 1408
+        },
+        {
+          "n": 1517,
+          "to": 1520
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > cause",
+      "construction": "cause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2064
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > cause",
+      "construction": "cause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2064
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adjective clause > adjective clause proper > cause relative clause",
+      "construction": "cause relative clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2555
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle",
+      "construction": "Circumstantial participle",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2054
+        },
+        {
+          "n": 2069
+        },
+        {
+          "n": 2070,
+          "to": 2078
+        },
+        {
+          "n": 2079,
+          "to": 2087
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative > 4.1.1.1.3 Citation",
+      "construction": "Citation",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 940
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative > 4.1.1.1.3 Citation"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adverb clause > clause of comparison",
+      "construction": "clause of comparison",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2462,
+          "to": 2487
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > comitative dative",
+      "construction": "comitative dative",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1521,
+          "to": 1528
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > independent > command",
+      "construction": "command",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2155
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the infinitive > independent > command",
+      "construction": "command",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2013
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > concession",
+      "construction": "concession",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2066
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > concession",
+      "construction": "concession",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2066
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adverb clause > concessive clause",
+      "construction": "concessive clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2369,
+          "to": 2382
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > condition",
+      "construction": "condition",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2067
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > condition",
+      "construction": "condition",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2067
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adverb clause > conditional clause",
+      "construction": "conditional clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2280,
+          "to": 2368
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adjective clause > adjective clause proper > conditional relative clause",
+      "construction": "conditional relative clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2560,
+          "to": 2573
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "conformity",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1688
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "2 Morphological layer > 2.8 Conjunction",
+      "construction": "Conjunction",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2163
+        },
+        {
+          "n": 2770
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer > 2.8 Conjunction"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "connection",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1381
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adverb clause > consecutive clause",
+      "construction": "consecutive clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2249,
+          "to": 2278
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adjective clause > adjective clause proper > consecutive relative clause",
+      "construction": "consecutive relative clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2556,
+          "to": 2559
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.9 COORD",
+      "construction": "COORD",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2163
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.9 COORD"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "crime and accountability",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1375,
+          "to": 1379
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative",
+      "construction": "Dative",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1060,
+          "to": 1062
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Articular infinitive > dative (articular)",
+      "construction": "dative (articular)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2033
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.3 Articular infinitive"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative as direct complement of verbs",
+      "construction": "dative as direct complement of verbs",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1460,
+          "to": 1468
+        },
+        {
+          "n": 1471,
+          "to": 1473
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.1 Dative as indirect complement of verbs",
+      "construction": "Dative as indirect complement of verbs",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1471,
+          "to": 1473
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.1 Dative as indirect complement of verbs"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative as indirect complement of verbs",
+      "construction": "dative as indirect complement of verbs",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1469,
+          "to": 1470
+        },
+        {
+          "n": 1471,
+          "to": 1473
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > comitative dative > dative of accompaniment",
+      "construction": "dative of accompaniment",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1524,
+          "to": 1526
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.3 Dative of accompanying circumstance",
+      "construction": "Dative of accompanying circumstance",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1527
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.3 Dative of accompanying circumstance"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > comitative dative > dative of accompanying circumstance",
+      "construction": "dative of accompanying circumstance",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1527
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of interest > dative of advantage",
+      "construction": "dative of advantage",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1481,
+          "to": 1485
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of interest > dative of agent",
+      "construction": "dative of agent",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1488,
+          "to": 1494
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > instrumental dative proper > dative of cause",
+      "construction": "dative of cause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1517,
+          "to": 1520
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of interest > dative of disadvantage",
+      "construction": "dative of disadvantage",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1481,
+          "to": 1485
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of interest > dative of feeling",
+      "construction": "dative of feeling",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1486
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > comitative dative > dative of friendly association",
+      "construction": "dative of friendly association",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1523
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > comitative dative > dative of hostile association",
+      "construction": "dative of hostile association",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1523
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > instrumental dative proper > dative of instrument or means",
+      "construction": "dative of instrument or means",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1507,
+          "to": 1511
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of interest",
+      "construction": "dative of interest",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1474,
+          "to": 1494
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > instrumental dative proper > dative of measure of difference",
+      "construction": "dative of measure of difference",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1513,
+          "to": 1515
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > locative dative > dative of place",
+      "construction": "dative of place",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1531,
+          "to": 1538
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of relation > dative of reference",
+      "construction": "dative of reference",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1496,
+          "to": 1497
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of relation",
+      "construction": "dative of relation",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1495,
+          "to": 1498
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of relation > dative of relation proper",
+      "construction": "dative of relation proper",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1495
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > instrumental dative proper > dative of respect",
+      "construction": "dative of respect",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1516
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > instrumental dative proper > dative of standard of judgment",
+      "construction": "dative of standard of judgment",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1512
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of relation > dative of the participle expressing time",
+      "construction": "dative of the participle expressing time",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1498
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of interest > dative of the possessor",
+      "construction": "dative of the possessor",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1476,
+          "to": 1480
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > locative dative > dative of time",
+      "construction": "dative of time",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1539,
+          "to": 1543
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper",
+      "construction": "dative proper",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1457,
+          "to": 1498
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > dative proper > dative of interest > dative with participle of inclination or aversion",
+      "construction": "dative with participle of inclination or aversion",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1487
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of measure > degree",
+      "construction": "degree",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1325,
+          "to": 1327
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Accusative > dependent",
+      "construction": "dependent",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1551,
+          "to": 1598
+        },
+        {
+          "n": 1600,
+          "to": 1635
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Dative > dependent",
+      "construction": "dependent",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1450,
+          "to": 1550
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Genitive > dependent",
+      "construction": "dependent",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1289,
+          "to": 1406
+        },
+        {
+          "n": 1408,
+          "to": 1449
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "disadvantage",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1481,
+          "to": 1485
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Accusative > independent > elliptical accusative",
+      "construction": "elliptical accusative",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1599
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative > 4.1.1.1.5 Exclamation",
+      "construction": "Exclamation",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1288
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative > 4.1.1.1.5 Exclamation"
+    },
+    {
+      "agdtContext": "Genitive > independent > exclamation",
+      "construction": "exclamation",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1407
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > substantive clause > exclamation",
+      "construction": "exclamation",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2681,
+          "to": 2687
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > independent > exclamation",
+      "construction": "exclamation",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2158
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the infinitive > independent > exclamation",
+      "construction": "exclamation",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2015
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "explanation",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1322
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.3 External object (object affected)",
+      "construction": "External object (object affected)",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1551,
+          "to": 1562
+        },
+        {
+          "n": 1578,
+          "to": 1579
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.3 External object (object affected)"
+    },
+    {
+      "agdtContext": "Accusative > dependent > external object (object affected)",
+      "construction": "external object (object affected)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1590,
+          "to": 1598
+        },
+        {
+          "n": 1613,
+          "to": 1633
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "feeling",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1486
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adverb clause > final clause",
+      "construction": "final clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2193,
+          "to": 2206
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adjective clause > adjective clause proper > final relative clause",
+      "construction": "final relative clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2554
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "friendly association",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1523
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive",
+      "construction": "Genitive",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1060,
+          "to": 1062
+        },
+        {
+          "n": 2112
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Articular infinitive > genitive (articular)",
+      "construction": "genitive (articular)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2032
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.3 Articular infinitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > ablatival genitive > genitive of cause",
+      "construction": "genitive of cause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1405,
+          "to": 1407
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive > 4.1.1.2.4 Genitive of connection",
+      "construction": "Genitive of connection",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1381
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive > 4.1.1.2.4 Genitive of connection"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of connection",
+      "construction": "genitive of connection",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1380,
+          "to": 1381
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of crime and accountability",
+      "construction": "genitive of crime and accountability",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1375,
+          "to": 1379
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > ablatival genitive > genitive of distinction and comparison",
+      "construction": "genitive of distinction and comparison",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1401,
+          "to": 1404
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of explanation",
+      "construction": "genitive of explanation",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1322
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of material or contents",
+      "construction": "genitive of material or contents",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1323,
+          "to": 1324
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of measure",
+      "construction": "genitive of measure",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1325,
+          "to": 1327
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive of time and place > genitive of place",
+      "construction": "genitive of place",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1448,
+          "to": 1449
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of possession or belonging",
+      "construction": "genitive of possession or belonging",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1297,
+          "to": 1305
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of price and value",
+      "construction": "genitive of price and value",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1336,
+          "to": 1337
+        },
+        {
+          "n": 1372,
+          "to": 1374
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > ablatival genitive > genitive of purpose",
+      "construction": "genitive of purpose",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1408
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of quality",
+      "construction": "genitive of quality",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1320,
+          "to": 1321
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive > 4.1.1.2.5 Genitive of separation",
+      "construction": "Genitive of separation",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1392,
+          "to": 1400
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive > 4.1.1.2.5 Genitive of separation"
+    },
+    {
+      "agdtContext": "Genitive > dependent > ablatival genitive > genitive of separation",
+      "construction": "genitive of separation",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1392,
+          "to": 1400
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > ablatival genitive > genitive of source",
+      "construction": "genitive of source",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1410,
+          "to": 1411
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of the divided whole",
+      "construction": "genitive of the divided whole",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1306,
+          "to": 1319
+        },
+        {
+          "n": 1341,
+          "to": 1371
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive of time and place > genitive of time",
+      "construction": "genitive of time",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1444,
+          "to": 1447
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive of time and place",
+      "construction": "genitive of time and place",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1444,
+          "to": 1449
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive > 4.1.1.2.3 Genitive of topic",
+      "construction": "Genitive of topic",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1380
+        },
+        {
+          "n": 1409
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive > 4.1.1.2.3 Genitive of topic"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of topic",
+      "construction": "genitive of topic",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1380,
+          "to": 1381
+        },
+        {
+          "n": 1409
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper",
+      "construction": "genitive proper",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1290,
+          "to": 1337
+        },
+        {
+          "n": 1341,
+          "to": 1390
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "hostile association",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1523
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.7 Independent",
+      "construction": "Independent",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1599
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.7 Independent"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.1 Independent",
+      "construction": "Independent",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2153
+        },
+        {
+          "n": 2154
+        },
+        {
+          "n": 2155
+        },
+        {
+          "n": 2156
+        },
+        {
+          "n": 2157
+        },
+        {
+          "n": 2158
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.1 Independent"
+    },
+    {
+      "agdtContext": "Accusative > independent",
+      "construction": "independent",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1599
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Verbal infinitive > uncertain case > infinitive of purpose (uncertain case)",
+      "construction": "infinitive of purpose (uncertain case)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2008,
+          "to": 2010
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.4 Verbal infinitive"
+    },
+    {
+      "agdtContext": "Verbal infinitive > uncertain case > infinitive of result (uncertain case)",
+      "construction": "infinitive of result (uncertain case)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2011
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.4 Verbal infinitive"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "instrument or means",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1507,
+          "to": 1511
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative",
+      "construction": "instrumental dative",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1503,
+          "to": 1529
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "Dative > dependent > instrumental dative > instrumental dative proper",
+      "construction": "instrumental dative proper",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1506,
+          "to": 1520
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.2 Internal object (object effected)",
+      "construction": "Internal object (object effected)",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1563,
+          "to": 1577
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.2 Internal object (object effected)"
+    },
+    {
+      "agdtContext": "Accusative > dependent > internal object (object effected)",
+      "construction": "internal object (object effected)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1563,
+          "to": 1577
+        },
+        {
+          "n": 1619,
+          "to": 1627
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "1 Introduction",
+      "construction": "Introduction",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1
+        },
+        {
+          "n": 900,
+          "to": 2687
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "1 Introduction"
+    },
+    {
+      "agdtContext": "Dative > dependent > locative dative",
+      "construction": "locative dative",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1530,
+          "to": 1543
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "manner",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1513,
+          "to": 1515
+        },
+        {
+          "n": 1527
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.2 Manner",
+      "construction": "Manner",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1513,
+          "to": 1516
+        },
+        {
+          "n": 1527
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.2 Manner"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > manner",
+      "construction": "manner",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2062
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > manner",
+      "construction": "manner",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2062
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "material or contents",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1323,
+          "to": 1324
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > means",
+      "construction": "means",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2063
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > means",
+      "construction": "means",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2063
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "measure",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1317
+        },
+        {
+          "n": 1325
+        },
+        {
+          "n": 1325,
+          "to": 1327
+        },
+        {
+          "n": 1581
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "measure of difference",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1513,
+          "to": 1515
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "2 Morphological layer",
+      "construction": "Morphological layer",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative",
+      "construction": "Nominative",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1060,
+          "to": 1062
+        },
+        {
+          "n": 1745
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative"
+    },
+    {
+      "agdtContext": "Articular infinitive > nominative (articular)",
+      "construction": "nominative (articular)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2031
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.3 Articular infinitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative > 4.1.1.1.4 Nominativus pendens",
+      "construction": "Nominativus pendens",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 941
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.1 Nominative > 4.1.1.1.4 Nominativus pendens"
+    },
+    {
+      "agdtContext": "2 Morphological layer > 2.9 Numeral",
+      "construction": "Numeral",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 347,
+          "to": 354
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer > 2.9 Numeral"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.3 OBJ",
+      "construction": "OBJ",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1989,
+          "to": 2007
+        },
+        {
+          "n": 2016,
+          "to": 2024
+        },
+        {
+          "n": 2106
+        },
+        {
+          "n": 2112,
+          "to": 2115
+        },
+        {
+          "n": 2123,
+          "to": 2145
+        },
+        {
+          "n": 2247
+        },
+        {
+          "n": 2488
+        },
+        {
+          "n": 2574,
+          "to": 2575
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.3 OBJ"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > subjective/objective genitive > objective genitive",
+      "construction": "objective genitive",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1331,
+          "to": 1335
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.8 OCOMP",
+      "construction": "OCOMP",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1613,
+          "to": 1618
+        },
+        {
+          "n": 2110,
+          "to": 2115
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.8 OCOMP"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adjective clause > adjective clause proper > ordinary relative clause",
+      "construction": "ordinary relative clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2553
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.4 Path",
+      "construction": "Path",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1528
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.3 Dative > 4.1.1.3.4 Path"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.4 Periphrastic participle",
+      "construction": "Periphrastic participle",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 599
+        },
+        {
+          "n": 600
+        },
+        {
+          "n": 1961,
+          "to": 1965
+        },
+        {
+          "n": 2091
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.4 Periphrastic participle"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.7 PNOM",
+      "construction": "PNOM",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 917
+        },
+        {
+          "n": 1982,
+          "to": 1983
+        },
+        {
+          "n": 2094,
+          "to": 2105
+        },
+        {
+          "n": 2123,
+          "to": 2145
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.7 PNOM"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "possession or belonging/possessor",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1297,
+          "to": 1305
+        },
+        {
+          "n": 1476,
+          "to": 1480
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "price and value",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1336,
+          "to": 1337
+        },
+        {
+          "n": 1372,
+          "to": 1374
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "2 Morphological layer > 2.3 Pronoun",
+      "construction": "Pronoun",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 325,
+          "to": 340
+        },
+        {
+          "n": 340
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer > 2.3 Pronoun"
+    },
+    {
+      "agdtContext": "2 Morphological layer > 2.11 Punctuation",
+      "construction": "Punctuation",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 188
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "2 Morphological layer > 2.11 Punctuation"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "purpose",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1408
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > purpose",
+      "construction": "purpose",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2065
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > purpose",
+      "construction": "purpose",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2065
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "quality",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1320,
+          "to": 1321
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > substantive clause > question",
+      "construction": "question",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2663,
+          "to": 2680
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > independent > question",
+      "construction": "question",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2157
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "recipient or addressee",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1469,
+          "to": 1470
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "reference",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1496,
+          "to": 1497
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "relation",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1495
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "respect",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1516
+        },
+        {
+          "n": 1600,
+          "to": 1605
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "3 (Prague) syntactic layer > 3.2 SBJ",
+      "construction": "SBJ",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 927,
+          "to": 943
+        },
+        {
+          "n": 1972,
+          "to": 1981
+        },
+        {
+          "n": 1984,
+          "to": 1985
+        },
+        {
+          "n": 2025,
+          "to": 2034
+        },
+        {
+          "n": 2070,
+          "to": 2075
+        },
+        {
+          "n": 2106
+        },
+        {
+          "anchor": "b",
+          "n": 2112,
+          "to": 2115
+        },
+        {
+          "n": 2123,
+          "to": 2145
+        },
+        {
+          "n": 2488
+        },
+        {
+          "n": 2574,
+          "to": 2575
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "3 (Prague) syntactic layer > 3.2 SBJ"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "source",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1410,
+          "to": 1411
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of measure > space",
+      "construction": "space",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1325,
+          "to": 1327
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "standard of judgment",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1512
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > substantive clause > statement",
+      "construction": "statement",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2576,
+          "to": 2588
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > independent > statement",
+      "construction": "statement",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2153
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > subjective/objective genitive > subjective genitive",
+      "construction": "subjective genitive",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1330
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > subjective/objective genitive",
+      "construction": "subjective/objective genitive",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1328,
+          "to": 1335
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.3 Substantive clause",
+      "construction": "Substantive clause",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2207,
+          "to": 2239
+        },
+        {
+          "n": 2576,
+          "to": 2588
+        },
+        {
+          "n": 2663,
+          "to": 2680
+        },
+        {
+          "n": 2681,
+          "to": 2687
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb > 4.1.8.3 Substantive clause"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.3 Supplementary participle",
+      "construction": "Supplementary participle",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1060
+        },
+        {
+          "n": 2094,
+          "to": 2105
+        },
+        {
+          "n": 2106,
+          "to": 2115
+        },
+        {
+          "n": 2107
+        },
+        {
+          "n": 2110,
+          "to": 2115
+        },
+        {
+          "n": 2120,
+          "to": 2145
+        },
+        {
+          "n": 2123,
+          "to": 2145
+        },
+        {
+          "n": 2589,
+          "to": 2635
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.3 Supplementary participle"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case",
+      "construction": "Syntax of the case",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1306,
+          "to": 1319
+        },
+        {
+          "n": 1328,
+          "to": 1335
+        },
+        {
+          "n": 1341,
+          "to": 1371
+        },
+        {
+          "n": 1413
+        },
+        {
+          "n": 1460,
+          "to": 1468
+        },
+        {
+          "n": 1471,
+          "to": 1473
+        },
+        {
+          "n": 1487
+        },
+        {
+          "n": 1498
+        },
+        {
+          "n": 1551,
+          "to": 1562
+        },
+        {
+          "n": 1563,
+          "to": 1579
+        },
+        {
+          "n": 1685
+        },
+        {
+          "n": 1686
+        },
+        {
+          "n": 1692
+        },
+        {
+          "n": 2522
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive",
+      "construction": "Syntax of the infinitive",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1966
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > adverb clause > temporal clause",
+      "construction": "temporal clause",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2383,
+          "to": 2461
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Verbal infinitive > uncertain case > temporal infinitive (uncertain case)",
+      "construction": "temporal infinitive (uncertain case)",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2453,
+          "to": 2461
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.4 Verbal infinitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.5 Terminal accusative",
+      "construction": "Terminal accusative",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1588
+        },
+        {
+          "n": 1589
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative > 4.1.1.4.5 Terminal accusative"
+    },
+    {
+      "agdtContext": "Accusative > dependent > terminal accusative",
+      "construction": "terminal accusative",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1588,
+          "to": 1589
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.4 Accusative"
+    },
+    {
+      "agdtContext": "Adjective participle > circumstantial participle > time",
+      "construction": "time",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2061
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle"
+    },
+    {
+      "agdtContext": "Circumstantial participle > time",
+      "construction": "time",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2061
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.9 Adjective participle > 4.1.9.2 Circumstantial participle"
+    },
+    {
+      "agdtContext": "Genitive > dependent > genitive proper > genitive of measure > time",
+      "construction": "time",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 1325,
+          "to": 1327
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.2 Genitive"
+    },
+    {
+      "agdtContext": "1. Table for semantic roles in AG",
+      "construction": "topic",
+      "contextKind": "table-row",
+      "sections": [
+        {
+          "n": 1380,
+          "to": 1381
+        },
+        {
+          "n": 1409
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.4 Verbal adjective in τος/τεος",
+      "construction": "Verbal adjective in τος/τεος",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 2149,
+          "to": 2152
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.4 Verbal adjective in τος/τεος"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.4 Verbal infinitive",
+      "construction": "Verbal infinitive",
+      "contextKind": "prose",
+      "sections": [
+        {
+          "n": 1989,
+          "to": 2007
+        },
+        {
+          "n": 2008,
+          "to": 2010
+        },
+        {
+          "n": 2011
+        },
+        {
+          "n": 2016,
+          "to": 2024
+        },
+        {
+          "n": 2453,
+          "to": 2461
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive > 4.1.11.4 Verbal infinitive"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > dependent > substantive clause > will or desire",
+      "construction": "will or desire",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2207,
+          "to": 2239
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the finite verb > independent > wish",
+      "construction": "wish",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2156
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.8 Syntax of the finite verb"
+    },
+    {
+      "agdtContext": "Syntax of the infinitive > independent > wish",
+      "construction": "wish",
+      "contextKind": "list-item",
+      "sections": [
+        {
+          "n": 2014
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.11 Syntax of the infinitive"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.5 διά",
+      "construction": "διά",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1685
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.5 διά"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.6 εἰς, ἐς",
+      "construction": "εἰς, ἐς",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1686
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.6 εἰς, ἐς"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.10 κατά",
+      "construction": "κατά",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1690
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.10 κατά"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.11 μετά",
+      "construction": "μετά",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1691
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.11 μετά"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.12 παρά",
+      "construction": "παρά",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1692
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.12 παρά"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.13 περί",
+      "construction": "περί",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1693
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.13 περί"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.14 πρό",
+      "construction": "πρό",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1694
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.14 πρό"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.15 πρός",
+      "construction": "πρός",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1695
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.15 πρός"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.16 σύν",
+      "construction": "σύν",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1696
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.16 σύν"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.1 ἀμφί",
+      "construction": "ἀμφί",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1681
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.1 ἀμφί"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.2 ἀνά",
+      "construction": "ἀνά",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1682
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.2 ἀνά"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.3 ἀντί",
+      "construction": "ἀντί",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1683
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.3 ἀντί"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.4 ἀπό",
+      "construction": "ἀπό",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1684
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.4 ἀπό"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.7 ἐν",
+      "construction": "ἐν",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1687
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.7 ἐν"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.8 ἐξ, ἐκ",
+      "construction": "ἐξ, ἐκ",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1688
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.8 ἐξ, ἐκ"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.9 ἐπί",
+      "construction": "ἐπί",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1689
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.9 ἐπί"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.17 ὑπέρ",
+      "construction": "ὑπέρ",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1697
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.17 ὑπέρ"
+    },
+    {
+      "agdtContext": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.18 ὑπό",
+      "construction": "ὑπό",
+      "contextKind": "heading",
+      "sections": [
+        {
+          "n": 1698
+        }
+      ],
+      "sourceFile": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "sourceHeading": "4 (Smyth's Grammar) Advanced syntax layer / semantic layer > 4.1 Morphosyntactic tagset > 4.1.1 Syntax of the case > 4.1.1.5 Adpositions > 4.1.1.5.18 ὑπό"
+    }
+  ],
+  "meta": {
+    "counts": {
+      "distinctSectionsLinked": 273,
+      "distinctSectionsWithRangesExpanded": 1824,
+      "entries": 254,
+      "entriesByContextKind": {
+        "heading": 18,
+        "list-item": 144,
+        "prose": 53,
+        "table-row": 39
+      },
+      "rangeCitations": 200,
+      "totalLinks": 624
+    },
+    "emptyContexts": [],
+    "linkForms": {
+      "http://www.perseus.tufts.edu/hopper/text?doc=Smyfth+grammar+NNNN&fromdoc=Perseus%3Atext%3A1999.04.0007": 1,
+      "http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+NNNN&fromdoc=Perseus%3Atext%3A1999.04.0007": 619,
+      "http://www.perseus.txufts.edu/hopper/text?doc=Smyth+grammar+NNNN&fromdoc=Perseus%3Atext%3A1999.04.0007": 1,
+      "https://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+NNNN&fromdoc=Perseus%3Atext%3A1999.04.0007": 3
+    },
+    "malformedLinks": [
+      {
+        "href": "http://www.perseus.tufts.edu/hopper/text?doc=Smyfth+grammar+1698&fromdoc=Perseus%3Atext%3A1999.04.0007",
+        "line": 1653,
+        "note": "typo in source URL; section number recovered",
+        "section": 1698
+      },
+      {
+        "href": "http://www.perseus.txufts.edu/hopper/text?doc=Smyth+grammar+1692&fromdoc=Perseus%3Atext%3A1999.04.0007",
+        "line": 1983,
+        "note": "typo in source URL; section number recovered",
+        "section": 1692
+      }
+    ],
+    "source": {
+      "author": "Giuseppe G. A. Celano",
+      "commit": "bf4334f0af5e13d16b04c1cccd6237e683ac6f5f",
+      "copyright": "Copyright 2014 The Perseus Digital Library, Tufts University",
+      "file": "AGDT2/guidelines/Greek_guidelines_2.5.md",
+      "license": "CC BY-SA 3.0 US",
+      "repository": "https://github.com/PerseusDL/treebank_data",
+      "title": "Guidelines for the annotation of the Ancient Greek Dependency Treebank 2.0",
+      "year": 2014
+    },
+    "target": {
+      "edition": "Smyth, Greek Grammar for Colleges (1920)",
+      "work": "smyth"
+    },
+    "unmappableLinks": [],
+    "unnamedContexts": []
+  }
+}

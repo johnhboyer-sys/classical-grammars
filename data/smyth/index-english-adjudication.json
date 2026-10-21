@@ -1,0 +1,1554 @@
+{
+ "method": "Three independent transcription passes over the 1920 scan (Claude Opus vision transcription; LlamaParse parse_page_with_agent; Churro via Stanford HistoryGenie, run by the owner). Token-level alignment and diff; disputes adjudicated by the owner against line-exact image crops (Bonitz-style review queue, 2026-08-02). Pure letter-case disputes auto-resolved to the Opus reading by owner precedent; subentry-segmentation disputes auto-resolved where the disputed run's first line is indented in the print (ink-projection test).",
+ "passes": [
+  "opus",
+  "genie(churro/historygenie)",
+  "llamaparse"
+ ],
+ "stats": {
+  "entries": 752,
+  "sitesDisputed": 259,
+  "autoResolvedCaseOnly": 62,
+  "autoResolvedIndentVerified": 32,
+  "ownerRulings": 139,
+  "contentEdits": 6
+ },
+ "contentEdits": [
+  {
+   "page": 741,
+   "old": "Metathesis, 128, 492, 549, 659 d, 586 f.",
+   "new": "Metathesis, 128, 492, 549, 559 d, 586 f.",
+   "ruling": "genie+llama vs opus; image-verified 559",
+   "replacements": 3
+  },
+  {
+   "page": 740,
+   "old": "Koinè, Intr. F; -η in sec. pers. mid., 628.",
+   "new": "Koinè, Intr. F; -ῃ in sec. pers. mid., 628.",
+   "ruling": "genie; iota subscript, the 2 sg. mid. ending",
+   "replacements": 2
+  },
+  {
+   "page": 731,
+   "old": "ωὑτός (Hom.)",
+   "new": "ωὐτός (Hom.)",
+   "ruling": "John's ruling; §327's own text: 'crasis ωὐτός (Hom.), ωὑτός'",
+   "replacements": 2
+  },
+  {
+   "page": 731,
+   "old": "ἅτερος, θάτερον",
+   "new": "ἅ̄τερος, θά̄τερον",
+   "ruling": "John's macron note; §337 (the cited section) prints ἅ̄τερος, θά̄τερον",
+   "replacements": 2
+  },
+  {
+   "page": 754,
+   "old": "by ἐάν w.",
+   "new": "by ἐά̄ν w.",
+   "ruling": "John's macron note; corpus form ἐά̄ν per §2283",
+   "replacements": 2
+  },
+  {
+   "page": 740,
+   "old": "ἀλλ’ οὐ",
+   "new": "ἀλλ᾽ οὐ",
+   "ruling": "genie; corpus elision convention U+1FBD",
+   "replacements": 2
+  }
+ ],
+ "ownerRulings": [
+  {
+   "id": "site|Abstract|230",
+   "choice": "opus",
+   "note": "Numbers, 354 e."
+  },
+  {
+   "id": "site|Accent|298",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|441",
+   "choice": "opus",
+   "note": "Its capital but the N is half size. Not sure what the signifies."
+  },
+  {
+   "id": "site|Accent|559",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|621",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accusative case|97",
+   "choice": "opus",
+   "note": "The little capital N again"
+  },
+  {
+   "id": "site|Accusative case|122",
+   "choice": "opus",
+   "note": "Remembering is in italics"
+  },
+  {
+   "id": "site|Accusative case|163",
+   "choice": "opus",
+   "note": "Its in italics"
+  },
+  {
+   "id": "site|Accusative case|182",
+   "choice": "opus",
+   "note": "Italics"
+  },
+  {
+   "id": "site|Accusative case|200",
+   "choice": "opus",
+   "note": "Italics"
+  },
+  {
+   "id": "site|Accusative case|299",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accusative case|320",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accusative case|434",
+   "choice": "opus",
+   "note": "Tiny cap N"
+  },
+  {
+   "id": "site|Accusative case|458",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accusative case|502",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accusative case|601",
+   "choice": "opus",
+   "note": "vbs,"
+  },
+  {
+   "id": "site|Accusative case|651",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Active|25",
+   "choice": null,
+   "note": "Voice 356; endings 462-464,"
+  },
+  {
+   "id": "site|Abstract|233",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|298",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|559",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|621",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Answers|219",
+   "choice": "opus",
+   "note": "yellow (opus line) correct"
+  },
+  {
+   "id": "site|Aorist tense|112",
+   "choice": "opus",
+   "note": "print has o/e alternatives notation; opus line faithful; cell display was lossy"
+  },
+  {
+   "id": "site|Article|220",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Article|324",
+   "choice": "opus",
+   "note": "yellow correct"
+  },
+  {
+   "id": "site|Compound|82",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Conditional|84",
+   "choice": "opus",
+   "note": "yellow correct"
+  },
+  {
+   "id": "site|Consonant|121",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Compound|82",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Article|220",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|621",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|559",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Accent|298",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Abstract|233",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Crasis|48",
+   "choice": "correction",
+   "note": "Should be ωὐτός (none of the three readers right)"
+  },
+  {
+   "id": "site|Crasis|96",
+   "choice": "opus",
+   "note": "print stacks macron + breathing + accent on the alphas; verify opus kept the macrons (ᾱ)"
+  },
+  {
+   "id": "site|Dative case|40",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Dative case|804",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Deliberative|100",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Doubling of consonants|58",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|49",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|163",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|272",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|309",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|458",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|510",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|532",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|591",
+   "choice": null,
+   "note": "left open"
+  },
+  {
+   "id": "site|Ellipse|591",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|797",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|849",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1028",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1051",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1074",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1139",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1246",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1274",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1307",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1327",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1354",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1393",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1414",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1435",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1456",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1476",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Ellipse|1489",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Emphatic|88",
+   "choice": "correction",
+   "note": "opus reading but iota carries a macron (ῑ)"
+  },
+  {
+   "id": "site|Emphatic|136",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Emphatic|299",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Emphatic|323",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Emphatic|333",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Emphatic|513",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Final|333",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Formation|42",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Future perfect tense|27",
+   "choice": "opus"
+  },
+  {
+   "id": "site|General|113",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Gradation|167",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Indicative mood|368",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Infinitive|98",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Irony|212",
+   "choice": "genie"
+  },
+  {
+   "id": "site|Koinè|17",
+   "choice": "genie"
+  },
+  {
+   "id": "site|Liquids|37",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Liquids|46",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Metathesis|27",
+   "choice": "genie",
+   "note": "559, image-verified"
+  },
+  {
+   "id": "site|Negatives|14",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Oaths|14",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Oaths|118",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Optative mood|109",
+   "choice": "correction",
+   "note": "opus reading but iota carries a macron (ῑ)"
+  },
+  {
+   "id": "site|Past or present|120",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Personal pronouns|227",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Personal pronouns|235",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Pleonasm|93",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Pleonasm|135",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Present or past|115",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Proper names|64",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Protestations|88",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Questions|342",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Questions|474",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Questions|828",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Questions|1044",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Recessive accent|27",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Reduplication|15",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Reduplication|42",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Reduplication|61",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Reduplication|362",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Simple sentence|162",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Stops|90",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Stops|107",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Temporal clauses|397",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Tenses|338",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Threat|74",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Threat|102",
+   "choice": "correction",
+   "note": "opus reading but alpha carries a macron (ᾱ)"
+  },
+  {
+   "id": "site|Threat|128",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Time|213",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Time|446",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|22",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|36",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|51",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|65",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|86",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|99",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|112",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|129",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|149",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|166",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|197",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|215",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|242",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Transition|262",
+   "choice": "opus"
+  },
+  {
+   "id": "site|Verbal|77",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Coördination",
+   "choice": "opus",
+   "note": "second line at '2161; use, 2165' is indented -> continuation, belongs inside the entry"
+  },
+  {
+   "id": "seg|“Assimilated” forms in vbs.",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Iota class of present stems",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Reflexive|52",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Thematic|44",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Reciprocal|42",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Possessive|50",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Position|66",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Partitive|42",
+   "choice": "opus"
+  },
+  {
+   "id": "seg|Interrogative|38",
+   "choice": "opus"
+  }
+ ],
+ "autoResolvedCaseOnly": [
+  {
+   "head": "Accent",
+   "span": [
+    53,
+    54
+   ],
+   "opus": "N.",
+   "genie": "n.",
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Attributive",
+   "span": [
+    4,
+    5
+   ],
+   "opus": "N.",
+   "genie": "n.",
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Concessive",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Concessive",
+   "span": [
+    4,
+    4
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Concessive",
+   "span": [
+    7,
+    7
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Concords",
+   "span": [
+    1,
+    1
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Concords",
+   "span": [
+    6,
+    6
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Concords",
+   "span": [
+    8,
+    8
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Concords",
+   "span": [
+    11,
+    11
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Construction according to sense (agreement)",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Contact of vowels",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Content",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Contents",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Continents",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Continuance",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Continued action",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Contracted",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Contraction",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Contrast",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Deliberative",
+   "span": [
+    2,
+    2
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Final",
+   "span": [
+    14,
+    14
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Final",
+   "span": [
+    16,
+    16
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "General",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "General",
+   "span": [
+    6,
+    6
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Instrument of action",
+   "span": [
+    0,
+    0
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Instrument of action",
+   "span": [
+    6,
+    6
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Instrument of action",
+   "span": [
+    10,
+    10
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Instrument of action",
+   "span": [
+    16,
+    16
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Instrument of action",
+   "span": [
+    21,
+    21
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Inverse",
+   "span": [
+    2,
+    2
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Inverse",
+   "span": [
+    3,
+    3
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Irony",
+   "span": [
+    15,
+    16
+   ],
+   "opus": "N.",
+   "genie": "n.",
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Knowing",
+   "span": [
+    3,
+    3
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Labial vbs.",
+   "span": [
+    1,
+    2
+   ],
+   "opus": "N.",
+   "genie": "n.",
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Learning",
+   "span": [
+    7,
+    7
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Lengthening",
+   "span": [
+    24,
+    25
+   ],
+   "opus": "N.",
+   "genie": "n.",
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Negatives",
+   "span": [
+    15,
+    15
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Negatives",
+   "span": [
+    20,
+    20
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Optative mood",
+   "span": [
+    23,
+    23
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Optative mood",
+   "span": [
+    25,
+    25
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Optative mood",
+   "span": [
+    29,
+    29
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Optative mood",
+   "span": [
+    32,
+    32
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Optative mood",
+   "span": [
+    33,
+    33
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Optative mood",
+   "span": [
+    36,
+    36
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Optative mood",
+   "span": [
+    39,
+    39
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Parataxis",
+   "span": [
+    2,
+    2
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Personal pronouns",
+   "span": [
+    5,
+    6
+   ],
+   "opus": "N.",
+   "genie": null,
+   "llama": "n.",
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Pleonasm",
+   "span": [
+    23,
+    24
+   ],
+   "opus": "N.",
+   "genie": null,
+   "llama": "n.",
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Pleonasm",
+   "span": [
+    34,
+    34
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Pleonasm",
+   "span": [
+    37,
+    37
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Pleonasm",
+   "span": [
+    46,
+    46
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Questions",
+   "span": [
+    66,
+    66
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Questions",
+   "span": [
+    68,
+    68
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Simple sentence",
+   "span": [
+    6,
+    6
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Temporal clauses",
+   "span": [
+    9,
+    9
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Temporal clauses",
+   "span": [
+    10,
+    10
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Temporal clauses",
+   "span": [
+    14,
+    14
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Temporal clauses",
+   "span": [
+    18,
+    18
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Temporal clauses",
+   "span": [
+    23,
+    23
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Temporal clauses",
+   "span": [
+    25,
+    25
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Tenses",
+   "span": [
+    22,
+    23
+   ],
+   "opus": "N.",
+   "genie": "n.",
+   "llama": "n.",
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  },
+  {
+   "head": "Tenses",
+   "span": [
+    37,
+    37
+   ],
+   "opus": "",
+   "genie": null,
+   "llama": null,
+   "rule": "case-only -> opus (precedent: batch 1 small-cap N.)"
+  }
+ ],
+ "indentCheck": [
+  {
+   "head": "Active",
+   "verdict": "indented",
+   "indentPx": 18
+  },
+  {
+   "head": "Answers",
+   "verdict": "indented",
+   "indentPx": 58
+  },
+  {
+   "head": "Aorist tense",
+   "verdict": "indented",
+   "indentPx": 42
+  },
+  {
+   "head": "Article",
+   "verdict": "indented",
+   "indentPx": 46
+  },
+  {
+   "head": "“Assimilated” forms in vbs.",
+   "verdict": "FLUSH",
+   "indentPx": 3
+  },
+  {
+   "head": "Attributive",
+   "verdict": "indented",
+   "indentPx": 45
+  },
+  {
+   "head": "Cognate",
+   "verdict": "indented",
+   "indentPx": 92
+  },
+  {
+   "head": "Comparative",
+   "verdict": "indented",
+   "indentPx": 95
+  },
+  {
+   "head": "Compound",
+   "verdict": "indented",
+   "indentPx": 88
+  },
+  {
+   "head": "Conditional",
+   "verdict": "indented",
+   "indentPx": 46
+  },
+  {
+   "head": "Constructio praegnans",
+   "verdict": "indented",
+   "indentPx": 42
+  },
+  {
+   "head": "Coördination",
+   "verdict": "FLUSH",
+   "indentPx": 0
+  },
+  {
+   "head": "Demonstrative",
+   "verdict": "FLUSH",
+   "indentPx": 4
+  },
+  {
+   "head": "Direct",
+   "verdict": "indented",
+   "indentPx": 92
+  },
+  {
+   "head": "Ellipse",
+   "verdict": "indented",
+   "indentPx": 49
+  },
+  {
+   "head": "Future perfect tense",
+   "verdict": "indented",
+   "indentPx": 49
+  },
+  {
+   "head": "Future tense",
+   "verdict": "indented",
+   "indentPx": 49
+  },
+  {
+   "head": "Imperative",
+   "verdict": "indented",
+   "indentPx": 98
+  },
+  {
+   "head": "Imperfect tense",
+   "verdict": "indented",
+   "indentPx": 84
+  },
+  {
+   "head": "Indefinite",
+   "verdict": "FLUSH",
+   "indentPx": 1
+  },
+  {
+   "head": "Indicative mood",
+   "verdict": "indented",
+   "indentPx": 46
+  },
+  {
+   "head": "Indirect",
+   "verdict": "indented",
+   "indentPx": 92
+  },
+  {
+   "head": "Infinitive",
+   "verdict": "indented",
+   "indentPx": 91
+  },
+  {
+   "head": "Interrogative",
+   "verdict": "FLUSH",
+   "indentPx": 6
+  },
+  {
+   "head": "Iota class of present stems",
+   "verdict": "FLUSH",
+   "indentPx": 7
+  },
+  {
+   "head": "Optative mood",
+   "verdict": "indented",
+   "indentPx": 109
+  },
+  {
+   "head": "Participles",
+   "verdict": "indented",
+   "indentPx": 33
+  },
+  {
+   "head": "Partitive",
+   "verdict": "FLUSH",
+   "indentPx": 2
+  },
+  {
+   "head": "Perfect tense",
+   "verdict": "indented",
+   "indentPx": 90
+  },
+  {
+   "head": "Pluperfect tense",
+   "verdict": "indented",
+   "indentPx": 40
+  },
+  {
+   "head": "Plural",
+   "verdict": "indented",
+   "indentPx": 49
+  },
+  {
+   "head": "Position",
+   "verdict": "FLUSH",
+   "indentPx": 2
+  },
+  {
+   "head": "Possessive",
+   "verdict": "FLUSH",
+   "indentPx": 1
+  },
+  {
+   "head": "Predicate",
+   "verdict": "indented",
+   "indentPx": 44
+  },
+  {
+   "head": "Present tense",
+   "verdict": "indented",
+   "indentPx": 45
+  },
+  {
+   "head": "Questions",
+   "verdict": "indented",
+   "indentPx": 54
+  },
+  {
+   "head": "Reciprocal",
+   "verdict": "FLUSH",
+   "indentPx": 0
+  },
+  {
+   "head": "Reflexive",
+   "verdict": "FLUSH",
+   "indentPx": 3
+  },
+  {
+   "head": "Relative",
+   "verdict": "indented",
+   "indentPx": 44
+  },
+  {
+   "head": "Subjunctive mood",
+   "verdict": "indented",
+   "indentPx": 48
+  },
+  {
+   "head": "Thematic",
+   "verdict": "FLUSH",
+   "indentPx": 6
+  },
+  {
+   "head": "Verbal",
+   "verdict": "indented",
+   "indentPx": 88
+  },
+  {
+   "head": "Verbs",
+   "verdict": "indented",
+   "indentPx": 46
+  },
+  {
+   "head": "Vowel",
+   "verdict": "indented",
+   "indentPx": 44
+  }
+ ]
+}

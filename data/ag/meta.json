@@ -1,0 +1,1457 @@
+{
+  "work": "ag",
+  "title": "Allen and Greenough's New Latin Grammar for Schools and Colleges",
+  "source": "grammar-ag-tei/data/viaf39744457/001/viaf39744457.001.perseus-eng1.xml",
+  "sourceRepository": "https://github.com/PerseusDL/canonical-pdlrefwk",
+  "sourceCommit": "02768b0c37d6102be4899fc0eb57f9d348195243",
+  "license": "CC BY-SA 4.0 (Perseus Digital Library)",
+  "edition": "Ginn and Company, 1903",
+  "toc": [
+    {
+      "head": "PART FIRST — WORDS AND FORMS",
+      "start": 1,
+      "end": 267,
+      "chapters": [
+        {
+          "head": "THE ALPHABET",
+          "start": 1,
+          "end": 5,
+          "sections": [
+            {
+              "head": "Classification of Sounds",
+              "start": 2,
+              "end": 5
+            }
+          ]
+        },
+        {
+          "head": "ORTHOGRAPHY",
+          "start": 6,
+          "end": 19,
+          "sections": [
+            {
+              "head": "Syllables",
+              "start": 7,
+              "end": 7
+            },
+            {
+              "head": "Pronunciation",
+              "start": 8,
+              "end": 8
+            },
+            {
+              "head": "Quantity",
+              "start": 9,
+              "end": 11
+            },
+            {
+              "head": "Accent",
+              "start": 12,
+              "end": 12
+            },
+            {
+              "head": "Combinations",
+              "start": 13,
+              "end": 13
+            },
+            {
+              "head": "Phonetic Changes",
+              "start": 14,
+              "end": 15
+            },
+            {
+              "head": "Consonant Changes",
+              "start": 16,
+              "end": 16
+            },
+            {
+              "head": "Vowel Variations",
+              "start": 17,
+              "end": 17
+            },
+            {
+              "head": "Kindred Forms",
+              "start": 18,
+              "end": 19
+            }
+          ]
+        },
+        {
+          "head": "THE PARTS OF SPEECH",
+          "start": 20,
+          "end": 20,
+          "sections": []
+        },
+        {
+          "head": "INFLECTION",
+          "start": 21,
+          "end": 28,
+          "sections": [
+            {
+              "head": "Root, Stem, and Base",
+              "start": 24,
+              "end": 28
+            }
+          ]
+        },
+        {
+          "head": "GENDER",
+          "start": 29,
+          "end": 34,
+          "sections": [
+            {
+              "head": "General Rules of Gender",
+              "start": 31,
+              "end": 34
+            }
+          ]
+        },
+        {
+          "head": "NUMBER AND CASE",
+          "start": 35,
+          "end": 35,
+          "sections": []
+        },
+        {
+          "head": "DECLENSION OF NOUNS",
+          "start": 36,
+          "end": 39,
+          "sections": [
+            {
+              "head": "Case-endings of the Five Declensions",
+              "start": 39,
+              "end": 39
+            }
+          ]
+        },
+        {
+          "head": "FIRST DECLENSION (ā-STEMS)",
+          "start": 40,
+          "end": 44,
+          "sections": [
+            {
+              "head": "Gender in the First Declension",
+              "start": 42,
+              "end": 42
+            },
+            {
+              "head": "Case-Forms in the First Declension",
+              "start": 43,
+              "end": 43
+            },
+            {
+              "head": "Greek Nouns of the First Declension",
+              "start": 44,
+              "end": 44
+            }
+          ]
+        },
+        {
+          "head": "SECOND DECLENSION (o-STEMS)",
+          "start": 45,
+          "end": 52,
+          "sections": [
+            {
+              "head": "Gender in the Second Declension",
+              "start": 48,
+              "end": 48
+            },
+            {
+              "head": "Case-Forms in the Second Declension",
+              "start": 49,
+              "end": 51
+            },
+            {
+              "head": "Greek Nouns of the Second Declension",
+              "start": 52,
+              "end": 52
+            }
+          ]
+        },
+        {
+          "head": "THIRD DECLENSION (CONSONANT AND i-STEMS)",
+          "start": 53,
+          "end": 87,
+          "sections": [
+            {
+              "head": "CONSONANT STEMS",
+              "start": 56,
+              "end": 64
+            },
+            {
+              "head": "i-STEMS",
+              "start": 65,
+              "end": 78
+            },
+            {
+              "head": "Irregular Nouns of the Third Declension",
+              "start": 79,
+              "end": 79
+            },
+            {
+              "head": "The Locative Case",
+              "start": 80,
+              "end": 80
+            },
+            {
+              "head": "Greek Nouns of the Third Declension",
+              "start": 81,
+              "end": 83
+            },
+            {
+              "head": "Gender in the Third Declension",
+              "start": 84,
+              "end": 87
+            }
+          ]
+        },
+        {
+          "head": "FOURTH DECLENSION",
+          "start": 88,
+          "end": 94,
+          "sections": []
+        },
+        {
+          "head": "FIFTH DECLENSION (ē-STEMS)",
+          "start": 95,
+          "end": 98,
+          "sections": [
+            {
+              "head": "Gender in the Fifth Declension",
+              "start": 97,
+              "end": 97
+            },
+            {
+              "head": "Case-Forms in the Fifth Declension",
+              "start": 98,
+              "end": 98
+            }
+          ]
+        },
+        {
+          "head": "DEFECTIVE NOUNS",
+          "start": 99,
+          "end": 103,
+          "sections": [
+            {
+              "head": "Nouns wanting in the Plural",
+              "start": 99,
+              "end": 100
+            },
+            {
+              "head": "Nouns wanting in the Singular",
+              "start": 101,
+              "end": 102
+            },
+            {
+              "head": "Nouns Defective in Certain Cases",
+              "start": 103,
+              "end": 103
+            }
+          ]
+        },
+        {
+          "head": "VARIABLE NOUNS",
+          "start": 104,
+          "end": 107,
+          "sections": []
+        },
+        {
+          "head": "NAMES OF PERSONS",
+          "start": 108,
+          "end": 108,
+          "sections": []
+        },
+        {
+          "head": "ADJECTIVES",
+          "start": 109,
+          "end": 109,
+          "sections": []
+        },
+        {
+          "head": "FIRST AND SECOND DECLENSIONS (ā- AND o-STEMS)",
+          "start": 110,
+          "end": 113,
+          "sections": [
+            {
+              "head": "bonus, bona, bonum, good",
+              "start": 111,
+              "end": 111
+            },
+            {
+              "head": "miser, misera, miserum, wretched",
+              "start": 112,
+              "end": 112
+            },
+            {
+              "head": "niger, nigra, nigrum, black",
+              "start": 113,
+              "end": 113
+            }
+          ]
+        },
+        {
+          "head": "THIRD DECLENSION (CONSONANT AND i-STEMS)",
+          "start": 114,
+          "end": 122,
+          "sections": [
+            {
+              "head": "Adjectives of Three and of Two Terminations",
+              "start": 115,
+              "end": 116
+            },
+            {
+              "head": "Adjectives of One Termination",
+              "start": 117,
+              "end": 119
+            },
+            {
+              "head": "Declension of Comparatives",
+              "start": 120,
+              "end": 120
+            },
+            {
+              "head": "Case-Forms of Consonant Stems",
+              "start": 121,
+              "end": 121
+            },
+            {
+              "head": "Irregularities and Special Uses of Adjectives",
+              "start": 122,
+              "end": 122
+            }
+          ]
+        },
+        {
+          "head": "COMPARISON OF ADJECTIVES",
+          "start": 123,
+          "end": 131,
+          "sections": [
+            {
+              "head": "Irregular Comparison",
+              "start": 129,
+              "end": 129
+            },
+            {
+              "head": "Defective Comparison",
+              "start": 130,
+              "end": 131
+            }
+          ]
+        },
+        {
+          "head": "NUMERALS",
+          "start": 132,
+          "end": 139,
+          "sections": [
+            {
+              "head": "Cardinals and Ordinals",
+              "start": 133,
+              "end": 133
+            },
+            {
+              "head": "Declension of Cardinals and Ordinals",
+              "start": 134,
+              "end": 135
+            },
+            {
+              "head": "Distributives",
+              "start": 136,
+              "end": 137
+            },
+            {
+              "head": "Numeral Adverbs",
+              "start": 138,
+              "end": 138
+            },
+            {
+              "head": "Other Numerals",
+              "start": 139,
+              "end": 139
+            }
+          ]
+        },
+        {
+          "head": "PRONOUNS",
+          "start": 140,
+          "end": 152,
+          "sections": [
+            {
+              "head": "Personal Pronouns",
+              "start": 142,
+              "end": 143
+            },
+            {
+              "head": "Reflexive Pronouns",
+              "start": 144,
+              "end": 144
+            },
+            {
+              "head": "Possessive Pronouns",
+              "start": 145,
+              "end": 145
+            },
+            {
+              "head": "Demonstrative Pronouns",
+              "start": 146,
+              "end": 146
+            },
+            {
+              "head": "Relative Pronouns",
+              "start": 147,
+              "end": 147
+            },
+            {
+              "head": "Interrogative and Indefinite Pronouns",
+              "start": 148,
+              "end": 151
+            },
+            {
+              "head": "Correlatives",
+              "start": 152,
+              "end": 152
+            }
+          ]
+        },
+        {
+          "head": "VERBS: CONJUGATION OF THE VERB",
+          "start": 153,
+          "end": 155,
+          "sections": [
+            {
+              "head": "Voice, Mood, Tense, Person, Number",
+              "start": 154,
+              "end": 154
+            },
+            {
+              "head": "Noun and Adjective Forms",
+              "start": 155,
+              "end": 155
+            }
+          ]
+        },
+        {
+          "head": "SIGNIFICATION OF THE FORMS OF THE VERB",
+          "start": 156,
+          "end": 162,
+          "sections": [
+            {
+              "head": "Voices",
+              "start": 156,
+              "end": 156
+            },
+            {
+              "head": "Moods",
+              "start": 157,
+              "end": 157
+            },
+            {
+              "head": "Participles",
+              "start": 158,
+              "end": 158
+            },
+            {
+              "head": "Gerund and Supine",
+              "start": 159,
+              "end": 159
+            },
+            {
+              "head": "Tenses of the Finite Verb",
+              "start": 160,
+              "end": 162
+            }
+          ]
+        },
+        {
+          "head": "PERSONAL ENDINGS",
+          "start": 163,
+          "end": 163,
+          "sections": []
+        },
+        {
+          "head": "FORMS OF THE VERB",
+          "start": 164,
+          "end": 170,
+          "sections": [
+            {
+              "head": "The Three Stems",
+              "start": 164,
+              "end": 164
+            },
+            {
+              "head": "VERB-ENDINGS",
+              "start": 165,
+              "end": 169
+            },
+            {
+              "head": "The Verb Sum",
+              "start": 170,
+              "end": 170
+            }
+          ]
+        },
+        {
+          "head": "The Four Conjugations",
+          "start": 171,
+          "end": 178,
+          "sections": [
+            {
+              "head": "The Principal Parts",
+              "start": 172,
+              "end": 178
+            }
+          ]
+        },
+        {
+          "head": "Forms of Conjugation",
+          "start": 179,
+          "end": 212,
+          "sections": [
+            {
+              "head": "Synopsis of the Verb",
+              "start": 180,
+              "end": 180
+            },
+            {
+              "head": "Peculiarities of Conjugation",
+              "start": 181,
+              "end": 183
+            },
+            {
+              "head": "FIRST CONJUGATION (ā-STEMS)—ACTIVE VOICE",
+              "start": 184,
+              "end": 184
+            },
+            {
+              "head": "SECOND CONJUGATION (ē-STEMS)",
+              "start": 185,
+              "end": 185
+            },
+            {
+              "head": "THIRD CONJUGATION (ĕ-STEMS)",
+              "start": 186,
+              "end": 186
+            },
+            {
+              "head": "FOURTH CONJUGATION (ī-STEMS)",
+              "start": 187,
+              "end": 187
+            },
+            {
+              "head": "VERBS IN -iō OF THE THIRD CONJUGATION",
+              "start": 188,
+              "end": 188
+            },
+            {
+              "head": "Parallel Forms",
+              "start": 189,
+              "end": 189
+            },
+            {
+              "head": "DEPONENT VERBS",
+              "start": 190,
+              "end": 192
+            },
+            {
+              "head": "THE PERIPHRASTIC CONJUGATIONS",
+              "start": 193,
+              "end": 196
+            },
+            {
+              "head": "IRREGULAR VERBS",
+              "start": 197,
+              "end": 204
+            },
+            {
+              "head": "DEFECTIVE VERBS",
+              "start": 205,
+              "end": 206
+            },
+            {
+              "head": "IMPERSONAL VERBS",
+              "start": 207,
+              "end": 208
+            },
+            {
+              "head": "CLASSIFIED LISTS OF VERBS",
+              "start": 209,
+              "end": 212
+            }
+          ]
+        },
+        {
+          "head": "PARTICLES",
+          "start": 213,
+          "end": 221,
+          "sections": [
+            {
+              "head": "ADVERBS",
+              "start": 214,
+              "end": 217
+            },
+            {
+              "head": "COMPARISON OF ADVERBS",
+              "start": 218,
+              "end": 218
+            },
+            {
+              "head": "PREPOSITIONS",
+              "start": 219,
+              "end": 221
+            }
+          ]
+        },
+        {
+          "head": "CONJUNCTIONS",
+          "start": 222,
+          "end": 226,
+          "sections": [
+            {
+              "head": "INTERJECTIONS",
+              "start": 225,
+              "end": 226
+            }
+          ]
+        },
+        {
+          "head": "FORMATION OF WORDS",
+          "start": 227,
+          "end": 263,
+          "sections": [
+            {
+              "head": "ROOTS AND STEMS",
+              "start": 228,
+              "end": 231
+            },
+            {
+              "head": "DERIVED STEMS AND SUFFIXES",
+              "start": 232,
+              "end": 235
+            },
+            {
+              "head": "DERIVATION OF NOUNS",
+              "start": 236,
+              "end": 241
+            },
+            {
+              "head": "DERIVATION OF ADJECTIVES",
+              "start": 242,
+              "end": 255
+            },
+            {
+              "head": "DERIVATION OF VERBS",
+              "start": 256,
+              "end": 263
+            }
+          ]
+        },
+        {
+          "head": "COMPOUND WORDS",
+          "start": 264,
+          "end": 267,
+          "sections": [
+            {
+              "head": "Syntactic Compounds",
+              "start": 266,
+              "end": 267
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "head": "PART SECOND — SYNTAX",
+      "start": 268,
+      "end": 601,
+      "chapters": [
+        {
+          "head": "INTRODUCTORY NOTE",
+          "start": 268,
+          "end": 268,
+          "sections": []
+        },
+        {
+          "head": "THE SENTENCE",
+          "start": 269,
+          "end": 284,
+          "sections": [
+            {
+              "head": "Kinds of Sentences",
+              "start": 269,
+              "end": 269
+            },
+            {
+              "head": "Subject and Predicate",
+              "start": 270,
+              "end": 272
+            },
+            {
+              "head": "Transitive and Intransitive Verbs",
+              "start": 273,
+              "end": 273
+            },
+            {
+              "head": "Object",
+              "start": 274,
+              "end": 275
+            },
+            {
+              "head": "Modification",
+              "start": 276,
+              "end": 277
+            },
+            {
+              "head": "Clauses and Sentences",
+              "start": 278,
+              "end": 279
+            },
+            {
+              "head": "AGREEMENT",
+              "start": 280,
+              "end": 280
+            },
+            {
+              "head": "AGREEMENT OF NOUNS",
+              "start": 281,
+              "end": 281
+            },
+            {
+              "head": "Apposition",
+              "start": 282,
+              "end": 282
+            },
+            {
+              "head": "Predicate Noun or Adjective",
+              "start": 283,
+              "end": 284
+            }
+          ]
+        },
+        {
+          "head": "AGREEMENT OF ADJECTIVES",
+          "start": 285,
+          "end": 293,
+          "sections": [
+            {
+              "head": "Attributive and Predicate Adjectives",
+              "start": 285,
+              "end": 285
+            },
+            {
+              "head": "Rules of Agreement",
+              "start": 286,
+              "end": 287
+            },
+            {
+              "head": "Adjectives used Substantively",
+              "start": 288,
+              "end": 289
+            },
+            {
+              "head": "Adjectives with Adverbial Force",
+              "start": 290,
+              "end": 290
+            },
+            {
+              "head": "Comparatives and Superlatives",
+              "start": 291,
+              "end": 293
+            }
+          ]
+        },
+        {
+          "head": "PRONOUNS",
+          "start": 294,
+          "end": 315,
+          "sections": [
+            {
+              "head": "Personal Pronouns",
+              "start": 295,
+              "end": 295
+            },
+            {
+              "head": "Demonstrative Pronouns",
+              "start": 296,
+              "end": 298
+            },
+            {
+              "head": "Reflexive Pronouns",
+              "start": 299,
+              "end": 301
+            },
+            {
+              "head": "Possessive Pronouns",
+              "start": 302,
+              "end": 302
+            },
+            {
+              "head": "Relative Pronouns",
+              "start": 303,
+              "end": 308
+            },
+            {
+              "head": "Indefinite Pronouns",
+              "start": 309,
+              "end": 314
+            },
+            {
+              "head": "Alius and Alter",
+              "start": 315,
+              "end": 315
+            }
+          ]
+        },
+        {
+          "head": "VERBS",
+          "start": 316,
+          "end": 319,
+          "sections": [
+            {
+              "head": "Agreement of Verb and Subject",
+              "start": 316,
+              "end": 316
+            },
+            {
+              "head": "Double or Collective Subject",
+              "start": 317,
+              "end": 317
+            },
+            {
+              "head": "Omission of Subject or Verb",
+              "start": 318,
+              "end": 319
+            }
+          ]
+        },
+        {
+          "head": "PARTICLES",
+          "start": 320,
+          "end": 322,
+          "sections": [
+            {
+              "head": "Adverbs",
+              "start": 320,
+              "end": 322
+            }
+          ]
+        },
+        {
+          "head": "CONJUNCTIONS",
+          "start": 323,
+          "end": 329,
+          "sections": [
+            {
+              "head": "Negative Particles",
+              "start": 325,
+              "end": 329
+            }
+          ]
+        },
+        {
+          "head": "QUESTIONS",
+          "start": 330,
+          "end": 337,
+          "sections": [
+            {
+              "head": "Forms of Interrogation",
+              "start": 330,
+              "end": 333
+            },
+            {
+              "head": "Double Questions",
+              "start": 334,
+              "end": 335
+            },
+            {
+              "head": "Question and Answer",
+              "start": 336,
+              "end": 337
+            }
+          ]
+        },
+        {
+          "head": "CONSTRUCTION OF CASES",
+          "start": 338,
+          "end": 435,
+          "sections": [
+            {
+              "head": "NOMINATIVE CASE",
+              "start": 339,
+              "end": 339
+            },
+            {
+              "head": "VOCATIVE CASE",
+              "start": 340,
+              "end": 340
+            },
+            {
+              "head": "GENITIVE CASE",
+              "start": 341,
+              "end": 341
+            },
+            {
+              "head": "GENITIVE WITH NOUNS",
+              "start": 342,
+              "end": 348
+            },
+            {
+              "head": "GENITIVE WITH ADJECTIVES",
+              "start": 349,
+              "end": 349
+            },
+            {
+              "head": "GENITIVE WITH VERBS",
+              "start": 350,
+              "end": 353
+            },
+            {
+              "head": "Verbs of Feeling",
+              "start": 354,
+              "end": 354
+            },
+            {
+              "head": "Interest and Rēfert",
+              "start": 355,
+              "end": 355
+            },
+            {
+              "head": "Verbs of Plenty and Want",
+              "start": 356,
+              "end": 356
+            },
+            {
+              "head": "Genitive with Special Verbs",
+              "start": 357,
+              "end": 358
+            },
+            {
+              "head": "PECULIAR GENITIVES",
+              "start": 359,
+              "end": 359
+            },
+            {
+              "head": "DATIVE CASE",
+              "start": 360,
+              "end": 385
+            },
+            {
+              "head": "ACCUSATIVE CASE",
+              "start": 386,
+              "end": 397
+            },
+            {
+              "head": "ABLATIVE CASE",
+              "start": 398,
+              "end": 422
+            },
+            {
+              "head": "TIME AND PLACE",
+              "start": 423,
+              "end": 431
+            },
+            {
+              "head": "SPECIAL USES OF PREPOSITIONS",
+              "start": 432,
+              "end": 435
+            }
+          ]
+        },
+        {
+          "head": "SYNTAX OF THE VERB",
+          "start": 436,
+          "end": 559,
+          "sections": [
+            {
+              "head": "MOODS AND TENSES",
+              "start": 436,
+              "end": 436
+            },
+            {
+              "head": "MOODS",
+              "start": 437,
+              "end": 463
+            },
+            {
+              "head": "TENSES",
+              "start": 464,
+              "end": 500
+            },
+            {
+              "head": "GERUND",
+              "start": 501,
+              "end": 507
+            },
+            {
+              "head": "SUPINE",
+              "start": 508,
+              "end": 510
+            },
+            {
+              "head": "CONDITIONAL SENTENCES",
+              "start": 511,
+              "end": 525
+            },
+            {
+              "head": "CONCESSIVE CLAUSES",
+              "start": 526,
+              "end": 527
+            },
+            {
+              "head": "CLAUSES OF PROVISO",
+              "start": 528,
+              "end": 528
+            },
+            {
+              "head": "CLAUSES OF PURPOSE (FINAL CLAUSES)",
+              "start": 529,
+              "end": 533
+            },
+            {
+              "head": "CLAUSES OF CHARACTERISTIC",
+              "start": 534,
+              "end": 535
+            },
+            {
+              "head": "CLAUSES OF RESULT (CONSECUTIVE CLAUSES)",
+              "start": 536,
+              "end": 538
+            },
+            {
+              "head": "CAUSAL CLAUSES",
+              "start": 539,
+              "end": 540
+            },
+            {
+              "head": "TEMPORAL CLAUSES",
+              "start": 541,
+              "end": 543
+            },
+            {
+              "head": "USES OF CUM",
+              "start": 544,
+              "end": 549
+            },
+            {
+              "head": "Antequam and Priusquam",
+              "start": 550,
+              "end": 551
+            },
+            {
+              "head": "Dum, Dōnec, and Quoad",
+              "start": 552,
+              "end": 556
+            },
+            {
+              "head": "CLAUSES WITH QUīN AND QUōMINUS",
+              "start": 557,
+              "end": 559
+            }
+          ]
+        },
+        {
+          "head": "SUBSTANTIVE CLAUSES",
+          "start": 560,
+          "end": 576,
+          "sections": [
+            {
+              "head": "Substantive Clauses of Purpose",
+              "start": 563,
+              "end": 565
+            },
+            {
+              "head": "Substantive Clauses of Purpose with Passive Verbs",
+              "start": 566,
+              "end": 566
+            },
+            {
+              "head": "Substantive Clauses of Result (Consecutive Clauses)",
+              "start": 567,
+              "end": 571
+            },
+            {
+              "head": "Indicative with Quod",
+              "start": 572,
+              "end": 572
+            },
+            {
+              "head": "Indirect Questions",
+              "start": 573,
+              "end": 576
+            }
+          ]
+        },
+        {
+          "head": "INDIRECT DISCOURSE",
+          "start": 577,
+          "end": 593,
+          "sections": [
+            {
+              "head": "FORMAL INDIRECT DISCOURSE",
+              "start": 579,
+              "end": 590
+            },
+            {
+              "head": "INTERMEDIATE CLAUSES",
+              "start": 591,
+              "end": 593
+            }
+          ]
+        },
+        {
+          "head": "IMPORTANT RULES OF SYNTAX",
+          "start": 594,
+          "end": 594,
+          "sections": []
+        },
+        {
+          "head": "ORDER OF WORDS",
+          "start": 595,
+          "end": 601,
+          "sections": [
+            {
+              "head": "Special Rules",
+              "start": 599,
+              "end": 599
+            },
+            {
+              "head": "Structure of the Period",
+              "start": 600,
+              "end": 601
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "head": "PROSODY",
+      "start": 602,
+      "end": 638,
+      "chapters": [
+        {
+          "head": "QUANTITY",
+          "start": 602,
+          "end": 606,
+          "sections": [
+            {
+              "head": "GENERAL RULES",
+              "start": 603,
+              "end": 606
+            }
+          ]
+        },
+        {
+          "head": "RHYTHM",
+          "start": 607,
+          "end": 611,
+          "sections": [
+            {
+              "head": "Measures",
+              "start": 608,
+              "end": 609
+            },
+            {
+              "head": "Substitution",
+              "start": 610,
+              "end": 610
+            },
+            {
+              "head": "The Musical Accent",
+              "start": 611,
+              "end": 611
+            }
+          ]
+        },
+        {
+          "head": "VERSIFICATION",
+          "start": 612,
+          "end": 612,
+          "sections": [
+            {
+              "head": "THE VERSE",
+              "start": 612,
+              "end": 612
+            }
+          ]
+        },
+        {
+          "head": "FORMS OF VERSE",
+          "start": 613,
+          "end": 629,
+          "sections": [
+            {
+              "head": "DACTYLIC VERSE",
+              "start": 615,
+              "end": 617
+            },
+            {
+              "head": "IAMBIC VERSE",
+              "start": 618,
+              "end": 619
+            },
+            {
+              "head": "TROCHAIC VERSE",
+              "start": 620,
+              "end": 620
+            },
+            {
+              "head": "MIXED MEASURES",
+              "start": 621,
+              "end": 622
+            },
+            {
+              "head": "LOGAŒDIC VERSE",
+              "start": 623,
+              "end": 625
+            },
+            {
+              "head": "METRES OF HORACE",
+              "start": 626,
+              "end": 627
+            },
+            {
+              "head": "MISCELLANEOUS",
+              "start": 628,
+              "end": 628
+            },
+            {
+              "head": "EARLY PROSODY",
+              "start": 629,
+              "end": 629
+            }
+          ]
+        },
+        {
+          "head": "MISCELLANEOUS",
+          "start": 630,
+          "end": 638,
+          "sections": [
+            {
+              "head": "Reckoning of Time",
+              "start": 630,
+              "end": 631
+            },
+            {
+              "head": "Measures of Value, etc.",
+              "start": 632,
+              "end": 638
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "sections": 638,
+    "sectionMarkers": 642,
+    "backMatterMarkers": 4,
+    "letterMarkers": 961,
+    "subSubMarkers": 98,
+    "sourceCrossRefs": 1135,
+    "sectionCrossRefs": 1103,
+    "crossRefsOutsideSections": 32,
+    "uniqueRefEdges": 988,
+    "letteredCrossRefs": 380,
+    "crossRefRanges": 17,
+    "quotes": 1800,
+    "bibliographies": 2140,
+    "examples": 1800,
+    "sectionsWithLetters": 326,
+    "letterAnchors": 966,
+    "sectionsWithNotes": 416,
+    "notes": 708,
+    "footnotes": 283,
+    "tables": 260,
+    "lists": 1175,
+    "figures": 54,
+    "pageBreaks": 435
+  },
+  "crossRefRanges": [
+    {
+      "start": 214,
+      "end": 217
+    },
+    {
+      "start": 110,
+      "end": 112
+    },
+    {
+      "start": 147,
+      "end": 151
+    },
+    {
+      "start": 259,
+      "end": 262
+    },
+    {
+      "start": 281,
+      "end": 284
+    },
+    {
+      "start": 402,
+      "end": 404
+    },
+    {
+      "start": 366,
+      "end": 372
+    },
+    {
+      "start": 376,
+      "end": 381
+    },
+    {
+      "start": 504,
+      "end": 507
+    },
+    {
+      "start": 563,
+      "end": 566
+    },
+    {
+      "start": 567,
+      "end": 571
+    },
+    {
+      "start": 545,
+      "end": 548
+    },
+    {
+      "start": 552,
+      "end": 556
+    },
+    {
+      "start": 573,
+      "end": 576
+    },
+    {
+      "start": 591,
+      "end": 593
+    },
+    {
+      "start": 501,
+      "end": 507
+    },
+    {
+      "start": 9,
+      "end": 11
+    }
+  ],
+  "anomalies": {
+    "numberingGaps": [],
+    "duplicateSectionMarkers": [],
+    "malformedRefs": [],
+    "unresolvedRefs": [
+      {
+        "section": 326,
+        "target": 641
+      },
+      {
+        "section": 497,
+        "target": 1588
+      },
+      {
+        "section": 603,
+        "target": 642
+      }
+    ],
+    "biblWithoutN": [],
+    "implicitLetterAnchors": [
+      {
+        "section": 43,
+        "anchor": "a"
+      },
+      {
+        "section": 49,
+        "anchor": "a"
+      },
+      {
+        "section": 217,
+        "anchor": "a"
+      },
+      {
+        "section": 217,
+        "anchor": "b"
+      },
+      {
+        "section": 217,
+        "anchor": "c"
+      }
+    ],
+    "letterSequenceGaps": [
+      {
+        "section": 609,
+        "letters": [
+          "e"
+        ]
+      }
+    ],
+    "unmarkedLetterLabels": [
+      {
+        "section": 221,
+        "labels": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "count": 54
+      },
+      {
+        "section": 514,
+        "labels": [
+          "a",
+          "b"
+        ],
+        "count": 8
+      },
+      {
+        "section": 627,
+        "labels": [
+          "a",
+          "b",
+          "c"
+        ],
+        "count": 3
+      }
+    ],
+    "rangesOutsideSections": [],
+    "unassignedElements": [
+      {
+        "tag": "note",
+        "text": "Called diplasic, the two parts (Thesis and Arsis) being in the ratio of 2 to 1."
+      },
+      {
+        "tag": "note",
+        "text": "Called hemiolic, the two parts being in the ratio of 1 to 11/2, or of 2 to 3."
+      }
+    ],
+    "examplesWithoutGloss": 24,
+    "examplesWithoutCite": 1,
+    "frontMatter": [
+      {
+        "tag": "pb",
+        "text": ""
+      },
+      {
+        "tag": "p",
+        "text": "Latin Grammar is usually treated under three heads: 1. Words and Forms; 2. Syntax; 3. Prosody. Syntax treats of the function of words when joined together as parts of the sentence; Prosody of their arrangement in metrical composition."
+      }
+    ],
+    "backMatter": {
+      "head": "GLOSSARY: OF TERMS USED IN GRAMMAR, RHETORIC, AND PROSODY",
+      "sourceSectionNumbers": [
+        639,
+        640,
+        641,
+        642
+      ],
+      "blocks": 108,
+      "crossRefs": 32,
+      "characters": 8065,
+      "note": "printed grammar ends at 638; the source numbers this glossary as sections"
+    },
+    "index": {
+      "present": false,
+      "note": "the TEI carries no index; the printed English/Latin index is not in this file"
+    }
+  }
+}

@@ -1,0 +1,2702 @@
+{
+ "_source": "Lewis & Short (1879) Authors and Works abbreviations; text as digitized by Logeion/Perseus Chicago (logeion.uchicago.edu/abbreviations/lewisshort, perseus.uchicago.edu/LewisShortAbbreviations.html), compiled by Philippe Verkerk from the print OCR. L&S is public domain. Parsed 2026-08-25.",
+ "authors": {
+  "Aem. Mac.": [
+   {
+    "name": "Aemilius Macer",
+    "epithet": "poet",
+    "date": "ob. B.C. 14"
+   }
+  ],
+  "Afran.": [
+   {
+    "name": "Lucius Afranius",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 110"
+   }
+  ],
+  "Aggen.": [
+   {
+    "name": "Aggenus Urbicus",
+    "epithet": "writer on husbandry",
+    "date": "fl. (?)A.D. 400"
+   }
+  ],
+  "Agrim.": [
+   {
+    "name": "The ancient writers on surveying ; esp. Frontinus",
+    "epithet": "Balbus, Hyginus, Siculus Flaccus, and Aggenus Urbicus.",
+    "date": ""
+   }
+  ],
+  "Agrimens.": [
+   {
+    "name": "The ancient writers on surveying ; esp. Frontinus",
+    "epithet": "Balbus, Hyginus, Siculus Flaccus, and Aggenus Urbicus.",
+    "date": ""
+   }
+  ],
+  "Albin.": [
+   {
+    "name": "C. Pedo Albinovanus",
+    "epithet": "poet",
+    "date": "fl. A.D. 28"
+   }
+  ],
+  "Alcim.": [
+   {
+    "name": "Alcimus Avitus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 523"
+   }
+  ],
+  "Aldh.": [
+   {
+    "name": "Aldhelmus",
+    "epithet": "Bishop of Salisbury, England",
+    "date": "ob. A.D. 709"
+   }
+  ],
+  "Alfen.": [
+   {
+    "name": "P. Alfenus Varus",
+    "epithet": "JCtus",
+    "date": "fl. (?)B.C 38"
+   }
+  ],
+  "Ambros.": [
+   {
+    "name": "Ambrosius",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 397"
+   }
+  ],
+  "Amm.": [
+   {
+    "name": "Ammianus Marcellinus",
+    "epithet": "hist.",
+    "date": "ob. A.D. 400"
+   }
+  ],
+  "Ampel.": [
+   {
+    "name": "L. Ampelius",
+    "epithet": "historian",
+    "date": "fl. (?)A.D. 200"
+   }
+  ],
+  "Anthol. Lat.": [
+   {
+    "name": "Anthologia Latina",
+    "epithet": "a collection of Epigrams, Inscriptions, and Fragments in verse, by P. Burmann; edited also by Meyer and by Riese.",
+    "date": ""
+   }
+  ],
+  "Apic.": [
+   {
+    "name": "Apicius Caelius",
+    "epithet": "writer on cookery, But the work De Re Coquinaria, ascribed to Apicius, is a compilation of a later age. fl. A.D. 25",
+    "date": ""
+   }
+  ],
+  "App.": [
+   {
+    "name": "Lucius Appuleius (Apu.)",
+    "epithet": "philos.",
+    "date": "fl. A.D. 160"
+   }
+  ],
+  "Arn.": [
+   {
+    "name": "Arnobius Afer",
+    "epithet": "Chr. writer",
+    "date": "fl. A.D. 295"
+   }
+  ],
+  "Ascon.": [
+   {
+    "name": "Q. Asconius Pedianus",
+    "epithet": "gramm.",
+    "date": "ob. A.D. 88"
+   }
+  ],
+  "Asin.": [
+   {
+    "name": "C.Asinius Pollio",
+    "epithet": "orator and hist.",
+    "date": "ob. A.D. 5"
+   }
+  ],
+  "At. Cap.": [
+   {
+    "name": "Ateius Capito",
+    "epithet": "grammarian",
+    "date": "fl. A.D. 14"
+   }
+  ],
+  "Att.": [
+   {
+    "name": "L. Attius or Accius",
+    "epithet": "writer of tragedy",
+    "date": "fl. B.C. 135"
+   }
+  ],
+  "Acc.": [
+   {
+    "name": "L. Attius or Accius",
+    "epithet": "writer of tragedy",
+    "date": "fl. B.C. 135"
+   }
+  ],
+  "Atta": [
+   {
+    "name": "T. Ouinctius Atta",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 80"
+   }
+  ],
+  "Atta.": [
+   {
+    "name": "T. Ouinctius Atta",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 80"
+   }
+  ],
+  "Auct. Aetn.": [
+   {
+    "name": "Auctor Aetnae (perh. Lucilius Junior)",
+    "epithet": "",
+    "date": "fl. (?)A.D. 6O"
+   }
+  ],
+  "Auct. B. Afr.": [
+   {
+    "name": "Auctor Belli Africani",
+    "epithet": "",
+    "date": "fl. B.C. 50"
+   }
+  ],
+  "Auct. B. Alex.": [
+   {
+    "name": "Auctor Belli Alexandrini (prob. Aulus Hirtius)",
+    "epithet": "",
+    "date": "fl. B.C. 50"
+   }
+  ],
+  "Auct. B. G. 8.": [
+   {
+    "name": "Auctor de Bello Gallico libri viii",
+    "epithet": "in continuation of Caesar's commentarii (prob. Aulus Hirtius)",
+    "date": "fl. B.C. 50"
+   }
+  ],
+  "Auct. B. Hisp.": [
+   {
+    "name": "Auctor Belli Hispaniensis",
+    "epithet": "",
+    "date": "fl. B.C. 50"
+   }
+  ],
+  "Auct. Her.": [
+   {
+    "name": "Auctor ad Herennium",
+    "epithet": "v. Cornificius.",
+    "date": ""
+   }
+  ],
+  "Auct. ad Her.": [
+   {
+    "name": "Auctor ad Herennium",
+    "epithet": "v. Cornificius.",
+    "date": ""
+   }
+  ],
+  "Auct. Pervig. Ven.": [
+   {
+    "name": "Auctor Pervigilii Veneris",
+    "epithet": "",
+    "date": "fl. (?)A.D. 150"
+   }
+  ],
+  "Auct. Priap.": [
+   {
+    "name": "Auctor Priapeorum",
+    "epithet": "v. Priap.",
+    "date": ""
+   }
+  ],
+  "Aug.": [
+   {
+    "name": "Aurelius Augustinus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 430"
+   }
+  ],
+  "August.": [
+   {
+    "name": "Caesar Octavianus Augustus",
+    "epithet": "",
+    "date": "ob. A.D. 13"
+   }
+  ],
+  "Aur. Vict.": [
+   {
+    "name": "Sextus Aurelius Victor",
+    "epithet": "hist.",
+    "date": "fl. A.D. 360"
+   }
+  ],
+  "Aus.": [
+   {
+    "name": "D. Magnus Ausonius",
+    "epithet": "poet",
+    "date": "ob. A.D. 390"
+   }
+  ],
+  "Avien.": [
+   {
+    "name": "R. Festus Avienus",
+    "epithet": "poet",
+    "date": "ob. A.D. 370"
+   }
+  ],
+  "Boëth.": [
+   {
+    "name": "Anicius Manl. Torq. Severinus Boetius or Boethius",
+    "epithet": "philos.",
+    "date": "ob. A.D. 525"
+   }
+  ],
+  "Brut.": [
+   {
+    "name": "M. Junius Brutus",
+    "epithet": "correspondent of Cicero",
+    "date": "ob. B.C. 42"
+   }
+  ],
+  "Caecil.": [
+   {
+    "name": "Statius Caecilius",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 18O"
+   }
+  ],
+  "Cael. Aur.": [
+   {
+    "name": "Caelius Aurelianus",
+    "epithet": "physician",
+    "date": "fl. (?)A.D. 420"
+   }
+  ],
+  "Caes.": [
+   {
+    "name": "Caius Julius Caesar",
+    "epithet": "historian",
+    "date": "ob. B.C. 44"
+   }
+  ],
+  "Callistr.": [
+   {
+    "name": "Callistratus",
+    "epithet": "JCtus",
+    "date": "fl. A.D. 200"
+   }
+  ],
+  "Calp.": [
+   {
+    "name": "Calpurnius Siculus",
+    "epithet": "poet",
+    "date": "fl. (?)A.D. 55"
+   }
+  ],
+  "Capitol.": [
+   {
+    "name": "Julius Capitolinus",
+    "epithet": "biographer",
+    "date": "fl. (?)A.D. 320"
+   }
+  ],
+  "Cass. Hem.": [
+   {
+    "name": "L. Cassius Hemina",
+    "epithet": "historian",
+    "date": "fl. B.C. 140"
+   }
+  ],
+  "Cassiod.": [
+   {
+    "name": "Magnus Aurelius Cassiodorus",
+    "epithet": "historian",
+    "date": "ob. A.D. 575"
+   }
+  ],
+  "Cato": [
+   {
+    "name": "M. Porcius Cato",
+    "epithet": "orator and hist.",
+    "date": "ob. B.C. 149"
+   }
+  ],
+  "Cato.": [
+   {
+    "name": "M. Porcius Cato",
+    "epithet": "orator and hist.",
+    "date": "ob. B.C. 149"
+   }
+  ],
+  "Cat.": [
+   {
+    "name": "C. Valerius Catullus",
+    "epithet": "poet",
+    "date": "ob. B.C. 54"
+   }
+  ],
+  "Catull.": [
+   {
+    "name": "C. Valerius Catullus",
+    "epithet": "poet",
+    "date": "ob. B.C. 54"
+   }
+  ],
+  "Cels.": [
+   {
+    "name": "Aurel. Cornelius Celsus",
+    "epithet": "physic.",
+    "date": "fl. A.D. 50"
+   }
+  ],
+  "Censor.": [
+   {
+    "name": "Censorinus",
+    "epithet": "grammarian",
+    "date": "fl. A.D. 238"
+   }
+  ],
+  "Charis.": [
+   {
+    "name": "Flav. Sosipater Charisius",
+    "epithet": "grammarian",
+    "date": "fl. A.D. 375"
+   }
+  ],
+  "Cic.": [
+   {
+    "name": "M. Tullius Cicero",
+    "epithet": "orator and philosopher",
+    "date": "ob. B.C. 43"
+   }
+  ],
+  "C.": [
+   {
+    "name": "M. Tullius Cicero",
+    "epithet": "orator and philosopher",
+    "date": "ob. B.C. 43"
+   }
+  ],
+  "Cinc.": [
+   {
+    "name": "L. Cincius Alimentus",
+    "epithet": "annalist, etc.",
+    "date": "fl. B.C. 210"
+   }
+  ],
+  "Cinn.": [
+   {
+    "name": "C. Helvius Cinna",
+    "epithet": "Epic. poet",
+    "date": "fl. B.C. 40"
+   }
+  ],
+  "Claud.": [
+   {
+    "name": "Claudius Claudianus",
+    "epithet": "poet",
+    "date": "fl. A.D. 400"
+   }
+  ],
+  "Claud. Mam.": [
+   {
+    "name": "Claudianus Ecdicius Mamertus",
+    "epithet": "Chr. writer",
+    "date": "fl. A.D. 470"
+   }
+  ],
+  "Cloat.": [
+   {
+    "name": "Cloatius Verus",
+    "epithet": "grammarian",
+    "date": "fl. (?)A.D. 100"
+   }
+  ],
+  "Cod.": [
+   {
+    "name": "Codex.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Col.": [
+   {
+    "name": "L. Junius Moderatus Columella",
+    "epithet": "writer on husbandry",
+    "date": "fl. A.D. 50"
+   }
+  ],
+  "Commod.": [
+   {
+    "name": "Commodianus",
+    "epithet": "Chr. poet",
+    "date": "fl. A.D. 245"
+   }
+  ],
+  "Consent.": [
+   {
+    "name": "P. Consentius",
+    "epithet": "grammarian",
+    "date": "fl. A.D. 475"
+   }
+  ],
+  "Coripp.": [
+   {
+    "name": "Fl. Cresconius Corippus",
+    "epithet": "poet and grammarian",
+    "date": "fl. A.D. 565"
+   }
+  ],
+  "Corn. Gall.": [
+   {
+    "name": "Cn. Cornelius Gallus",
+    "epithet": "poet",
+    "date": "ob. B.C. 25"
+   }
+  ],
+  "Corn. Sev.": [
+   {
+    "name": "Cornelius Severus",
+    "epithet": "poet",
+    "date": "ob. B.C. 28"
+   }
+  ],
+  "Cornif.": [
+   {
+    "name": "Cornificus",
+    "epithet": "rhetorician (acc. to Quintilian, the name of the writer of the four books of Rhetorica ad C. Herennium ; usu. cited as Auct. Her.)",
+    "date": "fl. (?)B.C. 80"
+   }
+  ],
+  "Curt.": [
+   {
+    "name": "Q. Curtius Rufus",
+    "epithet": "historian",
+    "date": "fl. A.D. 50"
+   }
+  ],
+  "Cypr.": [
+   {
+    "name": "Thascius Caecilius Cyprianus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 257"
+   }
+  ],
+  "Dict. Cret.": [
+   {
+    "name": "Interpres Dictyos Cretensis",
+    "epithet": "",
+    "date": "about A.D. 380"
+   }
+  ],
+  "Dig.": [
+   {
+    "name": "Digesta",
+    "epithet": "i. e. Libri Pandectarum.",
+    "date": ""
+   }
+  ],
+  "Diom.": [
+   {
+    "name": "Diomedes",
+    "epithet": "grammarian",
+    "date": "fl. (?)A.D. 375"
+   }
+  ],
+  "Dion. Cato": [
+   {
+    "name": "The name inscribed on a collection of distichs de moribus",
+    "epithet": "etc., probably of the third or fourth century.",
+    "date": ""
+   }
+  ],
+  "Dion. Cato.": [
+   {
+    "name": "The name inscribed on a collection of distichs de moribus",
+    "epithet": "etc., probably of the third or fourth century.",
+    "date": ""
+   }
+  ],
+  "Donat.": [
+   {
+    "name": "Aelius Donatus",
+    "epithet": "commentator",
+    "date": "fl. A.D. 350"
+   }
+  ],
+  "Don.": [
+   {
+    "name": "Aelius Donatus",
+    "epithet": "commentator",
+    "date": "fl. A.D. 350"
+   }
+  ],
+  "Dracont.": [
+   {
+    "name": "Dracontius",
+    "epithet": "poet",
+    "date": "fl. A.D. 490"
+   }
+  ],
+  "Eccl.": [
+   {
+    "name": "Scriptores Ecclesiastici.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Enn.": [
+   {
+    "name": "Q. Ennius",
+    "epithet": "poet",
+    "date": "ob. B.C. 169"
+   }
+  ],
+  "Ennod.": [
+   {
+    "name": "Ennodius",
+    "epithet": "Chr. poet and biographer",
+    "date": "ob. A.D. 521"
+   }
+  ],
+  "Eum.": [
+   {
+    "name": "Eumenius",
+    "epithet": "orator and panegyrist",
+    "date": "fl. A.D. 300"
+   }
+  ],
+  "Eutr.": [
+   {
+    "name": "Flavius Eutropius",
+    "epithet": "historian",
+    "date": "fl. A.D. 375"
+   }
+  ],
+  "Fab. Pict.": [
+   {
+    "name": "Fabius Pictor",
+    "epithet": "historian",
+    "date": "fl. B.C. 214"
+   }
+  ],
+  "Falisc.": [
+   {
+    "name": "See Gratius Faliscus.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Favorin.": [
+   {
+    "name": "Favorinus",
+    "epithet": "philosopher",
+    "date": "fl. A.D. 130"
+   }
+  ],
+  "Fenest.": [
+   {
+    "name": "L. Fenestella",
+    "epithet": "historian",
+    "date": "fl. A.D. 36"
+   }
+  ],
+  "Fest.": [
+   {
+    "name": "Sext. Pompeius Festus",
+    "epithet": "grammarian",
+    "date": "about (?)A.D. 150"
+   }
+  ],
+  "Firm. Mat.": [
+   {
+    "name": "Julius Firmicus Maternus",
+    "epithet": "mathematician",
+    "date": "about A.D. 340"
+   }
+  ],
+  "Firm.": [
+   {
+    "name": "Julius Firmicus Maternus",
+    "epithet": "mathematician",
+    "date": "about A.D. 340"
+   }
+  ],
+  "Flor.": [
+   {
+    "name": "L. Annaeus Florus",
+    "epithet": "historian",
+    "date": "about A.D. 140"
+   }
+  ],
+  "Fortun.": [
+   {
+    "name": "Venantius Fortunatus",
+    "epithet": "Christian poet",
+    "date": "about A.D. 600"
+   }
+  ],
+  "Ven. Fort.": [
+   {
+    "name": "Venantius Fortunatus",
+    "epithet": "Christian poet",
+    "date": "about A.D. 600"
+   },
+   {
+    "name": "Venantius Fortunatus",
+    "epithet": "Chr. poet",
+    "date": "ob. A.D. 600"
+   }
+  ],
+  "Front.": [
+   {
+    "name": "S. Julius Frontinus",
+    "epithet": "engineer, etc.",
+    "date": "ob. A.D. 103"
+   },
+   {
+    "name": "M. Cornelius Fronto",
+    "epithet": "orator",
+    "date": "ob. A.D. 168"
+   }
+  ],
+  "Frontin.": [
+   {
+    "name": "S. Julius Frontinus",
+    "epithet": "engineer, etc.",
+    "date": "ob. A.D. 103"
+   }
+  ],
+  "Fronto": [
+   {
+    "name": "M. Cornelius Fronto",
+    "epithet": "orator",
+    "date": "ob. A.D. 168"
+   }
+  ],
+  "Fronto.": [
+   {
+    "name": "M. Cornelius Fronto",
+    "epithet": "orator",
+    "date": "ob. A.D. 168"
+   }
+  ],
+  "Fulg.": [
+   {
+    "name": "Fabius Planciades Fulgentius",
+    "epithet": "grammarian, etc.",
+    "date": "ob. A.D. 550"
+   }
+  ],
+  "Gai.": [
+   {
+    "name": "Gaius",
+    "epithet": "JCtus",
+    "date": "ob. A.D. 180"
+   }
+  ],
+  "Gell.": [
+   {
+    "name": "Aulus Gellius",
+    "epithet": "gramm., etc.",
+    "date": "ob. A.D. 175"
+   }
+  ],
+  "German.": [
+   {
+    "name": "Caesar Germanicus",
+    "epithet": "poet",
+    "date": "ob. A.D. 18"
+   }
+  ],
+  "Gloss.": [
+   {
+    "name": "Glossarium.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Grat.": [
+   {
+    "name": "Gratius Faliscus",
+    "epithet": "poet",
+    "date": "fl. A.D. 10"
+   }
+  ],
+  "Her.": [
+   {
+    "name": "See Auctor ad Herennium.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Hier.": [
+   {
+    "name": "Hieronymus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 420"
+   }
+  ],
+  "Hirt.": [
+   {
+    "name": "Aulus Hirtius",
+    "epithet": "historian (= Auct. B. G. 8, in continuation of Caesar's commentaries; and Auct. B. Alex.)",
+    "date": "ob. B.C. 44"
+   }
+  ],
+  "Hor.": [
+   {
+    "name": "Q. Horatius Flaccus",
+    "epithet": "poet",
+    "date": "ob. B.C. 8"
+   }
+  ],
+  "Hyg.": [
+   {
+    "name": "C. Julius Hyginus",
+    "epithet": "poet and fabulist",
+    "date": "fl. B.C. 10"
+   }
+  ],
+  "Hyg. (Gromat.)": [
+   {
+    "name": "Hyginus",
+    "epithet": "writer on surveying",
+    "date": "fl. A.D. 100"
+   }
+  ],
+  "Inscr.": [
+   {
+    "name": "Inscriptiones.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Inst.": [
+   {
+    "name": "Institutiones.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Isid.": [
+   {
+    "name": "Isidorus Hispalensis",
+    "epithet": "gramm.",
+    "date": "ob. A.D. 640"
+   }
+  ],
+  "Javol.": [
+   {
+    "name": "Javolenus Priscus",
+    "epithet": "JCtus",
+    "date": "fl. A.D. 100"
+   }
+  ],
+  "Jornand.": [
+   {
+    "name": "Jornandes or Jordanis",
+    "epithet": "historian",
+    "date": "fl. A.D. 552"
+   }
+  ],
+  "Jul. Val.": [
+   {
+    "name": "Julius Valerius",
+    "epithet": "historian",
+    "date": "fl. A.D. 290"
+   }
+  ],
+  "Julian.": [
+   {
+    "name": "Salvius Julianus",
+    "epithet": "JCtus",
+    "date": "fl. A.D. 130"
+   }
+  ],
+  "Just.": [
+   {
+    "name": "Justinus",
+    "epithet": "historian",
+    "date": "about A.D. 150"
+   },
+   {
+    "name": "Justinianus",
+    "epithet": "emperor",
+    "date": "ob. A.D. 565"
+   }
+  ],
+  "Juv.": [
+   {
+    "name": "D. Junius Juvenalis",
+    "epithet": "poet",
+    "date": "ob. A.D. 130"
+   }
+  ],
+  "Juvenc.": [
+   {
+    "name": "C. Vettius Aquilinus Juvencus",
+    "epithet": "Chr. poet",
+    "date": "fl. A.D. 325"
+   }
+  ],
+  "Laber.": [
+   {
+    "name": "C. Decius Laberius",
+    "epithet": "mimographer",
+    "date": "fl. B.C. 50"
+   }
+  ],
+  "Lact.": [
+   {
+    "name": "L. Caelius Lactantius Firmianus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 325"
+   }
+  ],
+  "Laev.": [
+   {
+    "name": "Laevius",
+    "epithet": "lyric poet",
+    "date": "fl. (?)B.C. 100"
+   }
+  ],
+  "Lampr.": [
+   {
+    "name": "Aelius Lampridius",
+    "epithet": "historian",
+    "date": "ob. B.C. 300"
+   }
+  ],
+  "Leg. XII. Tab.": [
+   {
+    "name": "Leges duodecim Tabularum",
+    "epithet": "",
+    "date": "compiled B.C. 450"
+   }
+  ],
+  "Liv.": [
+   {
+    "name": "Titus Livius",
+    "epithet": "historian",
+    "date": "ob. A.D. 17"
+   }
+  ],
+  "Liv. Andron.": [
+   {
+    "name": "Livius Andronicus",
+    "epithet": "writer of tragedy",
+    "date": "ob. B.C. 204"
+   }
+  ],
+  "Luc.": [
+   {
+    "name": "M. Annaeus Lucanus",
+    "epithet": "poet",
+    "date": "ob. A.D. 65"
+   }
+  ],
+  "Lucil.": [
+   {
+    "name": "C. Ennius Lucilius",
+    "epithet": "satirist",
+    "date": "ob. B.C. 103"
+   }
+  ],
+  "Lucr.": [
+   {
+    "name": "T. Lucretius Carus",
+    "epithet": "poet and philosopher",
+    "date": "ob. B.C. 55"
+   }
+  ],
+  "Macr.": [
+   {
+    "name": "Aurelius Theodosius Macrobius",
+    "epithet": "critic",
+    "date": "fl. A.D. 400"
+   }
+  ],
+  "Mamert.": [
+   {
+    "name": "Claud. Mamertinus",
+    "epithet": "panegyrist",
+    "date": "fl. A.D. 362"
+   }
+  ],
+  "Manil.": [
+   {
+    "name": "M. Manilius",
+    "epithet": "poet",
+    "date": "fl. A.D. 12"
+   }
+  ],
+  "Marc. Emp.": [
+   {
+    "name": "Marcellus Empiricus",
+    "epithet": "physician",
+    "date": "fl. A.D. 400"
+   }
+  ],
+  "Mart.": [
+   {
+    "name": "M. Valerius Martialis",
+    "epithet": "poet",
+    "date": "ob. A.D. 102"
+   }
+  ],
+  "Mart. Cap.": [
+   {
+    "name": "Martianus Minneus Felix Capella",
+    "epithet": "satirist",
+    "date": "fl. (?)A.D. 425"
+   }
+  ],
+  "Maxim.": [
+   {
+    "name": "Maximianus",
+    "epithet": "poet",
+    "date": "fl. A.D. 520"
+   }
+  ],
+  "Mel.": [
+   {
+    "name": "Pomponius Mela",
+    "epithet": "geographer",
+    "date": "fl. A.D. 45"
+   }
+  ],
+  "Mela": [
+   {
+    "name": "Pomponius Mela",
+    "epithet": "geographer",
+    "date": "fl. A.D. 45"
+   }
+  ],
+  "Mela.": [
+   {
+    "name": "Pomponius Mela",
+    "epithet": "geographer",
+    "date": "fl. A.D. 45"
+   }
+  ],
+  "Min. Fel.": [
+   {
+    "name": "Minucius Felix",
+    "epithet": "Chr. writer",
+    "date": "fl. A.D. 200"
+   }
+  ],
+  "Modest.": [
+   {
+    "name": "Herennius Modestinus",
+    "epithet": "JCtus",
+    "date": "fl. A.D. 240"
+   }
+  ],
+  "Monum. Ancyr.": [
+   {
+    "name": "Monumentum Ancyranum",
+    "epithet": "an inscription placed on the wall of the pronaos at Ancyra, by Augustus Caesar",
+    "date": "fl. A.D. 14"
+   }
+  ],
+  "Naev.": [
+   {
+    "name": "C. Naevius",
+    "epithet": "poet",
+    "date": "ob. B.C. 198"
+   }
+  ],
+  "Nazar.": [
+   {
+    "name": "Nazarius",
+    "epithet": "panegyrist",
+    "date": "fl. A.D. 320"
+   }
+  ],
+  "Nemes.": [
+   {
+    "name": "M. Aur. Olympius Nemesianus",
+    "epithet": "poet",
+    "date": "fl. A.D. 260"
+   }
+  ],
+  "Nep.": [
+   {
+    "name": "Cornelius Nepos",
+    "epithet": "biographer",
+    "date": "fl. B.C. 44"
+   }
+  ],
+  "Nigid.": [
+   {
+    "name": "P. Nigidius Figulus",
+    "epithet": "gramm.",
+    "date": "fl. B.C. 60"
+   }
+  ],
+  "Non.": [
+   {
+    "name": "Nonius Marcellus",
+    "epithet": "gramm.",
+    "date": "fl. (?)A.D. 280"
+   }
+  ],
+  "Not. Tir.": [
+   {
+    "name": "Notae Tironianae",
+    "epithet": "a late collection of abbreviations ascribed to Cicero's freedman Tiro.",
+    "date": ""
+   }
+  ],
+  "Nov.": [
+   {
+    "name": "Novius",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 90"
+   },
+   {
+    "name": "Novatianus",
+    "epithet": "Chr. writer",
+    "date": "fl. A.D. 250"
+   }
+  ],
+  "Novat.": [
+   {
+    "name": "Novatianus",
+    "epithet": "Chr. writer",
+    "date": "fl. A.D. 250"
+   }
+  ],
+  "Obseq.": [
+   {
+    "name": "Julius Obsequens",
+    "epithet": "writer De Prodigiis",
+    "date": "fl. (?)A.D. 375"
+   }
+  ],
+  "Optat.": [
+   {
+    "name": "Publilius Optatianus Porphyrius",
+    "epithet": "panegyrist",
+    "date": "fl. A.D. 330"
+   }
+  ],
+  "Orell.": [
+   {
+    "name": "See Inscriptiones.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Oros.": [
+   {
+    "name": "Paulus Orosius",
+    "epithet": "historian",
+    "date": "fl. A.D. 410"
+   }
+  ],
+  "Ov.": [
+   {
+    "name": "P. Ovidius Naso",
+    "epithet": "poet",
+    "date": "ob. A.D. 17"
+   }
+  ],
+  "Pac.": [
+   {
+    "name": "M. Pacuvius",
+    "epithet": "writer of tragedy",
+    "date": "ob. B.C. 135"
+   }
+  ],
+  "Pacuv.": [
+   {
+    "name": "M. Pacuvius",
+    "epithet": "writer of tragedy",
+    "date": "ob. B.C. 135"
+   }
+  ],
+  "Pacat.": [
+   {
+    "name": "Latinus Pacatus Drepanius",
+    "epithet": "Panegyrist",
+    "date": "fl. A.D. 389"
+   }
+  ],
+  "Pall.": [
+   {
+    "name": "Palladius Rutilius Taurus",
+    "epithet": "writer on husbandry",
+    "date": "fl. (?)A.D. 350"
+   }
+  ],
+  "Papin.": [
+   {
+    "name": "Aemilius Papinius",
+    "epithet": "JCtus",
+    "date": "fl. A.D. 200"
+   }
+  ],
+  "Paul.": [
+   {
+    "name": "Julius Paulus",
+    "epithet": "JCtus",
+    "date": "fl. A.D. 200"
+   }
+  ],
+  "Paul. Nol.": [
+   {
+    "name": "Pontius Paulinus Nolanus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 431"
+   }
+  ],
+  "Paul. Petr.": [
+   {
+    "name": "Paulinus Petricordiensis",
+    "epithet": "poet",
+    "date": "fl. A.D. 470"
+   }
+  ],
+  "Pers.": [
+   {
+    "name": "A. Persius Flaccus",
+    "epithet": "satirist",
+    "date": "ob. A.D. 62"
+   }
+  ],
+  "Petr.": [
+   {
+    "name": "Petronius Arbiter",
+    "epithet": "satirist",
+    "date": "fl. (?)A.D. 60"
+   }
+  ],
+  "Phaedr.": [
+   {
+    "name": "T. Phaedrus",
+    "epithet": "fabulist",
+    "date": "fl. A.D. 40"
+   }
+  ],
+  "Pict.": [
+   {
+    "name": "See Fab. Pict.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Placid.": [
+   {
+    "name": "Luctatius (or Lactantius) Placidus",
+    "epithet": "scholiast",
+    "date": "fl. (?)A.D. 450"
+   }
+  ],
+  "Plaut.": [
+   {
+    "name": "T. Maccius Plautus",
+    "epithet": "writer of comedy",
+    "date": "ob. B.C. 184"
+   }
+  ],
+  "Plin.": [
+   {
+    "name": "C. Plinius Secundus (major)",
+    "epithet": "",
+    "date": "ob. A.D. 79"
+   },
+   {
+    "name": "C. Plinius Caecilius Secundus (minor)",
+    "epithet": "",
+    "date": "ob. A.D. 110"
+   }
+  ],
+  "Plin. Val.": [
+   {
+    "name": "Plinius Valerianus",
+    "epithet": "physic. (the last book is a later addition)",
+    "date": "fl. (?)A.D. 400"
+   }
+  ],
+  "Pomp.": [
+   {
+    "name": "L. Pomponius",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 90"
+   }
+  ],
+  "Pompon.": [
+   {
+    "name": "Sextus Pomponius",
+    "epithet": "JCtus",
+    "date": "ob. A.D. 138"
+   }
+  ],
+  "Porc. Latro": [
+   {
+    "name": "M. Porcius Latro",
+    "epithet": "rhetorician",
+    "date": "ob. B.C. 3"
+   }
+  ],
+  "Porc. Latro.": [
+   {
+    "name": "M. Porcius Latro",
+    "epithet": "rhetorician",
+    "date": "ob. B.C. 3"
+   }
+  ],
+  "Priap.": [
+   {
+    "name": "Priapea",
+    "epithet": "a collection of satiric and erotic poems and fragments appended to L. Müler's Catullus.",
+    "date": ""
+   }
+  ],
+  "Prisc.": [
+   {
+    "name": "Priscianus",
+    "epithet": "grammarian",
+    "date": "fl. B.C. 500"
+   }
+  ],
+  "Prop.": [
+   {
+    "name": "Sex. Aurelius Propertius",
+    "epithet": "poet",
+    "date": "ob. B.C. 16"
+   }
+  ],
+  "Prud.": [
+   {
+    "name": "Aurel. Prudentius Clemens",
+    "epithet": "Chr. poet",
+    "date": "fl. A.D. 400"
+   }
+  ],
+  "Pub. Syr.": [
+   {
+    "name": "Publilius Syrus",
+    "epithet": "mimographer",
+    "date": "fl. B.C. 44"
+   }
+  ],
+  "Q Cic.": [
+   {
+    "name": "Quintus Tullius Cicero",
+    "epithet": "",
+    "date": "ob. B.C. 43"
+   }
+  ],
+  "Quint.": [
+   {
+    "name": "M. T. Quintilianus",
+    "epithet": "rhetorician",
+    "date": "ob. A.D. 95"
+   }
+  ],
+  "Rhem. Fan.": [
+   {
+    "name": "Rhemmius Fanninus or Remius Favinus",
+    "epithet": "poet",
+    "date": "fl. (?)A.D. 400"
+   }
+  ],
+  "Ruf.": [
+   {
+    "name": "Sextus Rufus",
+    "epithet": "historian",
+    "date": "fl. A.D. 350"
+   }
+  ],
+  "Rufin.": [
+   {
+    "name": "Tyrannius Rufinus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 410"
+   }
+  ],
+  "Rutil. Lup.": [
+   {
+    "name": "P. Rutilius Lupus",
+    "epithet": "grammarian",
+    "date": "fl. (?)A.D. 50"
+   }
+  ],
+  "Rutil.": [
+   {
+    "name": "Claudius Rutilius Namatianus",
+    "epithet": "poet",
+    "date": "fl. A.D. 416"
+   }
+  ],
+  "Rutil. Nam.": [
+   {
+    "name": "Claudius Rutilius Namatianus",
+    "epithet": "poet",
+    "date": "fl. A.D. 416"
+   }
+  ],
+  "Sall.": [
+   {
+    "name": "C. Sallustius Crispus",
+    "epithet": "historian",
+    "date": "ob. B.C. 35"
+   }
+  ],
+  "Salv.": [
+   {
+    "name": "Salvianus",
+    "epithet": "Chr. writer",
+    "date": "fl. A.D. 440"
+   }
+  ],
+  "Scaev.": [
+   {
+    "name": "Q. Mutius Scaevola",
+    "epithet": "JCtus",
+    "date": "fl. B.C. 95"
+   }
+  ],
+  "Scrib.": [
+   {
+    "name": "Scribonius Largus",
+    "epithet": "physician",
+    "date": "fl. A.D. 50"
+   }
+  ],
+  "Sedul.": [
+   {
+    "name": "Caelius Sedulius",
+    "epithet": "Chr. poet",
+    "date": "fl. A.D. 470"
+   }
+  ],
+  "Sen.": [
+   {
+    "name": "M. Annaeus Seneca",
+    "epithet": "rhetorician",
+    "date": "fl. A.D. 15"
+   },
+   {
+    "name": "L. Annaeus Seneca",
+    "epithet": "philosopher and tragedian",
+    "date": "ob. A.D. 65"
+   }
+  ],
+  "Ser. Samm.": [
+   {
+    "name": "Q. Serenus Sammonicus",
+    "epithet": "physic.",
+    "date": "ob. (?)A.D. 230"
+   }
+  ],
+  "Serv.": [
+   {
+    "name": "Servius Honoratus",
+    "epithet": "gramm.",
+    "date": "fl. A.D. 390"
+   }
+  ],
+  "Sev.": [
+   {
+    "name": "see Corn. Sev.",
+    "epithet": "",
+    "date": ""
+   }
+  ],
+  "Sid.": [
+   {
+    "name": "Apollinaris Sidonius",
+    "epithet": "Christian writer",
+    "date": "ob. A.D. 488"
+   }
+  ],
+  "Sil.": [
+   {
+    "name": "C. Silius Italicus",
+    "epithet": "poet",
+    "date": "ob. A.D. 101"
+   }
+  ],
+  "Sisenn.": [
+   {
+    "name": "L. Cornelius Sisenna",
+    "epithet": "historian and orator",
+    "date": "ob. B.C. 57"
+   }
+  ],
+  "Sol.": [
+   {
+    "name": "C. Julius Solimus",
+    "epithet": "grammarian",
+    "date": "fl. A.D. 260"
+   }
+  ],
+  "Solin.": [
+   {
+    "name": "C. Julius Solimus",
+    "epithet": "grammarian",
+    "date": "fl. A.D. 260"
+   }
+  ],
+  "Spart.": [
+   {
+    "name": "Aelius Spartianus",
+    "epithet": "biographer",
+    "date": "fl. A.D. 285"
+   }
+  ],
+  "Stat.": [
+   {
+    "name": "P. Papinius Statius",
+    "epithet": "poet",
+    "date": "ob. A.D. 96"
+   }
+  ],
+  "Suet.": [
+   {
+    "name": "C. Suetonius Tranquillus",
+    "epithet": "biographer",
+    "date": "ob. A.D. 160"
+   }
+  ],
+  "Sulp.": [
+   {
+    "name": "Sulpicius Severus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 425"
+   }
+  ],
+  "Symm.": [
+   {
+    "name": "Q. Aurelius Symmachus",
+    "epithet": "orator, etc.",
+    "date": "ob. A.D. 420"
+   }
+  ],
+  "Tac.": [
+   {
+    "name": "C. Cornelius Tacitus",
+    "epithet": "historian",
+    "date": "ob. A.D. 119"
+   }
+  ],
+  "Ter.": [
+   {
+    "name": "P. Terentius Afer",
+    "epithet": "writer of comedy",
+    "date": "ob. B.C. 159"
+   }
+  ],
+  "T.": [
+   {
+    "name": "P. Terentius Afer",
+    "epithet": "writer of comedy",
+    "date": "ob. B.C. 159"
+   }
+  ],
+  "Ter. Maur.": [
+   {
+    "name": "Terentianus Maurus",
+    "epithet": "gramm.",
+    "date": "fl. A.D. 290"
+   }
+  ],
+  "Tert.": [
+   {
+    "name": "Q. Septimius Florens Tertullianus",
+    "epithet": "Chr. writer",
+    "date": "ob. A.D. 220"
+   }
+  ],
+  "Theod. Prisc.": [
+   {
+    "name": "Theodorus Priscianus",
+    "epithet": "physician",
+    "date": "fl. A.D. 400"
+   }
+  ],
+  "Tib.": [
+   {
+    "name": "Albius Tibullus",
+    "epithet": "poet",
+    "date": "ob. B.C. 18"
+   }
+  ],
+  "Tiro": [
+   {
+    "name": "Tiro",
+    "epithet": "freedman of Cicero",
+    "date": "fl. B.C. 40"
+   }
+  ],
+  "Tiro.": [
+   {
+    "name": "Tiro",
+    "epithet": "freedman of Cicero",
+    "date": "fl. B.C. 40"
+   }
+  ],
+  "Titin.": [
+   {
+    "name": "Titinnius",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 160"
+   }
+  ],
+  "Titinn.": [
+   {
+    "name": "Titinnius",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 160"
+   }
+  ],
+  "Treb. Pol.": [
+   {
+    "name": "Trebellius Pollio",
+    "epithet": "historian",
+    "date": "fl. A.D. 306"
+   }
+  ],
+  "Turp.": [
+   {
+    "name": "Sex. Turpilius",
+    "epithet": "writer of comedy",
+    "date": "fl. B.C. 130"
+   }
+  ],
+  "Ulp.": [
+   {
+    "name": "Domitius Ulpianus",
+    "epithet": "JCtus",
+    "date": "ob. A.D. 228"
+   }
+  ],
+  "Val. Cato": [
+   {
+    "name": "Valerius Cato",
+    "epithet": "poet",
+    "date": "about B.C. 80"
+   }
+  ],
+  "Val. Cato.": [
+   {
+    "name": "Valerius Cato",
+    "epithet": "poet",
+    "date": "about B.C. 80"
+   }
+  ],
+  "Val. Fl.": [
+   {
+    "name": "C. Valerius Flaccus",
+    "epithet": "poet",
+    "date": "fl. A.D. 70"
+   }
+  ],
+  "Val. Max.": [
+   {
+    "name": "Valerius Maximus",
+    "epithet": "historian",
+    "date": "fl. A.D. 26"
+   }
+  ],
+  "Val. Prob.": [
+   {
+    "name": "M. Valerius Probus",
+    "epithet": "gramm.",
+    "date": "fl. (?)A.D. 60"
+   }
+  ],
+  "Varr.": [
+   {
+    "name": "M. Terentius Varro",
+    "epithet": "writer on husbandry, etc.",
+    "date": ""
+   }
+  ],
+  "Veg.": [
+   {
+    "name": "F. Vegetius Renatus",
+    "epithet": "writer an the art of war",
+    "date": "fl. A.D. 386"
+   },
+   {
+    "name": "P. Vegetius",
+    "epithet": "",
+    "date": "fl. (?)A.D. 420"
+   }
+  ],
+  "Vell.": [
+   {
+    "name": "P. Velleius Paterculus",
+    "epithet": "historian",
+    "date": "fl. A.D. 30"
+   }
+  ],
+  "Ver. Flac.": [
+   {
+    "name": "Verrius Flaccus",
+    "epithet": "grammarian",
+    "date": "ob. (?)B.C. 4"
+   }
+  ],
+  "Verg.": [
+   {
+    "name": "P. Vergilius Maro",
+    "epithet": "poet",
+    "date": "ob. B.C. 19"
+   }
+  ],
+  "Vib. Seq.": [
+   {
+    "name": "Vibius Sequester",
+    "epithet": "geographer",
+    "date": "fl. (?)A.D. 500"
+   }
+  ],
+  "Vitr.": [
+   {
+    "name": "Vitruvius Pollio",
+    "epithet": "writer on architecture",
+    "date": "fl. B.C. 10"
+   }
+  ],
+  "Vop.": [
+   {
+    "name": "Flavius Vopiscus",
+    "epithet": "historian",
+    "date": "fl. A.D. 305"
+   }
+  ],
+  "Vulc. Gall.": [
+   {
+    "name": "Vulcatius Gallicanus",
+    "epithet": "historian",
+    "date": "about A.D. 295"
+   }
+  ],
+  "Vulg.": [
+   {
+    "name": "Vulgata",
+    "epithet": "Biblia Vulgatae Editionis",
+    "date": ""
+   }
+  ]
+ },
+ "works": {
+  "Aldh.": {
+   "Ep.": "Epistula ad Acircium, de metris, etc",
+   "Laud. Virg.": "De Laudibus Virginitatis"
+  },
+  "Ambros.": {
+   "De Fide": "De Fide Libri V ad Gratianum Augustum",
+   "De Fide.": "De Fide Libri V ad Gratianum Augustum",
+   "Ep.": "Epistulae",
+   "Hexaëm.": "Hexaëmeron",
+   "in Luc.": "Expositio Evangelii secundum Lucam, Libri X",
+   "in Psa.": "Enarrationes in XII Psalmos",
+   "Off.": "De Officiis"
+  },
+  "App.": {
+   "Apol.": "Apologia, or De Magia",
+   "Asclep.": "Asclepius, or Trismegistus",
+   "Dogm. Plat.": "De Dogmate Platonis",
+   "Flor.": "Florida",
+   "Herb.": "Herbarium, a work of the fourth century A.D., falsely ascribed to Appuleius",
+   "Mag.": "De Magia, or Apologia",
+   "Met.": "Metamorphoses",
+   "M.": "Metamorphoses",
+   "Mund.": "De Mundo",
+   "Trism.": "Trismegistus"
+  },
+  "Aug.": {
+   "Acad.": "Contra Academicos",
+   "Civ. Dei": "De Civitate Dei",
+   "Civ. Dei.": "De Civitate Dei",
+   "C. D.": "De Civitate Dei",
+   "De Doctr. Christ.": "De Doctrina Christiana",
+   "Ep.": "Epistulae",
+   "Mor. Manich.": "De Moribus Manichaeorum",
+   "Music": "De Musica",
+   "Music.": "De Musica",
+   "Retract.": "Retractationes",
+   "Serm.": "Sermones",
+   "Trin.": "De Trinitate"
+  },
+  "Aur. Vict.": {
+   "Caes.": "De Caesaribus",
+   "Epit.": "Epitome de Caesaribus",
+   "Orig.": "Origo Gentis Romanae",
+   "Vir. Ill.": "De Viris Illustribus"
+  },
+  "Aus.": {
+   "Caes.": "De XII Caesaribus",
+   "Ecl.": "Eclogarium",
+   "Edyl.": "Edyllia, or Idyllia",
+   "Ep.": "Epistulae",
+   "Ephem.": "Ephemeris",
+   "Epigr.": "Epigrammata",
+   "Epit.": "Epitaphia",
+   "Grat. Act.": "Gratiarum Actio",
+   "Idyll.": "Idyllia, or Edyllia",
+   "Parent.": "Parentalia",
+   "Per.": "Periochae",
+   "Prof.": "Professores",
+   "Sap.": "Sapientes",
+   "Urb.": "Ordo Nobilium Urbium"
+  },
+  "Avien.": {
+   "Descr. Orb.": "Descriptio Orbis Terrae, or Περιήγησις",
+   "Or. Mar.": "Ora Maritima",
+   "Perieg.": "Descriptio Orbis Terrae, or Περιήγησις"
+  },
+  "Boëth.": {
+   "Anal.": "Analytica",
+   "Consol.": "De Consolatione",
+   "Mus.": "De Musica",
+   "Porphyr.": "Dialogi in Porphyrium",
+   "Top.": "De Differentiis Topicis"
+  },
+  "Cael. Aur.": {
+   "Acut.": "Acutae Passiones",
+   "Tard.": "Tardae Passiones"
+  },
+  "Caes.": {
+   "B. C.": "Bellum Civile",
+   "B. G.": "Bellum Gallicum"
+  },
+  "Calp.": {
+   "Ecl.": "Eclogae"
+  },
+  "Capitol.": {
+   "Balb.": "Vita Balbini",
+   "Gord.": "Vita Gordiani",
+   "Max.": "Vita Maximi",
+   "Maxim.": "Vita Maximini"
+  },
+  "Cassiod.": {
+   "Chron.": "Chronicon",
+   "Complex.": "Complexiones in Epistulas Apostolicas",
+   "De Anim.": "De Anima",
+   "Hist.": "Gothorum Historia",
+   "Hist. Eccl.": "Historia Ecclesiastica",
+   "Inst. Div. Litt.": "Institutio Divinarum Litterarum",
+   "Var.": "Variarurn Libri XII"
+  },
+  "Cato": {
+   "R. R.": "De Re Rustica"
+  },
+  "Cic.": {
+   "Acad.": "Academicae Quaestiones",
+   "Ac.": "Academicae Quaestiones",
+   "ad Brut.": "ad M. Brutum Epistulae",
+   "Aem. Scaur.": "Oratio pro Aemilio Scauro",
+   "Agr.": "Orationes de Lege Agraria",
+   "Am.": "De Amicitia, or Laelius",
+   "Arat.": "Aratus",
+   "Arch.": "Oratio pro A. Licinio Archia",
+   "Att.": "Epistulae ad Atticum",
+   "Balb.": "Oratio pro L. Corn. Balbo",
+   "Brut.": "Brutus sive de Claris Oratoribus",
+   "Caecin.": "Oratio pro Caecina",
+   "Cael.": "Oratio pro M. Caelio",
+   "Cat.": "Orationes in Catilinam",
+   "Cat. M.": "Cato Major, or De Senectute",
+   "Clu.": "Oratio pro Cluentio",
+   "Deiot.": "Oratio pro Rege Deiotaro",
+   "De Or.": "De Oratore",
+   "Div.": "De Divinatione ad M. Brutum",
+   "Div. in Caecil.": "Divinatio in Caecilium",
+   "Dom.": "Oratio de Domo sua",
+   "Fam.": "Epistulae ad Familiares",
+   "Fat.": "De Fato",
+   "Fin.": "De Finibus",
+   "Flac.": "Oratio pro L. Flacco",
+   "Fl.": "Oratio pro L. Flacco",
+   "Font.": "Oratio pro M. Fonteio",
+   "Fontei.": "Oratio pro M. Fonteio",
+   "Fragm.": "Fragmenta",
+   "Har. Resp.": "Oratio de Haruspicum Responsis",
+   "Her.": "Auctor ad Herennium",
+   "Imp. Pomp.": "Oratio de Imperio Cn. Pompei, or Pro Lege Manilla",
+   "Inv.": "De Inventione Rhetorica",
+   "Lael.": "Laelius, or De Amicitia",
+   "Leg.": "De Legibus",
+   "Lig.": "Oratio pro Ligario",
+   "Manil.": "Oratio pro Lege Manilia, or De Imperio Cn. Pompei",
+   "Marcell.": "Oratio pro Marcello",
+   "Mil.": "Oratio pro Milone",
+   "Mur.": "Oratio pro L. Murena",
+   "N. D.": "De Deorum Natura",
+   "Off.": "De Officiis",
+   "Opt. Gen.": "De Optimo Genere Oratorum",
+   "Or.": "Orator ad M. Brutum",
+   "Par.": "Paradoxa Stoicorum",
+   "Parad.": "Paradoxa Stoicorum",
+   "Part. Or.": "De Partitione Oratoria",
+   "Phil.": "Orationes Philippicae in M. Antonium",
+   "Pis.": "Oratio in Pisonem",
+   "Planc.": "Oratio pro Plancio",
+   "Prov. Cons.": "De Provinces Consularibus",
+   "Quinct.": "Oratio pro P. Quinctio, or Quinto",
+   "Quint.": "Oratio pro P. Quinctio, or Quinto",
+   "Q. Fr.": "Epistulae ad Q. Fratrem",
+   "ad Q. Fr.": "Epistulae ad Q. Fratrem",
+   "Rab. Perd.": "Oratio pro Rabirio Perduellonis Reo",
+   "Rab. Post.": "Oratio pro Rabirio Posthumo",
+   "Red. Quir.": "Oratio post Reditum ad Quirites",
+   "Red. in Sen.": "Oratio post Reditum in Senatu",
+   "Rep.": "De Re Publica",
+   "Rosc. Am.": "Oratio pro Quinto Roscio Amerino",
+   "Rosc. Com.": "Oratio pro Sexto Roscio Comoedo",
+   "Scaur.": "Oratio pro M. Aemilio Scauro",
+   "Sen.": "De Senectute, or Cato Major",
+   "Sest.": "Oratio pro Sestio",
+   "Sext.": "Oratio pro Sestio",
+   "Sull.": "Oratio pro Sulla",
+   "Tim.": "Timaeus, or De Universo",
+   "Tog. Cand.": "Oratio in Senatu in Toga Candida",
+   "Top.": "Topica",
+   "Tull.": "Oratio pro M. Tullio",
+   "Tusc.": "Tusculanae Disputationes",
+   "Univ.": "De Universo, or Timaeus",
+   "Vatin.": "Oratio in Vatinium",
+   "Verr.": "Actio in Verrem"
+  },
+  "C.": {
+   "Acad.": "Academicae Quaestiones",
+   "Ac.": "Academicae Quaestiones",
+   "ad Brut.": "ad M. Brutum Epistulae",
+   "Aem. Scaur.": "Oratio pro Aemilio Scauro",
+   "Agr.": "Orationes de Lege Agraria",
+   "Am.": "De Amicitia, or Laelius",
+   "Arat.": "Aratus",
+   "Arch.": "Oratio pro A. Licinio Archia",
+   "Att.": "Epistulae ad Atticum",
+   "Balb.": "Oratio pro L. Corn. Balbo",
+   "Brut.": "Brutus sive de Claris Oratoribus",
+   "Caecin.": "Oratio pro Caecina",
+   "Cael.": "Oratio pro M. Caelio",
+   "Cat.": "Orationes in Catilinam",
+   "Cat. M.": "Cato Major, or De Senectute",
+   "Clu.": "Oratio pro Cluentio",
+   "Deiot.": "Oratio pro Rege Deiotaro",
+   "De Or.": "De Oratore",
+   "Div.": "De Divinatione ad M. Brutum",
+   "Div. in Caecil.": "Divinatio in Caecilium",
+   "Dom.": "Oratio de Domo sua",
+   "Fam.": "Epistulae ad Familiares",
+   "Fat.": "De Fato",
+   "Fin.": "De Finibus",
+   "Flac.": "Oratio pro L. Flacco",
+   "Fl.": "Oratio pro L. Flacco",
+   "Font.": "Oratio pro M. Fonteio",
+   "Fontei.": "Oratio pro M. Fonteio",
+   "Fragm.": "Fragmenta",
+   "Har. Resp.": "Oratio de Haruspicum Responsis",
+   "Her.": "Auctor ad Herennium",
+   "Imp. Pomp.": "Oratio de Imperio Cn. Pompei, or Pro Lege Manilla",
+   "Inv.": "De Inventione Rhetorica",
+   "Lael.": "Laelius, or De Amicitia",
+   "Leg.": "De Legibus",
+   "Lig.": "Oratio pro Ligario",
+   "Manil.": "Oratio pro Lege Manilia, or De Imperio Cn. Pompei",
+   "Marcell.": "Oratio pro Marcello",
+   "Mil.": "Oratio pro Milone",
+   "Mur.": "Oratio pro L. Murena",
+   "N. D.": "De Deorum Natura",
+   "Off.": "De Officiis",
+   "Opt. Gen.": "De Optimo Genere Oratorum",
+   "Or.": "Orator ad M. Brutum",
+   "Par.": "Paradoxa Stoicorum",
+   "Parad.": "Paradoxa Stoicorum",
+   "Part. Or.": "De Partitione Oratoria",
+   "Phil.": "Orationes Philippicae in M. Antonium",
+   "Pis.": "Oratio in Pisonem",
+   "Planc.": "Oratio pro Plancio",
+   "Prov. Cons.": "De Provinces Consularibus",
+   "Quinct.": "Oratio pro P. Quinctio, or Quinto",
+   "Quint.": "Oratio pro P. Quinctio, or Quinto",
+   "Q. Fr.": "Epistulae ad Q. Fratrem",
+   "ad Q. Fr.": "Epistulae ad Q. Fratrem",
+   "Rab. Perd.": "Oratio pro Rabirio Perduellonis Reo",
+   "Rab. Post.": "Oratio pro Rabirio Posthumo",
+   "Red. Quir.": "Oratio post Reditum ad Quirites",
+   "Red. in Sen.": "Oratio post Reditum in Senatu",
+   "Rep.": "De Re Publica",
+   "Rosc. Am.": "Oratio pro Quinto Roscio Amerino",
+   "Rosc. Com.": "Oratio pro Sexto Roscio Comoedo",
+   "Scaur.": "Oratio pro M. Aemilio Scauro",
+   "Sen.": "De Senectute, or Cato Major",
+   "Sest.": "Oratio pro Sestio",
+   "Sext.": "Oratio pro Sestio",
+   "Sull.": "Oratio pro Sulla",
+   "Tim.": "Timaeus, or De Universo",
+   "Tog. Cand.": "Oratio in Senatu in Toga Candida",
+   "Top.": "Topica",
+   "Tull.": "Oratio pro M. Tullio",
+   "Tusc.": "Tusculanae Disputationes",
+   "Univ.": "De Universo, or Timaeus",
+   "Vatin.": "Oratio in Vatinium",
+   "Verr.": "Actio in Verrem"
+  },
+  "Claud.": {
+   "B. Get.": "De Bello Getico",
+   "Bell. Get.": "De Bello Getico",
+   "B. Gild.": "De Bello Gildonico",
+   "Bell. Gild.": "De Bello Gildonico",
+   "Cons. Mall. Theod.": "De Consulatu Fl. Mallii Theodori",
+   "Cons. Olyb. et Prob.": "In Consulatum Olybrii et Probini",
+   "Cons. Stil.": "De Consulatu Stilichonis",
+   "IV. Cons. Hon.": "De Quarto Consulatu Honorii",
+   "VI. Cons. Hon.": "De Sexto Consulatu Honorii",
+   "Epith.": "Epithalamium",
+   "in Eutr.": "in Eutropium Libri II",
+   "in Rufin.": "in Rufinium Libri II",
+   "Laud. Ser.": "De Laudibus Serenae Reginae",
+   "Laud. Stil.": "De Laudibus Stilichonis",
+   "Nupt. Hon. et Mar.": "De Nuptiis Honorii et Mariae",
+   "Rapt. Pros.": "De Raptu Proserpinae"
+  },
+  "Claud. Mam.": {
+   "Stat. An.": "De Statu Animae"
+  },
+  "Cod.": {
+   "Greg.": "Gregorianus. compiled (?)A.D. 295",
+   "Hermog.": "Hermogenianus. compiled (?)A.D. 330",
+   "Just.": "Justinianeus. compiled A.D. 530",
+   "Cod.": "Justinianeus. compiled A.D. 530",
+   "Theod.": "Theodosianus. compiled A.D. 438"
+  },
+  "Commod.": {
+   "Apol.": "T Carmen Apologoticum",
+   "Instr.": "Instructiones"
+  },
+  "Coripp.": {
+   "Johan.": "Johannis, sive de Bellis Libycis",
+   "Laud. Just.": "De Laudibus Justini Augusti"
+  },
+  "Dracont.": {
+   "Hexaëm.": "Hexaëmeron Creationis Mundi"
+  },
+  "Enn.": {
+   "Ann.": "Annales",
+   "Trag.": "Tragoediae"
+  },
+  "Ennod.": {
+   "Ep.": "Epistulae",
+   "Epithal.": "Epithalamium",
+   "Pan.": "Panegyricus",
+   "Vit. Epiph.": "Vita Epiphanii"
+  },
+  "Eum.": {
+   "Grat. Act.": "Gratiarum Actio Constantino",
+   "Pan. Const.": "Panegyricus Constantino Augusto dictus"
+  },
+  "Front.": {
+   "Aquaed.": "De Aquaeductibus Urbis Romae",
+   "Strat.": "Strategematica",
+   "ad Marc": "Epistulae ad M. Aurelium",
+   "ad Marc.": "Epistulae ad M. Aurelium",
+   "ad Ver.": "Epistulae ad Verum Imperatorem",
+   "De Diff.": "De Differentiis",
+   "De Eloq.": "De Eloquentia"
+  },
+  "Frontin.": {
+   "Aquaed.": "De Aquaeductibus Urbis Romae",
+   "Strat.": "Strategematica"
+  },
+  "Fronto": {
+   "ad Marc": "Epistulae ad M. Aurelium",
+   "ad Marc.": "Epistulae ad M. Aurelium",
+   "ad Ver.": "Epistulae ad Verum Imperatorem",
+   "De Diff.": "De Differentiis",
+   "De Eloq.": "De Eloquentia"
+  },
+  "Fulg.": {
+   "De Aetat.": "De Aetatibus Mundi",
+   "Expos.": "Expositio Sermonum Antiquorum",
+   "Myth.": "Mythologiae",
+   "Verg. Cont.": "Vergiliana Continentia"
+  },
+  "Gai.": {
+   "Inst.": "Institutiones Juris Civilis"
+  },
+  "Gloss.": {
+   "Cyril.": "Cyrilli",
+   "Isid.": "Isidori",
+   "Philox.": "Philoxeni"
+  },
+  "Grat.": {
+   "Cyn.": "Cynegetica",
+   "Cyneg.": "Cynegetica"
+  },
+  "Hier.": {
+   "Cant. Cantic.": "Homiliae in Cantica Canticorum",
+   "Cont. Pelag.": "Dialogi Contra Pelagianos",
+   "Ep.": "Epistulae",
+   "in Isa.": "in Iesaiam Commentarii",
+   "in Psa.": "in Psalmos Tractatus"
+  },
+  "Hor.": {
+   "A. P.": "Ars Poetica",
+   "C.": "Carmina, or Odae",
+   "C. S.": "Carmen Seculare",
+   "Ep.": "Epistulae",
+   "Epod.": "Epodi",
+   "Od.": "Odae, or Carmina",
+   "S.": "Satirae",
+   "Sat.": "Satirae"
+  },
+  "Hyg.": {
+   "Astr.": "Astronomia",
+   "F.": "Fabellae"
+  },
+  "Hyg. (Gromat.)": {
+   "Lim.": "De Limitibus Constituendis",
+   "De Lim.": "De Limitibus Constituendis"
+  },
+  "Inscr.": {
+   "Don.": "Donii",
+   "Fabr.": "Fabretti",
+   "Graev.": "Graevii",
+   "Grut.": "Gruteri",
+   "Gud.": "Gudii",
+   "Maff.": "Maffeii",
+   "Momms.": "Mommsenii",
+   "Murat.": "Muratorii",
+   "Neap.": "Regni Neapolitani (ed. by Mommsen)",
+   "Orell.": "Orelli",
+   "Rein.": "Reinesii"
+  },
+  "Isid.": {
+   "Orig.": "Origenes"
+  },
+  "Jul. Val.": {
+   "Res Gest. Alex.": "Res Gestae Alexandri Macedonis"
+  },
+  "Just.": {
+   "Inst.": "Institutiones"
+  },
+  "Lact.": {
+   "De Ira D.": "De Ira Dei",
+   "Epit.": "Epitome Divinarum Institutionum",
+   "Inst.": "(or Lact. alone), Institutiones Divinae",
+   "Mort. Pers.": "De Mortibus Persecutorum"
+  },
+  "Lampr.": {
+   "Alex. Sev.": "Alexandri Severi Vita",
+   "Com.": "Commodi Vita",
+   "Elag.": "Elagabali Vita"
+  },
+  "Lucil.": {
+   "Aetn.": "Aetna, v. Auctor Aetnae"
+  },
+  "Macr.": {
+   "S.": "Saturnalia",
+   "Sat.": "Saturnalia",
+   "Somn. Scip.": "Somnium Scipionis"
+  },
+  "Manil.": {
+   "Astron": "Astronomica",
+   "Astron.": "Astronomica"
+  },
+  "Min. Fel.": {
+   "Oct.": "Octavius"
+  },
+  "Nazar.": {
+   "Pan. Const.": "Panegyricus Constantini"
+  },
+  "Nemes.": {
+   "Cyn.": "Cynegetica",
+   "Ecl.": "Eclogae"
+  },
+  "Nep.": {
+   "Ages.": "Agesilaus",
+   "Alcib.": "Alcibiades",
+   "Arist.": "Aristides",
+   "Att.": "Atticus",
+   "Cat.": "M. Porcius Cato",
+   "Chabr.": "Chabrias",
+   "Cim.": "Cimon",
+   "Con.": "Conon",
+   "Dat.": "Datames",
+   "Dion": "Dion",
+   "Dion.": "Dion",
+   "Epam.": "Epaminondas",
+   "Eum.": "Eumenes",
+   "Ham.": "Hamilcar",
+   "Hann.": "Hannibal",
+   "Iph.": "Iphicrates",
+   "Lys.": "Lysander",
+   "Milt.": "Miltiades",
+   "Paus.": "Pausanias",
+   "Pelop.": "Pelopidas",
+   "Phoc.": "Phocion",
+   "Reg.": "De Regibus",
+   "Them.": "Themistocles",
+   "Thras.": "Thrasybulus",
+   "Tim.": "Timoleon",
+   "Timol.": "Timoleon",
+   "Timoth.": "Timotheus"
+  },
+  "Ov.": {
+   "A. A.": "Ars Amatoria",
+   "Am.": "Amores",
+   "Cons.": "Consolatio",
+   "F.": "Fasti",
+   "Fast.": "Fasti",
+   "H.": "Heroides",
+   "Her.": "Heroides",
+   "Hal.": "Halieuticon",
+   "Ib.": "Ibis",
+   "M.": "Metamorphoses",
+   "Met.": "Metamorphoses",
+   "Med. Fac.": "Medicamina Faciei",
+   "Nux": "Nux Elegia",
+   "Nux.": "Nux Elegia",
+   "P.": "Epistulae ex Ponto",
+   "Pont.": "Epistulae ex Ponto",
+   "R. Am.": "Remedia Amoris",
+   "Rem. Am.": "Remedia Amoris",
+   "Tr.": "Tristia",
+   "Trist.": "Tristia"
+  },
+  "Pacat.": {
+   "Pan.": "Panegyricus"
+  },
+  "Pall.": {
+   "Apr.": "Aprilis Mensis, or Liber V",
+   "Aug.": "Augustus Mensis, or Liber IX",
+   "Dec.": "December Mensis, or Liber XIII",
+   "Febr.": "Februarius Mensis, or Liber III",
+   "Jan.": "Januarius Mensis, or Liber II",
+   "Jul.": "Julius Mensis, or Liber VIII",
+   "Jun.": "Junius Mensis, or Liber VII",
+   "Mai.": "Maius Mensis, or Liber VI",
+   "Mart.": "Martius Mensis, or Liber IV",
+   "Nov.": "November Mensis, or Liber XII",
+   "Oct.": "October Mensis, or Liber XL",
+   "Sept.": "September Mensis, or Liber X"
+  },
+  "Paul. Nol.": {
+   "Carm.": "Carmina",
+   "Ep.": "Epistulae"
+  },
+  "Petr.": {
+   "S.": "Satirae",
+   "Sat.": "Satirae"
+  },
+  "Plaut.": {
+   "Am.": "Amphitruo",
+   "Amph.": "Amphitruo",
+   "As.": "Asinaria",
+   "Asin.": "Asinaria",
+   "Aul.": "Aulularia",
+   "Bacch.": "Bacchides",
+   "Capt.": "Captivi",
+   "Cas.": "Casina",
+   "Cist.": "Cistellaria",
+   "Curc.": "Curculio",
+   "Ep.": "Epidicus",
+   "Epid.": "Epidicus",
+   "Men.": "Menaechmi",
+   "Merc.": "Mercator",
+   "Mil.": "Miles Gloriosus",
+   "Most.": "Mostellaria",
+   "Pers.": "Persa",
+   "Poen.": "Poenulus",
+   "Ps.": "Pseudolus",
+   "Rud.": "Rudens",
+   "Stich.": "Stichus",
+   "Trin.": "Trinummus",
+   "Truc.": "Truculentus"
+  },
+  "Plin.": {
+   "H. N.": "Historia Naturalis (usu. undesignated)",
+   "Ep.": "Epistulae",
+   "Pan.": "Panegyricus"
+  },
+  "Prud.": {
+   "Cath.": "Cathemerina",
+   "c. Symm.": "contra Symmachum",
+   "Psych.": "Psychomachia",
+   "στεφ.": "περὶ Στεφάνων"
+  },
+  "Q Cic.": {
+   "Pet. Cons.": "De Petitione Consulatus"
+  },
+  "Quint.": {
+   "Decl.": "Declamationes",
+   "Inst. (or Quint. alone)": "Institutiones Oratoriae",
+   "Inst. (or Quint. alone).": "Institutiones Oratoriae"
+  },
+  "Rhem. Fan.": {
+   "Pond.": "De Ponderibus et Mensuris"
+  },
+  "Sall.": {
+   "C.": "Catilina",
+   "Cat.": "Catilina",
+   "Fragm.": "Fragmenta",
+   "H.": "Historia",
+   "Hist.": "Historia",
+   "J.": "Jugurtha",
+   "Jug.": "Jugurtha"
+  },
+  "Salv.": {
+   "Avar.": "Adversum Avaritiam",
+   "Ep.": "Epistulae",
+   "Gub. Dei": "De Gubernatione Dei",
+   "Gub. Dei.": "De Gubernatione Dei"
+  },
+  "Scrib.": {
+   "Comp.": "Compositiones Medicamentorum"
+  },
+  "Sen.": {
+   "Contr.": "Controversiae",
+   "Suas.": "Suasoriae",
+   "Apocol.": "Apocolocyntosis",
+   "Ben.": "De Benefices",
+   "Brev. Vit.": "De Brevitate Vitae",
+   "Clem.": "De Clementia",
+   "Cons. Helv.": "ad Helviam Matrem De Consolatione",
+   "Cons. Marc.": "ad Marciam De Consolatione",
+   "Cons. Polyb.": "ad Polybium De Consolatione",
+   "Const.": "De Constants Sapientis",
+   "Const. Sap.": "De Constants Sapientis",
+   "Ep.": "Epistulae",
+   "Mort. Claud.": "De Morte Claudii Caesaris",
+   "Lud. Mort.": "De Morte Claudii Caesaris",
+   "Ot. Sap.": "De Otio Sanientis",
+   "Prov.": "De Providentia",
+   "Q. N.": "Quaestiones Naturales",
+   "Tranq.": "De Tranquillitate Animi",
+   "Vit. Beat.": "De Vita Beata",
+   "Agam.": "Agamemnon",
+   "Herc. Fur.": "Hercules Furens",
+   "Herc. Oet.": "Hercules Oetaeus",
+   "Hippol.": "Hippolytus, or Phaedra",
+   "Med.": "Medea",
+   "Octav.": "Octavia",
+   "Oedip.": "Oedipus",
+   "Phaedr.": "v. Hippol",
+   "Phoen.": "Phoenissae",
+   "Thyest.": "Thyestes",
+   "Troad.": "Troades"
+  },
+  "Sid.": {
+   "Carm.": "Carmina",
+   "Ep.": "Epistulae"
+  },
+  "Stat.": {
+   "Ach.": "Achilleis",
+   "Achll.": "Achilleis",
+   "S.": "Silvae",
+   "Silv.": "Silvae",
+   "Th.": "Thebais",
+   "Theb.": "Thebais"
+  },
+  "Suet.": {
+   "Aug.": "Octavius Augustus Caesar",
+   "Caes.": "Julius Caesar",
+   "Calig.": "Caius Caligula",
+   "Claud.": "Claudius",
+   "Dom.": "Domitianus",
+   "Galb.": "Gatba",
+   "Gram.": "De Graminaticis",
+   "Ner.": "Nero",
+   "Oth.": "Otho",
+   "Rhet.": "De Rhetoricis",
+   "Tib.": "Tiberius",
+   "Tit.": "Titus",
+   "Vesp.": "Vespasianus",
+   "Vit.": "Vitellius"
+  },
+  "Tac.": {
+   "Agr.": "Agricola",
+   "A.": "Annales",
+   "Ann.": "Annales",
+   "Dial.": "Dialogus de Oratoribus",
+   "G.": "Germanina",
+   "Germ.": "Germanina",
+   "H.": "Historia",
+   "Hist.": "Historia",
+   "Or.": "Dialogus de Oratoribus"
+  },
+  "Ter.": {
+   "Ad.": "Adelphi",
+   "And.": "Andria",
+   "Eun.": "Eunuchus",
+   "Heaut.": "Heautontimorumenos",
+   "Hec.": "Hecyra",
+   "Phorm.": "Phormio"
+  },
+  "T.": {
+   "Ad.": "Adelphi",
+   "And.": "Andria",
+   "Eun.": "Eunuchus",
+   "Heaut.": "Heautontimorumenos",
+   "Hec.": "Hecyra",
+   "Phorm.": "Phormio"
+  },
+  "Tert.": {
+   "ad Uxor.": "ad Uxorem",
+   "Apol.": "Apologeticum",
+   "Carn. Christ.": "De Carne Christi",
+   "Cor. Mil.": "De Corona Militis",
+   "Cult. Fem.": "De Cultu Feminarum",
+   "Fug. in Pers.": "De Fuga in Persecutione",
+   "Idol.": "Idolotria",
+   "Jejun.": "De Jejuniis",
+   "Monog.": "Monogamia",
+   "Paen.": "De Paenitentia",
+   "Praes. Her.": "De Praescriptionibus Hereticorum",
+   "Pudic.": "De Pudicitia",
+   "Spect.": "De Spectaculis",
+   "Virg. Vel.": "De Virginibus Velandis"
+  },
+  "Val. Cato": {
+   "Dir.": "Dirae (by an unknown author; ascribed by some to Valerius Cato, and by others to Vergil)"
+  },
+  "Varr.": {
+   "L. L.": "De Lingua Latina",
+   "R. R.": "De Re Rustica"
+  },
+  "Veg.": {
+   "Mil.": "De Re Militari",
+   "Vet.": "De Arte Veterinaria sive De Mulomedicina",
+   "Art. Vet.": "De Arte Veterinaria sive De Mulomedicina"
+  },
+  "Verg.": {
+   "A.": "Aeneis",
+   "Aen.": "Aeneis",
+   "Cat.": "Catalecta",
+   "Cir.": "Ciris",
+   "Cop.": "Copa",
+   "Cul.": "Culex",
+   "E.": "Eclogae",
+   "Ecl.": "Eclogae",
+   "G.": "Georgica",
+   "Geor.": "Georgica",
+   "M.": "Moretum",
+   "Mor.": "Moretum"
+  },
+  "Vulg.": {
+   "Abd.": "Abdias",
+   "Act.": "Actus Apostolorura",
+   "Agg.": "Aggaeus",
+   "Am.": "Amos",
+   "Amos": "Amos",
+   "Amos.": "Amos",
+   "Apoc.": "Apocalypsis",
+   "Bar.": "Baruch",
+   "Cant.": "Canticum Canticorum",
+   "Coloss.": "Epistula ad Colossenses",
+   "Cor.": "Epistula ad Corinthios",
+   "Dan.": "Daniel",
+   "Deut.": "Deuteronomium",
+   "Eccl.": "Ecclesiastes",
+   "Eccli.": "Ecclesiasticus, or Filius Sirach",
+   "Eph.": "Epistula ad Ephesios",
+   "Esdr.": "Esdras",
+   "Esth.": "Esther",
+   "Exod.": "Exodus",
+   "Ezech.": "Ezechiel",
+   "Gal.": "Epistula ad Galatas",
+   "Gen.": "Genesis",
+   "Hab.": "Habacuc",
+   "Heb.": "Epistula ad Hebraeos",
+   "Isa.": "Isaias",
+   "Jac.": "Epistula Jacobi",
+   "Jer.": "Jeremias",
+   "Joan.": "Evangelium Joannis; but 1, 2, 3 Joan., Epistula Joannis prima, etc",
+   "Jon.": "Jonas",
+   "Jos.": "Josue",
+   "Jud.": "Epistula Judae",
+   "Judic.": "Judices",
+   "Lev.": "Leviticus",
+   "Luc.": "Evangelium Lucae",
+   "Macc.": "Machabael",
+   "Mach.": "Machabael",
+   "Mal.": "Malachias",
+   "Marc": "Evangelium Marci",
+   "Marc.": "Evangelium Marci",
+   "Matt.": "Evangelium Matthaei",
+   "Mich.": "Michaeas",
+   "Nah.": "Nahum",
+   "Neb.": "Nehemias, or II. Esdras",
+   "Num.": "Numeri",
+   "Os.": "Osee",
+   "Par.": "Paralipomena",
+   "Paral.": "Paralipomena",
+   "Petr.": "Epistula Petri",
+   "Phil.": "Epistula ad Philippenses",
+   "Philem.": "Epistula ad Philemonem",
+   "Prov.": "Proverbia Salomonis",
+   "Psa.": "Psalmi",
+   "Reg.": "Reges",
+   "Rom.": "Epistula ad Romanos",
+   "Sap.": "Sapientia",
+   "Soph.": "Sophonias",
+   "Thess.": "Epistula ad Thessalonicenses",
+   "Tim.": "Epistula ad Timotheum",
+   "Tit.": "Epistula ad Titum",
+   "Tob.": "Tobias",
+   "Zach.": "Zacharias"
+  }
+ },
+ "publications": {
+  "a.": "active, -ly",
+  "act.": "active, -ly",
+  "abbrev.": "abbreviated, -tion",
+  "abl.": "ablative",
+  "absol.": "absolute, -ly, i. e. without case or adjunct",
+  "abs.": "absolute, -ly, i. e. without case or adjunct",
+  "abstr.": "abstract",
+  "acc.": "accusative or according",
+  "access.": "accessory",
+  "adj.": "adjective, -ly",
+  "ad loc.": "ad locum or ad hunc locum. (comment on this passage)",
+  "ad h. l.": "ad locum or ad hunc locum. (comment on this passage)",
+  "adv.": "adverb, -ial, -ially; or adversus",
+  "agric.": "agricultural",
+  "agricult.": "agricultural",
+  "a. h. v.": "ad hanc vocem. (at this entry)",
+  "al.": "alii or alia, others or other",
+  "amplif.": "amplificative",
+  "analog.": "analogous, -ly",
+  "antiq.": "antiquities",
+  "ap.": "apud (in)",
+  "appel.": "appellative",
+  "append.": "appendix",
+  "app.": "appendix",
+  "Arab.": "Arabic",
+  "archit.": "architecture, -tural",
+  "art.": "article",
+  "aug.": "augmentative",
+  "Aug.": "Augustan",
+  "c.": "cum (with)",
+  "c. c.": "coupled with",
+  "cf.": "confer (compare)",
+  "chh.": "church",
+  "class.": "classic, -al",
+  "Cod.": "Codex (MS)",
+  "collat.": "collateral",
+  "collect.": "collective, -ly",
+  "com.": "commonly, comicus, comic, or in comedy",
+  "comm.": "common gender",
+  "commentt.": "commentators",
+  "comp.": "compare or comparative",
+  "compd.": "compound",
+  "concr.": "concrete",
+  "conj.": "conjunction, conjunctive, or conjugation",
+  "constr.": "construed, -ction",
+  "contr.": "contracted, contraction, or contrary",
+  "corresp.": "corresponding",
+  "dat.": "dative",
+  "decl.": "declension",
+  "demonstr.": "demonstrative",
+  "dem.": "demonstrative",
+  "dep.": "deponent",
+  "deriv.": "derived, -ative, -ation",
+  "diff.": "differs or different",
+  "dim.": "diminutive",
+  "dissyl.": "dissyllable, -abic",
+  "distr.": "distributive",
+  "dub.": "doubtful",
+  "eccl.": "ecclesiastical",
+  "ed.": "editio or editor",
+  "e. g.": "exempli gratiâ",
+  "ellipt.": "elliptical, -ly",
+  "elsewh.": "elsewhere",
+  "epic.": "epicene",
+  "epit.": "epitaph",
+  "equiv.": "equivalent",
+  "esp.": "especially",
+  "etc.": "et cetera",
+  "etym. etymology": "-ical",
+  "etym. etymology.": "-ical",
+  "euphon.": "euphonic, -ny",
+  "ex.": "exs., example, examples",
+  "expl.": "explanation, explained",
+  "express.": "expression",
+  "ext.": "externa",
+  "extr.": "extremo (at the end)",
+  "f.": "feminine",
+  "fem.": "feminine",
+  "fig.": "figure, -ative, -atively",
+  "fin.": "at the end",
+  "ad fin.": "at the end",
+  "finit.": "finite (opp. to infinitive)",
+  "foll.": "following",
+  "Fr.": "French",
+  "fr.": "from",
+  "fragm.": "frgm., or fr., fragmenta",
+  "freq.": "frequentative or frequent, -ly",
+  "fut.": "future",
+  "gen.": "genitive or general",
+  "geog.": "geography, -ical",
+  "Germ.": "German",
+  "Goth.": "Gothic",
+  "gr.": "grammar, -ian, -atical, grammatici",
+  "gram.": "grammar, -ian, -atical, grammatici",
+  "h.": "hence",
+  "h.l.": "hic locus (this passage)",
+  "h.v.": "h. vv., this word, these words",
+  "Heb.": "Hebrew",
+  "hibr.": "hybrid",
+  "hist.": "history, -ian",
+  "i. e.": "id est (that is, namely)",
+  "i. q.": "idem quod (the same as)",
+  "ib.": "ibidem. (at the same place/citation)",
+  "id.": "idem. (the same author)",
+  "imper.": "imperative",
+  "imperf.": "imperfect",
+  "impers.": "impersonal, -ly",
+  "in bon. part.": "in bonam partem. (positive)",
+  "in mal. part.": "in malam partem. (pejorative)",
+  "inanim.": "inanimate",
+  "inch.": "inchoative, inceptive",
+  "indecl.": "indeclinable",
+  "indef.": "indefinite",
+  "indic.": "indicative",
+  "inf.": "infinitive",
+  "init.": "in., or ad init., at the beginning",
+  "inscrr.": "inscriptions",
+  "intens.": "intensive",
+  "interrog.": "interrogative, -tion",
+  "intr.": "intransitive",
+  "Ital.": "Italian",
+  "JCtus.": "juris consultus",
+  "jurid.": "juridical",
+  "kindr.": "kindred",
+  "l. c.": "loco citato or laudato, in the place already cited above (in this same entry)",
+  "l. l.": "loco citato or laudato, in the place already cited above (in this same entry)",
+  "l.": "lege or lectio. (read! (X instead of Y); reading)",
+  "lang.": "language",
+  "Lat.": "Latin",
+  "leg.": "legit, legunt. (he/she reads; they read)",
+  "lex.": "lexicon",
+  "lit.": "literal, in a literal sense",
+  "Lith.": "Lithuanian",
+  "m.": "masculine",
+  "masc.": "masculine",
+  "math.": "mathematics, -ical",
+  "med.": "medio (in the middle)",
+  "medic.": "medical or medicine",
+  "metaph.": "metaphorical, -ly",
+  "meton.": "by metonymy",
+  "mid.": "medial; in a middle or reflexive sense",
+  "milit.": "military, in military affairs",
+  "MS.": "manuscript; MSS. manuscripts",
+  "n. pr.": "nomen proprium (proper name)",
+  "nom. propr.": "nomen proprium (proper name)",
+  "naut.": "nautical",
+  "neg.": "negative, -ly",
+  "no.": "numero",
+  "nom.": "nominative",
+  "num.": "numeral",
+  "numer.": "numeral",
+  "obj.": "object, objective, -ly",
+  "object.": "object, objective, -ly",
+  "obl.": "oblique",
+  "om.": "omit",
+  "onomat.": "onomatopoeia",
+  "opp.": "opposed to, opposite, -tion",
+  "orig.": "originally",
+  "P. a.": "participal adjective",
+  "p.": "page",
+  "part.": "participle",
+  "partit.": "partitive",
+  "pass.": "passive, -ly, or passage",
+  "patr.": "patronymic",
+  "per.": "period",
+  "perf.": "perfect",
+  "perh.": "perhaps",
+  "pers.": "personal, -ly",
+  "philos.": "philosophy, -ical, -ically, -opher",
+  "pl.": "plural",
+  "plur.": "plural",
+  "pleon.": "pleonastically",
+  "plqpf.": "plusquamperfectum",
+  "plur. tant.": "used only in the plural",
+  "poet.": "poetical, -ly",
+  "polit.": "political, -ly",
+  "posit.": "positive",
+  "pos.": "positive",
+  "poss.": "possessive",
+  "praef.": "praefatio",
+  "praep.": "preposition",
+  "preced.": "preceding",
+  "pregn.": "pregnant, -ly",
+  "prep.": "preposition",
+  "pres.": "present",
+  "prob.": "probably",
+  "prol.": "prologus",
+  "pron.": "pronoun",
+  "prooem.": "prooemium",
+  "prop.": "proper, -ly, in a proper sense",
+  "prov.": "proverbial, -ly",
+  "proverb.": "proverbial, -ly",
+  "q. v.": "quod videas. (look it up in that entry)",
+  "qs.": "quasi",
+  "rad.": "radical or root",
+  "rar.": "rare, -ly",
+  "ref.": "refer, -ence",
+  "rel.": "relative or reliquiae",
+  "respect.": "respectūs",
+  "rhet.": "rhetoric, -al; in rhetoric",
+  "Rom.": "Roman",
+  "s. h. v.": "sub hac voce. (in this entry)",
+  "saep.": "saepe",
+  "saepis.": "saepissime",
+  "sc.": "scilicet",
+  "signif.": "signifies, -cation",
+  "simp.": "simple",
+  "Span.": "Spanish",
+  "specif.": "specifically",
+  "sq.": "sequens; sqq., sequentes (and the following)",
+  "subj.": "subjunctive",
+  "subject.": "subject, subjective. -ly",
+  "subst.": "substantive, -ly",
+  "suff.": "suffix",
+  "sup.": "superlative or supine",
+  "syll.": "syllable",
+  "syn.": "synonym, -ymous",
+  "sync.": "syncopated",
+  "t. t.": "technical term",
+  "tab.": "tabula (table, plate)",
+  "term.": "terminus",
+  "trag.": "tragicus, tragic, or in tragedy",
+  "trans.": "translated, -tion",
+  "transf.": "transferred",
+  "trisyl.": "trisyllable, -abic",
+  "trop.": "in a tropical or figurative sense",
+  "usu.": "usual, -ly",
+  "v. h. v.": "vide hanc vocem. (see this entry)",
+  "v.": "verb, vide, or vox",
+  "var. lect.": "varia lectio (different reading)",
+  "vb.": "verb",
+  "voc.": "vocative"
+ }
+}

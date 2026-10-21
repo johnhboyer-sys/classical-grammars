@@ -1,0 +1,75 @@
+grammar-smyth/
+grammar-allen-greenough/
+grammar-ag-tei/
+grammar-bennett/
+grammar-agdt/
+.remember/
+.DS_Store
+.playwright-mcp/
+__pycache__/
+index-scan/*
+!index-scan/TRANSCRIBER-CONTRACT.md
+!index-scan/prep.py
+# The page images are huge and come from the scan zip; the proofed
+# ground truth is the work and belongs in git, on the same principle
+# already stated below for the Greek Index tiles.
+scans/*
+!scans/smyth-1920/
+scans/smyth-1920/*
+!scans/smyth-1920/pages/
+scans/smyth-1920/pages/*
+!scans/smyth-1920/pages/*.gt.xml
+work/ocr-kraken/models/
+work/ocr-kraken/review/crops/
+work/ocr-kraken/review/index.html
+smyth-genie-ocr/
+
+# Greek Index training tiles: the page images and the raw/check segmentations
+# are derivable from the scan zip via work/greek-index/cut.py. The gt.xml IS
+# the training data and stays tracked.
+work/greek-index/scan/*.png
+work/greek-index/scan/*.alto.xml
+work/greek-index/scan/*.chk.xml
+work/greek-index/scan/seg.log
+work/greek-index/verify.log
+
+# Round-three compiled datasets: 88MB of binary, and datasets.py now declares
+# the split they are built from, so they are reproducible rather than archival.
+# Kraken training sets: 131 MB of arrow, rebuilt from the source images
+# by work/ocr-kraken/datasets.py. The .lst manifests beside them are the
+# part worth keeping — they are what says which lines went where.
+work/ocr-kraken/arrow/*.arrow
+
+# regress.py OCR output: rebuildable with --ocr
+work/ocr-kraken/regress/
+work/ocr-kraken/citespace/
+work/ocr-kraken/citespace.log
+work/ocr-kraken/citespace-sheet.png
+work/ocr-kraken/expand.log
+work/ocr-kraken/tabreview.html
+work/ocr-kraken/tabgeom.log
+work/ocr-kraken/tabread.log
+
+# stresscheck.py output: human-review page with embedded scan images,
+# rebuildable any time from genie-tables.json/matching.json/tei-tables.json
+work/tables/stress-review.html
+work/tables/adjudication.html
+work/tables/adjudication-queue.html
+work/tables/adjudication-structure.html
+work/tables/adjudication-proposals.html
+work/tables/adjudication-crops/
+work/tables/tables.json
+work/tables/review599.html
+work/tables/review599-batch.html
+work/tables/review599-tables.html
+work/tables/review599-crops/
+work/tables/laneB-raw/
+
+# wrangler writes an account-id cache here during R2 uploads
+data/wordtool/.wrangler/
+
+# fetch_ml.py downloads the Middle Liddell TEI here; the pack is the work
+scripts/wordtool/sources/
+
+# Agent worktrees a remote session creates under the checkout
+.claude/worktrees/

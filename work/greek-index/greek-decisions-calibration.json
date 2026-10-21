@@ -1,0 +1,15 @@
+{"rulings": [
+ {"id": "g|764|15|1", "choice": "majority"}, {"id": "g|778|71|2", "choice": "majority"},
+ {"id": "g|778|71|3", "choice": "majority"}, {"id": "g|774|19|4", "choice": "deviant", "reading": "οἰκτῑ́ρω (genie)"},
+ {"id": "g|765|26|5", "choice": "majority"}, {"id": "g|768|33|6", "choice": "majority"},
+ {"id": "g|773|86|7", "choice": "majority"}, {"id": "g|768|34|8", "choice": "deviant", "reading": "ἤν (genie)"},
+ {"id": "g|766|68|9", "choice": "majority"}, {"id": "g|782|39|10", "choice": "majority"},
+ {"id": "g|759|40|11", "choice": "deviant", "reading": "ἄλλῃ (genie)"}, {"id": "g|757|57|12", "choice": "majority"},
+ {"id": "g|757|66|13", "choice": "majority"}, {"id": "g|777|63|14", "choice": "deviant", "reading": "πετάννῡμι (sol)"},
+ {"id": "g|757|31|15", "choice": "majority"}, {"id": "g|757|50|16", "choice": "majority"},
+ {"id": "g|776|18|17", "choice": "deviant", "reading": "ἀλλ᾽ (terra)"},
+ {"id": "g|778|39|18", "choice": "correction", "note": "alpha has macron and accent (πρᾱ́ττω-form); no reader exact"},
+ {"id": "g|770|18|19", "choice": "deviant", "reading": "καταπλήττομαι (genie); hyphen after κατα- joined", "note": "hyphen is lexical, must be kept"},
+ {"id": "g|780|84|20", "choice": "majority"}
+],
+"conclusion": "majority 13/13 on gross-content disputes; majority WRONG 6/7 times on fine-diacritic disputes (macron, subscript, accent type, koronis, hyphen). Policy: auto-accept gross-content majorities (202, logged); review fine-diacritic majorities (269) + genuine splits (323)."}

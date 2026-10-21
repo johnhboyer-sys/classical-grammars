@@ -1,0 +1,1995 @@
+{
+  "work": "bennett",
+  "title": "New Latin Grammar",
+  "author": "Charles E. Bennett",
+  "source": "grammar-bennett/",
+  "license": "CC BY-NC-SA 3.0 US",
+  "attribution": "New Latin Grammar, Charles E. Bennett (see grammar-bennett/README.md)",
+  "counts": {
+    "sectionFiles": 7,
+    "sections": 376,
+    "sectionMarkers": 376,
+    "tables": 238,
+    "images": 19,
+    "footnotesInSource": 63,
+    "footnotesAttached": 59,
+    "sectionFootnoteRefs": 58,
+    "examples": 1221,
+    "sectionCrossRefs": 102,
+    "crossRefRanges": 4,
+    "tocSectionLinks": 153
+  },
+  "anomalies": {
+    "markerAudit": [
+      {
+        "n": "1",
+        "sourceFile": "part1.htm",
+        "label": "1"
+      },
+      {
+        "n": "2",
+        "sourceFile": "part1.htm",
+        "label": "2"
+      },
+      {
+        "n": "3",
+        "sourceFile": "part1.htm",
+        "label": "3"
+      },
+      {
+        "n": "4",
+        "sourceFile": "part1.htm",
+        "label": "4"
+      },
+      {
+        "n": "5",
+        "sourceFile": "part1.htm",
+        "label": "5"
+      },
+      {
+        "n": "6",
+        "sourceFile": "part1.htm",
+        "label": "6"
+      },
+      {
+        "n": "7",
+        "sourceFile": "part1.htm",
+        "label": "7"
+      },
+      {
+        "n": "8",
+        "sourceFile": "part1.htm",
+        "label": "8"
+      },
+      {
+        "n": "9",
+        "sourceFile": "part1.htm",
+        "label": "9"
+      },
+      {
+        "n": "10",
+        "sourceFile": "part2.htm",
+        "label": "10"
+      },
+      {
+        "n": "11",
+        "sourceFile": "part2.htm",
+        "label": "11"
+      },
+      {
+        "n": "12",
+        "sourceFile": "part2.htm",
+        "label": "12"
+      },
+      {
+        "n": "13",
+        "sourceFile": "part2.htm",
+        "label": "13"
+      },
+      {
+        "n": "14",
+        "sourceFile": "part2.htm",
+        "label": "14"
+      },
+      {
+        "n": "15",
+        "sourceFile": "part2.htm",
+        "label": "15"
+      },
+      {
+        "n": "16",
+        "sourceFile": "part2.htm",
+        "label": "16"
+      },
+      {
+        "n": "17",
+        "sourceFile": "part2.htm",
+        "label": "17"
+      },
+      {
+        "n": "18",
+        "sourceFile": "part2.htm",
+        "label": "18"
+      },
+      {
+        "n": "19",
+        "sourceFile": "part2.htm",
+        "label": "19"
+      },
+      {
+        "n": "20",
+        "sourceFile": "part2.htm",
+        "label": "20"
+      },
+      {
+        "n": "21",
+        "sourceFile": "part2.htm",
+        "label": "21"
+      },
+      {
+        "n": "22",
+        "sourceFile": "part2.htm",
+        "label": "22"
+      },
+      {
+        "n": "23",
+        "sourceFile": "part2.htm",
+        "label": "23"
+      },
+      {
+        "n": "24",
+        "sourceFile": "part2.htm",
+        "label": "24"
+      },
+      {
+        "n": "25",
+        "sourceFile": "part2.htm",
+        "label": "25"
+      },
+      {
+        "n": "26",
+        "sourceFile": "part2.htm",
+        "label": "26"
+      },
+      {
+        "n": "27",
+        "sourceFile": "part2.htm",
+        "label": "27"
+      },
+      {
+        "n": "28",
+        "sourceFile": "part2.htm",
+        "label": "28"
+      },
+      {
+        "n": "29",
+        "sourceFile": "part2.htm",
+        "label": "29"
+      },
+      {
+        "n": "30",
+        "sourceFile": "part2.htm",
+        "label": "30"
+      },
+      {
+        "n": "31",
+        "sourceFile": "part2.htm",
+        "label": "31"
+      },
+      {
+        "n": "32",
+        "sourceFile": "part2.htm",
+        "label": "32"
+      },
+      {
+        "n": "33",
+        "sourceFile": "part2.htm",
+        "label": "33"
+      },
+      {
+        "n": "34",
+        "sourceFile": "part2.htm",
+        "label": "34"
+      },
+      {
+        "n": "35",
+        "sourceFile": "part2.htm",
+        "label": "35"
+      },
+      {
+        "n": "36",
+        "sourceFile": "part2.htm",
+        "label": "36"
+      },
+      {
+        "n": "37",
+        "sourceFile": "part2.htm",
+        "label": "37"
+      },
+      {
+        "n": "38",
+        "sourceFile": "part2.htm",
+        "label": "38"
+      },
+      {
+        "n": "39",
+        "sourceFile": "part2.htm",
+        "label": "39"
+      },
+      {
+        "n": "40",
+        "sourceFile": "part2.htm",
+        "label": "40"
+      },
+      {
+        "n": "41",
+        "sourceFile": "part2.htm",
+        "label": "41"
+      },
+      {
+        "n": "42",
+        "sourceFile": "part2.htm",
+        "label": "42"
+      },
+      {
+        "n": "43",
+        "sourceFile": "part2.htm",
+        "label": "43"
+      },
+      {
+        "n": "44",
+        "sourceFile": "part2.htm",
+        "label": "44"
+      },
+      {
+        "n": "45",
+        "sourceFile": "part2.htm",
+        "label": "45"
+      },
+      {
+        "n": "46",
+        "sourceFile": "part2.htm",
+        "label": "46"
+      },
+      {
+        "n": "47",
+        "sourceFile": "part2.htm",
+        "label": "47"
+      },
+      {
+        "n": "48",
+        "sourceFile": "part2.htm",
+        "label": "48"
+      },
+      {
+        "n": "49",
+        "sourceFile": "part2.htm",
+        "label": "49"
+      },
+      {
+        "n": "50",
+        "sourceFile": "part2.htm",
+        "label": "50"
+      },
+      {
+        "n": "51",
+        "sourceFile": "part2.htm",
+        "label": "51"
+      },
+      {
+        "n": "52",
+        "sourceFile": "part2.htm",
+        "label": "52"
+      },
+      {
+        "n": "53",
+        "sourceFile": "part2.htm",
+        "label": "53"
+      },
+      {
+        "n": "54",
+        "sourceFile": "part2.htm",
+        "label": "54"
+      },
+      {
+        "n": "55",
+        "sourceFile": "part2.htm",
+        "label": "55"
+      },
+      {
+        "n": "56",
+        "sourceFile": "part2.htm",
+        "label": "56"
+      },
+      {
+        "n": "57",
+        "sourceFile": "part2.htm",
+        "label": "57"
+      },
+      {
+        "n": "58",
+        "sourceFile": "part2.htm",
+        "label": "58"
+      },
+      {
+        "n": "59",
+        "sourceFile": "part2.htm",
+        "label": "59"
+      },
+      {
+        "n": "60",
+        "sourceFile": "part2.htm",
+        "label": "60"
+      },
+      {
+        "n": "61",
+        "sourceFile": "part2.htm",
+        "label": "61"
+      },
+      {
+        "n": "62",
+        "sourceFile": "part2.htm",
+        "label": "62"
+      },
+      {
+        "n": "63",
+        "sourceFile": "part2.htm",
+        "label": "63"
+      },
+      {
+        "n": "64",
+        "sourceFile": "part2.htm",
+        "label": "64"
+      },
+      {
+        "n": "65",
+        "sourceFile": "part2.htm",
+        "label": "65"
+      },
+      {
+        "n": "66",
+        "sourceFile": "part2.htm",
+        "label": "66"
+      },
+      {
+        "n": "67",
+        "sourceFile": "part2.htm",
+        "label": "67"
+      },
+      {
+        "n": "68",
+        "sourceFile": "part2.htm",
+        "label": "68"
+      },
+      {
+        "n": "69",
+        "sourceFile": "part2.htm",
+        "label": "69"
+      },
+      {
+        "n": "70",
+        "sourceFile": "part2.htm",
+        "label": "70"
+      },
+      {
+        "n": "71",
+        "sourceFile": "part2.htm",
+        "label": "71"
+      },
+      {
+        "n": "72",
+        "sourceFile": "part2.htm",
+        "label": "72"
+      },
+      {
+        "n": "73",
+        "sourceFile": "part2.htm",
+        "label": "73"
+      },
+      {
+        "n": "74",
+        "sourceFile": "part2.htm",
+        "label": "74"
+      },
+      {
+        "n": "75",
+        "sourceFile": "part2.htm",
+        "label": "75"
+      },
+      {
+        "n": "76",
+        "sourceFile": "part2.htm",
+        "label": "76"
+      },
+      {
+        "n": "77",
+        "sourceFile": "part2.htm",
+        "label": "77"
+      },
+      {
+        "n": "78",
+        "sourceFile": "part2.htm",
+        "label": "78"
+      },
+      {
+        "n": "79",
+        "sourceFile": "part2.htm",
+        "label": "79"
+      },
+      {
+        "n": "80",
+        "sourceFile": "part2.htm",
+        "label": "80"
+      },
+      {
+        "n": "81",
+        "sourceFile": "part2.htm",
+        "label": "81"
+      },
+      {
+        "n": "82",
+        "sourceFile": "part2.htm",
+        "label": "82"
+      },
+      {
+        "n": "83",
+        "sourceFile": "part2.htm",
+        "label": "83"
+      },
+      {
+        "n": "84",
+        "sourceFile": "part2.htm",
+        "label": "84"
+      },
+      {
+        "n": "85",
+        "sourceFile": "part2.htm",
+        "label": "85"
+      },
+      {
+        "n": "86",
+        "sourceFile": "part2.htm",
+        "label": "86"
+      },
+      {
+        "n": "87",
+        "sourceFile": "part2.htm",
+        "label": "87"
+      },
+      {
+        "n": "88",
+        "sourceFile": "part2.htm",
+        "label": "88"
+      },
+      {
+        "n": "89",
+        "sourceFile": "part2.htm",
+        "label": "89"
+      },
+      {
+        "n": "90",
+        "sourceFile": "part2.htm",
+        "label": "90"
+      },
+      {
+        "n": "91",
+        "sourceFile": "part2.htm",
+        "label": "91"
+      },
+      {
+        "n": "92",
+        "sourceFile": "part2.htm",
+        "label": "92"
+      },
+      {
+        "n": "93",
+        "sourceFile": "part2.htm",
+        "label": "93"
+      },
+      {
+        "n": "94",
+        "sourceFile": "part2.htm",
+        "label": "94"
+      },
+      {
+        "n": "95",
+        "sourceFile": "part2.htm",
+        "label": "95"
+      },
+      {
+        "n": "96",
+        "sourceFile": "part2.htm",
+        "label": "96"
+      },
+      {
+        "n": "97",
+        "sourceFile": "part2.htm",
+        "label": "97"
+      },
+      {
+        "n": "98",
+        "sourceFile": "part2.htm",
+        "label": "98"
+      },
+      {
+        "n": "99",
+        "sourceFile": "part2.htm",
+        "label": "99"
+      },
+      {
+        "n": "100",
+        "sourceFile": "part2.htm",
+        "label": "100"
+      },
+      {
+        "n": "101",
+        "sourceFile": "part2.htm",
+        "label": "101"
+      },
+      {
+        "n": "102",
+        "sourceFile": "part2.htm",
+        "label": "102"
+      },
+      {
+        "n": "103",
+        "sourceFile": "part2.htm",
+        "label": "103"
+      },
+      {
+        "n": "104",
+        "sourceFile": "part2.htm",
+        "label": "104"
+      },
+      {
+        "n": "105",
+        "sourceFile": "part2.htm",
+        "label": "105"
+      },
+      {
+        "n": "106",
+        "sourceFile": "part2.htm",
+        "label": "106"
+      },
+      {
+        "n": "107",
+        "sourceFile": "part2.htm",
+        "label": "107"
+      },
+      {
+        "n": "108",
+        "sourceFile": "part2.htm",
+        "label": "108"
+      },
+      {
+        "n": "109",
+        "sourceFile": "part2.htm",
+        "label": "109"
+      },
+      {
+        "n": "110",
+        "sourceFile": "part2.htm",
+        "label": "110"
+      },
+      {
+        "n": "111",
+        "sourceFile": "part2.htm",
+        "label": "111"
+      },
+      {
+        "n": "112",
+        "sourceFile": "part2.htm",
+        "label": "112"
+      },
+      {
+        "n": "113",
+        "sourceFile": "part2.htm",
+        "label": "113"
+      },
+      {
+        "n": "114",
+        "sourceFile": "part2.htm",
+        "label": "114"
+      },
+      {
+        "n": "115",
+        "sourceFile": "part2.htm",
+        "label": "115"
+      },
+      {
+        "n": "116",
+        "sourceFile": "part2.htm",
+        "label": "116"
+      },
+      {
+        "n": "117",
+        "sourceFile": "part2.htm",
+        "label": "117"
+      },
+      {
+        "n": "118",
+        "sourceFile": "part2.htm",
+        "label": "118"
+      },
+      {
+        "n": "119",
+        "sourceFile": "part2.htm",
+        "label": "119"
+      },
+      {
+        "n": "120",
+        "sourceFile": "part2.htm",
+        "label": "120"
+      },
+      {
+        "n": "121",
+        "sourceFile": "part2.htm",
+        "label": "121"
+      },
+      {
+        "n": "122",
+        "sourceFile": "part2.htm",
+        "label": "122"
+      },
+      {
+        "n": "123",
+        "sourceFile": "part2.htm",
+        "label": "123"
+      },
+      {
+        "n": "124",
+        "sourceFile": "part2.htm",
+        "label": "124"
+      },
+      {
+        "n": "125",
+        "sourceFile": "part2.htm",
+        "label": "125"
+      },
+      {
+        "n": "126",
+        "sourceFile": "part2.htm",
+        "label": "126"
+      },
+      {
+        "n": "127",
+        "sourceFile": "part2.htm",
+        "label": "127"
+      },
+      {
+        "n": "128",
+        "sourceFile": "part2.htm",
+        "label": "128"
+      },
+      {
+        "n": "129",
+        "sourceFile": "part2.htm",
+        "label": "129"
+      },
+      {
+        "n": "130",
+        "sourceFile": "part2.htm",
+        "label": "130"
+      },
+      {
+        "n": "131",
+        "sourceFile": "part2.htm",
+        "label": "131"
+      },
+      {
+        "n": "132",
+        "sourceFile": "part2.htm",
+        "label": "132"
+      },
+      {
+        "n": "133",
+        "sourceFile": "part2.htm",
+        "label": "133"
+      },
+      {
+        "n": "134",
+        "sourceFile": "part2.htm",
+        "label": "134"
+      },
+      {
+        "n": "135",
+        "sourceFile": "part2.htm",
+        "label": "135"
+      },
+      {
+        "n": "136",
+        "sourceFile": "part2.htm",
+        "label": "136"
+      },
+      {
+        "n": "137",
+        "sourceFile": "part2.htm",
+        "label": "137"
+      },
+      {
+        "n": "138",
+        "sourceFile": "part2.htm",
+        "label": "138"
+      },
+      {
+        "n": "139",
+        "sourceFile": "part3.htm",
+        "label": "139"
+      },
+      {
+        "n": "140",
+        "sourceFile": "part3.htm",
+        "label": "140"
+      },
+      {
+        "n": "141",
+        "sourceFile": "part3.htm",
+        "label": "141"
+      },
+      {
+        "n": "142",
+        "sourceFile": "part3.htm",
+        "label": "142"
+      },
+      {
+        "n": "143",
+        "sourceFile": "part3.htm",
+        "label": "143"
+      },
+      {
+        "n": "144",
+        "sourceFile": "part3.htm",
+        "label": "144"
+      },
+      {
+        "n": "145",
+        "sourceFile": "part3.htm",
+        "label": "145"
+      },
+      {
+        "n": "146",
+        "sourceFile": "part4.htm",
+        "label": "146"
+      },
+      {
+        "n": "147",
+        "sourceFile": "part4.htm",
+        "label": "147"
+      },
+      {
+        "n": "148",
+        "sourceFile": "part4.htm",
+        "label": "148"
+      },
+      {
+        "n": "149",
+        "sourceFile": "part4.htm",
+        "label": "149"
+      },
+      {
+        "n": "150",
+        "sourceFile": "part4.htm",
+        "label": "150"
+      },
+      {
+        "n": "151",
+        "sourceFile": "part4.htm",
+        "label": "151"
+      },
+      {
+        "n": "152",
+        "sourceFile": "part4.htm",
+        "label": "152"
+      },
+      {
+        "n": "153",
+        "sourceFile": "part4.htm",
+        "label": "153"
+      },
+      {
+        "n": "154",
+        "sourceFile": "part4.htm",
+        "label": "154"
+      },
+      {
+        "n": "155",
+        "sourceFile": "part4.htm",
+        "label": "155"
+      },
+      {
+        "n": "156",
+        "sourceFile": "part4.htm",
+        "label": "156"
+      },
+      {
+        "n": "157",
+        "sourceFile": "part4.htm",
+        "label": "157"
+      },
+      {
+        "n": "158",
+        "sourceFile": "part4.htm",
+        "label": "158"
+      },
+      {
+        "n": "159",
+        "sourceFile": "part4.htm",
+        "label": "159"
+      },
+      {
+        "n": "160",
+        "sourceFile": "part5.htm",
+        "label": "160"
+      },
+      {
+        "n": "161",
+        "sourceFile": "part5.htm",
+        "label": "161"
+      },
+      {
+        "n": "162",
+        "sourceFile": "part5.htm",
+        "label": "162"
+      },
+      {
+        "n": "163",
+        "sourceFile": "part5.htm",
+        "label": "163"
+      },
+      {
+        "n": "164",
+        "sourceFile": "part5.htm",
+        "label": "164"
+      },
+      {
+        "n": "165",
+        "sourceFile": "part5.htm",
+        "label": "165"
+      },
+      {
+        "n": "166",
+        "sourceFile": "part5.htm",
+        "label": "166"
+      },
+      {
+        "n": "167",
+        "sourceFile": "part5.htm",
+        "label": "167"
+      },
+      {
+        "n": "168",
+        "sourceFile": "part5.htm",
+        "label": "168"
+      },
+      {
+        "n": "169",
+        "sourceFile": "part5.htm",
+        "label": "169"
+      },
+      {
+        "n": "170",
+        "sourceFile": "part5.htm",
+        "label": "170"
+      },
+      {
+        "n": "171",
+        "sourceFile": "part5.htm",
+        "label": "171"
+      },
+      {
+        "n": "172",
+        "sourceFile": "part5.htm",
+        "label": "172"
+      },
+      {
+        "n": "173",
+        "sourceFile": "part5.htm",
+        "label": "173"
+      },
+      {
+        "n": "174",
+        "sourceFile": "part5.htm",
+        "label": "174"
+      },
+      {
+        "n": "175",
+        "sourceFile": "part5.htm",
+        "label": "175"
+      },
+      {
+        "n": "176",
+        "sourceFile": "part5.htm",
+        "label": "176"
+      },
+      {
+        "n": "177",
+        "sourceFile": "part5.htm",
+        "label": "177"
+      },
+      {
+        "n": "178",
+        "sourceFile": "part5.htm",
+        "label": "178"
+      },
+      {
+        "n": "179",
+        "sourceFile": "part5.htm",
+        "label": "179"
+      },
+      {
+        "n": "180",
+        "sourceFile": "part5.htm",
+        "label": "180"
+      },
+      {
+        "n": "181",
+        "sourceFile": "part5.htm",
+        "label": "181"
+      },
+      {
+        "n": "182",
+        "sourceFile": "part5.htm",
+        "label": "182"
+      },
+      {
+        "n": "183",
+        "sourceFile": "part5.htm",
+        "label": "183"
+      },
+      {
+        "n": "184",
+        "sourceFile": "part5.htm",
+        "label": "184"
+      },
+      {
+        "n": "185",
+        "sourceFile": "part5.htm",
+        "label": "185"
+      },
+      {
+        "n": "186",
+        "sourceFile": "part5.htm",
+        "label": "186"
+      },
+      {
+        "n": "187",
+        "sourceFile": "part5.htm",
+        "label": "187"
+      },
+      {
+        "n": "188",
+        "sourceFile": "part5.htm",
+        "label": "188"
+      },
+      {
+        "n": "189",
+        "sourceFile": "part5.htm",
+        "label": "189"
+      },
+      {
+        "n": "190",
+        "sourceFile": "part5.htm",
+        "label": "190"
+      },
+      {
+        "n": "191",
+        "sourceFile": "part5.htm",
+        "label": "191"
+      },
+      {
+        "n": "192",
+        "sourceFile": "part5.htm",
+        "label": "192"
+      },
+      {
+        "n": "193",
+        "sourceFile": "part5.htm",
+        "label": "193"
+      },
+      {
+        "n": "194",
+        "sourceFile": "part5.htm",
+        "label": "194"
+      },
+      {
+        "n": "195",
+        "sourceFile": "part5.htm",
+        "label": "195"
+      },
+      {
+        "n": "196",
+        "sourceFile": "part5.htm",
+        "label": "196"
+      },
+      {
+        "n": "197",
+        "sourceFile": "part5.htm",
+        "label": "197"
+      },
+      {
+        "n": "198",
+        "sourceFile": "part5.htm",
+        "label": "198"
+      },
+      {
+        "n": "199",
+        "sourceFile": "part5.htm",
+        "label": "199"
+      },
+      {
+        "n": "200",
+        "sourceFile": "part5.htm",
+        "label": "200"
+      },
+      {
+        "n": "201",
+        "sourceFile": "part5.htm",
+        "label": "201"
+      },
+      {
+        "n": "202",
+        "sourceFile": "part5.htm",
+        "label": "202"
+      },
+      {
+        "n": "203",
+        "sourceFile": "part5.htm",
+        "label": "203"
+      },
+      {
+        "n": "204",
+        "sourceFile": "part5.htm",
+        "label": "204"
+      },
+      {
+        "n": "205",
+        "sourceFile": "part5.htm",
+        "label": "205"
+      },
+      {
+        "n": "206",
+        "sourceFile": "part5.htm",
+        "label": "206"
+      },
+      {
+        "n": "207",
+        "sourceFile": "part5.htm",
+        "label": "207"
+      },
+      {
+        "n": "208",
+        "sourceFile": "part5.htm",
+        "label": "208"
+      },
+      {
+        "n": "209",
+        "sourceFile": "part5.htm",
+        "label": "209"
+      },
+      {
+        "n": "210",
+        "sourceFile": "part5.htm",
+        "label": "210"
+      },
+      {
+        "n": "211",
+        "sourceFile": "part5.htm",
+        "label": "211"
+      },
+      {
+        "n": "212",
+        "sourceFile": "part5.htm",
+        "label": "212"
+      },
+      {
+        "n": "213",
+        "sourceFile": "part5.htm",
+        "label": "213"
+      },
+      {
+        "n": "214",
+        "sourceFile": "part5.htm",
+        "label": "214"
+      },
+      {
+        "n": "215",
+        "sourceFile": "part5.htm",
+        "label": "215"
+      },
+      {
+        "n": "216",
+        "sourceFile": "part5.htm",
+        "label": "216"
+      },
+      {
+        "n": "217",
+        "sourceFile": "part5.htm",
+        "label": "217"
+      },
+      {
+        "n": "218",
+        "sourceFile": "part5.htm",
+        "label": "218"
+      },
+      {
+        "n": "219",
+        "sourceFile": "part5.htm",
+        "label": "219"
+      },
+      {
+        "n": "220",
+        "sourceFile": "part5.htm",
+        "label": "220"
+      },
+      {
+        "n": "221",
+        "sourceFile": "part5.htm",
+        "label": "221"
+      },
+      {
+        "n": "222",
+        "sourceFile": "part5.htm",
+        "label": "222"
+      },
+      {
+        "n": "222A",
+        "sourceFile": "part5.htm",
+        "label": "222A"
+      },
+      {
+        "n": "223",
+        "sourceFile": "part5.htm",
+        "label": "223"
+      },
+      {
+        "n": "224",
+        "sourceFile": "part5.htm",
+        "label": "224"
+      },
+      {
+        "n": "225",
+        "sourceFile": "part5.htm",
+        "label": "225"
+      },
+      {
+        "n": "226",
+        "sourceFile": "part5.htm",
+        "label": "226"
+      },
+      {
+        "n": "227",
+        "sourceFile": "part5.htm",
+        "label": "227"
+      },
+      {
+        "n": "228",
+        "sourceFile": "part5.htm",
+        "label": "228"
+      },
+      {
+        "n": "229",
+        "sourceFile": "part5.htm",
+        "label": "229"
+      },
+      {
+        "n": "230",
+        "sourceFile": "part5.htm",
+        "label": "230"
+      },
+      {
+        "n": "231",
+        "sourceFile": "part5.htm",
+        "label": "231"
+      },
+      {
+        "n": "232",
+        "sourceFile": "part5.htm",
+        "label": "232"
+      },
+      {
+        "n": "233",
+        "sourceFile": "part5.htm",
+        "label": "233"
+      },
+      {
+        "n": "234",
+        "sourceFile": "part5.htm",
+        "label": "234"
+      },
+      {
+        "n": "235",
+        "sourceFile": "part5.htm",
+        "label": "235"
+      },
+      {
+        "n": "236",
+        "sourceFile": "part5.htm",
+        "label": "236"
+      },
+      {
+        "n": "237",
+        "sourceFile": "part5.htm",
+        "label": "237"
+      },
+      {
+        "n": "238",
+        "sourceFile": "part5.htm",
+        "label": "238"
+      },
+      {
+        "n": "239",
+        "sourceFile": "part5.htm",
+        "label": "239"
+      },
+      {
+        "n": "240",
+        "sourceFile": "part5.htm",
+        "label": "240"
+      },
+      {
+        "n": "241",
+        "sourceFile": "part5.htm",
+        "label": "241"
+      },
+      {
+        "n": "242",
+        "sourceFile": "part5.htm",
+        "label": "242"
+      },
+      {
+        "n": "243",
+        "sourceFile": "part5.htm",
+        "label": "243"
+      },
+      {
+        "n": "244",
+        "sourceFile": "part5.htm",
+        "label": "244"
+      },
+      {
+        "n": "245",
+        "sourceFile": "part5.htm",
+        "label": "245"
+      },
+      {
+        "n": "246",
+        "sourceFile": "part5.htm",
+        "label": "246"
+      },
+      {
+        "n": "247",
+        "sourceFile": "part5.htm",
+        "label": "247"
+      },
+      {
+        "n": "248",
+        "sourceFile": "part5.htm",
+        "label": "248"
+      },
+      {
+        "n": "249",
+        "sourceFile": "part5.htm",
+        "label": "249"
+      },
+      {
+        "n": "250",
+        "sourceFile": "part5.htm",
+        "label": "250"
+      },
+      {
+        "n": "251",
+        "sourceFile": "part5.htm",
+        "label": "251"
+      },
+      {
+        "n": "252",
+        "sourceFile": "part5.htm",
+        "label": "252"
+      },
+      {
+        "n": "253",
+        "sourceFile": "part5.htm",
+        "label": "253"
+      },
+      {
+        "n": "254",
+        "sourceFile": "part5.htm",
+        "label": "254"
+      },
+      {
+        "n": "255",
+        "sourceFile": "part5.htm",
+        "label": "255"
+      },
+      {
+        "n": "256",
+        "sourceFile": "part5.htm",
+        "label": "256"
+      },
+      {
+        "n": "257",
+        "sourceFile": "part5.htm",
+        "label": "257"
+      },
+      {
+        "n": "258",
+        "sourceFile": "part5.htm",
+        "label": "258"
+      },
+      {
+        "n": "259",
+        "sourceFile": "part5.htm",
+        "label": "259"
+      },
+      {
+        "n": "260",
+        "sourceFile": "part5.htm",
+        "label": "260"
+      },
+      {
+        "n": "261",
+        "sourceFile": "part5.htm",
+        "label": "261"
+      },
+      {
+        "n": "262",
+        "sourceFile": "part5.htm",
+        "label": "262"
+      },
+      {
+        "n": "263",
+        "sourceFile": "part5.htm",
+        "label": "263"
+      },
+      {
+        "n": "264",
+        "sourceFile": "part5.htm",
+        "label": "264"
+      },
+      {
+        "n": "265",
+        "sourceFile": "part5.htm",
+        "label": "265"
+      },
+      {
+        "n": "266",
+        "sourceFile": "part5.htm",
+        "label": "266"
+      },
+      {
+        "n": "267",
+        "sourceFile": "part5.htm",
+        "label": "267"
+      },
+      {
+        "n": "268",
+        "sourceFile": "part5.htm",
+        "label": "268"
+      },
+      {
+        "n": "269",
+        "sourceFile": "part5.htm",
+        "label": "269"
+      },
+      {
+        "n": "270",
+        "sourceFile": "part5.htm",
+        "label": "270"
+      },
+      {
+        "n": "271",
+        "sourceFile": "part5.htm",
+        "label": "271"
+      },
+      {
+        "n": "272",
+        "sourceFile": "part5.htm",
+        "label": "272"
+      },
+      {
+        "n": "273",
+        "sourceFile": "part5.htm",
+        "label": "273"
+      },
+      {
+        "n": "274",
+        "sourceFile": "part5.htm",
+        "label": "274"
+      },
+      {
+        "n": "275",
+        "sourceFile": "part5.htm",
+        "label": "275"
+      },
+      {
+        "n": "276",
+        "sourceFile": "part5.htm",
+        "label": "276"
+      },
+      {
+        "n": "277",
+        "sourceFile": "part5.htm",
+        "label": "277"
+      },
+      {
+        "n": "278",
+        "sourceFile": "part5.htm",
+        "label": "278"
+      },
+      {
+        "n": "279",
+        "sourceFile": "part5.htm",
+        "label": "279"
+      },
+      {
+        "n": "280",
+        "sourceFile": "part5.htm",
+        "label": "280"
+      },
+      {
+        "n": "281",
+        "sourceFile": "part5.htm",
+        "label": "281"
+      },
+      {
+        "n": "282",
+        "sourceFile": "part5.htm",
+        "label": "282"
+      },
+      {
+        "n": "283",
+        "sourceFile": "part5.htm",
+        "label": "283"
+      },
+      {
+        "n": "284",
+        "sourceFile": "part5.htm",
+        "label": "284"
+      },
+      {
+        "n": "285",
+        "sourceFile": "part5.htm",
+        "label": "285"
+      },
+      {
+        "n": "286",
+        "sourceFile": "part5.htm",
+        "label": "286"
+      },
+      {
+        "n": "287",
+        "sourceFile": "part5.htm",
+        "label": "287"
+      },
+      {
+        "n": "288",
+        "sourceFile": "part5.htm",
+        "label": "288"
+      },
+      {
+        "n": "289",
+        "sourceFile": "part5.htm",
+        "label": "289"
+      },
+      {
+        "n": "290",
+        "sourceFile": "part5.htm",
+        "label": "290"
+      },
+      {
+        "n": "291",
+        "sourceFile": "part5.htm",
+        "label": "291"
+      },
+      {
+        "n": "292",
+        "sourceFile": "part5.htm",
+        "label": "292"
+      },
+      {
+        "n": "293",
+        "sourceFile": "part5.htm",
+        "label": "293"
+      },
+      {
+        "n": "294",
+        "sourceFile": "part5.htm",
+        "label": "294"
+      },
+      {
+        "n": "295",
+        "sourceFile": "part5.htm",
+        "label": "295"
+      },
+      {
+        "n": "296",
+        "sourceFile": "part5.htm",
+        "label": "296"
+      },
+      {
+        "n": "297",
+        "sourceFile": "part5.htm",
+        "label": "297"
+      },
+      {
+        "n": "298",
+        "sourceFile": "part5.htm",
+        "label": "298"
+      },
+      {
+        "n": "299",
+        "sourceFile": "part5.htm",
+        "label": "299"
+      },
+      {
+        "n": "300",
+        "sourceFile": "part5.htm",
+        "label": "300"
+      },
+      {
+        "n": "301",
+        "sourceFile": "part5.htm",
+        "label": "301"
+      },
+      {
+        "n": "302",
+        "sourceFile": "part5.htm",
+        "label": "302"
+      },
+      {
+        "n": "303",
+        "sourceFile": "part5.htm",
+        "label": "303"
+      },
+      {
+        "n": "304",
+        "sourceFile": "part5.htm",
+        "label": "304"
+      },
+      {
+        "n": "305",
+        "sourceFile": "part5.htm",
+        "label": "305"
+      },
+      {
+        "n": "306",
+        "sourceFile": "part5.htm",
+        "label": "306"
+      },
+      {
+        "n": "307",
+        "sourceFile": "part5.htm",
+        "label": "307"
+      },
+      {
+        "n": "308",
+        "sourceFile": "part5.htm",
+        "label": "308"
+      },
+      {
+        "n": "309",
+        "sourceFile": "part5.htm",
+        "label": "309"
+      },
+      {
+        "n": "310",
+        "sourceFile": "part5.htm",
+        "label": "310"
+      },
+      {
+        "n": "311",
+        "sourceFile": "part5.htm",
+        "label": "311"
+      },
+      {
+        "n": "312",
+        "sourceFile": "part5.htm",
+        "label": "312"
+      },
+      {
+        "n": "313",
+        "sourceFile": "part5.htm",
+        "label": "313"
+      },
+      {
+        "n": "314",
+        "sourceFile": "part5.htm",
+        "label": "314"
+      },
+      {
+        "n": "315",
+        "sourceFile": "part5.htm",
+        "label": "315"
+      },
+      {
+        "n": "316",
+        "sourceFile": "part5.htm",
+        "label": "316"
+      },
+      {
+        "n": "317",
+        "sourceFile": "part5.htm",
+        "label": "317"
+      },
+      {
+        "n": "318",
+        "sourceFile": "part5.htm",
+        "label": "318"
+      },
+      {
+        "n": "319",
+        "sourceFile": "part5.htm",
+        "label": "319"
+      },
+      {
+        "n": "320",
+        "sourceFile": "part5.htm",
+        "label": "320"
+      },
+      {
+        "n": "321",
+        "sourceFile": "part5.htm",
+        "label": "321"
+      },
+      {
+        "n": "322",
+        "sourceFile": "part5.htm",
+        "label": "322"
+      },
+      {
+        "n": "323",
+        "sourceFile": "part5.htm",
+        "label": "323"
+      },
+      {
+        "n": "324",
+        "sourceFile": "part5.htm",
+        "label": "324"
+      },
+      {
+        "n": "325",
+        "sourceFile": "part5.htm",
+        "label": "325"
+      },
+      {
+        "n": "326",
+        "sourceFile": "part5.htm",
+        "label": "326"
+      },
+      {
+        "n": "327",
+        "sourceFile": "part5.htm",
+        "label": "327"
+      },
+      {
+        "n": "328",
+        "sourceFile": "part5.htm",
+        "label": "328"
+      },
+      {
+        "n": "329",
+        "sourceFile": "part5.htm",
+        "label": "329"
+      },
+      {
+        "n": "330",
+        "sourceFile": "part5.htm",
+        "label": "330"
+      },
+      {
+        "n": "331",
+        "sourceFile": "part5.htm",
+        "label": "331"
+      },
+      {
+        "n": "332",
+        "sourceFile": "part5.htm",
+        "label": "332"
+      },
+      {
+        "n": "333",
+        "sourceFile": "part5.htm",
+        "label": "333"
+      },
+      {
+        "n": "334",
+        "sourceFile": "part5.htm",
+        "label": "334"
+      },
+      {
+        "n": "335",
+        "sourceFile": "part5.htm",
+        "label": "335"
+      },
+      {
+        "n": "336",
+        "sourceFile": "part5.htm",
+        "label": "336"
+      },
+      {
+        "n": "337",
+        "sourceFile": "part5.htm",
+        "label": "337"
+      },
+      {
+        "n": "338",
+        "sourceFile": "part5.htm",
+        "label": "338"
+      },
+      {
+        "n": "339",
+        "sourceFile": "part5.htm",
+        "label": "339"
+      },
+      {
+        "n": "340",
+        "sourceFile": "part5.htm",
+        "label": "340"
+      },
+      {
+        "n": "341",
+        "sourceFile": "part5.htm",
+        "label": "341"
+      },
+      {
+        "n": "342",
+        "sourceFile": "part5.htm",
+        "label": "342"
+      },
+      {
+        "n": "343",
+        "sourceFile": "part5.htm",
+        "label": "343"
+      },
+      {
+        "n": "344",
+        "sourceFile": "part5.htm",
+        "label": "344"
+      },
+      {
+        "n": "345",
+        "sourceFile": "part5.htm",
+        "label": "345"
+      },
+      {
+        "n": "346",
+        "sourceFile": "part5.htm",
+        "label": "346"
+      },
+      {
+        "n": "347",
+        "sourceFile": "part5.htm",
+        "label": "347"
+      },
+      {
+        "n": "348",
+        "sourceFile": "part5.htm",
+        "label": "348"
+      },
+      {
+        "n": "349",
+        "sourceFile": "part5.htm",
+        "label": "349"
+      },
+      {
+        "n": "350",
+        "sourceFile": "part5.htm",
+        "label": "350"
+      },
+      {
+        "n": "351",
+        "sourceFile": "part5.htm",
+        "label": "351"
+      },
+      {
+        "n": "352",
+        "sourceFile": "part5.htm",
+        "label": "352"
+      },
+      {
+        "n": "353",
+        "sourceFile": "part5.htm",
+        "label": "353"
+      },
+      {
+        "n": "354",
+        "sourceFile": "part5.htm",
+        "label": "354"
+      },
+      {
+        "n": "355",
+        "sourceFile": "part5.htm",
+        "label": "355"
+      },
+      {
+        "n": "356",
+        "sourceFile": "part5.htm",
+        "label": "356"
+      },
+      {
+        "n": "357",
+        "sourceFile": "part5.htm",
+        "label": "357"
+      },
+      {
+        "n": "358",
+        "sourceFile": "part5.htm",
+        "label": "358"
+      },
+      {
+        "n": "359",
+        "sourceFile": "part5.htm",
+        "label": "359"
+      },
+      {
+        "n": "360",
+        "sourceFile": "part6.htm",
+        "label": "360"
+      },
+      {
+        "n": "361",
+        "sourceFile": "part6.htm",
+        "label": "361"
+      },
+      {
+        "n": "362",
+        "sourceFile": "part6.htm",
+        "label": "362"
+      },
+      {
+        "n": "363",
+        "sourceFile": "part6.htm",
+        "label": "363"
+      },
+      {
+        "n": "364",
+        "sourceFile": "part6.htm",
+        "label": "364"
+      },
+      {
+        "n": "365",
+        "sourceFile": "part6.htm",
+        "label": "365"
+      },
+      {
+        "n": "366",
+        "sourceFile": "part6.htm",
+        "label": "366"
+      },
+      {
+        "n": "367",
+        "sourceFile": "part6.htm",
+        "label": "367"
+      },
+      {
+        "n": "368",
+        "sourceFile": "part6.htm",
+        "label": "368"
+      },
+      {
+        "n": "369",
+        "sourceFile": "part6.htm",
+        "label": "369"
+      },
+      {
+        "n": "370",
+        "sourceFile": "part6.htm",
+        "label": "370"
+      },
+      {
+        "n": "371",
+        "sourceFile": "supplement.htm",
+        "label": "371"
+      },
+      {
+        "n": "372",
+        "sourceFile": "supplement.htm",
+        "label": "372"
+      },
+      {
+        "n": "373",
+        "sourceFile": "supplement.htm",
+        "label": "373"
+      },
+      {
+        "n": "374",
+        "sourceFile": "supplement.htm",
+        "label": "374"
+      },
+      {
+        "n": "375",
+        "sourceFile": "supplement.htm",
+        "label": "375"
+      }
+    ],
+    "markersNotAtBlockStart": [],
+    "markerResidue": [
+      {
+        "n": "7",
+        "residue": ". 1. In Compounds,"
+      }
+    ],
+    "letteredSections": [
+      {
+        "n": "222A",
+        "note": "printed insert between 222 and 223 (Ablative of Association); its n field is the string \"222A\" where every other n is an integer"
+      }
+    ],
+    "missingSections": [],
+    "unresolvedRefs": [],
+    "tocUnresolvedTargets": [],
+    "headingFootnotes": [
+      {
+        "n": "7",
+        "footnote": 9,
+        "heading": "VOWEL CHANGES."
+      },
+      {
+        "n": "8",
+        "footnote": 10,
+        "heading": "CONSONANT CHANGES"
+      },
+      {
+        "n": "229",
+        "footnote": 50,
+        "heading": "B. Place from which."
+      }
+    ],
+    "centeredBlocksKeptInline": [
+      "15",
+      "132",
+      "235",
+      "368",
+      "369",
+      "370"
+    ],
+    "footnotesOutsideSections": {
+      "frontMatter": [
+        1,
+        2,
+        3
+      ],
+      "backMatter": [
+        63
+      ],
+      "note": "notes 1-3 belong to the introduction; note 63 is cited only from the index of sources"
+    },
+    "defectiveFootnoteBackrefs": [
+      {
+        "note": 10,
+        "href": "part1.htmpart2.htm#NtA_10",
+        "issue": "backref href glues two file names together"
+      },
+      {
+        "note": 63,
+        "href": "#NtA_63",
+        "issue": "backref points into footnotes.htm but the anchor is in index.htm"
+      }
+    ],
+    "frontMatter": [
+      {
+        "file": "preface.htm",
+        "title": "New Latin Grammar",
+        "blocks": 27,
+        "characters": 3143,
+        "footnoteRefs": []
+      },
+      {
+        "file": "intro.htm",
+        "title": "New Latin Grammar - Introduction",
+        "blocks": 33,
+        "characters": 14201,
+        "footnoteRefs": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "index": {
+      "present": true,
+      "converted": false,
+      "note": "index.htm (sources of examples, index of subjects) is navigation back matter and is not converted to sections"
+    }
+  }
+}

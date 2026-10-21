@@ -1,0 +1,3440 @@
+{
+  "work": "goodell",
+  "title": "A School Grammar of Attic Greek",
+  "source": "grammar-goodell/src/dcc/",
+  "edition": "DCC corrected edition",
+  "license": "CC BY-SA",
+  "attribution": "Text: Dickinson College Commentaries edition",
+  "counts": {
+    "pages": 137,
+    "sections": 683,
+    "sectionMarkers": 683,
+    "examples": 768,
+    "sectionCrossRefs": 535
+  },
+  "anomalies": {
+    "markerAudit": [
+      {
+        "n": 9,
+        "sourceSlug": "accents-and-accentuation",
+        "label": "9."
+      },
+      {
+        "n": 10,
+        "sourceSlug": "accents-and-accentuation",
+        "label": "10."
+      },
+      {
+        "n": 11,
+        "sourceSlug": "accents-and-accentuation",
+        "label": "11"
+      },
+      {
+        "n": 12,
+        "sourceSlug": "accents-and-accentuation",
+        "label": "12."
+      },
+      {
+        "n": 13,
+        "sourceSlug": "accents-and-accentuation",
+        "label": "13."
+      },
+      {
+        "n": 14,
+        "sourceSlug": "accents-and-accentuation",
+        "label": "14."
+      },
+      {
+        "n": 15,
+        "sourceSlug": "accents-and-accentuation",
+        "label": "15."
+      },
+      {
+        "n": 529,
+        "sourceSlug": "accusative",
+        "label": "529."
+      },
+      {
+        "n": 530,
+        "sourceSlug": "accusative",
+        "label": "530."
+      },
+      {
+        "n": 531,
+        "sourceSlug": "accusative",
+        "label": "531."
+      },
+      {
+        "n": 532,
+        "sourceSlug": "accusative",
+        "label": "532."
+      },
+      {
+        "n": 533,
+        "sourceSlug": "accusative",
+        "label": "533."
+      },
+      {
+        "n": 534,
+        "sourceSlug": "accusative",
+        "label": "534."
+      },
+      {
+        "n": 535,
+        "sourceSlug": "accusative",
+        "label": "535."
+      },
+      {
+        "n": 536,
+        "sourceSlug": "accusative",
+        "label": "536."
+      },
+      {
+        "n": 537,
+        "sourceSlug": "accusative",
+        "label": "537."
+      },
+      {
+        "n": 538,
+        "sourceSlug": "accusative",
+        "label": "538."
+      },
+      {
+        "n": 539,
+        "sourceSlug": "accusative",
+        "label": "539."
+      },
+      {
+        "n": 540,
+        "sourceSlug": "accusative",
+        "label": "540."
+      },
+      {
+        "n": 541,
+        "sourceSlug": "accusative",
+        "label": "541."
+      },
+      {
+        "n": 174,
+        "sourceSlug": "adjectives-great-much-and-mild",
+        "label": "174."
+      },
+      {
+        "n": 175,
+        "sourceSlug": "adjectives-great-much-and-mild",
+        "label": "175."
+      },
+      {
+        "n": 176,
+        "sourceSlug": "adjectives-great-much-and-mild",
+        "label": "176."
+      },
+      {
+        "n": 156,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "156."
+      },
+      {
+        "n": 157,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "157."
+      },
+      {
+        "n": 158,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "158."
+      },
+      {
+        "n": 159,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "159."
+      },
+      {
+        "n": 160,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "160."
+      },
+      {
+        "n": 161,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "161."
+      },
+      {
+        "n": 162,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "162."
+      },
+      {
+        "n": 163,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "163."
+      },
+      {
+        "n": 164,
+        "sourceSlug": "adjectives-three-endings",
+        "label": "164."
+      },
+      {
+        "n": 73,
+        "sourceSlug": "adjectives-vowel-declension",
+        "label": "73."
+      },
+      {
+        "n": 74,
+        "sourceSlug": "adjectives-vowel-declension",
+        "label": "74."
+      },
+      {
+        "n": 75,
+        "sourceSlug": "adjectives-vowel-declension",
+        "label": "75."
+      },
+      {
+        "n": 76,
+        "sourceSlug": "adjectives-vowel-declension",
+        "label": "76."
+      },
+      {
+        "n": 77,
+        "sourceSlug": "adjectives-vowel-declension",
+        "label": "77. a."
+      },
+      {
+        "n": 78,
+        "sourceSlug": "adjectives-vowel-declension",
+        "label": "78."
+      },
+      {
+        "n": 542,
+        "sourceSlug": "adjectives",
+        "label": "542."
+      },
+      {
+        "n": 543,
+        "sourceSlug": "adjectives",
+        "label": "543."
+      },
+      {
+        "n": 544,
+        "sourceSlug": "adjectives",
+        "label": "544."
+      },
+      {
+        "n": 1,
+        "sourceSlug": "alphabet",
+        "label": "1."
+      },
+      {
+        "n": 549,
+        "sourceSlug": "article",
+        "label": "549."
+      },
+      {
+        "n": 550,
+        "sourceSlug": "article",
+        "label": "550."
+      },
+      {
+        "n": 551,
+        "sourceSlug": "article",
+        "label": "551."
+      },
+      {
+        "n": 552,
+        "sourceSlug": "article",
+        "label": "552."
+      },
+      {
+        "n": 553,
+        "sourceSlug": "article",
+        "label": "553."
+      },
+      {
+        "n": 554,
+        "sourceSlug": "article",
+        "label": "554."
+      },
+      {
+        "n": 555,
+        "sourceSlug": "article",
+        "label": "555. a."
+      },
+      {
+        "n": 556,
+        "sourceSlug": "article",
+        "label": "556."
+      },
+      {
+        "n": 502,
+        "sourceSlug": "cases-nouns",
+        "label": "502."
+      },
+      {
+        "n": 57,
+        "sourceSlug": "cases-stems-and-articles",
+        "label": "57."
+      },
+      {
+        "n": 58,
+        "sourceSlug": "cases-stems-and-articles",
+        "label": "58."
+      },
+      {
+        "n": 59,
+        "sourceSlug": "cases-stems-and-articles",
+        "label": "59."
+      },
+      {
+        "n": 60,
+        "sourceSlug": "cases-stems-and-articles",
+        "label": "60."
+      },
+      {
+        "n": 61,
+        "sourceSlug": "cases-stems-and-articles",
+        "label": "61."
+      },
+      {
+        "n": 631,
+        "sourceSlug": "clauses-ἕως-ἔστε-mέχρι-ἄχρι",
+        "label": "631."
+      },
+      {
+        "n": 627,
+        "sourceSlug": "clauses-ὅτε-ὁπότε-ἐπεί-ἡνίκα-ὁπηνίκα",
+        "label": "627."
+      },
+      {
+        "n": 628,
+        "sourceSlug": "clauses-ὅτε-ὁπότε-ἐπεί-ἡνίκα-ὁπηνίκα",
+        "label": "628."
+      },
+      {
+        "n": 629,
+        "sourceSlug": "clauses-ὅτε-ὁπότε-ἐπεί-ἡνίκα-ὁπηνίκα",
+        "label": "629."
+      },
+      {
+        "n": 630,
+        "sourceSlug": "clauses-ὅτε-ὁπότε-ἐπεί-ἡνίκα-ὁπηνίκα",
+        "label": "630."
+      },
+      {
+        "n": 149,
+        "sourceSlug": "comparatives-ων",
+        "label": "149."
+      },
+      {
+        "n": 150,
+        "sourceSlug": "comparatives-ων",
+        "label": "150."
+      },
+      {
+        "n": 177,
+        "sourceSlug": "comparison-adjectives",
+        "label": "177."
+      },
+      {
+        "n": 178,
+        "sourceSlug": "comparison-adjectives",
+        "label": "178."
+      },
+      {
+        "n": 179,
+        "sourceSlug": "comparison-adjectives",
+        "label": "179."
+      },
+      {
+        "n": 180,
+        "sourceSlug": "comparison-adjectives",
+        "label": "180."
+      },
+      {
+        "n": 181,
+        "sourceSlug": "comparison-adjectives",
+        "label": "181."
+      },
+      {
+        "n": 182,
+        "sourceSlug": "comparison-adjectives",
+        "label": "182."
+      },
+      {
+        "n": 183,
+        "sourceSlug": "comparison-adjectives",
+        "label": "183."
+      },
+      {
+        "n": 184,
+        "sourceSlug": "comparison-adjectives",
+        "label": "184."
+      },
+      {
+        "n": 606,
+        "sourceSlug": "complex-sentences",
+        "label": "606."
+      },
+      {
+        "n": 607,
+        "sourceSlug": "complex-sentences",
+        "label": "607."
+      },
+      {
+        "n": 608,
+        "sourceSlug": "complex-sentences",
+        "label": "608."
+      },
+      {
+        "n": 609,
+        "sourceSlug": "complex-sentences",
+        "label": "609."
+      },
+      {
+        "n": 435,
+        "sourceSlug": "composition",
+        "label": "435."
+      },
+      {
+        "n": 436,
+        "sourceSlug": "composition",
+        "label": "436."
+      },
+      {
+        "n": 439,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "439."
+      },
+      {
+        "n": 440,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "440. a."
+      },
+      {
+        "n": 441,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "441."
+      },
+      {
+        "n": 442,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "442."
+      },
+      {
+        "n": 443,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "443."
+      },
+      {
+        "n": 444,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "444."
+      },
+      {
+        "n": 445,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "445."
+      },
+      {
+        "n": 446,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "446."
+      },
+      {
+        "n": 447,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "447."
+      },
+      {
+        "n": 448,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "448."
+      },
+      {
+        "n": 449,
+        "sourceSlug": "compound-nouns-and-adjectives",
+        "label": "449."
+      },
+      {
+        "n": 600,
+        "sourceSlug": "compound-sentences",
+        "label": "600."
+      },
+      {
+        "n": 601,
+        "sourceSlug": "compound-sentences",
+        "label": "601."
+      },
+      {
+        "n": 602,
+        "sourceSlug": "compound-sentences",
+        "label": "602."
+      },
+      {
+        "n": 603,
+        "sourceSlug": "compound-sentences",
+        "label": "603."
+      },
+      {
+        "n": 437,
+        "sourceSlug": "compound-verbs",
+        "label": "437."
+      },
+      {
+        "n": 438,
+        "sourceSlug": "compound-verbs",
+        "label": "438."
+      },
+      {
+        "n": 145,
+        "sourceSlug": "consonant-declension-adjectives",
+        "label": "145."
+      },
+      {
+        "n": 146,
+        "sourceSlug": "consonant-declension-adjectives",
+        "label": "146."
+      },
+      {
+        "n": 147,
+        "sourceSlug": "consonant-declension-adjectives",
+        "label": "147."
+      },
+      {
+        "n": 148,
+        "sourceSlug": "consonant-declension-adjectives",
+        "label": "148."
+      },
+      {
+        "n": 98,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "98."
+      },
+      {
+        "n": 99,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "99."
+      },
+      {
+        "n": 100,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "100."
+      },
+      {
+        "n": 101,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "101."
+      },
+      {
+        "n": 102,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "102."
+      },
+      {
+        "n": 103,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "103."
+      },
+      {
+        "n": 104,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "104."
+      },
+      {
+        "n": 105,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "105."
+      },
+      {
+        "n": 106,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "106."
+      },
+      {
+        "n": 107,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "107."
+      },
+      {
+        "n": 108,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "108. a."
+      },
+      {
+        "n": 109,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "109."
+      },
+      {
+        "n": 110,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "110."
+      },
+      {
+        "n": 111,
+        "sourceSlug": "consonant-declension-nouns",
+        "label": "111. a."
+      },
+      {
+        "n": 56,
+        "sourceSlug": "consonants-iota",
+        "label": "56."
+      },
+      {
+        "n": 38,
+        "sourceSlug": "consonants",
+        "label": "38."
+      },
+      {
+        "n": 39,
+        "sourceSlug": "consonants",
+        "label": "39."
+      },
+      {
+        "n": 40,
+        "sourceSlug": "consonants",
+        "label": "40."
+      },
+      {
+        "n": 41,
+        "sourceSlug": "consonants",
+        "label": "41."
+      },
+      {
+        "n": 79,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "79."
+      },
+      {
+        "n": 80,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "80."
+      },
+      {
+        "n": 81,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "81."
+      },
+      {
+        "n": 82,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "82."
+      },
+      {
+        "n": 83,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "83."
+      },
+      {
+        "n": 84,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "84."
+      },
+      {
+        "n": 85,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "85."
+      },
+      {
+        "n": 86,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "86."
+      },
+      {
+        "n": 87,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "87."
+      },
+      {
+        "n": 88,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "88."
+      },
+      {
+        "n": 89,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "89."
+      },
+      {
+        "n": 90,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "90."
+      },
+      {
+        "n": 91,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "91."
+      },
+      {
+        "n": 92,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "92."
+      },
+      {
+        "n": 93,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "93."
+      },
+      {
+        "n": 94,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "94."
+      },
+      {
+        "n": 95,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "95."
+      },
+      {
+        "n": 96,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "96."
+      },
+      {
+        "n": 97,
+        "sourceSlug": "contracted-vowel-stems",
+        "label": "97."
+      },
+      {
+        "n": 29,
+        "sourceSlug": "contraction",
+        "label": "29."
+      },
+      {
+        "n": 30,
+        "sourceSlug": "contraction",
+        "label": "30. a."
+      },
+      {
+        "n": 236,
+        "sourceSlug": "correlative-adverbs",
+        "label": "236."
+      },
+      {
+        "n": 237,
+        "sourceSlug": "correlative-adverbs",
+        "label": "237."
+      },
+      {
+        "n": 238,
+        "sourceSlug": "correlative-adverbs",
+        "label": "238."
+      },
+      {
+        "n": 239,
+        "sourceSlug": "correlative-adverbs",
+        "label": "239."
+      },
+      {
+        "n": 240,
+        "sourceSlug": "correlative-adverbs",
+        "label": "240."
+      },
+      {
+        "n": 241,
+        "sourceSlug": "correlative-adverbs",
+        "label": "241."
+      },
+      {
+        "n": 226,
+        "sourceSlug": "correlative-pronouns",
+        "label": "226."
+      },
+      {
+        "n": 227,
+        "sourceSlug": "correlative-pronouns",
+        "label": "227."
+      },
+      {
+        "n": 35,
+        "sourceSlug": "crasis",
+        "label": "35."
+      },
+      {
+        "n": 36,
+        "sourceSlug": "crasis",
+        "label": "36. a."
+      },
+      {
+        "n": 37,
+        "sourceSlug": "crasis",
+        "label": "37."
+      },
+      {
+        "n": 519,
+        "sourceSlug": "dative",
+        "label": "519."
+      },
+      {
+        "n": 520,
+        "sourceSlug": "dative",
+        "label": "520."
+      },
+      {
+        "n": 521,
+        "sourceSlug": "dative",
+        "label": "521."
+      },
+      {
+        "n": 522,
+        "sourceSlug": "dative",
+        "label": "522."
+      },
+      {
+        "n": 523,
+        "sourceSlug": "dative",
+        "label": "523. The For Dative is used (with verbs, adjectives, adverbs, and nouns) to denote the person or thing interested or affected."
+      },
+      {
+        "n": 524,
+        "sourceSlug": "dative",
+        "label": "524."
+      },
+      {
+        "n": 525,
+        "sourceSlug": "dative",
+        "label": "525."
+      },
+      {
+        "n": 526,
+        "sourceSlug": "dative",
+        "label": "526."
+      },
+      {
+        "n": 527,
+        "sourceSlug": "dative",
+        "label": "527."
+      },
+      {
+        "n": 528,
+        "sourceSlug": "dative",
+        "label": "528"
+      },
+      {
+        "n": 205,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "205."
+      },
+      {
+        "n": 206,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "206."
+      },
+      {
+        "n": 207,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "207."
+      },
+      {
+        "n": 208,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "208."
+      },
+      {
+        "n": 209,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "209."
+      },
+      {
+        "n": 210,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "210."
+      },
+      {
+        "n": 211,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "211."
+      },
+      {
+        "n": 212,
+        "sourceSlug": "demonstrative-pronouns",
+        "label": "212."
+      },
+      {
+        "n": 424,
+        "sourceSlug": "denominative-adjectives",
+        "label": "424."
+      },
+      {
+        "n": 425,
+        "sourceSlug": "denominative-adjectives",
+        "label": "425."
+      },
+      {
+        "n": 426,
+        "sourceSlug": "denominative-adjectives",
+        "label": "426."
+      },
+      {
+        "n": 427,
+        "sourceSlug": "denominative-adjectives",
+        "label": "427."
+      },
+      {
+        "n": 428,
+        "sourceSlug": "denominative-adjectives",
+        "label": "428."
+      },
+      {
+        "n": 429,
+        "sourceSlug": "denominative-nouns",
+        "label": "429."
+      },
+      {
+        "n": 430,
+        "sourceSlug": "denominative-nouns",
+        "label": "430."
+      },
+      {
+        "n": 431,
+        "sourceSlug": "denominative-nouns",
+        "label": "431."
+      },
+      {
+        "n": 432,
+        "sourceSlug": "denominative-nouns",
+        "label": "432."
+      },
+      {
+        "n": 433,
+        "sourceSlug": "denominative-nouns",
+        "label": "433."
+      },
+      {
+        "n": 434,
+        "sourceSlug": "denominative-nouns",
+        "label": "434."
+      },
+      {
+        "n": 415,
+        "sourceSlug": "denominative-verbs",
+        "label": "415."
+      },
+      {
+        "n": 416,
+        "sourceSlug": "denominative-verbs",
+        "label": "416."
+      },
+      {
+        "n": 417,
+        "sourceSlug": "denominative-verbs",
+        "label": "417. a."
+      },
+      {
+        "n": 418,
+        "sourceSlug": "denominative-verbs",
+        "label": "418."
+      },
+      {
+        "n": 419,
+        "sourceSlug": "denominative-verbs",
+        "label": "419."
+      },
+      {
+        "n": 420,
+        "sourceSlug": "denominative-verbs",
+        "label": "420."
+      },
+      {
+        "n": 421,
+        "sourceSlug": "denominative-verbs",
+        "label": "421."
+      },
+      {
+        "n": 422,
+        "sourceSlug": "denominative-verbs",
+        "label": "422."
+      },
+      {
+        "n": 423,
+        "sourceSlug": "denominative-verbs",
+        "label": "423."
+      },
+      {
+        "n": 114,
+        "sourceSlug": "dental-stems-τ-δ-θ",
+        "label": "114."
+      },
+      {
+        "n": 115,
+        "sourceSlug": "dental-stems-τ-δ-θ",
+        "label": "115."
+      },
+      {
+        "n": 116,
+        "sourceSlug": "dental-stems-τ-δ-θ",
+        "label": "116."
+      },
+      {
+        "n": 117,
+        "sourceSlug": "dental-stems-τ-δ-θ",
+        "label": "117."
+      },
+      {
+        "n": 228,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "228."
+      },
+      {
+        "n": 229,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "229."
+      },
+      {
+        "n": 230,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "230."
+      },
+      {
+        "n": 231,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "231."
+      },
+      {
+        "n": 232,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "232."
+      },
+      {
+        "n": 233,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "233."
+      },
+      {
+        "n": 234,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "234."
+      },
+      {
+        "n": 235,
+        "sourceSlug": "derivation-and-formation-adverbs",
+        "label": "235."
+      },
+      {
+        "n": 399,
+        "sourceSlug": "derivation-words",
+        "label": "399."
+      },
+      {
+        "n": 400,
+        "sourceSlug": "derivation-words",
+        "label": "400. a."
+      },
+      {
+        "n": 32,
+        "sourceSlug": "elision",
+        "label": "32."
+      },
+      {
+        "n": 33,
+        "sourceSlug": "elision",
+        "label": "33. a."
+      },
+      {
+        "n": 34,
+        "sourceSlug": "elision",
+        "label": "34."
+      },
+      {
+        "n": 505,
+        "sourceSlug": "genitive",
+        "label": "505."
+      },
+      {
+        "n": 506,
+        "sourceSlug": "genitive",
+        "label": "506."
+      },
+      {
+        "n": 507,
+        "sourceSlug": "genitive",
+        "label": "507."
+      },
+      {
+        "n": 508,
+        "sourceSlug": "genitive",
+        "label": "508."
+      },
+      {
+        "n": 509,
+        "sourceSlug": "genitive",
+        "label": "509."
+      },
+      {
+        "n": 510,
+        "sourceSlug": "genitive",
+        "label": "510."
+      },
+      {
+        "n": 511,
+        "sourceSlug": "genitive",
+        "label": "511."
+      },
+      {
+        "n": 512,
+        "sourceSlug": "genitive",
+        "label": "512."
+      },
+      {
+        "n": 513,
+        "sourceSlug": "genitive",
+        "label": "513."
+      },
+      {
+        "n": 514,
+        "sourceSlug": "genitive",
+        "label": "514"
+      },
+      {
+        "n": 515,
+        "sourceSlug": "genitive",
+        "label": "515."
+      },
+      {
+        "n": 516,
+        "sourceSlug": "genitive",
+        "label": "516."
+      },
+      {
+        "n": 517,
+        "sourceSlug": "genitive",
+        "label": "517."
+      },
+      {
+        "n": 518,
+        "sourceSlug": "genitive",
+        "label": "518."
+      },
+      {
+        "n": 31,
+        "sourceSlug": "hiatus",
+        "label": "31."
+      },
+      {
+        "n": 484,
+        "sourceSlug": "imperative-sentences",
+        "label": "484."
+      },
+      {
+        "n": 485,
+        "sourceSlug": "imperative-sentences",
+        "label": "485."
+      },
+      {
+        "n": 201,
+        "sourceSlug": "indefinite-and-reciprocal-pronouns",
+        "label": "201."
+      },
+      {
+        "n": 202,
+        "sourceSlug": "indefinite-and-reciprocal-pronouns",
+        "label": "202."
+      },
+      {
+        "n": 452,
+        "sourceSlug": "indicative-sentences",
+        "label": "452."
+      },
+      {
+        "n": 453,
+        "sourceSlug": "indicative-sentences",
+        "label": "453."
+      },
+      {
+        "n": 454,
+        "sourceSlug": "indicative-sentences",
+        "label": "454."
+      },
+      {
+        "n": 455,
+        "sourceSlug": "indicative-sentences",
+        "label": "455."
+      },
+      {
+        "n": 456,
+        "sourceSlug": "indicative-sentences",
+        "label": "456."
+      },
+      {
+        "n": 457,
+        "sourceSlug": "indicative-sentences",
+        "label": "457."
+      },
+      {
+        "n": 458,
+        "sourceSlug": "indicative-sentences",
+        "label": "458."
+      },
+      {
+        "n": 459,
+        "sourceSlug": "indicative-sentences",
+        "label": "459."
+      },
+      {
+        "n": 460,
+        "sourceSlug": "indicative-sentences",
+        "label": "460."
+      },
+      {
+        "n": 461,
+        "sourceSlug": "indicative-sentences",
+        "label": "461."
+      },
+      {
+        "n": 462,
+        "sourceSlug": "indicative-sentences",
+        "label": "462."
+      },
+      {
+        "n": 463,
+        "sourceSlug": "indicative-sentences",
+        "label": "463."
+      },
+      {
+        "n": 464,
+        "sourceSlug": "indicative-sentences",
+        "label": "464."
+      },
+      {
+        "n": 465,
+        "sourceSlug": "indicative-sentences",
+        "label": "465."
+      },
+      {
+        "n": 466,
+        "sourceSlug": "indicative-sentences",
+        "label": "466."
+      },
+      {
+        "n": 467,
+        "sourceSlug": "indicative-sentences",
+        "label": "467."
+      },
+      {
+        "n": 468,
+        "sourceSlug": "indicative-sentences",
+        "label": "468."
+      },
+      {
+        "n": 469,
+        "sourceSlug": "indicative-sentences",
+        "label": "469."
+      },
+      {
+        "n": 470,
+        "sourceSlug": "indicative-sentences",
+        "label": "470. a."
+      },
+      {
+        "n": 657,
+        "sourceSlug": "indirect-discourse",
+        "label": "657."
+      },
+      {
+        "n": 658,
+        "sourceSlug": "indirect-discourse",
+        "label": "658."
+      },
+      {
+        "n": 659,
+        "sourceSlug": "indirect-discourse",
+        "label": "659."
+      },
+      {
+        "n": 660,
+        "sourceSlug": "indirect-discourse",
+        "label": "660."
+      },
+      {
+        "n": 661,
+        "sourceSlug": "indirect-discourse",
+        "label": "661."
+      },
+      {
+        "n": 662,
+        "sourceSlug": "indirect-discourse",
+        "label": "662."
+      },
+      {
+        "n": 663,
+        "sourceSlug": "indirect-discourse",
+        "label": "663."
+      },
+      {
+        "n": 664,
+        "sourceSlug": "indirect-discourse",
+        "label": "664."
+      },
+      {
+        "n": 562,
+        "sourceSlug": "infinitive",
+        "label": "562."
+      },
+      {
+        "n": 563,
+        "sourceSlug": "infinitive",
+        "label": "563."
+      },
+      {
+        "n": 564,
+        "sourceSlug": "infinitive",
+        "label": "564."
+      },
+      {
+        "n": 565,
+        "sourceSlug": "infinitive",
+        "label": "565."
+      },
+      {
+        "n": 566,
+        "sourceSlug": "infinitive",
+        "label": "566."
+      },
+      {
+        "n": 567,
+        "sourceSlug": "infinitive",
+        "label": "567."
+      },
+      {
+        "n": 568,
+        "sourceSlug": "infinitive",
+        "label": "568."
+      },
+      {
+        "n": 569,
+        "sourceSlug": "infinitive",
+        "label": "569."
+      },
+      {
+        "n": 570,
+        "sourceSlug": "infinitive",
+        "label": "570."
+      },
+      {
+        "n": 571,
+        "sourceSlug": "infinitive",
+        "label": "571."
+      },
+      {
+        "n": 572,
+        "sourceSlug": "infinitive",
+        "label": "572."
+      },
+      {
+        "n": 573,
+        "sourceSlug": "infinitive",
+        "label": "573."
+      },
+      {
+        "n": 574,
+        "sourceSlug": "infinitive",
+        "label": "574."
+      },
+      {
+        "n": 575,
+        "sourceSlug": "infinitive",
+        "label": "575."
+      },
+      {
+        "n": 576,
+        "sourceSlug": "infinitive",
+        "label": "576."
+      },
+      {
+        "n": 577,
+        "sourceSlug": "infinitive",
+        "label": "577."
+      },
+      {
+        "n": 578,
+        "sourceSlug": "infinitive",
+        "label": "578."
+      },
+      {
+        "n": 579,
+        "sourceSlug": "infinitive",
+        "label": "579."
+      },
+      {
+        "n": 217,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "217."
+      },
+      {
+        "n": 218,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "218."
+      },
+      {
+        "n": 219,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "219."
+      },
+      {
+        "n": 220,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "220."
+      },
+      {
+        "n": 221,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "221."
+      },
+      {
+        "n": 222,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "222."
+      },
+      {
+        "n": 223,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "223."
+      },
+      {
+        "n": 224,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "224."
+      },
+      {
+        "n": 225,
+        "sourceSlug": "interrogative-and-indefinite-pronouns",
+        "label": "225."
+      },
+      {
+        "n": 381,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "381."
+      },
+      {
+        "n": 382,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "382."
+      },
+      {
+        "n": 383,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "383."
+      },
+      {
+        "n": 384,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "384."
+      },
+      {
+        "n": 385,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "385. εἶμι"
+      },
+      {
+        "n": 386,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "386."
+      },
+      {
+        "n": 387,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "387."
+      },
+      {
+        "n": 388,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "388."
+      },
+      {
+        "n": 389,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "389."
+      },
+      {
+        "n": 390,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "390."
+      },
+      {
+        "n": 391,
+        "sourceSlug": "irregular-and-defective-μι-verbs",
+        "label": "391."
+      },
+      {
+        "n": 142,
+        "sourceSlug": "irregular-nouns",
+        "label": "142."
+      },
+      {
+        "n": 143,
+        "sourceSlug": "irregular-nouns",
+        "label": "143"
+      },
+      {
+        "n": 144,
+        "sourceSlug": "irregular-nouns",
+        "label": "144."
+      },
+      {
+        "n": 112,
+        "sourceSlug": "labial-and-dental-stems-π-β-τ",
+        "label": "112."
+      },
+      {
+        "n": 113,
+        "sourceSlug": "labial-and-dental-stems-π-β-τ",
+        "label": "113."
+      },
+      {
+        "n": 48,
+        "sourceSlug": "liquids",
+        "label": "48."
+      },
+      {
+        "n": 49,
+        "sourceSlug": "liquids",
+        "label": "49"
+      },
+      {
+        "n": 50,
+        "sourceSlug": "liquids",
+        "label": "50."
+      },
+      {
+        "n": 51,
+        "sourceSlug": "liquids",
+        "label": "51."
+      },
+      {
+        "n": 52,
+        "sourceSlug": "liquids",
+        "label": "52."
+      },
+      {
+        "n": 53,
+        "sourceSlug": "liquids",
+        "label": "53."
+      },
+      {
+        "n": 121,
+        "sourceSlug": "masculine-stems-ντ",
+        "label": "121."
+      },
+      {
+        "n": 122,
+        "sourceSlug": "masculine-stems-ντ",
+        "label": "122. a."
+      },
+      {
+        "n": 123,
+        "sourceSlug": "masculine-stems-ντ",
+        "label": "123."
+      },
+      {
+        "n": 397,
+        "sourceSlug": "methods-word-formation",
+        "label": "397."
+      },
+      {
+        "n": 398,
+        "sourceSlug": "methods-word-formation",
+        "label": "398."
+      },
+      {
+        "n": 392,
+        "sourceSlug": "middle-and-passive-forms-peculiar-meaning",
+        "label": "392."
+      },
+      {
+        "n": 393,
+        "sourceSlug": "middle-and-passive-forms-peculiar-meaning",
+        "label": "393."
+      },
+      {
+        "n": 394,
+        "sourceSlug": "middle-and-passive-forms-peculiar-meaning",
+        "label": "394."
+      },
+      {
+        "n": 395,
+        "sourceSlug": "middle-and-passive-forms-peculiar-meaning",
+        "label": "395."
+      },
+      {
+        "n": 396,
+        "sourceSlug": "middle-and-passive-forms-peculiar-meaning",
+        "label": "396."
+      },
+      {
+        "n": 42,
+        "sourceSlug": "mutes",
+        "label": "42."
+      },
+      {
+        "n": 43,
+        "sourceSlug": "mutes",
+        "label": "43."
+      },
+      {
+        "n": 44,
+        "sourceSlug": "mutes",
+        "label": "44."
+      },
+      {
+        "n": 45,
+        "sourceSlug": "mutes",
+        "label": "45. a."
+      },
+      {
+        "n": 46,
+        "sourceSlug": "mutes",
+        "label": "46."
+      },
+      {
+        "n": 47,
+        "sourceSlug": "mutes",
+        "label": "47."
+      },
+      {
+        "n": 610,
+        "sourceSlug": "mή-clauses",
+        "label": "610."
+      },
+      {
+        "n": 611,
+        "sourceSlug": "mή-clauses",
+        "label": "611."
+      },
+      {
+        "n": 486,
+        "sourceSlug": "negative-sentences",
+        "label": "486."
+      },
+      {
+        "n": 487,
+        "sourceSlug": "negative-sentences",
+        "label": "487."
+      },
+      {
+        "n": 488,
+        "sourceSlug": "negative-sentences",
+        "label": "488."
+      },
+      {
+        "n": 489,
+        "sourceSlug": "negative-sentences",
+        "label": "489."
+      },
+      {
+        "n": 118,
+        "sourceSlug": "neuter-stems-τ",
+        "label": "118."
+      },
+      {
+        "n": 119,
+        "sourceSlug": "neuter-stems-τ",
+        "label": "119."
+      },
+      {
+        "n": 120,
+        "sourceSlug": "neuter-stems-τ",
+        "label": "120."
+      },
+      {
+        "n": 503,
+        "sourceSlug": "nominative",
+        "label": "503."
+      },
+      {
+        "n": 504,
+        "sourceSlug": "nominative",
+        "label": "504."
+      },
+      {
+        "n": 185,
+        "sourceSlug": "numeral-adjectives",
+        "label": "185."
+      },
+      {
+        "n": 186,
+        "sourceSlug": "numeral-adjectives",
+        "label": "186."
+      },
+      {
+        "n": 187,
+        "sourceSlug": "numeral-adjectives",
+        "label": "187."
+      },
+      {
+        "n": 188,
+        "sourceSlug": "numeral-adjectives",
+        "label": "188."
+      },
+      {
+        "n": 189,
+        "sourceSlug": "numeral-adjectives",
+        "label": "189."
+      },
+      {
+        "n": 190,
+        "sourceSlug": "numeral-adjectives",
+        "label": "190."
+      },
+      {
+        "n": 191,
+        "sourceSlug": "numeral-adjectives",
+        "label": "191."
+      },
+      {
+        "n": 192,
+        "sourceSlug": "numeral-adjectives",
+        "label": "192."
+      },
+      {
+        "n": 193,
+        "sourceSlug": "numeral-adjectives",
+        "label": "193."
+      },
+      {
+        "n": 476,
+        "sourceSlug": "optative-sentences",
+        "label": "476."
+      },
+      {
+        "n": 477,
+        "sourceSlug": "optative-sentences",
+        "label": "477."
+      },
+      {
+        "n": 478,
+        "sourceSlug": "optative-sentences",
+        "label": "478."
+      },
+      {
+        "n": 479,
+        "sourceSlug": "optative-sentences",
+        "label": "479."
+      },
+      {
+        "n": 480,
+        "sourceSlug": "optative-sentences",
+        "label": "480."
+      },
+      {
+        "n": 481,
+        "sourceSlug": "optative-sentences",
+        "label": "481."
+      },
+      {
+        "n": 482,
+        "sourceSlug": "optative-sentences",
+        "label": "482."
+      },
+      {
+        "n": 483,
+        "sourceSlug": "optative-sentences",
+        "label": "483."
+      },
+      {
+        "n": 620,
+        "sourceSlug": "other-relative-clauses",
+        "label": "620."
+      },
+      {
+        "n": 621,
+        "sourceSlug": "other-relative-clauses",
+        "label": "621."
+      },
+      {
+        "n": 604,
+        "sourceSlug": "parataxis-and-hypotaxis",
+        "label": "604."
+      },
+      {
+        "n": 605,
+        "sourceSlug": "parataxis-and-hypotaxis",
+        "label": "605."
+      },
+      {
+        "n": 165,
+        "sourceSlug": "participial-stems",
+        "label": "165."
+      },
+      {
+        "n": 166,
+        "sourceSlug": "participial-stems",
+        "label": "166."
+      },
+      {
+        "n": 167,
+        "sourceSlug": "participial-stems",
+        "label": "167."
+      },
+      {
+        "n": 168,
+        "sourceSlug": "participial-stems",
+        "label": "168. a."
+      },
+      {
+        "n": 169,
+        "sourceSlug": "participial-stems",
+        "label": "169."
+      },
+      {
+        "n": 170,
+        "sourceSlug": "participial-stems",
+        "label": "170."
+      },
+      {
+        "n": 171,
+        "sourceSlug": "participial-stems",
+        "label": "171."
+      },
+      {
+        "n": 172,
+        "sourceSlug": "participial-stems",
+        "label": "172."
+      },
+      {
+        "n": 173,
+        "sourceSlug": "participial-stems",
+        "label": "173."
+      },
+      {
+        "n": 580,
+        "sourceSlug": "participles",
+        "label": "580."
+      },
+      {
+        "n": 581,
+        "sourceSlug": "participles",
+        "label": "581."
+      },
+      {
+        "n": 582,
+        "sourceSlug": "participles",
+        "label": "582."
+      },
+      {
+        "n": 583,
+        "sourceSlug": "participles",
+        "label": "583."
+      },
+      {
+        "n": 584,
+        "sourceSlug": "participles",
+        "label": "584."
+      },
+      {
+        "n": 585,
+        "sourceSlug": "participles",
+        "label": "585."
+      },
+      {
+        "n": 586,
+        "sourceSlug": "participles",
+        "label": "586."
+      },
+      {
+        "n": 587,
+        "sourceSlug": "participles",
+        "label": "587."
+      },
+      {
+        "n": 588,
+        "sourceSlug": "participles",
+        "label": "588."
+      },
+      {
+        "n": 589,
+        "sourceSlug": "participles",
+        "label": "589."
+      },
+      {
+        "n": 590,
+        "sourceSlug": "participles",
+        "label": "590."
+      },
+      {
+        "n": 591,
+        "sourceSlug": "participles",
+        "label": "591."
+      },
+      {
+        "n": 592,
+        "sourceSlug": "participles",
+        "label": "592."
+      },
+      {
+        "n": 593,
+        "sourceSlug": "participles",
+        "label": "593."
+      },
+      {
+        "n": 594,
+        "sourceSlug": "participles",
+        "label": "594."
+      },
+      {
+        "n": 595,
+        "sourceSlug": "participles",
+        "label": "595."
+      },
+      {
+        "n": 665,
+        "sourceSlug": "particles",
+        "label": "665."
+      },
+      {
+        "n": 666,
+        "sourceSlug": "particles",
+        "label": "666."
+      },
+      {
+        "n": 667,
+        "sourceSlug": "particles",
+        "label": "667."
+      },
+      {
+        "n": 668,
+        "sourceSlug": "particles",
+        "label": "668."
+      },
+      {
+        "n": 669,
+        "sourceSlug": "particles",
+        "label": "669."
+      },
+      {
+        "n": 670,
+        "sourceSlug": "particles",
+        "label": "670."
+      },
+      {
+        "n": 671,
+        "sourceSlug": "particles",
+        "label": "671."
+      },
+      {
+        "n": 672,
+        "sourceSlug": "particles",
+        "label": "672."
+      },
+      {
+        "n": 673,
+        "sourceSlug": "particles",
+        "label": "673. a."
+      },
+      {
+        "n": 194,
+        "sourceSlug": "personal-pronouns",
+        "label": "194"
+      },
+      {
+        "n": 195,
+        "sourceSlug": "personal-pronouns",
+        "label": "195."
+      },
+      {
+        "n": 196,
+        "sourceSlug": "personal-pronouns",
+        "label": "196."
+      },
+      {
+        "n": 197,
+        "sourceSlug": "personal-pronouns",
+        "label": "197."
+      },
+      {
+        "n": 198,
+        "sourceSlug": "personal-pronouns",
+        "label": "198."
+      },
+      {
+        "n": 199,
+        "sourceSlug": "personal-pronouns",
+        "label": "199."
+      },
+      {
+        "n": 200,
+        "sourceSlug": "personal-pronouns",
+        "label": "200."
+      },
+      {
+        "n": 204,
+        "sourceSlug": "possesive-pronouns",
+        "label": "204."
+      },
+      {
+        "n": 597,
+        "sourceSlug": "prepositions",
+        "label": "597."
+      },
+      {
+        "n": 598,
+        "sourceSlug": "prepositions",
+        "label": "598."
+      },
+      {
+        "n": 599,
+        "sourceSlug": "prepositions",
+        "label": "599."
+      },
+      {
+        "n": 311,
+        "sourceSlug": "principal-parts-ω-conjugation-vowel-verbs-not-contracting",
+        "label": "311."
+      },
+      {
+        "n": 16,
+        "sourceSlug": "proclitics-and-enclitics",
+        "label": "16."
+      },
+      {
+        "n": 17,
+        "sourceSlug": "proclitics-and-enclitics",
+        "label": "17."
+      },
+      {
+        "n": 18,
+        "sourceSlug": "proclitics-and-enclitics",
+        "label": "18."
+      },
+      {
+        "n": 19,
+        "sourceSlug": "proclitics-and-enclitics",
+        "label": "19."
+      },
+      {
+        "n": 20,
+        "sourceSlug": "proclitics-and-enclitics",
+        "label": "20."
+      },
+      {
+        "n": 21,
+        "sourceSlug": "proclitics-and-enclitics",
+        "label": "21."
+      },
+      {
+        "n": 557,
+        "sourceSlug": "pronouns",
+        "label": "557."
+      },
+      {
+        "n": 558,
+        "sourceSlug": "pronouns",
+        "label": "558."
+      },
+      {
+        "n": 559,
+        "sourceSlug": "pronouns",
+        "label": "559."
+      },
+      {
+        "n": 560,
+        "sourceSlug": "pronouns",
+        "label": "560."
+      },
+      {
+        "n": 561,
+        "sourceSlug": "pronouns",
+        "label": "561. a."
+      },
+      {
+        "n": 2,
+        "sourceSlug": "pronunciation",
+        "label": "2."
+      },
+      {
+        "n": 3,
+        "sourceSlug": "pronunciation",
+        "label": "3."
+      },
+      {
+        "n": 4,
+        "sourceSlug": "pronunciation",
+        "label": "4."
+      },
+      {
+        "n": 5,
+        "sourceSlug": "pronunciation",
+        "label": "5."
+      },
+      {
+        "n": 6,
+        "sourceSlug": "pronunciation",
+        "label": "6."
+      },
+      {
+        "n": 7,
+        "sourceSlug": "pronunciation",
+        "label": "7."
+      },
+      {
+        "n": 8,
+        "sourceSlug": "pronunciation",
+        "label": "8."
+      },
+      {
+        "n": 22,
+        "sourceSlug": "punctuation",
+        "label": "22."
+      },
+      {
+        "n": 203,
+        "sourceSlug": "reflexive-pronouns",
+        "label": "203."
+      },
+      {
+        "n": 213,
+        "sourceSlug": "relative-pronouns",
+        "label": "213."
+      },
+      {
+        "n": 214,
+        "sourceSlug": "relative-pronouns",
+        "label": "214."
+      },
+      {
+        "n": 215,
+        "sourceSlug": "relative-pronouns",
+        "label": "215."
+      },
+      {
+        "n": 216,
+        "sourceSlug": "relative-pronouns",
+        "label": "216."
+      },
+      {
+        "n": 366,
+        "sourceSlug": "root-aorist",
+        "label": "366."
+      },
+      {
+        "n": 367,
+        "sourceSlug": "root-aorist",
+        "label": "367."
+      },
+      {
+        "n": 368,
+        "sourceSlug": "root-aorist",
+        "label": "368."
+      },
+      {
+        "n": 369,
+        "sourceSlug": "root-aorist",
+        "label": "369."
+      },
+      {
+        "n": 370,
+        "sourceSlug": "root-perfect",
+        "label": "370."
+      },
+      {
+        "n": 54,
+        "sourceSlug": "sigma",
+        "label": "54."
+      },
+      {
+        "n": 55,
+        "sourceSlug": "sigma",
+        "label": "55."
+      },
+      {
+        "n": 450,
+        "sourceSlug": "simple-sentences",
+        "label": "450."
+      },
+      {
+        "n": 451,
+        "sourceSlug": "simple-sentences",
+        "label": "451."
+      },
+      {
+        "n": 23,
+        "sourceSlug": "sound-changes",
+        "label": "23."
+      },
+      {
+        "n": 545,
+        "sourceSlug": "special-idioms-predication",
+        "label": "545."
+      },
+      {
+        "n": 546,
+        "sourceSlug": "special-idioms-predication",
+        "label": "546."
+      },
+      {
+        "n": 547,
+        "sourceSlug": "special-idioms-predication",
+        "label": "547."
+      },
+      {
+        "n": 548,
+        "sourceSlug": "special-idioms-predication",
+        "label": "548."
+      },
+      {
+        "n": 124,
+        "sourceSlug": "stems-εσ-ασ",
+        "label": "124."
+      },
+      {
+        "n": 125,
+        "sourceSlug": "stems-εσ-ασ",
+        "label": "125."
+      },
+      {
+        "n": 126,
+        "sourceSlug": "stems-εσ-ασ",
+        "label": "126."
+      },
+      {
+        "n": 127,
+        "sourceSlug": "stems-εσ-ασ",
+        "label": "127."
+      },
+      {
+        "n": 128,
+        "sourceSlug": "stems-εσ-ασ",
+        "label": "128."
+      },
+      {
+        "n": 129,
+        "sourceSlug": "stems-εσ-ασ",
+        "label": "129."
+      },
+      {
+        "n": 151,
+        "sourceSlug": "stems-εσ",
+        "label": "151."
+      },
+      {
+        "n": 152,
+        "sourceSlug": "stems-εσ",
+        "label": "152."
+      },
+      {
+        "n": 153,
+        "sourceSlug": "stems-εσ",
+        "label": "153."
+      },
+      {
+        "n": 154,
+        "sourceSlug": "stems-εσ",
+        "label": "154."
+      },
+      {
+        "n": 155,
+        "sourceSlug": "stems-εσ",
+        "label": "155."
+      },
+      {
+        "n": 134,
+        "sourceSlug": "stems-ευ-αυ-ου",
+        "label": "134."
+      },
+      {
+        "n": 135,
+        "sourceSlug": "stems-ευ-αυ-ου",
+        "label": "135. a."
+      },
+      {
+        "n": 136,
+        "sourceSlug": "stems-ευ-αυ-ου",
+        "label": "136."
+      },
+      {
+        "n": 137,
+        "sourceSlug": "stems-ευ-αυ-ου",
+        "label": "137."
+      },
+      {
+        "n": 138,
+        "sourceSlug": "stems-ευ-αυ-ου",
+        "label": "138."
+      },
+      {
+        "n": 139,
+        "sourceSlug": "stems-ευ-αυ-ου",
+        "label": "139."
+      },
+      {
+        "n": 130,
+        "sourceSlug": "stems-ι-and-υ",
+        "label": "130"
+      },
+      {
+        "n": 131,
+        "sourceSlug": "stems-ι-and-υ",
+        "label": "131."
+      },
+      {
+        "n": 132,
+        "sourceSlug": "stems-υ-ῡ",
+        "label": "132."
+      },
+      {
+        "n": 133,
+        "sourceSlug": "stems-υ-ῡ",
+        "label": "133."
+      },
+      {
+        "n": 140,
+        "sourceSlug": "stems-ω-and-ο",
+        "label": "140."
+      },
+      {
+        "n": 141,
+        "sourceSlug": "stems-ω-and-ο",
+        "label": "141."
+      },
+      {
+        "n": 471,
+        "sourceSlug": "subjunctive-sentences",
+        "label": "471."
+      },
+      {
+        "n": 472,
+        "sourceSlug": "subjunctive-sentences",
+        "label": "472."
+      },
+      {
+        "n": 473,
+        "sourceSlug": "subjunctive-sentences",
+        "label": "473."
+      },
+      {
+        "n": 474,
+        "sourceSlug": "subjunctive-sentences",
+        "label": "474."
+      },
+      {
+        "n": 475,
+        "sourceSlug": "subjunctive-sentences",
+        "label": "475."
+      },
+      {
+        "n": 490,
+        "sourceSlug": "undeveloped-and-incomplete-sentences",
+        "label": "490."
+      },
+      {
+        "n": 491,
+        "sourceSlug": "undeveloped-and-incomplete-sentences",
+        "label": "491."
+      },
+      {
+        "n": 492,
+        "sourceSlug": "undeveloped-and-incomplete-sentences",
+        "label": "492."
+      },
+      {
+        "n": 493,
+        "sourceSlug": "undeveloped-and-incomplete-sentences",
+        "label": "493."
+      },
+      {
+        "n": 494,
+        "sourceSlug": "undeveloped-and-incomplete-sentences",
+        "label": "494."
+      },
+      {
+        "n": 495,
+        "sourceSlug": "verb-agreement-and-voice",
+        "label": "495."
+      },
+      {
+        "n": 496,
+        "sourceSlug": "verb-agreement-and-voice",
+        "label": "496."
+      },
+      {
+        "n": 497,
+        "sourceSlug": "verb-agreement-and-voice",
+        "label": "497."
+      },
+      {
+        "n": 498,
+        "sourceSlug": "verb-agreement-and-voice",
+        "label": "498."
+      },
+      {
+        "n": 499,
+        "sourceSlug": "verb-agreement-and-voice",
+        "label": "499."
+      },
+      {
+        "n": 500,
+        "sourceSlug": "verb-agreement-and-voice",
+        "label": "500."
+      },
+      {
+        "n": 501,
+        "sourceSlug": "verb-agreement-and-voice",
+        "label": "501."
+      },
+      {
+        "n": 380,
+        "sourceSlug": "verb-conjugation-overview",
+        "label": "380."
+      },
+      {
+        "n": 242,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "242."
+      },
+      {
+        "n": 243,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "243."
+      },
+      {
+        "n": 244,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "244."
+      },
+      {
+        "n": 245,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "245."
+      },
+      {
+        "n": 246,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "246."
+      },
+      {
+        "n": 247,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "247."
+      },
+      {
+        "n": 248,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "248."
+      },
+      {
+        "n": 249,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "249."
+      },
+      {
+        "n": 250,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "250."
+      },
+      {
+        "n": 251,
+        "sourceSlug": "verb-inflection-and-stems",
+        "label": "251."
+      },
+      {
+        "n": 596,
+        "sourceSlug": "verbal-adjectives-τεος",
+        "label": "596."
+      },
+      {
+        "n": 352,
+        "sourceSlug": "verbal-adjectives-τος-and-τεος",
+        "label": "352."
+      },
+      {
+        "n": 353,
+        "sourceSlug": "verbal-adjectives-τος-and-τεος",
+        "label": "353."
+      },
+      {
+        "n": 354,
+        "sourceSlug": "verbal-adjectives-τος-and-τεος",
+        "label": "354."
+      },
+      {
+        "n": 410,
+        "sourceSlug": "verbal-adjectives",
+        "label": "410."
+      },
+      {
+        "n": 411,
+        "sourceSlug": "verbal-adjectives",
+        "label": "411."
+      },
+      {
+        "n": 412,
+        "sourceSlug": "verbal-adjectives",
+        "label": "412."
+      },
+      {
+        "n": 413,
+        "sourceSlug": "verbal-adjectives",
+        "label": "413."
+      },
+      {
+        "n": 414,
+        "sourceSlug": "verbal-adjectives",
+        "label": "414."
+      },
+      {
+        "n": 402,
+        "sourceSlug": "verbal-nouns",
+        "label": "402."
+      },
+      {
+        "n": 403,
+        "sourceSlug": "verbal-nouns",
+        "label": "403."
+      },
+      {
+        "n": 404,
+        "sourceSlug": "verbal-nouns",
+        "label": "404."
+      },
+      {
+        "n": 405,
+        "sourceSlug": "verbal-nouns",
+        "label": "405."
+      },
+      {
+        "n": 406,
+        "sourceSlug": "verbal-nouns",
+        "label": "406."
+      },
+      {
+        "n": 407,
+        "sourceSlug": "verbal-nouns",
+        "label": "407."
+      },
+      {
+        "n": 408,
+        "sourceSlug": "verbal-nouns",
+        "label": "408."
+      },
+      {
+        "n": 409,
+        "sourceSlug": "verbal-nouns",
+        "label": "409."
+      },
+      {
+        "n": 401,
+        "sourceSlug": "verbals",
+        "label": "401."
+      },
+      {
+        "n": 24,
+        "sourceSlug": "vowels",
+        "label": "24."
+      },
+      {
+        "n": 25,
+        "sourceSlug": "vowels",
+        "label": "25."
+      },
+      {
+        "n": 26,
+        "sourceSlug": "vowels",
+        "label": "26."
+      },
+      {
+        "n": 27,
+        "sourceSlug": "vowels",
+        "label": "27."
+      },
+      {
+        "n": 28,
+        "sourceSlug": "vowels",
+        "label": "28."
+      },
+      {
+        "n": 674,
+        "sourceSlug": "word-order",
+        "label": "674."
+      },
+      {
+        "n": 675,
+        "sourceSlug": "word-order",
+        "label": "675."
+      },
+      {
+        "n": 676,
+        "sourceSlug": "word-order",
+        "label": "676."
+      },
+      {
+        "n": 677,
+        "sourceSlug": "word-order",
+        "label": "677."
+      },
+      {
+        "n": 678,
+        "sourceSlug": "word-order",
+        "label": "678."
+      },
+      {
+        "n": 679,
+        "sourceSlug": "word-order",
+        "label": "679."
+      },
+      {
+        "n": 680,
+        "sourceSlug": "word-order",
+        "label": "680."
+      },
+      {
+        "n": 681,
+        "sourceSlug": "word-order",
+        "label": "681."
+      },
+      {
+        "n": 682,
+        "sourceSlug": "word-order",
+        "label": "682."
+      },
+      {
+        "n": 683,
+        "sourceSlug": "word-order",
+        "label": "683."
+      },
+      {
+        "n": 65,
+        "sourceSlug": "α-declension-nouns",
+        "label": "65."
+      },
+      {
+        "n": 66,
+        "sourceSlug": "α-declension-nouns",
+        "label": "66."
+      },
+      {
+        "n": 67,
+        "sourceSlug": "α-declension-nouns",
+        "label": "67."
+      },
+      {
+        "n": 68,
+        "sourceSlug": "α-declension-nouns",
+        "label": "68."
+      },
+      {
+        "n": 69,
+        "sourceSlug": "α-declension-nouns",
+        "label": "69. a."
+      },
+      {
+        "n": 70,
+        "sourceSlug": "α-declension-nouns",
+        "label": "70."
+      },
+      {
+        "n": 71,
+        "sourceSlug": "α-declension-nouns",
+        "label": "71."
+      },
+      {
+        "n": 72,
+        "sourceSlug": "α-declension-nouns",
+        "label": "72."
+      },
+      {
+        "n": 645,
+        "sourceSlug": "ει-clauses",
+        "label": "645."
+      },
+      {
+        "n": 646,
+        "sourceSlug": "ει-clauses",
+        "label": "646."
+      },
+      {
+        "n": 647,
+        "sourceSlug": "ει-clauses",
+        "label": "647."
+      },
+      {
+        "n": 648,
+        "sourceSlug": "ει-clauses",
+        "label": "648."
+      },
+      {
+        "n": 649,
+        "sourceSlug": "ει-clauses",
+        "label": "649."
+      },
+      {
+        "n": 650,
+        "sourceSlug": "ει-clauses",
+        "label": "650."
+      },
+      {
+        "n": 651,
+        "sourceSlug": "ει-clauses",
+        "label": "651."
+      },
+      {
+        "n": 652,
+        "sourceSlug": "ει-clauses",
+        "label": "652."
+      },
+      {
+        "n": 653,
+        "sourceSlug": "ει-clauses",
+        "label": "653."
+      },
+      {
+        "n": 654,
+        "sourceSlug": "ει-clauses",
+        "label": "654."
+      },
+      {
+        "n": 655,
+        "sourceSlug": "ει-clauses",
+        "label": "655."
+      },
+      {
+        "n": 656,
+        "sourceSlug": "ει-clauses",
+        "label": "656."
+      },
+      {
+        "n": 361,
+        "sourceSlug": "μι-conjugation-verbs-ημι-stem-αη",
+        "label": "361."
+      },
+      {
+        "n": 362,
+        "sourceSlug": "μι-conjugation-verbs-ημι-stem-αη",
+        "label": "362."
+      },
+      {
+        "n": 363,
+        "sourceSlug": "μι-conjugation-verbs-ημι-stem-αη",
+        "label": "363."
+      },
+      {
+        "n": 364,
+        "sourceSlug": "μι-conjugation-verbs-ημι-stem-αη",
+        "label": "364."
+      },
+      {
+        "n": 365,
+        "sourceSlug": "μι-conjugation-verbs-ημι-stem-αη",
+        "label": "365."
+      },
+      {
+        "n": 358,
+        "sourceSlug": "μι-conjugation-verbs-νῡμι",
+        "label": "358."
+      },
+      {
+        "n": 359,
+        "sourceSlug": "μι-conjugation-verbs-νῡμι",
+        "label": "359."
+      },
+      {
+        "n": 360,
+        "sourceSlug": "μι-conjugation-verbs-νῡμι",
+        "label": "360."
+      },
+      {
+        "n": 371,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "371."
+      },
+      {
+        "n": 372,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "372."
+      },
+      {
+        "n": 373,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "373."
+      },
+      {
+        "n": 374,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "374."
+      },
+      {
+        "n": 375,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "375."
+      },
+      {
+        "n": 376,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "376."
+      },
+      {
+        "n": 377,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "377."
+      },
+      {
+        "n": 378,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "378."
+      },
+      {
+        "n": 379,
+        "sourceSlug": "μι-conjugation-δίδωμι-tίθημι-ἵημι",
+        "label": "379."
+      },
+      {
+        "n": 355,
+        "sourceSlug": "μι-conjugation",
+        "label": "355."
+      },
+      {
+        "n": 356,
+        "sourceSlug": "μι-conjugation",
+        "label": "356."
+      },
+      {
+        "n": 357,
+        "sourceSlug": "μι-conjugation",
+        "label": "357."
+      },
+      {
+        "n": 62,
+        "sourceSlug": "ο-declension-nouns",
+        "label": "62."
+      },
+      {
+        "n": 63,
+        "sourceSlug": "ο-declension-nouns",
+        "label": "63."
+      },
+      {
+        "n": 64,
+        "sourceSlug": "ο-declension-nouns",
+        "label": "64."
+      },
+      {
+        "n": 643,
+        "sourceSlug": "πρίν-clauses",
+        "label": "643."
+      },
+      {
+        "n": 644,
+        "sourceSlug": "πρίν-clauses",
+        "label": "644."
+      },
+      {
+        "n": 279,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "279."
+      },
+      {
+        "n": 280,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "280."
+      },
+      {
+        "n": 281,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "281."
+      },
+      {
+        "n": 282,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "282."
+      },
+      {
+        "n": 283,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "283."
+      },
+      {
+        "n": 284,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "284."
+      },
+      {
+        "n": 285,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "285."
+      },
+      {
+        "n": 286,
+        "sourceSlug": "ω-conjugation-aorist-system-vowel-verbs-not-contracting",
+        "label": "286."
+      },
+      {
+        "n": 313,
+        "sourceSlug": "ω-conjugation-contract-verbs",
+        "label": "313."
+      },
+      {
+        "n": 314,
+        "sourceSlug": "ω-conjugation-contract-verbs",
+        "label": "314."
+      },
+      {
+        "n": 315,
+        "sourceSlug": "ω-conjugation-contract-verbs",
+        "label": "315."
+      },
+      {
+        "n": 277,
+        "sourceSlug": "ω-conjugation-future-system-vowel-verbs-not-contracting",
+        "label": "277."
+      },
+      {
+        "n": 278,
+        "sourceSlug": "ω-conjugation-future-system-vowel-verbs-not-contracting",
+        "label": "278."
+      },
+      {
+        "n": 331,
+        "sourceSlug": "ω-conjugation-liquid-future-and-aorist-paradigm",
+        "label": "331."
+      },
+      {
+        "n": 338,
+        "sourceSlug": "ω-conjugation-liquid-verbs-perfect-middle-system",
+        "label": "338."
+      },
+      {
+        "n": 339,
+        "sourceSlug": "ω-conjugation-liquid-verbs-perfect-middle-system",
+        "label": "339."
+      },
+      {
+        "n": 323,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "323."
+      },
+      {
+        "n": 324,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "324."
+      },
+      {
+        "n": 325,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "325."
+      },
+      {
+        "n": 326,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "326."
+      },
+      {
+        "n": 327,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "327."
+      },
+      {
+        "n": 328,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "328."
+      },
+      {
+        "n": 329,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "329."
+      },
+      {
+        "n": 330,
+        "sourceSlug": "ω-conjugation-liquid-verbs",
+        "label": "330."
+      },
+      {
+        "n": 347,
+        "sourceSlug": "ω-conjugation-mute-verbs-formative-vowel-or-thematic-aorist",
+        "label": "347."
+      },
+      {
+        "n": 348,
+        "sourceSlug": "ω-conjugation-mute-verbs-formative-vowel-or-thematic-aorist",
+        "label": "348."
+      },
+      {
+        "n": 349,
+        "sourceSlug": "ω-conjugation-mute-verbs-formative-vowel-or-thematic-aorist",
+        "label": "349."
+      },
+      {
+        "n": 350,
+        "sourceSlug": "ω-conjugation-mute-verbs-formative-vowel-or-thematic-aorist",
+        "label": "350."
+      },
+      {
+        "n": 351,
+        "sourceSlug": "ω-conjugation-mute-verbs-formative-vowel-or-thematic-aorist",
+        "label": "351."
+      },
+      {
+        "n": 346,
+        "sourceSlug": "ω-conjugation-mute-verbs-futures-ῶ",
+        "label": "346. a."
+      },
+      {
+        "n": 343,
+        "sourceSlug": "ω-conjugation-mute-verbs-perfect-middle-system",
+        "label": "343."
+      },
+      {
+        "n": 344,
+        "sourceSlug": "ω-conjugation-mute-verbs-perfect-middle-system",
+        "label": "344."
+      },
+      {
+        "n": 345,
+        "sourceSlug": "ω-conjugation-mute-verbs-perfect-middle-system",
+        "label": "345."
+      },
+      {
+        "n": 340,
+        "sourceSlug": "ω-conjugation-mute-verbs",
+        "label": "340."
+      },
+      {
+        "n": 341,
+        "sourceSlug": "ω-conjugation-mute-verbs",
+        "label": "341."
+      },
+      {
+        "n": 342,
+        "sourceSlug": "ω-conjugation-mute-verbs",
+        "label": "342. a."
+      },
+      {
+        "n": 302,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "302."
+      },
+      {
+        "n": 303,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "303."
+      },
+      {
+        "n": 304,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "304."
+      },
+      {
+        "n": 305,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "305."
+      },
+      {
+        "n": 306,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "306."
+      },
+      {
+        "n": 307,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "307."
+      },
+      {
+        "n": 308,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "308."
+      },
+      {
+        "n": 309,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "309."
+      },
+      {
+        "n": 310,
+        "sourceSlug": "ω-conjugation-passive-system-vowel-verbs-not-contracting",
+        "label": "310."
+      },
+      {
+        "n": 287,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "287."
+      },
+      {
+        "n": 288,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "288."
+      },
+      {
+        "n": 289,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "289."
+      },
+      {
+        "n": 290,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "290."
+      },
+      {
+        "n": 291,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "291."
+      },
+      {
+        "n": 292,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "292."
+      },
+      {
+        "n": 293,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "293."
+      },
+      {
+        "n": 294,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "294."
+      },
+      {
+        "n": 295,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "295."
+      },
+      {
+        "n": 296,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "296."
+      },
+      {
+        "n": 297,
+        "sourceSlug": "ω-conjugation-perfect-active-system-vowel-verbs-not-contracting",
+        "label": "297."
+      },
+      {
+        "n": 298,
+        "sourceSlug": "ω-conjugation-perfect-middle-system-vowel-verbs-not-contracting",
+        "label": "298."
+      },
+      {
+        "n": 299,
+        "sourceSlug": "ω-conjugation-perfect-middle-system-vowel-verbs-not-contracting",
+        "label": "299."
+      },
+      {
+        "n": 300,
+        "sourceSlug": "ω-conjugation-perfect-middle-system-vowel-verbs-not-contracting",
+        "label": "300."
+      },
+      {
+        "n": 301,
+        "sourceSlug": "ω-conjugation-perfect-middle-system-vowel-verbs-not-contracting",
+        "label": "301."
+      },
+      {
+        "n": 255,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "255."
+      },
+      {
+        "n": 256,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "256."
+      },
+      {
+        "n": 257,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "257."
+      },
+      {
+        "n": 258,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "258."
+      },
+      {
+        "n": 259,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "259."
+      },
+      {
+        "n": 260,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "260."
+      },
+      {
+        "n": 261,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "261."
+      },
+      {
+        "n": 262,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "262."
+      },
+      {
+        "n": 263,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "263."
+      },
+      {
+        "n": 264,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "264."
+      },
+      {
+        "n": 265,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "265."
+      },
+      {
+        "n": 266,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "266."
+      },
+      {
+        "n": 267,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "267."
+      },
+      {
+        "n": 268,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "268."
+      },
+      {
+        "n": 269,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "269."
+      },
+      {
+        "n": 270,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "270."
+      },
+      {
+        "n": 271,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "271."
+      },
+      {
+        "n": 272,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "272."
+      },
+      {
+        "n": 273,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "273."
+      },
+      {
+        "n": 274,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "274."
+      },
+      {
+        "n": 275,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "275."
+      },
+      {
+        "n": 276,
+        "sourceSlug": "ω-conjugation-present-system-vowel-verbs-not-contracting",
+        "label": "276."
+      },
+      {
+        "n": 316,
+        "sourceSlug": "ω-conjugation-vowel-verbs-contracting-present",
+        "label": "316."
+      },
+      {
+        "n": 317,
+        "sourceSlug": "ω-conjugation-vowel-verbs-contracting-present",
+        "label": "317."
+      },
+      {
+        "n": 318,
+        "sourceSlug": "ω-conjugation-vowel-verbs-contracting-present",
+        "label": "318."
+      },
+      {
+        "n": 319,
+        "sourceSlug": "ω-conjugation-vowel-verbs-contracting-present",
+        "label": "319."
+      },
+      {
+        "n": 320,
+        "sourceSlug": "ω-conjugation-vowel-verbs-contracting-present",
+        "label": "320."
+      },
+      {
+        "n": 321,
+        "sourceSlug": "ω-conjugation-vowel-verbs-contracting-present",
+        "label": "321."
+      },
+      {
+        "n": 322,
+        "sourceSlug": "ω-conjugation-vowel-verbs-contracting-present",
+        "label": "322."
+      },
+      {
+        "n": 252,
+        "sourceSlug": "ω-conjugation-vowel-verbs-not-contracting-0",
+        "label": "252."
+      },
+      {
+        "n": 253,
+        "sourceSlug": "ω-conjugation-vowel-verbs-not-contracting-0",
+        "label": "253."
+      },
+      {
+        "n": 254,
+        "sourceSlug": "ω-conjugation-vowel-verbs-not-contracting-0",
+        "label": "254."
+      },
+      {
+        "n": 332,
+        "sourceSlug": "ω-conjugation-α-perfect-liquid-verbs",
+        "label": "332."
+      },
+      {
+        "n": 333,
+        "sourceSlug": "ω-conjugation-α-perfect-liquid-verbs",
+        "label": "333."
+      },
+      {
+        "n": 334,
+        "sourceSlug": "ω-conjugation-η-passive-liquid-verbs",
+        "label": "334."
+      },
+      {
+        "n": 335,
+        "sourceSlug": "ω-conjugation-η-passive-liquid-verbs",
+        "label": "335."
+      },
+      {
+        "n": 336,
+        "sourceSlug": "ω-conjugation-η-passive-liquid-verbs",
+        "label": "336."
+      },
+      {
+        "n": 337,
+        "sourceSlug": "ω-conjugation-η-passive-liquid-verbs",
+        "label": "337."
+      },
+      {
+        "n": 312,
+        "sourceSlug": "ω-conjugation-θῡ-and-λῡ",
+        "label": "312."
+      },
+      {
+        "n": 640,
+        "sourceSlug": "ἵνα-clauses",
+        "label": "640."
+      },
+      {
+        "n": 641,
+        "sourceSlug": "ἵνα-clauses",
+        "label": "641."
+      },
+      {
+        "n": 642,
+        "sourceSlug": "ἵνα-clauses",
+        "label": "642."
+      },
+      {
+        "n": 638,
+        "sourceSlug": "ὅπως-clauses",
+        "label": "638."
+      },
+      {
+        "n": 612,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "612."
+      },
+      {
+        "n": 613,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "613. a."
+      },
+      {
+        "n": 614,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "614."
+      },
+      {
+        "n": 615,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "615."
+      },
+      {
+        "n": 616,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "616."
+      },
+      {
+        "n": 617,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "617."
+      },
+      {
+        "n": 618,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "618."
+      },
+      {
+        "n": 619,
+        "sourceSlug": "ὅς-and-ὅστις-clauses",
+        "label": "619."
+      },
+      {
+        "n": 622,
+        "sourceSlug": "ὅτι-διότι-and-οὕνεκα-clauses",
+        "label": "622."
+      },
+      {
+        "n": 623,
+        "sourceSlug": "ὅτι-διότι-and-οὕνεκα-clauses",
+        "label": "623."
+      },
+      {
+        "n": 624,
+        "sourceSlug": "ὅτι-διότι-and-οὕνεκα-clauses",
+        "label": "624. a."
+      },
+      {
+        "n": 625,
+        "sourceSlug": "ὅτι-διότι-and-οὕνεκα-clauses",
+        "label": "625."
+      },
+      {
+        "n": 626,
+        "sourceSlug": "ὅτι-διότι-and-οὕνεκα-clauses",
+        "label": "626."
+      },
+      {
+        "n": 632,
+        "sourceSlug": "ὥς-clauses",
+        "label": "632."
+      },
+      {
+        "n": 633,
+        "sourceSlug": "ὥς-clauses",
+        "label": "633."
+      },
+      {
+        "n": 634,
+        "sourceSlug": "ὥς-clauses",
+        "label": "634."
+      },
+      {
+        "n": 635,
+        "sourceSlug": "ὥς-clauses",
+        "label": "635."
+      },
+      {
+        "n": 636,
+        "sourceSlug": "ὥς-clauses",
+        "label": "636."
+      },
+      {
+        "n": 637,
+        "sourceSlug": "ὥς-clauses",
+        "label": "637."
+      },
+      {
+        "n": 639,
+        "sourceSlug": "ὥστε-clauses",
+        "label": "639."
+      }
+    ],
+    "missingSections": [],
+    "sourceMarkRepairs": {
+      "macronsRestacked": 8,
+      "ancepsMacronsKept": 1,
+      "subscriptMacronsKept": 0
+    }
+  }
+}

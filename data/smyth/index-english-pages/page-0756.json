@@ -1,0 +1,373 @@
+{
+ "page": 756,
+ "leaf": 769,
+ "archiveId": "smyth-greek-grammar-for-colleges-1920",
+ "image": "index-scan/page-0756.png",
+ "columns": 2,
+ "runningHead": "ENGLISH INDEX",
+ "pageNotes": "Last page of the English Index, and a short page: the two columns fill only the top quarter of the type area and the rest of the page is blank. Folio 756 at the upper left, running head 'ENGLISH INDEX' centred; the printed vertical rule between the columns stops where the text stops. No letter headings are printed, but a blank line separates the W group from Y (before 'Yes') and Y from Z (before 'Zeugma') in col. 2; those blanks are not counted as printed lines. The 'Wish' entry runs from col. 1 over the column rule into col. 2. 'Yes', 'No', 'saying' and 'thinking' are set in italic; italics are not marked up here. The Greek Index begins on page 757.",
+ "lines": [
+  {
+   "col": 1,
+   "text": "Whole, gen. of, see Divided whole."
+  },
+  {
+   "col": 1,
+   "text": "Will, vbs. of, w. inf., 1869, 1991-1999,"
+  },
+  {
+   "col": 1,
+   "text": "2719; other constrs. w., 1995; w."
+  },
+  {
+   "col": 1,
+   "text": "obj. cl., 2218; w. μή, 2720; w. οὐ,"
+  },
+  {
+   "col": 1,
+   "text": "2721. See Desiring."
+  },
+  {
+   "col": 1,
+   "text": "Winds, names of, gender, 199 a; use"
+  },
+  {
+   "col": 1,
+   "text": "of article with, 1139."
+  },
+  {
+   "col": 1,
+   "text": "Wish, unattainable, expressed by indic."
+  },
+  {
+   "col": 1,
+   "text": "w. εἴθε (poet. αἴθε) or εἰ γάρ, 1780;"
+  },
+  {
+   "col": 1,
+   "text": "by ὤφελον w. inf., 1781; by ἐβουλόμην"
+  },
+  {
+   "col": 1,
+   "text": "and inf., 1782; by ἐβουλόμην ἄν,"
+  },
+  {
+   "col": 1,
+   "text": "1789; opt. of, 1814-1819; expressed"
+  },
+  {
+   "col": 1,
+   "text": "by βουλοίμην ἄν, 1827, by πῶς ἄν, τίς"
+  },
+  {
+   "col": 1,
+   "text": "ἄν w. potent. opt., 1832; inf. in,"
+  },
+  {
+   "col": 1,
+   "text": "2014; summary of forms, 2156; in"
+  },
+  {
+   "col": 2,
+   "text": "cl. introd. by ἐπεί, 2244; μή in, 2704,"
+  },
+  {
+   "col": 2,
+   "text": "2715; expressed by vb. of saying"
+  },
+  {
+   "col": 2,
+   "text": "or thinking w. μή, 2723; ἀλλά in,"
+  },
+  {
+   "col": 2,
+   "text": "2784 d; γάρ in, 2807; δῆτα in, 2851."
+  },
+  {
+   "col": 2,
+   "text": "Wishing, vbs. of, in fut., 1913."
+  },
+  {
+   "col": 2,
+   "text": "Wondering, vbs. of, w. gen., 1405; w."
+  },
+  {
+   "col": 2,
+   "text": "εἰ, 2247; w. ὅτι or ὡς, 2577, 2587;"
+  },
+  {
+   "col": 2,
+   "text": "w. part., 2587."
+  },
+  {
+   "col": 2,
+   "text": "Yes, how expressed, 2680."
+  },
+  {
+   "col": 2,
+   "text": "Yes and No questions, see Questions."
+  },
+  {
+   "col": 2,
+   "text": "Yielding, verbs of, with dat., 1463."
+  },
+  {
+   "col": 2,
+   "text": "Yod, 20."
+  },
+  {
+   "col": 2,
+   "text": "Zeugma, 3048."
+  }
+ ],
+ "entries": [
+  {
+   "headword": "Whole",
+   "raw": "Whole, gen. of, see Divided whole.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [],
+   "crossRefs": [
+    "Divided whole"
+   ]
+  },
+  {
+   "headword": "Will",
+   "raw": "Will, vbs. of, w. inf., 1869, 1991-1999, 2719; other constrs. w., 1995; w. obj. cl., 2218; w. μή, 2720; w. οὐ, 2721. See Desiring.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1869",
+     "n": 1869
+    },
+    {
+     "verbatim": "1991-1999",
+     "n": 1991,
+     "to": 1999
+    },
+    {
+     "verbatim": "2719",
+     "n": 2719
+    },
+    {
+     "verbatim": "1995",
+     "n": 1995
+    },
+    {
+     "verbatim": "2218",
+     "n": 2218
+    },
+    {
+     "verbatim": "2720",
+     "n": 2720
+    },
+    {
+     "verbatim": "2721",
+     "n": 2721
+    }
+   ],
+   "crossRefs": [
+    "Desiring"
+   ]
+  },
+  {
+   "headword": "Winds",
+   "raw": "Winds, names of, gender, 199 a; use of article with, 1139.",
+   "col": 1,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "199 a",
+     "n": 199,
+     "anchor": "a"
+    },
+    {
+     "verbatim": "1139",
+     "n": 1139
+    }
+   ]
+  },
+  {
+   "headword": "Wish",
+   "raw": "Wish, unattainable, expressed by indic. w. εἴθε (poet. αἴθε) or εἰ γάρ, 1780; by ὤφελον w. inf., 1781; by ἐβουλόμην and inf., 1782; by ἐβουλόμην ἄν, 1789; opt. of, 1814-1819; expressed by βουλοίμην ἄν, 1827, by πῶς ἄν, τίς ἄν w. potent. opt., 1832; inf. in, 2014; summary of forms, 2156; in cl. introd. by ἐπεί, 2244; μή in, 2704, 2715; expressed by vb. of saying or thinking w. μή, 2723; ἀλλά in, 2784 d; γάρ in, 2807; δῆτα in, 2851.",
+   "col": 1,
+   "wrapped": true,
+   "wrapNote": "col1->col2",
+   "refs": [
+    {
+     "verbatim": "1780",
+     "n": 1780
+    },
+    {
+     "verbatim": "1781",
+     "n": 1781
+    },
+    {
+     "verbatim": "1782",
+     "n": 1782
+    },
+    {
+     "verbatim": "1789",
+     "n": 1789
+    },
+    {
+     "verbatim": "1814-1819",
+     "n": 1814,
+     "to": 1819
+    },
+    {
+     "verbatim": "1827",
+     "n": 1827
+    },
+    {
+     "verbatim": "1832",
+     "n": 1832
+    },
+    {
+     "verbatim": "2014",
+     "n": 2014
+    },
+    {
+     "verbatim": "2156",
+     "n": 2156
+    },
+    {
+     "verbatim": "2244",
+     "n": 2244
+    },
+    {
+     "verbatim": "2704",
+     "n": 2704
+    },
+    {
+     "verbatim": "2715",
+     "n": 2715
+    },
+    {
+     "verbatim": "2723",
+     "n": 2723
+    },
+    {
+     "verbatim": "2784 d",
+     "n": 2784,
+     "anchor": "d"
+    },
+    {
+     "verbatim": "2807",
+     "n": 2807
+    },
+    {
+     "verbatim": "2851",
+     "n": 2851
+    }
+   ],
+   "notes": "Printed 'expressed by vb. of saying or thinking w. μή, 2723', with a full point after the italic 'thinking' where a comma would be expected. Kept as printed."
+  },
+  {
+   "headword": "Wishing",
+   "raw": "Wishing, vbs. of, in fut., 1913.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1913",
+     "n": 1913
+    }
+   ]
+  },
+  {
+   "headword": "Wondering",
+   "raw": "Wondering, vbs. of, w. gen., 1405; w. εἰ, 2247; w. ὅτι or ὡς, 2577, 2587; w. part., 2587.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1405",
+     "n": 1405
+    },
+    {
+     "verbatim": "2247",
+     "n": 2247
+    },
+    {
+     "verbatim": "2577",
+     "n": 2577
+    },
+    {
+     "verbatim": "2587",
+     "n": 2587
+    },
+    {
+     "verbatim": "2587",
+     "n": 2587
+    }
+   ]
+  },
+  {
+   "headword": "Yes",
+   "raw": "Yes, how expressed, 2680.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "2680",
+     "n": 2680
+    }
+   ]
+  },
+  {
+   "headword": "Yes and No questions",
+   "raw": "Yes and No questions, see Questions.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [],
+   "crossRefs": [
+    "Questions"
+   ]
+  },
+  {
+   "headword": "Yielding",
+   "raw": "Yielding, verbs of, with dat., 1463.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "1463",
+     "n": 1463
+    }
+   ]
+  },
+  {
+   "headword": "Yod",
+   "raw": "Yod, 20.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "20",
+     "n": 20
+    }
+   ]
+  },
+  {
+   "headword": "Zeugma",
+   "raw": "Zeugma, 3048.",
+   "col": 2,
+   "wrapped": false,
+   "refs": [
+    {
+     "verbatim": "3048",
+     "n": 3048
+    }
+   ]
+  }
+ ],
+ "unreadable": [],
+ "counts": {
+  "linesCol1": 15,
+  "linesCol2": 13,
+  "lines": 28,
+  "entries": 11
+ }
+}

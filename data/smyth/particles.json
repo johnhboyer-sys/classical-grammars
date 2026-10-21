@@ -1,0 +1,2517 @@
+{
+  "work": "smyth",
+  "particles": [
+    {
+      "particle": "ἀλλά",
+      "slug": "alla",
+      "sections": [
+        {
+          "n": 2775,
+          "role": "primary"
+        },
+        {
+          "n": 2776,
+          "role": "primary"
+        },
+        {
+          "n": 2777,
+          "role": "primary"
+        },
+        {
+          "n": 2778,
+          "role": "primary"
+        },
+        {
+          "n": 2779,
+          "role": "primary"
+        },
+        {
+          "n": 2780,
+          "role": "primary"
+        },
+        {
+          "n": 2781,
+          "role": "primary"
+        },
+        {
+          "n": 2782,
+          "role": "primary"
+        },
+        {
+          "n": 2783,
+          "role": "primary"
+        },
+        {
+          "n": 2784,
+          "role": "primary"
+        },
+        {
+          "n": 2785,
+          "role": "primary"
+        },
+        {
+          "n": 2786,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ἄν",
+      "slug": "an",
+      "sections": [
+        {
+          "n": 1761,
+          "role": "primary"
+        },
+        {
+          "n": 1762,
+          "role": "primary"
+        },
+        {
+          "n": 1763,
+          "role": "primary"
+        },
+        {
+          "n": 1764,
+          "role": "primary"
+        },
+        {
+          "n": 1765,
+          "role": "primary"
+        },
+        {
+          "n": 1766,
+          "role": "primary"
+        },
+        {
+          "n": 1767,
+          "role": "primary"
+        },
+        {
+          "n": 1768,
+          "role": "primary"
+        },
+        {
+          "n": 1770,
+          "role": "mention"
+        },
+        {
+          "n": 1771,
+          "role": "mention"
+        },
+        {
+          "n": 1772,
+          "role": "mention"
+        },
+        {
+          "n": 1773,
+          "role": "mention"
+        },
+        {
+          "n": 1774,
+          "role": "mention"
+        },
+        {
+          "n": 1775,
+          "role": "mention"
+        },
+        {
+          "n": 1776,
+          "role": "mention"
+        },
+        {
+          "n": 1777,
+          "role": "mention"
+        },
+        {
+          "n": 1778,
+          "role": "mention"
+        },
+        {
+          "n": 1779,
+          "role": "mention"
+        },
+        {
+          "n": 1780,
+          "role": "mention"
+        },
+        {
+          "n": 1781,
+          "role": "mention"
+        },
+        {
+          "n": 1782,
+          "role": "mention"
+        },
+        {
+          "n": 1783,
+          "role": "mention"
+        },
+        {
+          "n": 1784,
+          "role": "mention"
+        },
+        {
+          "n": 1785,
+          "role": "mention"
+        },
+        {
+          "n": 1786,
+          "role": "mention"
+        },
+        {
+          "n": 1787,
+          "role": "mention"
+        },
+        {
+          "n": 1788,
+          "role": "mention"
+        },
+        {
+          "n": 1789,
+          "role": "mention"
+        },
+        {
+          "n": 1790,
+          "role": "mention"
+        },
+        {
+          "n": 1791,
+          "role": "mention"
+        },
+        {
+          "n": 1792,
+          "role": "mention"
+        },
+        {
+          "n": 1793,
+          "role": "mention"
+        },
+        {
+          "n": 1794,
+          "role": "mention"
+        },
+        {
+          "n": 1795,
+          "role": "mention"
+        },
+        {
+          "n": 1796,
+          "role": "mention"
+        },
+        {
+          "n": 1797,
+          "role": "mention"
+        },
+        {
+          "n": 1798,
+          "role": "mention"
+        },
+        {
+          "n": 1799,
+          "role": "mention"
+        },
+        {
+          "n": 1800,
+          "role": "mention"
+        },
+        {
+          "n": 1801,
+          "role": "mention"
+        },
+        {
+          "n": 1802,
+          "role": "mention"
+        },
+        {
+          "n": 1803,
+          "role": "mention"
+        },
+        {
+          "n": 1804,
+          "role": "mention"
+        },
+        {
+          "n": 1805,
+          "role": "mention"
+        },
+        {
+          "n": 1806,
+          "role": "mention"
+        },
+        {
+          "n": 1807,
+          "role": "mention"
+        },
+        {
+          "n": 1808,
+          "role": "mention"
+        },
+        {
+          "n": 1809,
+          "role": "mention"
+        },
+        {
+          "n": 1810,
+          "role": "mention"
+        },
+        {
+          "n": 1811,
+          "role": "mention"
+        },
+        {
+          "n": 1812,
+          "role": "mention"
+        },
+        {
+          "n": 1813,
+          "role": "mention"
+        },
+        {
+          "n": 1814,
+          "role": "mention"
+        },
+        {
+          "n": 1815,
+          "role": "mention"
+        },
+        {
+          "n": 1816,
+          "role": "mention"
+        },
+        {
+          "n": 1817,
+          "role": "mention"
+        },
+        {
+          "n": 1818,
+          "role": "mention"
+        },
+        {
+          "n": 1819,
+          "role": "mention"
+        },
+        {
+          "n": 1820,
+          "role": "mention"
+        },
+        {
+          "n": 1821,
+          "role": "mention"
+        },
+        {
+          "n": 1822,
+          "role": "mention"
+        },
+        {
+          "n": 1823,
+          "role": "mention"
+        },
+        {
+          "n": 1824,
+          "role": "mention"
+        },
+        {
+          "n": 1825,
+          "role": "mention"
+        },
+        {
+          "n": 1826,
+          "role": "mention"
+        },
+        {
+          "n": 1827,
+          "role": "mention"
+        },
+        {
+          "n": 1828,
+          "role": "mention"
+        },
+        {
+          "n": 1829,
+          "role": "mention"
+        },
+        {
+          "n": 1830,
+          "role": "mention"
+        },
+        {
+          "n": 1831,
+          "role": "mention"
+        },
+        {
+          "n": 1832,
+          "role": "mention"
+        },
+        {
+          "n": 1833,
+          "role": "mention"
+        },
+        {
+          "n": 1834,
+          "role": "mention"
+        },
+        {
+          "n": 1845,
+          "role": "mention"
+        },
+        {
+          "n": 1846,
+          "role": "mention"
+        },
+        {
+          "n": 1847,
+          "role": "mention"
+        },
+        {
+          "n": 1848,
+          "role": "mention"
+        },
+        {
+          "n": 1849,
+          "role": "mention"
+        },
+        {
+          "n": 2146,
+          "role": "mention"
+        },
+        {
+          "n": 2313,
+          "role": "mention"
+        },
+        {
+          "n": 2314,
+          "role": "mention"
+        },
+        {
+          "n": 2315,
+          "role": "mention"
+        },
+        {
+          "n": 2316,
+          "role": "mention"
+        },
+        {
+          "n": 2317,
+          "role": "mention"
+        },
+        {
+          "n": 2318,
+          "role": "mention"
+        },
+        {
+          "n": 2319,
+          "role": "mention"
+        },
+        {
+          "n": 2320,
+          "role": "mention"
+        }
+      ]
+    },
+    {
+      "particle": "ἄρα",
+      "slug": "ara",
+      "sections": [
+        {
+          "n": 2787,
+          "role": "primary"
+        },
+        {
+          "n": 2788,
+          "role": "primary"
+        },
+        {
+          "n": 2789,
+          "role": "primary"
+        },
+        {
+          "n": 2790,
+          "role": "primary"
+        },
+        {
+          "n": 2791,
+          "role": "primary"
+        },
+        {
+          "n": 2792,
+          "role": "primary"
+        },
+        {
+          "n": 2793,
+          "role": "primary"
+        },
+        {
+          "n": 2794,
+          "role": "primary"
+        },
+        {
+          "n": 2795,
+          "role": "primary"
+        },
+        {
+          "n": 2796,
+          "role": "primary"
+        },
+        {
+          "n": 2797,
+          "role": "primary"
+        },
+        {
+          "n": 2798,
+          "role": "primary"
+        },
+        {
+          "n": 2799,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ἆρα",
+      "slug": "ara-2",
+      "sections": [
+        {
+          "n": 2800,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ἀτάρ",
+      "slug": "atar",
+      "sections": [
+        {
+          "n": 2801,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "αὖ",
+      "slug": "au",
+      "sections": [
+        {
+          "n": 2802,
+          "role": "primary"
+        },
+        {
+          "n": 275,
+          "role": "mention"
+        },
+        {
+          "n": 276,
+          "role": "mention"
+        },
+        {
+          "n": 277,
+          "role": "mention"
+        },
+        {
+          "n": 278,
+          "role": "mention"
+        }
+      ]
+    },
+    {
+      "particle": "γάρ",
+      "slug": "gar",
+      "sections": [
+        {
+          "n": 2803,
+          "role": "primary"
+        },
+        {
+          "n": 2804,
+          "role": "primary"
+        },
+        {
+          "n": 2805,
+          "role": "primary"
+        },
+        {
+          "n": 2806,
+          "role": "primary"
+        },
+        {
+          "n": 2807,
+          "role": "primary"
+        },
+        {
+          "n": 2808,
+          "role": "primary"
+        },
+        {
+          "n": 2809,
+          "role": "primary"
+        },
+        {
+          "n": 2810,
+          "role": "primary"
+        },
+        {
+          "n": 2811,
+          "role": "primary"
+        },
+        {
+          "n": 2812,
+          "role": "primary"
+        },
+        {
+          "n": 2813,
+          "role": "primary"
+        },
+        {
+          "n": 2814,
+          "role": "primary"
+        },
+        {
+          "n": 2815,
+          "role": "primary"
+        },
+        {
+          "n": 2816,
+          "role": "primary"
+        },
+        {
+          "n": 2817,
+          "role": "primary"
+        },
+        {
+          "n": 2818,
+          "role": "primary"
+        },
+        {
+          "n": 2819,
+          "role": "primary"
+        },
+        {
+          "n": 2820,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "γέ",
+      "slug": "ge",
+      "sections": [
+        {
+          "n": 2821,
+          "role": "primary"
+        },
+        {
+          "n": 2822,
+          "role": "primary"
+        },
+        {
+          "n": 2823,
+          "role": "primary"
+        },
+        {
+          "n": 2824,
+          "role": "primary"
+        },
+        {
+          "n": 2825,
+          "role": "primary"
+        },
+        {
+          "n": 2826,
+          "role": "primary"
+        },
+        {
+          "n": 2827,
+          "role": "primary"
+        },
+        {
+          "n": 2828,
+          "role": "primary"
+        },
+        {
+          "n": 2829,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "γοῦν",
+      "slug": "goun",
+      "sections": [
+        {
+          "n": 2830,
+          "role": "primary"
+        },
+        {
+          "n": 2831,
+          "role": "primary"
+        },
+        {
+          "n": 2832,
+          "role": "primary"
+        },
+        {
+          "n": 2833,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "δαί",
+      "slug": "dai",
+      "sections": [
+        {
+          "n": 2848,
+          "role": "primary"
+        },
+        {
+          "n": 2849,
+          "role": "primary"
+        },
+        {
+          "n": 2850,
+          "role": "primary"
+        },
+        {
+          "n": 2851,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "δέ",
+      "slug": "de",
+      "sections": [
+        {
+          "n": 2834,
+          "role": "primary"
+        },
+        {
+          "n": 2835,
+          "role": "primary"
+        },
+        {
+          "n": 2836,
+          "role": "primary"
+        },
+        {
+          "n": 2837,
+          "role": "primary"
+        },
+        {
+          "n": 2838,
+          "role": "primary"
+        },
+        {
+          "n": 2839,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "δή",
+      "slug": "de-2",
+      "sections": [
+        {
+          "n": 2840,
+          "role": "primary"
+        },
+        {
+          "n": 2841,
+          "role": "primary"
+        },
+        {
+          "n": 2842,
+          "role": "primary"
+        },
+        {
+          "n": 2843,
+          "role": "primary"
+        },
+        {
+          "n": 2844,
+          "role": "primary"
+        },
+        {
+          "n": 2845,
+          "role": "primary"
+        },
+        {
+          "n": 2846,
+          "role": "primary"
+        },
+        {
+          "n": 2847,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "δῆθεν",
+      "slug": "dethen",
+      "sections": [
+        {
+          "n": 2848,
+          "role": "primary"
+        },
+        {
+          "n": 2849,
+          "role": "primary"
+        },
+        {
+          "n": 2850,
+          "role": "primary"
+        },
+        {
+          "n": 2851,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "δήπου",
+      "slug": "depou",
+      "sections": [
+        {
+          "n": 2848,
+          "role": "primary"
+        },
+        {
+          "n": 2849,
+          "role": "primary"
+        },
+        {
+          "n": 2850,
+          "role": "primary"
+        },
+        {
+          "n": 2851,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "δῆτα",
+      "slug": "deta",
+      "sections": [
+        {
+          "n": 2848,
+          "role": "primary"
+        },
+        {
+          "n": 2849,
+          "role": "primary"
+        },
+        {
+          "n": 2850,
+          "role": "primary"
+        },
+        {
+          "n": 2851,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "εἴτε",
+      "slug": "eite",
+      "sections": [
+        {
+          "n": 2852,
+          "role": "primary"
+        },
+        {
+          "n": 2853,
+          "role": "primary"
+        },
+        {
+          "n": 2854,
+          "role": "primary"
+        },
+        {
+          "n": 2855,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ἤ",
+      "slug": "e",
+      "sections": [
+        {
+          "n": 2856,
+          "role": "primary"
+        },
+        {
+          "n": 2857,
+          "role": "primary"
+        },
+        {
+          "n": 2858,
+          "role": "primary"
+        },
+        {
+          "n": 2859,
+          "role": "primary"
+        },
+        {
+          "n": 2860,
+          "role": "primary"
+        },
+        {
+          "n": 2861,
+          "role": "primary"
+        },
+        {
+          "n": 2862,
+          "role": "primary"
+        },
+        {
+          "n": 2863,
+          "role": "primary"
+        },
+        {
+          "n": 1100,
+          "role": "mention"
+        },
+        {
+          "n": 1101,
+          "role": "mention"
+        },
+        {
+          "n": 1102,
+          "role": "mention"
+        },
+        {
+          "n": 1103,
+          "role": "mention"
+        },
+        {
+          "n": 1104,
+          "role": "mention"
+        },
+        {
+          "n": 1105,
+          "role": "mention"
+        },
+        {
+          "n": 1106,
+          "role": "mention"
+        },
+        {
+          "n": 1107,
+          "role": "mention"
+        },
+        {
+          "n": 1108,
+          "role": "mention"
+        },
+        {
+          "n": 1109,
+          "role": "mention"
+        },
+        {
+          "n": 1110,
+          "role": "mention"
+        },
+        {
+          "n": 1111,
+          "role": "mention"
+        },
+        {
+          "n": 1112,
+          "role": "mention"
+        },
+        {
+          "n": 1113,
+          "role": "mention"
+        },
+        {
+          "n": 1114,
+          "role": "mention"
+        },
+        {
+          "n": 1115,
+          "role": "mention"
+        },
+        {
+          "n": 1116,
+          "role": "mention"
+        },
+        {
+          "n": 1117,
+          "role": "mention"
+        },
+        {
+          "n": 1118,
+          "role": "mention"
+        },
+        {
+          "n": 2458,
+          "role": "mention"
+        },
+        {
+          "n": 2459,
+          "role": "mention"
+        },
+        {
+          "n": 2460,
+          "role": "mention"
+        },
+        {
+          "n": 2461,
+          "role": "mention"
+        }
+      ]
+    },
+    {
+      "particle": "ἦ",
+      "slug": "e-2",
+      "sections": [
+        {
+          "n": 2864,
+          "role": "primary"
+        },
+        {
+          "n": 2865,
+          "role": "primary"
+        },
+        {
+          "n": 2866,
+          "role": "primary"
+        },
+        {
+          "n": 1100,
+          "role": "mention"
+        },
+        {
+          "n": 1101,
+          "role": "mention"
+        },
+        {
+          "n": 1102,
+          "role": "mention"
+        },
+        {
+          "n": 1103,
+          "role": "mention"
+        },
+        {
+          "n": 1104,
+          "role": "mention"
+        },
+        {
+          "n": 1105,
+          "role": "mention"
+        },
+        {
+          "n": 1106,
+          "role": "mention"
+        },
+        {
+          "n": 1107,
+          "role": "mention"
+        },
+        {
+          "n": 1108,
+          "role": "mention"
+        },
+        {
+          "n": 1109,
+          "role": "mention"
+        },
+        {
+          "n": 1110,
+          "role": "mention"
+        },
+        {
+          "n": 1111,
+          "role": "mention"
+        },
+        {
+          "n": 1112,
+          "role": "mention"
+        },
+        {
+          "n": 1113,
+          "role": "mention"
+        },
+        {
+          "n": 1114,
+          "role": "mention"
+        },
+        {
+          "n": 1115,
+          "role": "mention"
+        },
+        {
+          "n": 1116,
+          "role": "mention"
+        },
+        {
+          "n": 1117,
+          "role": "mention"
+        },
+        {
+          "n": 1118,
+          "role": "mention"
+        },
+        {
+          "n": 2458,
+          "role": "mention"
+        },
+        {
+          "n": 2459,
+          "role": "mention"
+        },
+        {
+          "n": 2460,
+          "role": "mention"
+        },
+        {
+          "n": 2461,
+          "role": "mention"
+        }
+      ]
+    },
+    {
+      "particle": "ἠδέ",
+      "slug": "ede",
+      "sections": [
+        {
+          "n": 2867,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ἰδε",
+      "slug": "ide",
+      "sections": [
+        {
+          "n": 2867,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "καί",
+      "slug": "kai",
+      "sections": [
+        {
+          "n": 2868,
+          "role": "primary"
+        },
+        {
+          "n": 2869,
+          "role": "primary"
+        },
+        {
+          "n": 2870,
+          "role": "primary"
+        },
+        {
+          "n": 2871,
+          "role": "primary"
+        },
+        {
+          "n": 2872,
+          "role": "primary"
+        },
+        {
+          "n": 2873,
+          "role": "primary"
+        },
+        {
+          "n": 2874,
+          "role": "primary"
+        },
+        {
+          "n": 2875,
+          "role": "primary"
+        },
+        {
+          "n": 2876,
+          "role": "primary"
+        },
+        {
+          "n": 2877,
+          "role": "primary"
+        },
+        {
+          "n": 2878,
+          "role": "primary"
+        },
+        {
+          "n": 2879,
+          "role": "primary"
+        },
+        {
+          "n": 2880,
+          "role": "primary"
+        },
+        {
+          "n": 2881,
+          "role": "primary"
+        },
+        {
+          "n": 2882,
+          "role": "primary"
+        },
+        {
+          "n": 2883,
+          "role": "primary"
+        },
+        {
+          "n": 2884,
+          "role": "primary"
+        },
+        {
+          "n": 2885,
+          "role": "primary"
+        },
+        {
+          "n": 2886,
+          "role": "primary"
+        },
+        {
+          "n": 2887,
+          "role": "primary"
+        },
+        {
+          "n": 2888,
+          "role": "primary"
+        },
+        {
+          "n": 2889,
+          "role": "primary"
+        },
+        {
+          "n": 2890,
+          "role": "primary"
+        },
+        {
+          "n": 2891,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "καίπερ",
+      "slug": "kaiper",
+      "sections": [
+        {
+          "n": 2892,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "καίτοι",
+      "slug": "kaitoi",
+      "sections": [
+        {
+          "n": 2893,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "μά",
+      "slug": "ma",
+      "sections": [
+        {
+          "n": 2894,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "μέν",
+      "slug": "men",
+      "sections": [
+        {
+          "n": 2895,
+          "role": "primary"
+        },
+        {
+          "n": 2896,
+          "role": "primary"
+        },
+        {
+          "n": 2897,
+          "role": "primary"
+        },
+        {
+          "n": 2898,
+          "role": "primary"
+        },
+        {
+          "n": 2899,
+          "role": "primary"
+        },
+        {
+          "n": 2900,
+          "role": "primary"
+        },
+        {
+          "n": 2901,
+          "role": "primary"
+        },
+        {
+          "n": 2902,
+          "role": "primary"
+        },
+        {
+          "n": 2903,
+          "role": "primary"
+        },
+        {
+          "n": 2904,
+          "role": "primary"
+        },
+        {
+          "n": 2905,
+          "role": "primary"
+        },
+        {
+          "n": 2906,
+          "role": "primary"
+        },
+        {
+          "n": 2907,
+          "role": "primary"
+        },
+        {
+          "n": 2908,
+          "role": "primary"
+        },
+        {
+          "n": 2909,
+          "role": "primary"
+        },
+        {
+          "n": 2910,
+          "role": "primary"
+        },
+        {
+          "n": 2911,
+          "role": "primary"
+        },
+        {
+          "n": 2912,
+          "role": "primary"
+        },
+        {
+          "n": 2913,
+          "role": "primary"
+        },
+        {
+          "n": 2914,
+          "role": "primary"
+        },
+        {
+          "n": 2915,
+          "role": "primary"
+        },
+        {
+          "n": 2916,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "μέντοι",
+      "slug": "mentoi",
+      "sections": [
+        {
+          "n": 2917,
+          "role": "primary"
+        },
+        {
+          "n": 2918,
+          "role": "primary"
+        },
+        {
+          "n": 2919,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "μηδέ",
+      "slug": "mede",
+      "sections": [
+        {
+          "n": 2930,
+          "role": "primary"
+        },
+        {
+          "n": 2931,
+          "role": "primary"
+        },
+        {
+          "n": 2932,
+          "role": "primary"
+        },
+        {
+          "n": 2933,
+          "role": "primary"
+        },
+        {
+          "n": 2934,
+          "role": "primary"
+        },
+        {
+          "n": 2935,
+          "role": "primary"
+        },
+        {
+          "n": 2936,
+          "role": "primary"
+        },
+        {
+          "n": 2937,
+          "role": "primary"
+        },
+        {
+          "n": 2938,
+          "role": "primary"
+        },
+        {
+          "n": 2939,
+          "role": "primary"
+        },
+        {
+          "n": 2940,
+          "role": "primary"
+        },
+        {
+          "n": 2941,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "μήν",
+      "slug": "men-2",
+      "sections": [
+        {
+          "n": 2920,
+          "role": "primary"
+        },
+        {
+          "n": 2921,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "μήτε",
+      "slug": "mete",
+      "sections": [
+        {
+          "n": 2930,
+          "role": "primary"
+        },
+        {
+          "n": 2931,
+          "role": "primary"
+        },
+        {
+          "n": 2932,
+          "role": "primary"
+        },
+        {
+          "n": 2933,
+          "role": "primary"
+        },
+        {
+          "n": 2934,
+          "role": "primary"
+        },
+        {
+          "n": 2935,
+          "role": "primary"
+        },
+        {
+          "n": 2936,
+          "role": "primary"
+        },
+        {
+          "n": 2937,
+          "role": "primary"
+        },
+        {
+          "n": 2938,
+          "role": "primary"
+        },
+        {
+          "n": 2939,
+          "role": "primary"
+        },
+        {
+          "n": 2940,
+          "role": "primary"
+        },
+        {
+          "n": 2941,
+          "role": "primary"
+        },
+        {
+          "n": 2942,
+          "role": "primary"
+        },
+        {
+          "n": 2943,
+          "role": "primary"
+        },
+        {
+          "n": 2944,
+          "role": "primary"
+        },
+        {
+          "n": 2945,
+          "role": "primary"
+        },
+        {
+          "n": 2946,
+          "role": "primary"
+        },
+        {
+          "n": 2947,
+          "role": "primary"
+        },
+        {
+          "n": 2948,
+          "role": "primary"
+        },
+        {
+          "n": 2949,
+          "role": "primary"
+        },
+        {
+          "n": 2950,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ναί",
+      "slug": "nai",
+      "sections": [
+        {
+          "n": 2922,
+          "role": "primary"
+        },
+        {
+          "n": 2923,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "νή",
+      "slug": "ne",
+      "sections": [
+        {
+          "n": 2922,
+          "role": "primary"
+        },
+        {
+          "n": 2923,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "νύ",
+      "slug": "nu",
+      "sections": [
+        {
+          "n": 2924,
+          "role": "primary"
+        },
+        {
+          "n": 2925,
+          "role": "primary"
+        },
+        {
+          "n": 2926,
+          "role": "primary"
+        },
+        {
+          "n": 2927,
+          "role": "primary"
+        },
+        {
+          "n": 2928,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "νύν",
+      "slug": "nun",
+      "sections": [
+        {
+          "n": 2924,
+          "role": "primary"
+        },
+        {
+          "n": 2925,
+          "role": "primary"
+        },
+        {
+          "n": 2926,
+          "role": "primary"
+        },
+        {
+          "n": 2927,
+          "role": "primary"
+        },
+        {
+          "n": 2928,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "νῡ́ν",
+      "slug": "nun-2",
+      "sections": [
+        {
+          "n": 2924,
+          "role": "primary"
+        },
+        {
+          "n": 2925,
+          "role": "primary"
+        },
+        {
+          "n": 2926,
+          "role": "primary"
+        },
+        {
+          "n": 2927,
+          "role": "primary"
+        },
+        {
+          "n": 2928,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "νῦν",
+      "slug": "nun-3",
+      "sections": [
+        {
+          "n": 2924,
+          "role": "primary"
+        },
+        {
+          "n": 2925,
+          "role": "primary"
+        },
+        {
+          "n": 2926,
+          "role": "primary"
+        },
+        {
+          "n": 2927,
+          "role": "primary"
+        },
+        {
+          "n": 2928,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "νῡνῑ́",
+      "slug": "nuni",
+      "sections": [
+        {
+          "n": 2924,
+          "role": "primary"
+        },
+        {
+          "n": 2925,
+          "role": "primary"
+        },
+        {
+          "n": 2926,
+          "role": "primary"
+        },
+        {
+          "n": 2927,
+          "role": "primary"
+        },
+        {
+          "n": 2928,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ὅπως",
+      "slug": "hopos",
+      "sections": [
+        {
+          "n": 2929,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "οὐδέ",
+      "slug": "oude",
+      "sections": [
+        {
+          "n": 2930,
+          "role": "primary"
+        },
+        {
+          "n": 2931,
+          "role": "primary"
+        },
+        {
+          "n": 2932,
+          "role": "primary"
+        },
+        {
+          "n": 2933,
+          "role": "primary"
+        },
+        {
+          "n": 2934,
+          "role": "primary"
+        },
+        {
+          "n": 2935,
+          "role": "primary"
+        },
+        {
+          "n": 2936,
+          "role": "primary"
+        },
+        {
+          "n": 2937,
+          "role": "primary"
+        },
+        {
+          "n": 2938,
+          "role": "primary"
+        },
+        {
+          "n": 2939,
+          "role": "primary"
+        },
+        {
+          "n": 2940,
+          "role": "primary"
+        },
+        {
+          "n": 2941,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "οὔκουν",
+      "slug": "oukoun",
+      "sections": [
+        {
+          "n": 2951,
+          "role": "primary"
+        },
+        {
+          "n": 2952,
+          "role": "primary"
+        },
+        {
+          "n": 2953,
+          "role": "primary"
+        },
+        {
+          "n": 2954,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "οὐκοῦν",
+      "slug": "oukoun-2",
+      "sections": [
+        {
+          "n": 2951,
+          "role": "primary"
+        },
+        {
+          "n": 2952,
+          "role": "primary"
+        },
+        {
+          "n": 2953,
+          "role": "primary"
+        },
+        {
+          "n": 2954,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "οὖν",
+      "slug": "oun",
+      "sections": [
+        {
+          "n": 2955,
+          "role": "primary"
+        },
+        {
+          "n": 2956,
+          "role": "primary"
+        },
+        {
+          "n": 2957,
+          "role": "primary"
+        },
+        {
+          "n": 2958,
+          "role": "primary"
+        },
+        {
+          "n": 2959,
+          "role": "primary"
+        },
+        {
+          "n": 2960,
+          "role": "primary"
+        },
+        {
+          "n": 2961,
+          "role": "primary"
+        },
+        {
+          "n": 2962,
+          "role": "primary"
+        },
+        {
+          "n": 2963,
+          "role": "primary"
+        },
+        {
+          "n": 2964,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "οὔτε",
+      "slug": "oute",
+      "sections": [
+        {
+          "n": 2930,
+          "role": "primary"
+        },
+        {
+          "n": 2931,
+          "role": "primary"
+        },
+        {
+          "n": 2932,
+          "role": "primary"
+        },
+        {
+          "n": 2933,
+          "role": "primary"
+        },
+        {
+          "n": 2934,
+          "role": "primary"
+        },
+        {
+          "n": 2935,
+          "role": "primary"
+        },
+        {
+          "n": 2936,
+          "role": "primary"
+        },
+        {
+          "n": 2937,
+          "role": "primary"
+        },
+        {
+          "n": 2938,
+          "role": "primary"
+        },
+        {
+          "n": 2939,
+          "role": "primary"
+        },
+        {
+          "n": 2940,
+          "role": "primary"
+        },
+        {
+          "n": 2941,
+          "role": "primary"
+        },
+        {
+          "n": 2942,
+          "role": "primary"
+        },
+        {
+          "n": 2943,
+          "role": "primary"
+        },
+        {
+          "n": 2944,
+          "role": "primary"
+        },
+        {
+          "n": 2945,
+          "role": "primary"
+        },
+        {
+          "n": 2946,
+          "role": "primary"
+        },
+        {
+          "n": 2947,
+          "role": "primary"
+        },
+        {
+          "n": 2948,
+          "role": "primary"
+        },
+        {
+          "n": 2949,
+          "role": "primary"
+        },
+        {
+          "n": 2950,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "πέρ",
+      "slug": "per",
+      "sections": [
+        {
+          "n": 2965,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "πλήν",
+      "slug": "plen",
+      "sections": [
+        {
+          "n": 2966,
+          "role": "primary"
+        },
+        {
+          "n": 2753,
+          "role": "mention"
+        }
+      ]
+    },
+    {
+      "particle": "τέ",
+      "slug": "te",
+      "sections": [
+        {
+          "n": 2967,
+          "role": "primary"
+        },
+        {
+          "n": 2968,
+          "role": "primary"
+        },
+        {
+          "n": 2969,
+          "role": "primary"
+        },
+        {
+          "n": 2970,
+          "role": "primary"
+        },
+        {
+          "n": 2971,
+          "role": "primary"
+        },
+        {
+          "n": 2972,
+          "role": "primary"
+        },
+        {
+          "n": 2973,
+          "role": "primary"
+        },
+        {
+          "n": 2974,
+          "role": "primary"
+        },
+        {
+          "n": 2975,
+          "role": "primary"
+        },
+        {
+          "n": 2976,
+          "role": "primary"
+        },
+        {
+          "n": 2977,
+          "role": "primary"
+        },
+        {
+          "n": 2978,
+          "role": "primary"
+        },
+        {
+          "n": 2979,
+          "role": "primary"
+        },
+        {
+          "n": 2980,
+          "role": "primary"
+        },
+        {
+          "n": 2981,
+          "role": "primary"
+        },
+        {
+          "n": 2982,
+          "role": "primary"
+        },
+        {
+          "n": 2983,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "τοί",
+      "slug": "toi",
+      "sections": [
+        {
+          "n": 2984,
+          "role": "primary"
+        },
+        {
+          "n": 2985,
+          "role": "primary"
+        },
+        {
+          "n": 2986,
+          "role": "primary"
+        },
+        {
+          "n": 2987,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "particle": "ὥς",
+      "slug": "hos",
+      "sections": [
+        {
+          "n": 2988,
+          "role": "primary"
+        },
+        {
+          "n": 2989,
+          "role": "primary"
+        },
+        {
+          "n": 2990,
+          "role": "primary"
+        },
+        {
+          "n": 2991,
+          "role": "primary"
+        },
+        {
+          "n": 2992,
+          "role": "primary"
+        },
+        {
+          "n": 2993,
+          "role": "primary"
+        },
+        {
+          "n": 2994,
+          "role": "primary"
+        },
+        {
+          "n": 2995,
+          "role": "primary"
+        },
+        {
+          "n": 2996,
+          "role": "primary"
+        },
+        {
+          "n": 2997,
+          "role": "primary"
+        },
+        {
+          "n": 2998,
+          "role": "primary"
+        },
+        {
+          "n": 2999,
+          "role": "primary"
+        },
+        {
+          "n": 3000,
+          "role": "primary"
+        },
+        {
+          "n": 3001,
+          "role": "primary"
+        },
+        {
+          "n": 3002,
+          "role": "primary"
+        },
+        {
+          "n": 3003,
+          "role": "primary"
+        },
+        {
+          "n": 2120,
+          "role": "mention"
+        },
+        {
+          "n": 2121,
+          "role": "mention"
+        },
+        {
+          "n": 2122,
+          "role": "mention"
+        },
+        {
+          "n": 2260,
+          "role": "mention"
+        },
+        {
+          "n": 2261,
+          "role": "mention"
+        },
+        {
+          "n": 2262,
+          "role": "mention"
+        },
+        {
+          "n": 2263,
+          "role": "mention"
+        },
+        {
+          "n": 2264,
+          "role": "mention"
+        },
+        {
+          "n": 2265,
+          "role": "mention"
+        },
+        {
+          "n": 2266,
+          "role": "mention"
+        },
+        {
+          "n": 2267,
+          "role": "mention"
+        },
+        {
+          "n": 2268,
+          "role": "mention"
+        },
+        {
+          "n": 2269,
+          "role": "mention"
+        },
+        {
+          "n": 2270,
+          "role": "mention"
+        },
+        {
+          "n": 2271,
+          "role": "mention"
+        },
+        {
+          "n": 2272,
+          "role": "mention"
+        },
+        {
+          "n": 2273,
+          "role": "mention"
+        },
+        {
+          "n": 2274,
+          "role": "mention"
+        },
+        {
+          "n": 2275,
+          "role": "mention"
+        },
+        {
+          "n": 2276,
+          "role": "mention"
+        },
+        {
+          "n": 2277,
+          "role": "mention"
+        },
+        {
+          "n": 2278,
+          "role": "mention"
+        },
+        {
+          "n": 2577,
+          "role": "mention"
+        },
+        {
+          "n": 2578,
+          "role": "mention"
+        },
+        {
+          "n": 2579,
+          "role": "mention"
+        },
+        {
+          "n": 2580,
+          "role": "mention"
+        },
+        {
+          "n": 2581,
+          "role": "mention"
+        },
+        {
+          "n": 2582,
+          "role": "mention"
+        },
+        {
+          "n": 2583,
+          "role": "mention"
+        },
+        {
+          "n": 2584,
+          "role": "mention"
+        },
+        {
+          "n": 2585,
+          "role": "mention"
+        },
+        {
+          "n": 2586,
+          "role": "mention"
+        },
+        {
+          "n": 2587,
+          "role": "mention"
+        },
+        {
+          "n": 2588,
+          "role": "mention"
+        },
+        {
+          "n": 2614,
+          "role": "mention"
+        },
+        {
+          "n": 2615,
+          "role": "mention"
+        }
+      ]
+    },
+    {
+      "particle": "ὡς",
+      "slug": "hos-2",
+      "sections": [
+        {
+          "n": 2988,
+          "role": "primary"
+        },
+        {
+          "n": 2989,
+          "role": "primary"
+        },
+        {
+          "n": 2990,
+          "role": "primary"
+        },
+        {
+          "n": 2991,
+          "role": "primary"
+        },
+        {
+          "n": 2992,
+          "role": "primary"
+        },
+        {
+          "n": 2993,
+          "role": "primary"
+        },
+        {
+          "n": 2994,
+          "role": "primary"
+        },
+        {
+          "n": 2995,
+          "role": "primary"
+        },
+        {
+          "n": 2996,
+          "role": "primary"
+        },
+        {
+          "n": 2997,
+          "role": "primary"
+        },
+        {
+          "n": 2998,
+          "role": "primary"
+        },
+        {
+          "n": 2999,
+          "role": "primary"
+        },
+        {
+          "n": 3000,
+          "role": "primary"
+        },
+        {
+          "n": 3001,
+          "role": "primary"
+        },
+        {
+          "n": 3002,
+          "role": "primary"
+        },
+        {
+          "n": 3003,
+          "role": "primary"
+        },
+        {
+          "n": 2120,
+          "role": "mention"
+        },
+        {
+          "n": 2121,
+          "role": "mention"
+        },
+        {
+          "n": 2122,
+          "role": "mention"
+        },
+        {
+          "n": 2260,
+          "role": "mention"
+        },
+        {
+          "n": 2261,
+          "role": "mention"
+        },
+        {
+          "n": 2262,
+          "role": "mention"
+        },
+        {
+          "n": 2263,
+          "role": "mention"
+        },
+        {
+          "n": 2264,
+          "role": "mention"
+        },
+        {
+          "n": 2265,
+          "role": "mention"
+        },
+        {
+          "n": 2266,
+          "role": "mention"
+        },
+        {
+          "n": 2267,
+          "role": "mention"
+        },
+        {
+          "n": 2268,
+          "role": "mention"
+        },
+        {
+          "n": 2269,
+          "role": "mention"
+        },
+        {
+          "n": 2270,
+          "role": "mention"
+        },
+        {
+          "n": 2271,
+          "role": "mention"
+        },
+        {
+          "n": 2272,
+          "role": "mention"
+        },
+        {
+          "n": 2273,
+          "role": "mention"
+        },
+        {
+          "n": 2274,
+          "role": "mention"
+        },
+        {
+          "n": 2275,
+          "role": "mention"
+        },
+        {
+          "n": 2276,
+          "role": "mention"
+        },
+        {
+          "n": 2277,
+          "role": "mention"
+        },
+        {
+          "n": 2278,
+          "role": "mention"
+        },
+        {
+          "n": 2577,
+          "role": "mention"
+        },
+        {
+          "n": 2578,
+          "role": "mention"
+        },
+        {
+          "n": 2579,
+          "role": "mention"
+        },
+        {
+          "n": 2580,
+          "role": "mention"
+        },
+        {
+          "n": 2581,
+          "role": "mention"
+        },
+        {
+          "n": 2582,
+          "role": "mention"
+        },
+        {
+          "n": 2583,
+          "role": "mention"
+        },
+        {
+          "n": 2584,
+          "role": "mention"
+        },
+        {
+          "n": 2585,
+          "role": "mention"
+        },
+        {
+          "n": 2586,
+          "role": "mention"
+        },
+        {
+          "n": 2587,
+          "role": "mention"
+        },
+        {
+          "n": 2588,
+          "role": "mention"
+        },
+        {
+          "n": 2614,
+          "role": "mention"
+        },
+        {
+          "n": 2615,
+          "role": "mention"
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "primarySource": "TOC subsection headings under Part IV > PARTICLES (SS2769-3003), plus the standalone 'THE PARTICLE ἄν' heading under Part IV > THE VERB: VOICES (SS1761-1768).",
+    "mentionSource": "Every other <head> in the source whose text contains the particle's unaccented letter-skeleton; its whole printed section range is recorded as 'mention'. There is no digitized Greek back-of-book index to draw mentions from instead (see SPEC-landmarks.md).",
+    "particleCount": 48,
+    "slugCollisions": [
+      {
+        "slug": "ara",
+        "particles": [
+          "ἄρα",
+          "ἆρα"
+        ]
+      },
+      {
+        "slug": "de",
+        "particles": [
+          "δέ",
+          "δή"
+        ]
+      },
+      {
+        "slug": "e",
+        "particles": [
+          "ἤ",
+          "ἦ"
+        ]
+      },
+      {
+        "slug": "men",
+        "particles": [
+          "μέν",
+          "μήν"
+        ]
+      },
+      {
+        "slug": "nun",
+        "particles": [
+          "νύν",
+          "νῡ́ν",
+          "νῦν"
+        ]
+      },
+      {
+        "slug": "oukoun",
+        "particles": [
+          "οὔκουν",
+          "οὐκοῦν"
+        ]
+      },
+      {
+        "slug": "hos",
+        "particles": [
+          "ὥς",
+          "ὡς"
+        ]
+      }
+    ],
+    "parseNotes": [
+      {
+        "head": "καίτοι<*>",
+        "notes": [
+          "source contains literal '<*>' artifact (stripped)"
+        ],
+        "forms": [
+          "καίτοι"
+        ]
+      }
+    ]
+  }
+}

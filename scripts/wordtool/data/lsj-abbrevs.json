@@ -1,0 +1,8747 @@
+{
+ "_source": "LSJ9 (1940) front matter, Authors and Works; text as digitized by Logeion (logeion.uchicago.edu/abbreviations/lsj), parsed 2026-08-20. LSJ is public domain.",
+ "authors": {
+  "1Enoch": [
+   {
+    "date": "ii/i B.C.",
+    "epithet": "Judaeus",
+    "name": "Enoch"
+   }
+  ],
+  "A.": [
+   {
+    "date": "vi/v B.C.",
+    "epithet": "Tragicus",
+    "name": "Aeschylus"
+   }
+  ],
+  "A.D.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Apollonius Dyscolus"
+   }
+  ],
+  "A.R.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicus",
+    "name": "Apollonius Rhodius"
+   }
+  ],
+  "AB": [
+   {
+    "date": "",
+    "epithet": "ed. I. Bekker, 3 vols., Berlin 1814-21.",
+    "name": "Anecdota Graeca"
+   }
+  ],
+  "Abyd.": [
+   {
+    "date": "ii A D. (?)",
+    "epithet": "Historicus",
+    "name": "Abydenus"
+   }
+  ],
+  "Acerat.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Aceratus"
+   }
+  ],
+  "Acesand.": [
+   {
+    "date": "iii or ii B.C.",
+    "epithet": "Historicus",
+    "name": "Acesander"
+   }
+  ],
+  "Ach.Tat.": [
+   {
+    "date": "iii A.D. (?)",
+    "epithet": "Astronomus",
+    "name": "Achilles Tatius"
+   },
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Scriptor Eroticus",
+    "name": "Achilles Tatius"
+   }
+  ],
+  "Achae.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Achaeus"
+   }
+  ],
+  "Act.Ap.": [
+   {
+    "date": "",
+    "epithet": "Ed. A. Souter, Oxford 1910.",
+    "name": "Novum Testamentum"
+   }
+  ],
+  "Acus.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Historicus",
+    "name": "Acusilaus"
+   }
+  ],
+  "Adam.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Physiognomonicus",
+    "name": "Adamantius"
+   }
+  ],
+  "Ael.": [
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "",
+    "name": "Aelianus"
+   }
+  ],
+  "Ael.Dion.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Aelius Dionysius"
+   }
+  ],
+  "Aemil.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Aemilianus"
+   }
+  ],
+  "Aen.Gaz.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Rhetor",
+    "name": "Aeneas Gazaeus"
+   }
+  ],
+  "Aen.Tact.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "",
+    "name": "Aeneas Tacticus"
+   }
+  ],
+  "Aesar.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Aesara"
+   }
+  ],
+  "Aesch.Alex.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Tragicus",
+    "name": "Aeschylus Alexandrinus"
+   }
+  ],
+  "Aeschin.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Orator",
+    "name": "Aeschines"
+   }
+  ],
+  "Aeschin.Socr.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Aeschines Socraticus"
+   }
+  ],
+  "Aesop.": [
+   {
+    "date": "",
+    "epithet": "Fabularum Scriptor",
+    "name": "Aesopus"
+   }
+  ],
+  "Afric.": [
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "Historicus",
+    "name": "Africanus, Julius"
+   }
+  ],
+  "Agaclyt.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Agaclytus"
+   }
+  ],
+  "Agath.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Historicus et Epigrammaticus",
+    "name": "Agathias"
+   }
+  ],
+  "Agatharch.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Geographus",
+    "name": "Agatharchides"
+   }
+  ],
+  "Agathem.": [
+   {
+    "date": "",
+    "epithet": "Geographus",
+    "name": "Agathemerus"
+   }
+  ],
+  "Agathin.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Agathinus"
+   }
+  ],
+  "Agathocl.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Agathocles"
+   }
+  ],
+  "Alb.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Albinus"
+   }
+  ],
+  "Alc.": [
+   {
+    "date": "vii/vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Alcaeus"
+   }
+  ],
+  "Alc.Com.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Alcaeus"
+   }
+  ],
+  "Alc.Mess.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Alcaeus Messenius"
+   }
+  ],
+  "Alcid.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Rhetor",
+    "name": "Alcidamas"
+   }
+  ],
+  "Alcin.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Alcinous"
+   }
+  ],
+  "Alciphr.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Epistolographus",
+    "name": "Alciphro"
+   }
+  ],
+  "Alcm.": [
+   {
+    "date": "vii B.C.",
+    "epithet": "Lyricus",
+    "name": "Alcman"
+   }
+  ],
+  "Alex.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Rhetor",
+    "name": "Alexander"
+   },
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Alexis"
+   }
+  ],
+  "Alex.Aet.": [
+   {
+    "date": "iii. B.C.",
+    "epithet": "Elegiacus",
+    "name": "Alexander Aetolus"
+   }
+  ],
+  "Alex.Aphr.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Philosophus",
+    "name": "Alexander Aphrodisiensis"
+   }
+  ],
+  "Alex.Eph.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epicus",
+    "name": "Alexander Ephesius"
+   }
+  ],
+  "Alex.Polyh.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Alexander Polyhistor"
+   }
+  ],
+  "Alex.Trall.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Medicus",
+    "name": "Alexander Trallianus"
+   }
+  ],
+  "Alexand.Com.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Alexander"
+   }
+  ],
+  "Alph.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Alpheus"
+   }
+  ],
+  "Alyp.": [
+   {
+    "date": "iii (iv ?) A.D.",
+    "epithet": "Musicus",
+    "name": "Alypius"
+   }
+  ],
+  "Amips.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Amipsias"
+   }
+  ],
+  "Amm.Marc.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Historicus",
+    "name": "Ammianus Marcellinus"
+   }
+  ],
+  "Ammian.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Ammianus"
+   }
+  ],
+  "Ammon.": [
+   {
+    "date": "v A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Ammonius"
+   },
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Ammonius"
+   },
+   {
+    "date": "v. A.D.",
+    "epithet": "Philosophus",
+    "name": "Ammonius"
+   }
+  ],
+  "An.Bachm.": [
+   {
+    "date": "",
+    "epithet": "e codd. MSS. Bibl. reg. Parisin., ed. L. Bachmann, Leipzig 1828-9.",
+    "name": "Anecdota Graeca"
+   }
+  ],
+  "An.Ox.": [
+   {
+    "date": "",
+    "epithet": "e codd. MSS. Bibl. Oxon., ed. J. A. Cramer, 4 vols., Oxford 1835-7.",
+    "name": "Anecdota Graeca"
+   }
+  ],
+  "An.Par.": [
+   {
+    "date": "",
+    "epithet": "e codd. MSS. Bibl. Reg. Parisiensis, ed. J. A. Cramer, 4 vols., Oxford 1839-41.",
+    "name": "Anecdota Graeca"
+   }
+  ],
+  "Anach.": [
+   {
+    "date": "i B.C. (?)",
+    "epithet": "Epistolographus",
+    "name": "Anacharsis"
+   }
+  ],
+  "Anacr.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Anacreon"
+   }
+  ],
+  "Anacreont.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Anacreontea"
+   }
+  ],
+  "Anan.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Ananius"
+   }
+  ],
+  "Anaxag.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Anaxagoras"
+   }
+  ],
+  "Anaxandr.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Anaxandrides"
+   }
+  ],
+  "Anaxandr.Hist.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Historicus",
+    "name": "Anaxandrides"
+   }
+  ],
+  "Anaxarch.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Anaxarchus"
+   }
+  ],
+  "Anaxil.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Anaxilas"
+   }
+  ],
+  "Anaximand.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Philosophus",
+    "name": "Anaximander"
+   }
+  ],
+  "Anaximand.Hist.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Anaximander"
+   }
+  ],
+  "Anaximen.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Philosophus",
+    "name": "Anaximenes"
+   }
+  ],
+  "Anaxipp.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Anaxippus"
+   }
+  ],
+  "And.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Orator",
+    "name": "Andocides"
+   }
+  ],
+  "Androm.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Poeta Medicus",
+    "name": "Andromachus"
+   }
+  ],
+  "Andronic.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Andronicus"
+   }
+  ],
+  "Andronic.Rhod.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Philosophus",
+    "name": "Andronicus Rhodius"
+   }
+  ],
+  "Androt.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Androtion"
+   }
+  ],
+  "Anecd.Stud.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Anecdota Graeca et Latina"
+   }
+  ],
+  "Anon.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Anonymus vel Anonymi"
+   }
+  ],
+  "Anon.Lond.": [
+   {
+    "date": "i A.D.",
+    "epithet": "",
+    "name": "Anonymus Londnensis"
+   }
+  ],
+  "Anon.Rhythm.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Anonymus Rhythmicus"
+   }
+  ],
+  "Anon.Vat.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Anonymus Vaticanus"
+   }
+  ],
+  "Ant.Diog.": [
+   {
+    "date": "i or ii A.D.",
+    "epithet": "Scriptor Eroticus",
+    "name": "Antonius Diogenes"
+   }
+  ],
+  "Ant.Lib.": [
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Mythographus",
+    "name": "Antoninus Liberalis"
+   }
+  ],
+  "Antag.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Elegiacus",
+    "name": "Antagoras"
+   }
+  ],
+  "Anthem.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Paradoxographus",
+    "name": "Anthemius"
+   }
+  ],
+  "Anticl.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Historicus",
+    "name": "Anticlides"
+   }
+  ],
+  "Antid.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Antidotus"
+   }
+  ],
+  "Antig.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Paradoxographus",
+    "name": "Antigonus Carystius"
+   }
+  ],
+  "Antig.Nic.": [
+   {
+    "date": "",
+    "epithet": "Astrologus",
+    "name": "Antigonus Nicaeanus"
+   }
+  ],
+  "Antim.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Elegiacuset Epicus",
+    "name": "Antimachus Colophonius"
+   }
+  ],
+  "Antioch.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Antiochus"
+   }
+  ],
+  "Antioch.Astr.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Astrologus",
+    "name": "Antiochus Atheniensis"
+   }
+  ],
+  "Antioch.Hist.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Historicus",
+    "name": "Antiochus"
+   }
+  ],
+  "Antip.Sid.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Antipater Sidonius"
+   }
+  ],
+  "Antip.Stoic.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Stoicus",
+    "name": "Antipater Tarsensis"
+   }
+  ],
+  "Antip.Thess.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Antipater Thessalonicensis"
+   }
+  ],
+  "Antiph.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Antiphanes"
+   }
+  ],
+  "Antiphan.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Antiphanes Macedo"
+   },
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Antiphanes Megalopolitanus"
+   }
+  ],
+  "Antiphil.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Antiphilus"
+   }
+  ],
+  "Antipho Soph.": [
+   {
+    "date": "v B.C.",
+    "epithet": "",
+    "name": "Antipho Sophista"
+   }
+  ],
+  "Antipho Trag.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Antipho"
+   }
+  ],
+  "Antist.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Antistius"
+   }
+  ],
+  "Antisth.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Rhetor",
+    "name": "Antisthenes"
+   }
+  ],
+  "Anton.Arg.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Antonius Argivus"
+   }
+  ],
+  "Antyll.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Medicus",
+    "name": "Antyllus"
+   }
+  ],
+  "Anub.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Poeta Astrologus",
+    "name": "Anubion"
+   }
+  ],
+  "Anyt.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Epigrammatica",
+    "name": "Anyte"
+   }
+  ],
+  "Ap.Ty.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epistolographus",
+    "name": "Apollonius Tyanensis"
+   }
+  ],
+  "Aphth.": [
+   {
+    "date": "iv/v A.D.",
+    "epithet": "Rhetor",
+    "name": "Aphthonius"
+   }
+  ],
+  "Apollinar.": [
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Apollinarius"
+   }
+  ],
+  "Apollod.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "Mythographus",
+    "name": "Apollodorus"
+   },
+   {
+    "date": "ii A.D.",
+    "epithet": "Mechanicus",
+    "name": "Apollodorus Damascenus"
+   }
+  ],
+  "Apollod.Car.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Apollodorus Carystius"
+   }
+  ],
+  "Apollod.Com.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Apollodorus"
+   }
+  ],
+  "Apollod.Gel.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Apollodorus Gelous"
+   }
+  ],
+  "Apollod.Lyr.": [
+   {
+    "date": "",
+    "epithet": "Lyricus",
+    "name": "Apollodorus"
+   }
+  ],
+  "Apollod.Stoic.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Stoicus",
+    "name": "Apollodorus Seleuciensis"
+   }
+  ],
+  "Apollon.": [
+   {
+    "date": "",
+    "epithet": "Biographus",
+    "name": "Apollonius"
+   },
+   {
+    "date": "ii B.C. (?)",
+    "epithet": "Paradoxographus",
+    "name": "Apollonius"
+   },
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Apollonius"
+   },
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Sophista",
+    "name": "Apollonius"
+   }
+  ],
+  "Apollon.Cit.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Medicus",
+    "name": "Apollonius Citiensis"
+   }
+  ],
+  "Apollon.Perg.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Geometra",
+    "name": "Apollonius Pergaeus"
+   }
+  ],
+  "Apollonid.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Apollonides"
+   }
+  ],
+  "Apollonid.Trag.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Apollonides"
+   }
+  ],
+  "Apolloph.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Apollophanes"
+   }
+  ],
+  "Apolloph.Stoic.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Stoicus",
+    "name": "Apollophanes"
+   }
+  ],
+  "Apostol.": [
+   {
+    "date": "xv A.D.",
+    "epithet": "Paroemiographus",
+    "name": "Apostolius"
+   }
+  ],
+  "App.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Historicus",
+    "name": "Appianus"
+   }
+  ],
+  "Aps.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Apsines"
+   }
+  ],
+  "Apul.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Scriptor Botanicus",
+    "name": "Apuleius"
+   }
+  ],
+  "Aq.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Interpres Veteris Testamenti",
+    "name": "Aquila"
+   }
+  ],
+  "Ar.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Aristophanes"
+   }
+  ],
+  "Ar.Byz.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Philosophus",
+    "name": "Aristophanes Byzantinus"
+   }
+  ],
+  "Ar.Did.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Doxographus",
+    "name": "Arius Didymus"
+   }
+  ],
+  "Arab.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Arabius"
+   }
+  ],
+  "Arar.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Araros"
+   }
+  ],
+  "Arat.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Epicus",
+    "name": "Aratus"
+   }
+  ],
+  "Arc.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Grammaticus",
+    "name": "Arcadius"
+   }
+  ],
+  "Arcesil.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Arcesilaus"
+   }
+  ],
+  "Arch.": [
+   {
+    "date": "i B.C.",
+    "epithet": "(unus vel plures) Epigrammaticus",
+    "name": "Archias"
+   }
+  ],
+  "Arch.Jun.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Archias Junior"
+   }
+  ],
+  "Arched.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Archedicus"
+   }
+  ],
+  "Arched.Stoic.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Stoicus",
+    "name": "Archedemus Tarsensis"
+   }
+  ],
+  "Archemach.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Archemachus"
+   }
+  ],
+  "Archestr.": [
+   {
+    "date": "iv B C.",
+    "epithet": "Epicus",
+    "name": "Archestratus"
+   }
+  ],
+  "Archig.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Medicus",
+    "name": "Archigenes"
+   }
+  ],
+  "Archil.": [
+   {
+    "date": "vii B.C.",
+    "epithet": "Lyricus",
+    "name": "Archilochus"
+   }
+  ],
+  "Archim.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Geometra",
+    "name": "Archimedes"
+   }
+  ],
+  "Archimel.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Archimelus"
+   }
+  ],
+  "Archipp.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Archippus"
+   }
+  ],
+  "Archyt.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Archytas Tarentinus"
+   }
+  ],
+  "Archyt.Amph.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicus",
+    "name": "Archytas Amphissensis"
+   }
+  ],
+  "Aret.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Medicus",
+    "name": "Aretaeus"
+   }
+  ],
+  "Arist.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Aristoteles"
+   }
+  ],
+  "Aristaenet.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Aristaenetus"
+   }
+  ],
+  "Aristag.": [
+   {
+    "date": "v B. C.",
+    "epithet": "Comicus",
+    "name": "Aristagoras"
+   }
+  ],
+  "Aristag.Hist.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Aristagoras"
+   }
+  ],
+  "Aristarch.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Grammaticus",
+    "name": "Aristarchus"
+   }
+  ],
+  "Aristarch.Sam.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Astronomus",
+    "name": "Aristarchus Samius"
+   }
+  ],
+  "Aristarch.Trag.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Aristarchus"
+   }
+  ],
+  "Aristeas Epic.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Epicus",
+    "name": "Aristeas"
+   }
+  ],
+  "Aristid.": [
+   {
+    "date": "129-189 A.D.",
+    "epithet": "Rhetor",
+    "name": "Aristides"
+   }
+  ],
+  "Aristid.Mil.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Aristides Milesius"
+   }
+  ],
+  "Aristid.Quint.": [
+   {
+    "date": "iii A.D. (?)",
+    "epithet": "Musicus",
+    "name": "Aristides Quintilianus"
+   }
+  ],
+  "Aristipp.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Aristippus"
+   }
+  ],
+  "AristoStoic.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Stoicus",
+    "name": "Aristo Chius"
+   }
+  ],
+  "Aristobul.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Aristobulus"
+   }
+  ],
+  "Aristocl.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Aristocles"
+   },
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Aristocles"
+   }
+  ],
+  "Aristocl.Hist.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Historicus",
+    "name": "Aristocles"
+   }
+  ],
+  "Aristodem.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Aristodemus"
+   }
+  ],
+  "Aristodic.": [
+   {
+    "date": "iii or ii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Aristodicus"
+   }
+  ],
+  "Aristomen.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Aristomenes"
+   }
+  ],
+  "Aristonym.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Aristonymus"
+   },
+   {
+    "date": "",
+    "epithet": "Gnomologus",
+    "name": "Aristonymus"
+   }
+  ],
+  "Aristoph.Boeot.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Aristophanes Boeotus"
+   }
+  ],
+  "Aristox.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Musicus",
+    "name": "Aristoxenus"
+   }
+  ],
+  "Arr.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Historicus",
+    "name": "Arrianus"
+   }
+  ],
+  "Artem.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Onirocriticus",
+    "name": "Artemidorus Daldianus"
+   }
+  ],
+  "Artemid.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Artemidorus Tarsensis"
+   }
+  ],
+  "Arus.Mess.": [
+   {
+    "date": "iv/v A.D.",
+    "epithet": "Grammaticus",
+    "name": "Arusianus Messius"
+   }
+  ],
+  "Ascens.Is.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Ascensio Isaiae"
+   }
+  ],
+  "Ascl.": [
+   {
+    "date": "i B C.",
+    "epithet": "Tacticus",
+    "name": "Asclepiodotus"
+   },
+   {
+    "date": "vi A.D.",
+    "epithet": "Philosophus",
+    "name": "Asclepius"
+   }
+  ],
+  "Asclep.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Asclepiades"
+   },
+   {
+    "date": "ii/i B.C.",
+    "epithet": "Medicus",
+    "name": "Asclepiades Prusensis"
+   }
+  ],
+  "Asclep.Jun.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Medicus",
+    "name": "Asclepiades Junior"
+   }
+  ],
+  "Asclep.Myrl.": [
+   {
+    "date": "ii/i B.C.",
+    "epithet": "Historicus",
+    "name": "Asclepiades Myrleanus"
+   }
+  ],
+  "Asclep.Tragil.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Asclepiades Tragilensis"
+   }
+  ],
+  "Asp.": [
+   {
+    "date": "ca. 110 A.D.",
+    "epithet": "Philosophus",
+    "name": "Aspasius"
+   }
+  ],
+  "Astramps.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Onirocriticus",
+    "name": "Astrampsychus"
+   }
+  ],
+  "Astyd.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Astydamas"
+   }
+  ],
+  "Ath.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Athenaeus"
+   },
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Athenaeus"
+   }
+  ],
+  "Ath.Mech.": [
+   {
+    "date": "",
+    "epithet": "Mechanicus",
+    "name": "Athenaeus"
+   }
+  ],
+  "Ath.Med.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Athenaeus"
+   }
+  ],
+  "Athenodor.Tars.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Athenodorus Tarsensis"
+   }
+  ],
+  "Atil.Fort.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Grammaticus Latinus",
+    "name": "Atilius Fortunatianus"
+   }
+  ],
+  "Attal.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Grammaticus",
+    "name": "Attalus"
+   }
+  ],
+  "Attic.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Atticus"
+   }
+  ],
+  "Aus.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Poeta Latinus",
+    "name": "Ausonius"
+   }
+  ],
+  "Autocr.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Autocrates"
+   }
+  ],
+  "Autol.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Astronomus",
+    "name": "Autolycus"
+   }
+  ],
+  "Autom.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Automedon"
+   }
+  ],
+  "Axionic.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Axionicus"
+   }
+  ],
+  "Axiop.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Poeta Ethicus",
+    "name": "Axiopistus"
+   }
+  ],
+  "Aët.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Medicus",
+    "name": "Aëtius"
+   }
+  ],
+  "B.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Lyricus",
+    "name": "Bacchylides"
+   }
+  ],
+  "Babr.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Fabularum Scriptor",
+    "name": "Babrius"
+   }
+  ],
+  "Bacch.": [
+   {
+    "date": "",
+    "epithet": "Musicus",
+    "name": "Bacchius"
+   }
+  ],
+  "Balbill.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Lyrica",
+    "name": "Balbilla"
+   }
+  ],
+  "Barb.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Barbucallos"
+   }
+  ],
+  "Bass.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Bassus, Lollius"
+   }
+  ],
+  "Bato Sinop.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Bato Sinopensis"
+   }
+  ],
+  "Batr.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Batrachomyomachia"
+   }
+  ],
+  "Beros.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Berosus"
+   }
+  ],
+  "Besant.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Besantinus"
+   }
+  ],
+  "Blaes.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Blaesus"
+   }
+  ],
+  "Boeth.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Boethus"
+   }
+  ],
+  "Boeth.Stoic.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Stoicus",
+    "name": "Boethus Sidonius"
+   }
+  ],
+  "Brut.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epistolographus",
+    "name": "Brutus"
+   }
+  ],
+  "Buther.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Butherus"
+   }
+  ],
+  "Cael.Aur.": [
+   {
+    "date": "V A.D.",
+    "epithet": "Medicus",
+    "name": "Caelius Aurelianus"
+   }
+  ],
+  "Call.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Callias"
+   },
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicus",
+    "name": "Callimachus"
+   }
+  ],
+  "Call.Com.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Callias"
+   }
+  ],
+  "Call.Hist.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Callias"
+   }
+  ],
+  "Callicrat.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Callicratidas"
+   }
+  ],
+  "Callin.": [
+   {
+    "date": "vii B.C.",
+    "epithet": "Epicus",
+    "name": "Callinus"
+   }
+  ],
+  "Callinic.Rh.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Rhetor",
+    "name": "Callinicus"
+   }
+  ],
+  "Callistr.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Sophista",
+    "name": "Callistratus"
+   }
+  ],
+  "Callistr.Hist.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Callistratus"
+   }
+  ],
+  "Callix.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Historicus",
+    "name": "Callixinus"
+   }
+  ],
+  "Canthar.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Cantharus"
+   }
+  ],
+  "Carc.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Carcinus"
+   }
+  ],
+  "Carm.Aur.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Carmen Aureum"
+   }
+  ],
+  "Carm.Pop.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Carmina Popularia"
+   }
+  ],
+  "Carneisc.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Philosophus",
+    "name": "Carneiscus"
+   }
+  ],
+  "Carph.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Carphyllides"
+   }
+  ],
+  "Caryst.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Carystius"
+   }
+  ],
+  "Cass.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Medicus",
+    "name": "Cassius"
+   }
+  ],
+  "Cass.Fel.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Medicus",
+    "name": "Cassius Felix"
+   }
+  ],
+  "Cat.Cod.Astr.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Catalogus Codicum Astrologorum"
+   }
+  ],
+  "Ceb.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Philosophus",
+    "name": "Cebes"
+   }
+  ],
+  "Cels.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Celsus"
+   },
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Celsus"
+   }
+  ],
+  "Cephisod.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Cephisodorus"
+   }
+  ],
+  "Cerc.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Iambographus",
+    "name": "Cercidas"
+   }
+  ],
+  "Cercop.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Cercopes"
+   }
+  ],
+  "Cereal.": [
+   {
+    "date": "i/ii A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Cerealius"
+   }
+  ],
+  "Certamen": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Certamen Homeri et Hesiodi"
+   }
+  ],
+  "Chaerem.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Chaeremon"
+   }
+  ],
+  "Chaerem.Hist.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Historicus",
+    "name": "Chaeremon"
+   }
+  ],
+  "Chamael.": [
+   {
+    "date": "",
+    "epithet": "Grammaticus",
+    "name": "Chamaeleon"
+   }
+  ],
+  "Chares Iamb.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Iambographus",
+    "name": "Chares"
+   }
+  ],
+  "Chares Trag.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Chares"
+   }
+  ],
+  "Chariclid.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Chariclides"
+   }
+  ],
+  "Charis.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Charisius"
+   }
+  ],
+  "Charixen.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Medicus",
+    "name": "Charixenes"
+   }
+  ],
+  "Charond.": [
+   {
+    "date": "(vii B.C.)",
+    "epithet": "Philosophus",
+    "name": "Charondas"
+   }
+  ],
+  "Chionid.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Chionides"
+   }
+  ],
+  "Choeril.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Epicus",
+    "name": "Choerilus"
+   }
+  ],
+  "Choeril.Trag.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Choerilus"
+   }
+  ],
+  "Choerob.": [
+   {
+    "date": "iv/v A.D.",
+    "epithet": "Grammaticus",
+    "name": "Choeroboscus"
+   }
+  ],
+  "Chor.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Rhetor",
+    "name": "Choricius"
+   }
+  ],
+  "Chrysipp. Tyan.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Rei Coquinariae Scriptor",
+    "name": "Chrysippus Tyanensis"
+   }
+  ],
+  "Chrysipp.Stoic.": [
+   {
+    "date": "281-208 B.C.",
+    "epithet": "Stoicus",
+    "name": "Chrysippus"
+   }
+  ],
+  "Cic.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Orator et Philosophus",
+    "name": "Cicero, M. Tullius"
+   }
+  ],
+  "Claud.Iol.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Claudius Iolaus"
+   }
+  ],
+  "Claudian.": [
+   {
+    "date": "iv/v A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Claudianus"
+   }
+  ],
+  "Cleaenet.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Cleaenetus"
+   }
+  ],
+  "Cleanth.Stoic.": [
+   {
+    "date": "331-233 B.C.",
+    "epithet": "Stoicus",
+    "name": "Cleanthes"
+   }
+  ],
+  "Clearch.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Clearchus"
+   }
+  ],
+  "Clearch.Com.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Clearchus"
+   }
+  ],
+  "Clem.Al.": [
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "Theologus",
+    "name": "Clemens Alexandrinus"
+   }
+  ],
+  "Cleobul.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Cleobulus"
+   }
+  ],
+  "Cleom.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Astronomus",
+    "name": "Cleomedes"
+   }
+  ],
+  "Cleon Sic.": [
+   {
+    "date": "",
+    "epithet": "Lyricus",
+    "name": "Cleon Siculus"
+   }
+  ],
+  "Cleonid.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Musicus",
+    "name": "Cleonides"
+   }
+  ],
+  "Cleostrat.": [
+   {
+    "date": "iv/iii B.C. (?)",
+    "epithet": "Poeta Philosophus",
+    "name": "Cleostratus"
+   }
+  ],
+  "Clidem. vel Clitodem.": [
+   {
+    "date": "iv B.C.",
+    "epithet": ") Historicus",
+    "name": "Clidemus (vel Clitodemus"
+   }
+  ],
+  "Clin.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Clinias"
+   }
+  ],
+  "Clitarch.": [
+   {
+    "date": "",
+    "epithet": "Gnomologus",
+    "name": "Clitarchus"
+   },
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Clitarchus"
+   }
+  ],
+  "Clitom.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Philosophus",
+    "name": "Clitomachus"
+   }
+  ],
+  "Cod.Just.": [
+   {
+    "date": "iv/vi A.D.",
+    "epithet": "",
+    "name": "Codex Justinianus"
+   }
+  ],
+  "Cod.Theod.": [
+   {
+    "date": "v A.D.",
+    "epithet": "",
+    "name": "Codex Theodosianus"
+   }
+  ],
+  "Colot.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Philosophus",
+    "name": "Colotes"
+   }
+  ],
+  "Coluth.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Epicus",
+    "name": "Coluthus"
+   }
+  ],
+  "Com.Adesp.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Comica Adespota"
+   }
+  ],
+  "Corinn.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyrica",
+    "name": "Corinna"
+   }
+  ],
+  "Corn.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Philosophus",
+    "name": "Cornutus"
+   }
+  ],
+  "Corn.Long.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Cornelius Longus"
+   }
+  ],
+  "Corp.Herm.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Corpus Hermeticum"
+   }
+  ],
+  "Crater.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Craterus"
+   }
+  ],
+  "Crates Com.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Crates"
+   }
+  ],
+  "Crates Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Crates"
+   }
+  ],
+  "Crates Theb.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Poeta Philosophus",
+    "name": "Crates Thebanus"
+   }
+  ],
+  "Cratin.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Cratinus"
+   }
+  ],
+  "Cratin.Jun.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Cratinus Junior"
+   }
+  ],
+  "Cratipp.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Historicus",
+    "name": "Cratippus"
+   }
+  ],
+  "Crin.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Crinagoras"
+   }
+  ],
+  "Critias": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus, Tragicus, Elegiacus",
+    "name": "Critias"
+   }
+  ],
+  "Crito Com.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Comicus",
+    "name": "Crito"
+   }
+  ],
+  "Crobyl.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Crobylus"
+   }
+  ],
+  "Ctes.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Historicus",
+    "name": "Ctesias"
+   }
+  ],
+  "Cyllen.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Cyllenius"
+   }
+  ],
+  "Cypr.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Cypria"
+   }
+  ],
+  "Cyr.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Cyrilli Glossarium"
+   }
+  ],
+  "Cyran.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Cyranus"
+   }
+  ],
+  "Cyrill.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Cyrillus"
+   }
+  ],
+  "D.": [
+   {
+    "date": "384-322 B.C.",
+    "epithet": "Orator",
+    "name": "Demosthenes"
+   }
+  ],
+  "D.C.": [
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "Historicus",
+    "name": "Dio Cassius"
+   }
+  ],
+  "D.Chr.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Sophista",
+    "name": "Dio Chrysostomus"
+   }
+  ],
+  "D.H.": [
+   {
+    "date": "i B.C.",
+    "epithet": "",
+    "name": "Dionysius Halicarnassensis"
+   }
+  ],
+  "D.L.": [
+   {
+    "date": "iii A.D. (?)",
+    "epithet": "",
+    "name": "Diogenes Laertius"
+   }
+  ],
+  "D.P.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Dionysius Periegeta"
+   }
+  ],
+  "D.S.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Diodorus Siculus"
+   }
+  ],
+  "D.T.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Grammaticus",
+    "name": "Dionysius Thrax"
+   }
+  ],
+  "Dam.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Philosophus",
+    "name": "Damascius"
+   }
+  ],
+  "Damag.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Damagetus"
+   }
+  ],
+  "Damian.": [
+   {
+    "date": "",
+    "epithet": "Opticus",
+    "name": "Damianus"
+   }
+  ],
+  "Damoch.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Damocharis"
+   }
+  ],
+  "Damocr.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Poeta Medicus",
+    "name": "Damocrates"
+   }
+  ],
+  "Damocrit.": [
+   {
+    "date": "i B.C. or i A.D. (?)",
+    "epithet": "Historicus",
+    "name": "Damocritus"
+   }
+  ],
+  "Damostr.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Damostratus"
+   }
+  ],
+  "Damox.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Damoxenus"
+   }
+  ],
+  "Deioch.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Deiochus"
+   }
+  ],
+  "Dem.Bith.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Epicus",
+    "name": "Demosthenes Bithynus"
+   }
+  ],
+  "Dem.Ophth.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Demosthenes Ophthalmicus"
+   }
+  ],
+  "Dem.Phal.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Demetrius Phalereus"
+   }
+  ],
+  "Demad.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Orator",
+    "name": "Demades"
+   }
+  ],
+  "Demetr.": [
+   {
+    "date": "",
+    "epithet": "Astrologus",
+    "name": "Demetrius"
+   },
+   {
+    "date": "iv B.C.",
+    "epithet": "Rhetor",
+    "name": "Demetrius Phalereus"
+   }
+  ],
+  "Demetr.Apam.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Demetrius Apamensis"
+   }
+  ],
+  "Demetr.Com.Nov.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus Novae Comoediae",
+    "name": "Demetrius"
+   }
+  ],
+  "Demetr.Com.Vet.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus Veteris Comoediae",
+    "name": "Demetrius"
+   }
+  ],
+  "Demetr.Lac.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Demetrius Lacon"
+   }
+  ],
+  "Demetr.Troez.": [
+   {
+    "date": "i B.C./i A.D. (?)",
+    "epithet": "Poeta Philosophus",
+    "name": "Demetrius Troezenius"
+   }
+  ],
+  "Democh.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Demochares"
+   }
+  ],
+  "Democr.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Democritus"
+   },
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Democritus"
+   }
+  ],
+  "Democr.Eph.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Democritus Ephesius"
+   }
+  ],
+  "Demod.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Demodocus"
+   }
+  ],
+  "Demonic.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Demonicus"
+   }
+  ],
+  "Demoph.": [
+   {
+    "date": "",
+    "epithet": "Gnomologus",
+    "name": "Demophilus"
+   }
+  ],
+  "Dercyl.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Dercylus"
+   }
+  ],
+  "Dexipp.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Historicus",
+    "name": "Dexippus"
+   },
+   {
+    "date": "iv A.D.",
+    "epithet": "Philosophus",
+    "name": "Dexippus"
+   }
+  ],
+  "Diagor.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Lyricus",
+    "name": "Diagoras"
+   }
+  ],
+  "Dialex.": [
+   {
+    "date": "ca. 400 B.C.",
+    "epithet": "",
+    "name": "Dialexeis"
+   }
+  ],
+  "Dicaearch.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Geographus",
+    "name": "Dicaearchus"
+   }
+  ],
+  "Dicaearch.Hist.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Dicaearchus"
+   }
+  ],
+  "Dicaeog.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Dicaeogenes"
+   }
+  ],
+  "Did.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Grammaticus",
+    "name": "Didymus"
+   }
+  ],
+  "Dieuch.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Dieuches"
+   }
+  ],
+  "Dieuchid.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Dieuchidas"
+   }
+  ],
+  "Dig.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Digesta"
+   }
+  ],
+  "Din.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Orator",
+    "name": "Dinarchus"
+   }
+  ],
+  "Dinol.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Dinolochus"
+   }
+  ],
+  "Diocl.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Diocles"
+   }
+  ],
+  "Diocl.Com.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Diocles"
+   }
+  ],
+  "Diocl.Fr.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Diocles"
+   }
+  ],
+  "Diod.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Diodorus"
+   }
+  ],
+  "Diod.Ath.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Periegeta",
+    "name": "Diodorus Atheniensis"
+   }
+  ],
+  "Diod.Com.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Diodorus"
+   }
+  ],
+  "Diod.Rh.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Diodorus"
+   }
+  ],
+  "Diod.Tars.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Diodorus Tarsensis"
+   }
+  ],
+  "Diog.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Diogenes Cynicus"
+   }
+  ],
+  "Diog.Apoll.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Diogenes Apolloniates"
+   }
+  ],
+  "Diog.Ath.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Diogenes Atheniensis"
+   }
+  ],
+  "Diog.Bab.Stoic.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Stoicus",
+    "name": "Diogenes Babylonius"
+   }
+  ],
+  "Diog.Oen.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Epicureus",
+    "name": "Diogenes Oenoandensis"
+   }
+  ],
+  "Diog.Sinop.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Diogenes Sinopensis"
+   }
+  ],
+  "Diogenian.": [
+   {
+    "date": "",
+    "epithet": "Paroemiographus",
+    "name": "Diogenianus"
+   }
+  ],
+  "Diogenian.Epicur.": [
+   {
+    "date": "ii B.C. (?)",
+    "epithet": "",
+    "name": "Diogenianus Epicureus"
+   }
+  ],
+  "Diom.": [
+   {
+    "date": "",
+    "epithet": "Grammaticus",
+    "name": "Diomedes"
+   }
+  ],
+  "Dion.Byz.": [
+   {
+    "date": "ii/iv A.D. (?)",
+    "epithet": "Geographus",
+    "name": "Dionysius Byzantius"
+   }
+  ],
+  "Dion.Calliph.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Geographus",
+    "name": "Dionysius Calliphontis filius"
+   }
+  ],
+  "Dionys.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Dionysius"
+   },
+   {
+    "date": "",
+    "epithet": "Rerum Naturalium Scriptor",
+    "name": "Dionysius"
+   }
+  ],
+  "Dionys.Com.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Dionysius"
+   }
+  ],
+  "Dionys.Eleg.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Elegiacus",
+    "name": "Dionysius Chalcus"
+   }
+  ],
+  "Dionys.Minor": [
+   {
+    "date": "",
+    "epithet": "Elegiacus",
+    "name": "Dionysius Minor"
+   }
+  ],
+  "Dionys.Sam.": [
+   {
+    "date": "ii B.C. (?)",
+    "epithet": "Historicus",
+    "name": "Dionysius Samius"
+   }
+  ],
+  "Dionys.Stoic.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Stoicus",
+    "name": "Dionysius Heracleota"
+   }
+  ],
+  "Dionys.Trag.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Dionysius"
+   }
+  ],
+  "Dioph.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Mathematicus",
+    "name": "Diophantus"
+   }
+  ],
+  "Diophan.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Diophanes"
+   }
+  ],
+  "Diosc.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Dioscorides"
+   }
+  ],
+  "Diosc.Gloss.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Dioscorides Glossator"
+   }
+  ],
+  "Diosc.Hist.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Dioscorides"
+   }
+  ],
+  "Diotim.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Diotimus"
+   }
+  ],
+  "Diotog.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Diotogenes"
+   }
+  ],
+  "Diox.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Dioxippus"
+   }
+  ],
+  "Diph.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Diphilus"
+   }
+  ],
+  "Diph.Siph.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Rerum Naturalium Scriptor",
+    "name": "Diphilus Siphnius"
+   }
+  ],
+  "Diyll.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Diyllus"
+   }
+  ],
+  "Donat.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Donatus, Aelius"
+   }
+  ],
+  "Doroth.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Astrologus",
+    "name": "Dorotheus"
+   }
+  ],
+  "Dosiad.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Dosiadas"
+   }
+  ],
+  "Dosiad.Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Dosiades"
+   }
+  ],
+  "Dosith.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Grammaticus Latinus",
+    "name": "Dositheus"
+   }
+  ],
+  "Dsc.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Dioscorides (Dioscurides)"
+   }
+  ],
+  "E.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Euripides"
+   }
+  ],
+  "EM": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Etymologicum Magnum"
+   }
+  ],
+  "Ecphant.": [
+   {
+    "date": "",
+    "epithet": "Pythagoreus",
+    "name": "Ecphantus"
+   }
+  ],
+  "Ecphantid.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Ecphantides"
+   }
+  ],
+  "Eleg.Alex.Adesp.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Elegiaca Alexandrina Adespota"
+   }
+  ],
+  "Emp.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Poeta Philosophus",
+    "name": "Empedocles"
+   }
+  ],
+  "Ephipp.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Ephippus"
+   }
+  ],
+  "Ephor.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Ephorus"
+   }
+  ],
+  "Epic.Alex.Adesp.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Epica Alexandrina Adespota"
+   }
+  ],
+  "Epich.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Epicharmus"
+   }
+  ],
+  "Epicr.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Epicrates"
+   }
+  ],
+  "Epict.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Epictetus"
+   }
+  ],
+  "Epicur.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Philosophus",
+    "name": "Epicurus"
+   }
+  ],
+  "Epig.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Epigenes"
+   },
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Epigonus"
+   }
+  ],
+  "Epil.": [
+   {
+    "date": "v/iv B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Epilycus"
+   }
+  ],
+  "Epimenid.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Philosophus",
+    "name": "Epimenides"
+   }
+  ],
+  "Epin.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Comicus",
+    "name": "Epinicus"
+   }
+  ],
+  "Epist.Charact.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Characteres Epistolici"
+   }
+  ],
+  "Erasistr.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Medicus",
+    "name": "Erasistratus"
+   }
+  ],
+  "Eratosth.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicus",
+    "name": "Eratosthenes"
+   },
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Eratosthenes Scholasticus"
+   }
+  ],
+  "Erinn.": [
+   {
+    "date": "",
+    "epithet": "Lyrica",
+    "name": "Erinna"
+   }
+  ],
+  "Eriph.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Eriphus"
+   }
+  ],
+  "Erot.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Grammaticus",
+    "name": "Erotianus"
+   }
+  ],
+  "Eryc.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Erycius"
+   }
+  ],
+  "Et.Gen.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Etymologicum Genuinum"
+   }
+  ],
+  "Et.Gud.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Etymologicum Gudianum"
+   }
+  ],
+  "Etrusc.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Etruscus"
+   }
+  ],
+  "Euang.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Euangelus"
+   }
+  ],
+  "Eub.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Eubulus"
+   }
+  ],
+  "Eubulid.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Eubulides"
+   }
+  ],
+  "Euc.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Geometra",
+    "name": "Euclides"
+   }
+  ],
+  "Eucrat.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Eucrates"
+   }
+  ],
+  "Eudem.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Eudemus"
+   }
+  ],
+  "Eudox.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Astronomus",
+    "name": "Eudoxus"
+   }
+  ],
+  "Eudox.Com.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Eudoxus"
+   }
+  ],
+  "Eumel.": [
+   {
+    "date": "viii B.C. (?)",
+    "epithet": "Epicus",
+    "name": "Eumelus"
+   }
+  ],
+  "Eun.": [
+   {
+    "date": "iv/v A.D.",
+    "epithet": "Historicus",
+    "name": "Eunapius"
+   }
+  ],
+  "Eunic.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Eunicus"
+   }
+  ],
+  "Euod.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Euodus"
+   }
+  ],
+  "Eup.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Eupolis"
+   }
+  ],
+  "Euph.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicus",
+    "name": "Euphorio"
+   }
+  ],
+  "Euphron.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Lyricus",
+    "name": "Euphronius"
+   }
+  ],
+  "Euryph.": [
+   {
+    "date": "",
+    "epithet": "Pythagoreus",
+    "name": "Euryphamus"
+   }
+  ],
+  "Eus.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Scriptor Ecclesiasticus",
+    "name": "Eusebius Caesariensis"
+   }
+  ],
+  "Eus.Hist.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Historicus",
+    "name": "Eusebius"
+   }
+  ],
+  "Eus.Mynd.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Eusebius Myndius"
+   }
+  ],
+  "Eust.": [
+   {
+    "date": "xii A.D.",
+    "epithet": "Episcopus Thessalonicensis",
+    "name": "Eustathius"
+   }
+  ],
+  "Eust.Epiph.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Historicus",
+    "name": "Eustathius Epiphaniensis"
+   }
+  ],
+  "Eustr.": [
+   {
+    "date": "xi/xii A.D.",
+    "epithet": "Philosophus",
+    "name": "Eustratius"
+   }
+  ],
+  "Euthycl.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Euthycles"
+   }
+  ],
+  "Eutoc.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Mathematicus",
+    "name": "Eutocius"
+   }
+  ],
+  "Eutolm.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Eutolmius"
+   }
+  ],
+  "Eutych.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Historicus",
+    "name": "Eutychianus"
+   }
+  ],
+  "Even.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Elegiacus",
+    "name": "Evenus"
+   }
+  ],
+  "Ezek.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Poeta Judaeus",
+    "name": "Ezekiel"
+   }
+  ],
+  "Favorin.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Historicus",
+    "name": "Favorinus"
+   },
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Favorinus"
+   }
+  ],
+  "Fest.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Festus"
+   }
+  ],
+  "Firm.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Astrologus",
+    "name": "Firmicus Maternus"
+   }
+  ],
+  "Fortunat.Rh.": [
+   {
+    "date": "iv A.D.(?)",
+    "epithet": "Rhetor",
+    "name": "Fortunatianus"
+   }
+  ],
+  "Gabriel.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Gabrielius"
+   }
+  ],
+  "Gaet.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Gaetulicus, Cn. Lentulus"
+   }
+  ],
+  "Gal.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Medicus",
+    "name": "Galenus"
+   }
+  ],
+  "Gaud.Harm.": [
+   {
+    "date": "",
+    "epithet": "Musicus",
+    "name": "Gaudentius"
+   }
+  ],
+  "Gell.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Gellius, Aulus"
+   }
+  ],
+  "Gem.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Astronomicus",
+    "name": "Geminus"
+   }
+  ],
+  "Germ.": [
+   {
+    "date": "i B.C./i A.D",
+    "epithet": "Epigrammaticus",
+    "name": "Germanicus Caesar"
+   }
+  ],
+  "Glauc.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Glaucus Atheniensis"
+   },
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Glaucus Nicopolitanus"
+   }
+  ],
+  "Gloss.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Glossaria"
+   }
+  ],
+  "Gorg.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Rhetor et Sophista",
+    "name": "Gorgias"
+   }
+  ],
+  "Gp.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Geoponica"
+   }
+  ],
+  "Greg.Cor.": [
+   {
+    "date": "xii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Gregorius Corinthius"
+   }
+  ],
+  "Greg.Cypr.": [
+   {
+    "date": "xiii A.D.",
+    "epithet": "Paroemiographus",
+    "name": "Gregorius Cyprius"
+   }
+  ],
+  "Hadr.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Hadrianus Imperator"
+   }
+  ],
+  "Hadr.Rh.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Rhetor",
+    "name": "Hadrianus"
+   }
+  ],
+  "Harmod.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Harmodius"
+   }
+  ],
+  "Harp.": [
+   {
+    "date": "i or ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Harpocratio"
+   }
+  ],
+  "Harp.Astr.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus et Astrologus",
+    "name": "Harpocratio"
+   }
+  ],
+  "Hdn.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Herodianus"
+   },
+   {
+    "date": "iii A.D.",
+    "epithet": "Historicus",
+    "name": "Herodianus"
+   },
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Herodianus"
+   }
+  ],
+  "Hdt.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Historicus",
+    "name": "Herodotus"
+   }
+  ],
+  "Hecat.": [
+   {
+    "date": "vi/v B.C.",
+    "epithet": "Historicus",
+    "name": "Hecataeus Milesius"
+   }
+  ],
+  "Hecat.Abd.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Hecataeus Abderita"
+   }
+  ],
+  "Hedyl.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Hedylus"
+   }
+  ],
+  "Hegem.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus et Parodus",
+    "name": "Hegemon"
+   }
+  ],
+  "Hegesand.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Hegesander"
+   }
+  ],
+  "Hegesian.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Epicus",
+    "name": "Hegesianax"
+   }
+  ],
+  "Hegesipp.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Hegesippus"
+   }
+  ],
+  "Hegesipp.Com.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Comicus",
+    "name": "Hegesippus"
+   }
+  ],
+  "Heliod.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Medicus",
+    "name": "Heliodorus"
+   },
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Heliodorus"
+   }
+  ],
+  "Heliod.Hist.": [
+   {
+    "date": "",
+    "epithet": "Periegeta",
+    "name": "Heliodorus"
+   }
+  ],
+  "Hell.Oxy.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Hellenica Oxyrhynchia"
+   }
+  ],
+  "Hellad.": [
+   {
+    "date": "ii A.D.(?)",
+    "epithet": "Epigrammaticus",
+    "name": "Helladius"
+   },
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Helladius"
+   }
+  ],
+  "Hellanic.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Historicus",
+    "name": "Hellanicus"
+   }
+  ],
+  "Hemerolog.Flor.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Hemerologium Florentinum"
+   }
+  ],
+  "Henioch.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Heniochus"
+   }
+  ],
+  "Heph.": [
+   {
+    "date": "",
+    "epithet": "Grammaticus",
+    "name": "Hephaestio"
+   }
+  ],
+  "Heph.Astr.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Astrologus",
+    "name": "Hephaestio"
+   }
+  ],
+  "Heracl.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Heraclas"
+   }
+  ],
+  "Heraclid.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Heraclides"
+   },
+   {
+    "date": "i B.C.",
+    "epithet": "Medicus",
+    "name": "Heraclides Tarentinus"
+   }
+  ],
+  "Heraclid.Com.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Heraclides"
+   }
+  ],
+  "Heraclid.Cum.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Heraclides Cumaeus"
+   }
+  ],
+  "Heraclid.Lemb.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Heraclides Lembus"
+   }
+  ],
+  "Heraclid.Pont.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Heraclides Ponticus"
+   }
+  ],
+  "Heraclid.Sinop.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Heraclides Sinopensis"
+   }
+  ],
+  "Heraclit.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "",
+    "name": "Heraclitus"
+   },
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Heraclitus"
+   },
+   {
+    "date": "",
+    "epithet": "Paradoxographus",
+    "name": "Heraclitus"
+   },
+   {
+    "date": "vi/v B.C.",
+    "epithet": "Philosophus",
+    "name": "Heraclitus"
+   }
+  ],
+  "Herill.Stoic.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Stoicus",
+    "name": "Herillus Carthaginiensis"
+   }
+  ],
+  "Herm.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Hermes Trismegistus"
+   },
+   {
+    "date": "v A.D.",
+    "epithet": "Philosophus",
+    "name": "Hermias Alexandrinus"
+   }
+  ],
+  "Herm.Hist.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Hermias"
+   }
+  ],
+  "Herm.Iamb.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Iambographus",
+    "name": "Hermias"
+   }
+  ],
+  "Hermesian.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Elegiacus",
+    "name": "Hermesianax"
+   }
+  ],
+  "Hermipp.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Hermippus"
+   }
+  ],
+  "Hermipp.Hist.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Historicus",
+    "name": "Hermippus"
+   }
+  ],
+  "Hermocl.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Lyricus",
+    "name": "Hermocles"
+   }
+  ],
+  "Hermocr.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Hermocreon"
+   }
+  ],
+  "Hermod.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Hermodorus"
+   }
+  ],
+  "Hermog.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Rhetor",
+    "name": "Hermogenes"
+   }
+  ],
+  "Herod.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Mimographus",
+    "name": "Herodas"
+   }
+  ],
+  "Herod.Med.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Herodotus"
+   }
+  ],
+  "Herodor.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Historicus",
+    "name": "Herodorus"
+   }
+  ],
+  "Herophil.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Medicus",
+    "name": "Herophilus"
+   }
+  ],
+  "Hes.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Hesiodus"
+   }
+  ],
+  "Hices.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Medicus",
+    "name": "Hicesius"
+   }
+  ],
+  "Hierocl.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Facetiarum Scriptor",
+    "name": "Hierocles"
+   },
+   {
+    "date": "v A.D.",
+    "epithet": "Philosophus",
+    "name": "Hierocles Platonicus"
+   },
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Hierocles Stoicus"
+   }
+  ],
+  "Hierocl.Hist.": [
+   {
+    "date": "iii A.D. (?)",
+    "epithet": "Historicus",
+    "name": "Hierocles"
+   }
+  ],
+  "Hieronym.Hist.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Hieronymus Cardianus"
+   }
+  ],
+  "Him.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Sophista",
+    "name": "Himerius"
+   }
+  ],
+  "Hipparch.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Astronomicus",
+    "name": "Hipparchus"
+   },
+   {
+    "date": "",
+    "epithet": "Philosophus Pythagoreus",
+    "name": "Hipparchus"
+   }
+  ],
+  "Hipparch.Com.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Hipparchus"
+   }
+  ],
+  "Hippias Erythr.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Hippias Erythraeus"
+   }
+  ],
+  "Hippiatr.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Hippiatrica"
+   }
+  ],
+  "Hippod.": [
+   {
+    "date": "",
+    "epithet": "Pythagoreus",
+    "name": "Hippodamus"
+   }
+  ],
+  "Hippol.": [
+   {
+    "date": "iii A. D.",
+    "epithet": "Scriptor Ecclesiasticus",
+    "name": "Hippolytus"
+   }
+  ],
+  "Hippon.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Iambographus",
+    "name": "Hipponax"
+   }
+  ],
+  "Hist.Aug.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Historiae Augustae Scriptores"
+   }
+  ],
+  "Hld.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Scriptor Eroticus",
+    "name": "Heliodorus"
+   }
+  ],
+  "Hom.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Homerus"
+   }
+  ],
+  "Honest.": [
+   {
+    "date": "i B.C. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Honestus"
+   }
+  ],
+  "Horap.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "",
+    "name": "Horapollo"
+   }
+  ],
+  "Hp.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Medicus",
+    "name": "Hippocrates"
+   }
+  ],
+  "Hsch.": [
+   {
+    "date": "v A.D. (?)",
+    "epithet": "Lexicographus",
+    "name": "Hesychius"
+   }
+  ],
+  "Hsch.Mil.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Historicus",
+    "name": "Hesychius Milesius"
+   }
+  ],
+  "Hymn.Curet.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "",
+    "name": "Hymnus Curetum"
+   }
+  ],
+  "Hymn.Id.Dact.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "",
+    "name": "Hymnus ad Idaeos Dactylos"
+   }
+  ],
+  "Hymn.Is.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Hymnus ad Isim"
+   }
+  ],
+  "Hymn.Mag.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Hymni Magici"
+   }
+  ],
+  "Hyp.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Orator",
+    "name": "Hyperides"
+   }
+  ],
+  "Hypsicl.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Astronomus",
+    "name": "Hypsicles"
+   }
+  ],
+  "Iamb.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Philosophus",
+    "name": "Iamblichus"
+   }
+  ],
+  "Iamb.Bab.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Scriptor Eroticus",
+    "name": "Iamblichus"
+   }
+  ],
+  "Ibyc.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Ibycus"
+   }
+  ],
+  "Il.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Ilias"
+   }
+  ],
+  "Il.Parv.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Ilias Parva"
+   }
+  ],
+  "Il.Pers.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Iliu Persis"
+   }
+  ],
+  "Iren.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Irenaeus"
+   }
+  ],
+  "Is.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Orator",
+    "name": "Isaeus"
+   }
+  ],
+  "Isid.": [
+   {
+    "date": "vi/vii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Isidorus Hispalensis"
+   },
+   {
+    "date": "vi A D.",
+    "epithet": "Epigrammaticus",
+    "name": "Isidorus Scholasticus"
+   }
+  ],
+  "Isid.Aeg.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Isidorus Aegeates"
+   }
+  ],
+  "Isid.Char.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Geographus",
+    "name": "Isidorus Characenus"
+   }
+  ],
+  "Isid.Trag.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Isidorus"
+   }
+  ],
+  "Isig.": [
+   {
+    "date": "ii/i B.C. (?)",
+    "epithet": "Paradoxographus",
+    "name": "Isigonus"
+   }
+  ],
+  "Isoc.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Orator",
+    "name": "Isocrates"
+   }
+  ],
+  "Isyll.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Lyricus",
+    "name": "Isyllus"
+   }
+  ],
+  "J.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Historicus",
+    "name": "Josephus"
+   }
+  ],
+  "Jo.Alex. vel Jo.Gramm.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Grammaticus",
+    "name": "Joannes Alexandrinus"
+   }
+  ],
+  "Jo.Diac.": [
+   {
+    "date": "",
+    "epithet": "Grammaticus",
+    "name": "Joannes Diaconus"
+   }
+  ],
+  "Jo.Gaz.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "",
+    "name": "Joannes Gazaeus"
+   }
+  ],
+  "Jul.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "",
+    "name": "Julianus Imperator"
+   }
+  ],
+  "Jul. vel Jul.Aegypt.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Julianus Aegyptius"
+   }
+  ],
+  "Jul.Laod.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Astrologus",
+    "name": "Julianus Laodicensis"
+   }
+  ],
+  "Junc.": [
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Philosophus",
+    "name": "Juncus"
+   }
+  ],
+  "Just.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Imperator",
+    "name": "Justinianus"
+   }
+  ],
+  "Juv.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Poeta Latinus",
+    "name": "Juvenalis, D. Junius"
+   }
+  ],
+  "LXX": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Vetus Testamentum Graece redditum"
+   }
+  ],
+  "Lamprocl.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Lyricus",
+    "name": "Lamprocles"
+   }
+  ],
+  "Leo Phil.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Leo Philosophus"
+   }
+  ],
+  "Leon.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Leonidas"
+   },
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Leonidas Alexandrinus"
+   }
+  ],
+  "Leonid.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Medicus",
+    "name": "Leonidas"
+   }
+  ],
+  "Leont.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Leontius"
+   }
+  ],
+  "Leont. in Arat.": [
+   {
+    "date": "vii A.D.",
+    "epithet": "Mathematicus",
+    "name": "Leontius"
+   }
+  ],
+  "Lesb.Gramm.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Lesbonax"
+   }
+  ],
+  "Lesb.Rh.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Rhetor",
+    "name": "Lesbonax"
+   }
+  ],
+  "Leucipp.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Leucippus"
+   }
+  ],
+  "Lex. de Spir.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lexicon de Spiritu"
+   }
+  ],
+  "Lex.Mess.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lexicon Messanense"
+   }
+  ],
+  "Lex.Rhet.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lexicon Rhetoricum"
+   }
+  ],
+  "Lex.Rhet.Cant.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lexicon Rhetoricum Cantabrigiense"
+   }
+  ],
+  "Lex.Sabb.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lexicon Sabbaiticum"
+   }
+  ],
+  "Lex.Vind.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lexicon Vindobonense"
+   }
+  ],
+  "Lib.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Sophista",
+    "name": "Libanius"
+   }
+  ],
+  "Licymn.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Lyricus",
+    "name": "Licymnius"
+   }
+  ],
+  "Limen.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Lyricus",
+    "name": "Limenius"
+   }
+  ],
+  "Loll.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Lollius Bassus"
+   }
+  ],
+  "Longin.": [
+   {
+    "date": "(iii A.D.)",
+    "epithet": "Rhetor",
+    "name": "Longinus"
+   }
+  ],
+  "Luc.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lucianus"
+   }
+  ],
+  "Lucill.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Lucillius"
+   }
+  ],
+  "Lyc.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Tragicus",
+    "name": "Lycophron"
+   }
+  ],
+  "Lycophronid.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Lyricus",
+    "name": "Lycophronides"
+   }
+  ],
+  "Lycurg.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Orator",
+    "name": "Lycurgus"
+   }
+  ],
+  "Lyd.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Historicus",
+    "name": "Lydus, Joannes Laurentius"
+   }
+  ],
+  "Lync.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Lynceus"
+   }
+  ],
+  "Lyr.Adesp.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lyrica Adespota"
+   }
+  ],
+  "Lyr.Alex.Adesp.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Lyrica Alexandrina Adespota"
+   }
+  ],
+  "Lys.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Orator",
+    "name": "Lysias"
+   }
+  ],
+  "Lysim.": [
+   {
+    "date": "ii or i B.C.",
+    "epithet": "Historicus",
+    "name": "Lysimachus"
+   }
+  ],
+  "Lysimachid.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Lysimachides"
+   }
+  ],
+  "Lysipp.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Lysippus"
+   }
+  ],
+  "M.Ant.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Imperator",
+    "name": "Marcus Antoninus"
+   }
+  ],
+  "Macar.": [
+   {
+    "date": "xv A.D.",
+    "epithet": "Paroemiographus",
+    "name": "Macarius"
+   }
+  ],
+  "Maced.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Macedonius"
+   },
+   {
+    "date": "",
+    "epithet": "Lyricus",
+    "name": "Macedonius"
+   },
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Macedonius Thessalonicensis"
+   }
+  ],
+  "Macr.": [
+   {
+    "date": "iv/v A.D.",
+    "epithet": "Grammaticus",
+    "name": "Macrobius"
+   }
+  ],
+  "Maec.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Maecius"
+   }
+  ],
+  "Magn.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Magnes"
+   }
+  ],
+  "Magnus Hist.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Historicus",
+    "name": "Magnus"
+   }
+  ],
+  "Maiist.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicus",
+    "name": "Maiistas"
+   }
+  ],
+  "Malch.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Historicus",
+    "name": "Malchus"
+   }
+  ],
+  "Mamerc.": [
+   {
+    "date": "",
+    "epithet": "Elegiacus",
+    "name": "Mamercus"
+   }
+  ],
+  "Man.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Astrologus",
+    "name": "Manetho"
+   }
+  ],
+  "Man.Hist.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Manetho"
+   }
+  ],
+  "Mantiss.Prov.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Mantissa Proverbiorum"
+   }
+  ],
+  "Mar.Vict.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Marius Victorinus"
+   }
+  ],
+  "Marc.Arg.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Marcus Argentarius"
+   }
+  ],
+  "Marc.Sid.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Poeta Medicus",
+    "name": "Marcellus Sidetes"
+   }
+  ],
+  "Marcellin.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Biographus",
+    "name": "Marcellinus"
+   },
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Medicus",
+    "name": "Marcellinus"
+   }
+  ],
+  "Marcian.": [
+   {
+    "date": "iv/v A.D.",
+    "epithet": "Geographus",
+    "name": "Marcianus"
+   }
+  ],
+  "Maria Alch.": [
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Alchemista",
+    "name": "Maria"
+   }
+  ],
+  "Marian.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Marianus"
+   }
+  ],
+  "Marin.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Biographus",
+    "name": "Marinus"
+   }
+  ],
+  "Mart.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus Latinus",
+    "name": "Martialis"
+   }
+  ],
+  "Mart.Cap.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Martianus Capella"
+   }
+  ],
+  "Max.": [
+   {
+    "date": "i B.C. (?)",
+    "epithet": "Astrologus",
+    "name": "Maximus"
+   }
+  ],
+  "Max.Tyr.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Sophista",
+    "name": "Maximus Tyrius"
+   }
+  ],
+  "Megasth.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Megasthenes"
+   }
+  ],
+  "Mel.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Meleager"
+   }
+  ],
+  "Melamp.": [
+   {
+    "date": "",
+    "epithet": "Scriptor de divinatione",
+    "name": "Melampus"
+   }
+  ],
+  "Melanipp.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Lyricus",
+    "name": "Melanippides"
+   }
+  ],
+  "Melanth.Hist.": [
+   {
+    "date": "iv B",
+    "epithet": "Historicus",
+    "name": "Melanthius"
+   }
+  ],
+  "Melanth.Trag.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Melanthius"
+   }
+  ],
+  "Meliss.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Melissus"
+   }
+  ],
+  "Memn.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Historicus",
+    "name": "Memnon"
+   }
+  ],
+  "Men.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Menander"
+   }
+  ],
+  "Men.Eph.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Menander Ephesius"
+   }
+  ],
+  "Men.Prot.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Historicus",
+    "name": "Menander Protector"
+   }
+  ],
+  "Men.Rh.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Rhetor",
+    "name": "Menander"
+   }
+  ],
+  "Menaechm.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Menaechmus"
+   }
+  ],
+  "Menecl.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Menecles Barcaeus"
+   }
+  ],
+  "Menecr.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Menecrates"
+   }
+  ],
+  "Menecr.Eph.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Poeta Philosophus",
+    "name": "Menecrates Ephesius"
+   }
+  ],
+  "Menecr.Xanth.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Menecrates Xanthius"
+   }
+  ],
+  "Menemach.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Menemachus"
+   }
+  ],
+  "Menesth.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Menesthenes"
+   }
+  ],
+  "Menipp.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epistolographus",
+    "name": "Menippus"
+   }
+  ],
+  "Menodot.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Historicus",
+    "name": "Menodotus Samius"
+   }
+  ],
+  "Mesom.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Lyricus",
+    "name": "Mesomedes"
+   }
+  ],
+  "Metag.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Metagenes"
+   }
+  ],
+  "Metrod.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Metrodorus"
+   },
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Philosophus",
+    "name": "Metrodorus"
+   }
+  ],
+  "Metrod.Chius": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Metrodorus Chius"
+   }
+  ],
+  "Metrod.Sceps.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Metrodorus Scepsius"
+   }
+  ],
+  "Mich.": [
+   {
+    "date": "xi/xii A.D.",
+    "epithet": "Philosophus",
+    "name": "Michael Ephesius"
+   }
+  ],
+  "Mimn.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Mimnermus"
+   }
+  ],
+  "Mimn.Trag.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Mimnermus"
+   }
+  ],
+  "Minuc.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Rhetor",
+    "name": "Minucianus"
+   }
+  ],
+  "Mithr.": [
+   {
+    "date": "(i B.C.)",
+    "epithet": "Epistolographus",
+    "name": "Mithradates"
+   }
+  ],
+  "Mnasalc.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Mnasalcas"
+   }
+  ],
+  "Mnesim.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Mnesimachus"
+   }
+  ],
+  "Mnesith.Ath.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Medicus",
+    "name": "Mnesitheus Atheniensis"
+   }
+  ],
+  "Mnesith.Cyz.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Mnesitheus Cyzicenus"
+   }
+  ],
+  "Moer.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Moeris"
+   }
+  ],
+  "Mosch.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Bucolicus",
+    "name": "Moschus"
+   }
+  ],
+  "MoschioTrag.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Moschio"
+   }
+  ],
+  "Muc.Scaev.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Mucius Scaevola"
+   }
+  ],
+  "Mund.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Mundus Munatius"
+   }
+  ],
+  "Musae.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Epicus",
+    "name": "Musaeus"
+   },
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Musaeus"
+   }
+  ],
+  "Music.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Musicius"
+   }
+  ],
+  "Muson.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Philosophus",
+    "name": "Musonius"
+   }
+  ],
+  "Myrin.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Myrinus"
+   }
+  ],
+  "Myrsil.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Myrsilus"
+   }
+  ],
+  "Myrtil.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Myrtilus"
+   }
+  ],
+  "Naumach.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Epicus",
+    "name": "Naumachius"
+   }
+  ],
+  "Nausicr.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Nausicrates"
+   }
+  ],
+  "Nausiph.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Philosophus",
+    "name": "Nausiphanes"
+   }
+  ],
+  "Neanth.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Neanthes"
+   }
+  ],
+  "Nearch.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Nearchus"
+   }
+  ],
+  "Nech.": [
+   {
+    "date": "ii B.C. (?)",
+    "epithet": "Astrologus",
+    "name": "Nechepso"
+   }
+  ],
+  "Neophr.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Neophron"
+   }
+  ],
+  "Neoptol.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Epicus",
+    "name": "Neoptolemus"
+   }
+  ],
+  "Nic.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Epicus",
+    "name": "Nicander"
+   },
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Nicias"
+   }
+  ],
+  "Nic.Dam.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Nicolaus Damascenus"
+   }
+  ],
+  "Nicaenet.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Epicus",
+    "name": "Nicaenetus"
+   }
+  ],
+  "Nicarch.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Nicarchus"
+   }
+  ],
+  "Nicoch.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Nicochares"
+   }
+  ],
+  "Nicocl.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Nicocles"
+   }
+  ],
+  "Nicod.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Nicodemus"
+   }
+  ],
+  "Nicol.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Nicolaus"
+   }
+  ],
+  "Nicol.Com.": [
+   {
+    "date": "iv B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Nicolaus"
+   }
+  ],
+  "Nicom.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Mathematicus",
+    "name": "Nicomachus Gerasenus"
+   }
+  ],
+  "Nicom.Com.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Nicomachus"
+   }
+  ],
+  "Nicom.Trag.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Nicomachus"
+   }
+  ],
+  "Nicostr.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Nicostratus"
+   }
+  ],
+  "Nicostr.Com.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Nicostratus"
+   }
+  ],
+  "Nonn.": [
+   {
+    "date": "iv/v A.D. (?)",
+    "epithet": "Epicus",
+    "name": "Nonnus"
+   }
+  ],
+  "Noss.": [
+   {
+    "date": "iii B C. (?)",
+    "epithet": "Epigrammatica",
+    "name": "Nossis"
+   }
+  ],
+  "Numen.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Platonicus",
+    "name": "Numenius Apamensis"
+   },
+   {
+    "date": "iii B.C.",
+    "epithet": "Poeta Didacticus",
+    "name": "Numenius Heracleota"
+   }
+  ],
+  "Nymphod.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Nymphodorus"
+   }
+  ],
+  "Ocell.": [
+   {
+    "date": "i B.C. (?)",
+    "epithet": "Philosophus",
+    "name": "Ocellus Lucanus"
+   }
+  ],
+  "Od.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Odyssea"
+   }
+  ],
+  "Oenom.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Oenomaus"
+   }
+  ],
+  "Olymp.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Philosophus",
+    "name": "Olympiodorus"
+   }
+  ],
+  "Olymp.Alch.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Alchemista",
+    "name": "Olympiodorus"
+   }
+  ],
+  "Olymp.Hist.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Historicus",
+    "name": "Olympiodorus"
+   }
+  ],
+  "Onat.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Onatas"
+   }
+  ],
+  "Onos.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Tacticus",
+    "name": "Onosander (Onasander)"
+   }
+  ],
+  "Ophel.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Ophelio"
+   }
+  ],
+  "Opp.": [
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "Epicus",
+    "name": "Oppianus Anazarbensis"
+   },
+   {
+    "date": "iii A.D.",
+    "epithet": "Epicus",
+    "name": "Oppianus Apamensis"
+   }
+  ],
+  "Orac.Chald.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Oracula Chaldaica"
+   }
+  ],
+  "Orib.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Medicus",
+    "name": "Oribasius"
+   }
+  ],
+  "Orph.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Orphica"
+   }
+  ],
+  "Pae.Delph.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "",
+    "name": "Paean Delphicus"
+   }
+  ],
+  "Pae.Erythr.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "",
+    "name": "Paean Erythraeus"
+   }
+  ],
+  "Palaeph.": [
+   {
+    "date": "",
+    "epithet": "Paradoxographus",
+    "name": "Palaephatus"
+   }
+  ],
+  "Palch.": [
+   {
+    "date": "v or vi A.D.",
+    "epithet": "Astrologus",
+    "name": "Palchus"
+   }
+  ],
+  "Pall.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Palladas"
+   },
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Palladius"
+   }
+  ],
+  "Pamphil.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Pamphilus"
+   },
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Pamphilus"
+   }
+  ],
+  "Pancrat.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Epicus",
+    "name": "Pancrates"
+   },
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Pancrates"
+   }
+  ],
+  "Panyas.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Panyasis"
+   }
+  ],
+  "Papp.": [
+   {
+    "date": "iii A.D. (?)",
+    "epithet": "Mathematicus",
+    "name": "Pappus"
+   }
+  ],
+  "Parm.": [
+   {
+    "date": "vi/v B.C.",
+    "epithet": "Poeta Philosophus",
+    "name": "Parmenides"
+   }
+  ],
+  "Parmen.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Parmenio"
+   }
+  ],
+  "Parrhas.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Elegiacus",
+    "name": "Parrhasius"
+   }
+  ],
+  "Parth.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Mythographus",
+    "name": "Parthenius"
+   }
+  ],
+  "Patrocl.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Patrocles Thurius"
+   }
+  ],
+  "Paul.Aeg.": [
+   {
+    "date": "vii A.D.",
+    "epithet": "Medicus",
+    "name": "Paulus Aegineta"
+   }
+  ],
+  "Paul.Al.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Astrologus",
+    "name": "Paulus Alexandrinus"
+   }
+  ],
+  "Paul.Sil.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Paulus Silentiarius"
+   }
+  ],
+  "Paus.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Periegeta",
+    "name": "Pausanias"
+   }
+  ],
+  "Paus.Dam.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Historicus",
+    "name": "Pausanias Damascenus"
+   }
+  ],
+  "Paus.Gr.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Pausanias Grammaticus"
+   }
+  ],
+  "Pediasim.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Pediasimus"
+   }
+  ],
+  "Pelag.Alch.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Alchemista",
+    "name": "Pelagius"
+   }
+  ],
+  "Pempel.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Pempelus"
+   }
+  ],
+  "Perict.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Perictione"
+   }
+  ],
+  "Peripl.M.Rubr.": [
+   {
+    "date": "i A.D.",
+    "epithet": "",
+    "name": "Periplus Maris Rubri"
+   }
+  ],
+  "Pers.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Perses"
+   },
+   {
+    "date": "i A.D.",
+    "epithet": "Poeta Latinus",
+    "name": "Persius"
+   }
+  ],
+  "Pers.Stoic.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Stoicus",
+    "name": "Persaeus Citieus"
+   }
+  ],
+  "Petos.": [
+   {
+    "date": "",
+    "epithet": "Astrologus",
+    "name": "Petosiris"
+   }
+  ],
+  "Petr.Patr.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Historicus",
+    "name": "Petrus Patricius"
+   }
+  ],
+  "Petron.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Petronius"
+   }
+  ],
+  "Ph.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Mechanicus",
+    "name": "Philo"
+   },
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Philo Judaeus"
+   }
+  ],
+  "Ph.Bybl.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Historicus",
+    "name": "Philo Byblius"
+   }
+  ],
+  "Ph.Byz.": [
+   {
+    "date": "",
+    "epithet": "Paradoxographus",
+    "name": "Philo Byzantius"
+   }
+  ],
+  "Ph.Epic.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Philo"
+   }
+  ],
+  "Ph.Tars.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Philo Tarsensis"
+   }
+  ],
+  "Phaedim.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Phaedimus"
+   }
+  ],
+  "Phaest.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Phaestus"
+   }
+  ],
+  "Phal.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Phalaecus"
+   }
+  ],
+  "Phalar.": [
+   {
+    "date": "",
+    "epithet": "Epistolographus",
+    "name": "Phalaris"
+   }
+  ],
+  "Phan.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Phanias"
+   }
+  ],
+  "Phan.Hist.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Phanias"
+   }
+  ],
+  "Phanocl.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Elegiacus",
+    "name": "Phanocles"
+   }
+  ],
+  "Phanod.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Phanodemus"
+   }
+  ],
+  "Phaënn.": [
+   {
+    "date": "ii B.C. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Phaënnus"
+   }
+  ],
+  "Pherecr.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Pherecrates"
+   }
+  ],
+  "Pherecyd.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Historicus",
+    "name": "Pherecydes Lerius"
+   }
+  ],
+  "Pherecyd.Syr.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Philosophus",
+    "name": "Pherecydes Syrius"
+   }
+  ],
+  "Phil.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Philippus"
+   }
+  ],
+  "Philagr.": [
+   {
+    "date": "iii/iv A.D.",
+    "epithet": "Medicus",
+    "name": "Philagrius"
+   }
+  ],
+  "Philem.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Philemo"
+   }
+  ],
+  "Philem.Jun.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Philemo Junior"
+   }
+  ],
+  "Philet.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": ") Elegiacus",
+    "name": "Philetas (vel Philitas"
+   }
+  ],
+  "Philetaer.": [
+   {
+    "date": "v/iv B. C.",
+    "epithet": "Comicus",
+    "name": "Philetaerus"
+   }
+  ],
+  "Philipp.Com.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Philippus"
+   }
+  ],
+  "Philippid.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Philippides"
+   }
+  ],
+  "Philisc.Com.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Philiscus"
+   }
+  ],
+  "Philisc.Trag.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Philiscus"
+   }
+  ],
+  "Philist.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Historicus",
+    "name": "Philistus"
+   }
+  ],
+  "Philoch.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Philochorus"
+   }
+  ],
+  "Philocl.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Philocles"
+   }
+  ],
+  "Philod.Scarph.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Lyricus",
+    "name": "Philodamus Scarpheus"
+   }
+  ],
+  "Philol.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Philolaus"
+   }
+  ],
+  "Philomnest.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Philomnestus"
+   }
+  ],
+  "Philonid.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Philonides"
+   }
+  ],
+  "Philosteph.Com.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Philostephanus"
+   }
+  ],
+  "Philosteph.Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Philostephanus"
+   }
+  ],
+  "Philostr.": [
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "Sophista",
+    "name": "Philostratus"
+   }
+  ],
+  "Philostr.Jun.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Sophista",
+    "name": "Philostratus Junior"
+   }
+  ],
+  "Philox.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Philoxenus"
+   },
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Lyricus",
+    "name": "Philoxenus"
+   }
+  ],
+  "Philox.Gramm.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Grammaticus",
+    "name": "Philoxenus"
+   }
+  ],
+  "Philum.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Medicus",
+    "name": "Philumenus"
+   }
+  ],
+  "Philyll.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Philyllius"
+   }
+  ],
+  "Phint.": [
+   {
+    "date": "",
+    "epithet": "Pythagoreus",
+    "name": "Phintys"
+   }
+  ],
+  "Phld.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Philosophus",
+    "name": "Philodemus"
+   },
+   {
+    "date": "i B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Philodemus Gadarensis"
+   }
+  ],
+  "Phleg.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Paradoxographus",
+    "name": "Phlegon Trallianus"
+   }
+  ],
+  "Phlp.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Philosophus",
+    "name": "Philoponus, Joannes"
+   }
+  ],
+  "Phoc.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Phocylides"
+   }
+  ],
+  "Phoeb.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Rhetor",
+    "name": "Phoebammon"
+   }
+  ],
+  "Phoen.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Iambographus",
+    "name": "Phoenix"
+   }
+  ],
+  "Phoenicid.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Comicus",
+    "name": "Phoenicides"
+   }
+  ],
+  "Phot.": [
+   {
+    "date": "ix A.D.",
+    "epithet": "Lexicographus, etc.",
+    "name": "Photius"
+   }
+  ],
+  "Phryn.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Atticista",
+    "name": "Phrynichus"
+   }
+  ],
+  "Phryn.Com.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Phrynichus"
+   }
+  ],
+  "Phryn.Trag.": [
+   {
+    "date": "vi/v B.C.",
+    "epithet": "Tragicus",
+    "name": "Phrynichus"
+   }
+  ],
+  "Phylarch.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Phylarchus"
+   }
+  ],
+  "Phylotim.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Phylotimus"
+   }
+  ],
+  "Pi.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Lyricus",
+    "name": "Pindarus"
+   }
+  ],
+  "Pisand.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Pisander"
+   }
+  ],
+  "Pittac.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Pittacus"
+   }
+  ],
+  "Pl.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Plato"
+   }
+  ],
+  "Pl. Com.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Plato"
+   }
+  ],
+  "Pl.Jun.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Plato Junior"
+   }
+  ],
+  "Placit.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Placita Philosophorum"
+   }
+  ],
+  "Platon.": [
+   {
+    "date": "",
+    "epithet": "Grammaticus",
+    "name": "Platonius"
+   }
+  ],
+  "Plaut.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Comicus Latinus",
+    "name": "Plautus"
+   }
+  ],
+  "Plb.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Polybius"
+   }
+  ],
+  "Plb.Rh.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Polybius Sardianus"
+   }
+  ],
+  "Plin.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Rerum Naturalium Scriptor",
+    "name": "Plinius"
+   }
+  ],
+  "Plot.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Philosophus",
+    "name": "Plotinus"
+   }
+  ],
+  "Plu.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "Biographus et Philosophus",
+    "name": "Plutarchus"
+   }
+  ],
+  "Polem.": [
+   {
+    "date": "i/ii A.D.",
+    "epithet": "",
+    "name": "Polemo Sophista"
+   }
+  ],
+  "Polem.Hist.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Polemo"
+   }
+  ],
+  "Polem.Phgn.": [
+   {
+    "date": "",
+    "epithet": "Physiognomonicus",
+    "name": "Polemo"
+   }
+  ],
+  "Polioch.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Poliochus"
+   }
+  ],
+  "Poll.": [
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Pollianus"
+   },
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Pollux"
+   }
+  ],
+  "Polyaen.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Historicus",
+    "name": "Polyaenus"
+   },
+   {
+    "date": "i B.C. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Polyaenus, Julius"
+   }
+  ],
+  "Polycharm.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Polycharmus"
+   }
+  ],
+  "Polyclit.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Polyclitus"
+   }
+  ],
+  "Polycr.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Polycrates"
+   }
+  ],
+  "Polystr.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicureus",
+    "name": "Polystratus"
+   },
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Polystratus"
+   }
+  ],
+  "Polyzel.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Comicus",
+    "name": "Polyzelus"
+   }
+  ],
+  "Pomp.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Pompeius"
+   }
+  ],
+  "Pomp.Mac.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Pompeius Macer"
+   }
+  ],
+  "Porph.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Philosophus",
+    "name": "Porphyrius Tyrius"
+   }
+  ],
+  "Posidipp.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Comicus",
+    "name": "Posidippus"
+   },
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Posidippus"
+   }
+  ],
+  "Posidon.": [
+   {
+    "date": "ii/i B.C.",
+    "epithet": "Historicus",
+    "name": "Posidonius"
+   },
+   {
+    "date": "iii/iv A.D.",
+    "epithet": "Medicus",
+    "name": "Posidonius"
+   }
+  ],
+  "Pratin.": [
+   {
+    "date": "vi/v B.C.",
+    "epithet": "Lyricus et Tragicus",
+    "name": "Pratinas"
+   }
+  ],
+  "Praxag.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Historicus",
+    "name": "Praxagoras"
+   }
+  ],
+  "Praxill.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Lyrica",
+    "name": "Praxilla"
+   }
+  ],
+  "Prisc.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Historicus",
+    "name": "Priscus"
+   }
+  ],
+  "Prisc.Lyd.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Philosophus",
+    "name": "Priscianus Lydus"
+   }
+  ],
+  "Priscian.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Grammaticus",
+    "name": "Priscianus"
+   }
+  ],
+  "Procl.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Philosophus",
+    "name": "Proclus"
+   }
+  ],
+  "Procop.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Historicus",
+    "name": "Procopius Caesariensis"
+   }
+  ],
+  "Procop.Gaz.": [
+   {
+    "date": "v/vi A.D.",
+    "epithet": "Rhetor",
+    "name": "Procopius Gazaeus"
+   }
+  ],
+  "Prodic.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Prodicus"
+   }
+  ],
+  "Promathid.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Promathidas"
+   }
+  ],
+  "Protag.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Protagoras"
+   }
+  ],
+  "Protagorid.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Protagoridas"
+   }
+  ],
+  "Proxen.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Proxenus"
+   }
+  ],
+  "Ps.-Callisth.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Pseudo-Callisthenes"
+   }
+  ],
+  "Ps.-Phoc.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "",
+    "name": "Pseudo-Phocylidea"
+   }
+  ],
+  "Psalm.Solom.": [
+   {
+    "date": "i B.C.",
+    "epithet": "",
+    "name": "Psalms of Solomon"
+   }
+  ],
+  "Ptol.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Ptolemaeus"
+   },
+   {
+    "date": "ii A.D.",
+    "epithet": "Mathematicus",
+    "name": "Ptolemaeus"
+   }
+  ],
+  "Ptol.Ascal.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Ptolemaeus Ascalonita"
+   }
+  ],
+  "Ptol.Chenn.": [
+   {
+    "date": "c. 100 A.D.",
+    "epithet": "",
+    "name": "Ptolemaeus Chennos"
+   }
+  ],
+  "Ptol.Euerg.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Historicus",
+    "name": "Ptolemaeus Euergetes II"
+   }
+  ],
+  "Ptol.Megalop.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Ptolemaeus Megalopolitanus"
+   }
+  ],
+  "Pythaen.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Pythaenetus"
+   }
+  ],
+  "Pythag.": [
+   {
+    "date": "vi/v B.C.",
+    "epithet": "Philosophus",
+    "name": "Pythagoras"
+   }
+  ],
+  "Pythag. Ep.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Pythagorae et Pythagoreorum Epistulae"
+   }
+  ],
+  "Pythocl.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Pythocles"
+   }
+  ],
+  "Q.S.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Epicus",
+    "name": "Quintus Smyrnaeus"
+   }
+  ],
+  "Quint.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Rhetor Latinus",
+    "name": "Quintilianus"
+   }
+  ],
+  "Rh.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Rhetores Graeci"
+   }
+  ],
+  "Rhetor.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Astrologus",
+    "name": "Rhetorius"
+   }
+  ],
+  "Rhian.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epicus",
+    "name": "Rhianus"
+   }
+  ],
+  "Rhinth.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Comicus",
+    "name": "Rhinthon"
+   }
+  ],
+  "Ruf.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Medicus",
+    "name": "Rufus"
+   }
+  ],
+  "Ruf.Rh.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Rufus"
+   }
+  ],
+  "Rufin.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Rufinus"
+   }
+  ],
+  "Rutil.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Rutilius Lupus"
+   }
+  ],
+  "S.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Sophocles"
+   }
+  ],
+  "S.E.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Sextus Empiricus"
+   }
+  ],
+  "Sacerd.": [
+   {
+    "date": "iii/iv A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Sacerdos, Marius Plotius"
+   }
+  ],
+  "Sallust.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Philosophus",
+    "name": "Sallustius"
+   }
+  ],
+  "Sannyr.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Sannyrio"
+   }
+  ],
+  "Sapph.": [
+   {
+    "date": "vii/vi B.C.",
+    "epithet": "Lyrica",
+    "name": "Sappho"
+   }
+  ],
+  "Satyr.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Satyrus"
+   },
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Satyrus"
+   }
+  ],
+  "Scol.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Scolia"
+   }
+  ],
+  "Scyl.": [
+   {
+    "date": "iv B.C. (?)",
+    "epithet": "Geographus",
+    "name": "Scylax"
+   }
+  ],
+  "Scymn.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Geographus",
+    "name": "Scymnus"
+   }
+  ],
+  "Scythin.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Scythinus"
+   },
+   {
+    "date": "iv B.C.",
+    "epithet": "Poeta Philosophus",
+    "name": "Scythinus Teius"
+   }
+  ],
+  "Secund.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Gnomologus",
+    "name": "Secundus"
+   }
+  ],
+  "Seleuc.": [
+   {
+    "date": "",
+    "epithet": "Grammaticus et Historicus",
+    "name": "Seleucus"
+   }
+  ],
+  "Seleuc.Lyr.": [
+   {
+    "date": "",
+    "epithet": "Lyricus",
+    "name": "Seleucus"
+   }
+  ],
+  "Semon.": [
+   {
+    "date": "vii/vi B.C. (?)",
+    "epithet": "Iambographus",
+    "name": "Semonides"
+   }
+  ],
+  "Seren.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Geometra",
+    "name": "Serenus"
+   },
+   {
+    "date": "",
+    "epithet": "Gnomologus",
+    "name": "Serenus"
+   }
+  ],
+  "Serv.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Servius"
+   }
+  ],
+  "Sever.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Medicus",
+    "name": "Severus"
+   },
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Severus"
+   }
+  ],
+  "Sext.": [
+   {
+    "date": "",
+    "epithet": "Pythagoreus",
+    "name": "Sextus"
+   }
+  ],
+  "Silen.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Historicus",
+    "name": "Silenus"
+   }
+  ],
+  "Simm.": [
+   {
+    "date": "iii B.C.",
+    "epithet": ") Elegiacus",
+    "name": "Simmias (vel Simias"
+   }
+  ],
+  "Simon.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Lyricus",
+    "name": "Simonides"
+   }
+  ],
+  "Simp.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Simplicius"
+   }
+  ],
+  "Simyl.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Simylus"
+   }
+  ],
+  "Sm.": [
+   {
+    "date": "ii/iii A.D.",
+    "epithet": "Interpres Veteris Testamenti",
+    "name": "Symmachus"
+   }
+  ],
+  "Socr.": [
+   {
+    "date": "(v/iv B.C.)",
+    "epithet": "",
+    "name": "Socratis et Socraticorum Epistulae"
+   }
+  ],
+  "Socr.Arg.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Socrates Argivus"
+   }
+  ],
+  "Socr.Cous": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Socrates Cous"
+   }
+  ],
+  "Socr.Rhod.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Socrates Rhodius"
+   }
+  ],
+  "Sol.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Solon"
+   }
+  ],
+  "Sopat.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Sopater"
+   },
+   {
+    "date": "iv A.D.",
+    "epithet": "Gnomologus",
+    "name": "Sopater"
+   }
+  ],
+  "Sopat.Rh.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Rhetor",
+    "name": "Sopater"
+   }
+  ],
+  "Sophil.": [
+   {
+    "date": "iv B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Sophilus"
+   }
+  ],
+  "Sophon": [
+   {
+    "date": "xiv A.D.",
+    "epithet": "Philosophus",
+    "name": "Sophonias"
+   }
+  ],
+  "Sophr.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Sophron"
+   }
+  ],
+  "Sor.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Medicus",
+    "name": "Soranus"
+   }
+  ],
+  "Sosib.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Historicus",
+    "name": "Sosibius"
+   }
+  ],
+  "Sosicr.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Sosicrates"
+   }
+  ],
+  "Sosicr.Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Sosicrates"
+   }
+  ],
+  "Sosicr.Rhod.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Sosicrates Rhodius"
+   }
+  ],
+  "Sosip.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Sosipater"
+   }
+  ],
+  "Sosiph.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Tragicus",
+    "name": "Sosiphanes"
+   }
+  ],
+  "Sosith.": [
+   {
+    "date": "",
+    "epithet": "Tragicus",
+    "name": "Sositheus"
+   }
+  ],
+  "Sostrat.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Sostratus"
+   }
+  ],
+  "Sosyl.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Historicus",
+    "name": "Sosylus"
+   }
+  ],
+  "Sotad.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Lyricus",
+    "name": "Sotades"
+   }
+  ],
+  "Sotad.Com.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Sotades"
+   }
+  ],
+  "Speus.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Philosophus",
+    "name": "Speusippus"
+   }
+  ],
+  "Sphaer.Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Sphaerus"
+   }
+  ],
+  "Sphaer.Stoic.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Stoicus",
+    "name": "Sphaerus"
+   }
+  ],
+  "St.Byz.": [
+   {
+    "date": "v A.D. (?)",
+    "epithet": "",
+    "name": "Stephanus Byzantius"
+   }
+  ],
+  "Stad.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Stadiasmus sive Periplus Maris Magni"
+   }
+  ],
+  "Staphyl.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Staphylus"
+   }
+  ],
+  "Stat.Flacc.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Statyllius Flaccus"
+   }
+  ],
+  "Steph.": [
+   {
+    "date": "vii A.D.",
+    "epithet": "Medicus",
+    "name": "Stephanus"
+   },
+   {
+    "date": "vii A.D.",
+    "epithet": "Philosophus",
+    "name": "Stephanus"
+   }
+  ],
+  "Steph.Com.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Comicus",
+    "name": "Stephanus"
+   }
+  ],
+  "Stesich.": [
+   {
+    "date": "vii/vi B.C.",
+    "epithet": "Lyricus",
+    "name": "Stesichorus"
+   }
+  ],
+  "Stesimbr.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Historicus",
+    "name": "Stesimbrotus"
+   }
+  ],
+  "Sthenid.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Sthenidas"
+   }
+  ],
+  "Stob.": [
+   {
+    "date": "v A.D.",
+    "epithet": "",
+    "name": "Stobaeus, Joannes"
+   }
+  ],
+  "Stoic.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Stoicorum Veterum Fragmenta"
+   }
+  ],
+  "Str.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Geographus",
+    "name": "Strabo"
+   }
+  ],
+  "Strat.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Strato"
+   }
+  ],
+  "Strato Com.": [
+   {
+    "date": "iii B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Strato"
+   }
+  ],
+  "Stratt.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Strattis"
+   }
+  ],
+  "Suet.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus et Historicus Latinus",
+    "name": "Suetonius"
+   }
+  ],
+  "Suid.": [
+   {
+    "date": "x A.D.",
+    "epithet": "Lexicographus",
+    "name": "Suidas"
+   }
+  ],
+  "Sulp.Max.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Epicus",
+    "name": "Sulpicius Maximus"
+   }
+  ],
+  "Sus.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Comicus",
+    "name": "Susario"
+   }
+  ],
+  "Syn.Alch.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Alchemista",
+    "name": "Synesius"
+   }
+  ],
+  "Syrian.": [
+   {
+    "date": "v A.D.",
+    "epithet": "Philosophus et Rhetor",
+    "name": "Syrianus"
+   }
+  ],
+  "Telecl.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Teleclides"
+   }
+  ],
+  "Telesill.": [
+   {
+    "date": "vi/v B.C. (?)",
+    "epithet": "Lyrica",
+    "name": "Telesilla"
+   }
+  ],
+  "Telest.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Lyricus",
+    "name": "Telestes"
+   }
+  ],
+  "Ter.Maur.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Terentianus Maurus"
+   }
+  ],
+  "Ter.Scaur.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Terentius Scaurus"
+   }
+  ],
+  "Terp.": [
+   {
+    "date": "vii B.C.",
+    "epithet": "Lyricus",
+    "name": "Terpander"
+   }
+  ],
+  "Th.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Historicus",
+    "name": "Thucydides"
+   }
+  ],
+  "Thal.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Philosophus",
+    "name": "Thales"
+   }
+  ],
+  "Thd.": [
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Interpres Veteris Testamenti",
+    "name": "Theodotion"
+   }
+  ],
+  "Theaet.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Theaetetus"
+   }
+  ],
+  "Theag.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Theages"
+   }
+  ],
+  "Theagen.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Theagenes"
+   }
+  ],
+  "Them.": [
+   {
+    "date": "iv A.D.",
+    "epithet": "Sophista",
+    "name": "Themistius"
+   }
+  ],
+  "Themiso Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Themiso"
+   }
+  ],
+  "Themist.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Epistolographus",
+    "name": "Themistocles"
+   }
+  ],
+  "Theo Sm.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Philosophus",
+    "name": "Theon Smyrnaeus"
+   }
+  ],
+  "Theoc.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Poeta Bucolicus",
+    "name": "Theocritus"
+   }
+  ],
+  "Theocl.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Lyricus",
+    "name": "Theocles"
+   }
+  ],
+  "Theod.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Theodorus"
+   }
+  ],
+  "Theodect.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Theodectes"
+   }
+  ],
+  "Theodorid.": [
+   {
+    "date": "iii B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Theodoridas"
+   }
+  ],
+  "Theodos.": [
+   {
+    "date": "iv A.D. (?)",
+    "epithet": "Grammaticus",
+    "name": "Theodosius Alexandrinus"
+   }
+  ],
+  "Theognet.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Theognetus"
+   }
+  ],
+  "Theognost.": [
+   {
+    "date": "ix A.D.",
+    "epithet": "Grammaticus",
+    "name": "Theognostus"
+   }
+  ],
+  "Theol.Ar.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Theologumena Arithmeticae"
+   }
+  ],
+  "Theolyt.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Theolytus"
+   }
+  ],
+  "Theon Gymn.": [
+   {
+    "date": "",
+    "epithet": "Medicus",
+    "name": "Theon Gymnasiarcha"
+   }
+  ],
+  "Theoph.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Theophanes"
+   }
+  ],
+  "Theophil.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Theophilus"
+   }
+  ],
+  "Theopomp.Coloph.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Theopompus Colophonius"
+   }
+  ],
+  "Theopomp.Com.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Comicus",
+    "name": "Theopompus"
+   }
+  ],
+  "Theopomp.Hist.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Historicus",
+    "name": "Theopompus"
+   }
+  ],
+  "Thgn.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Elegiacus",
+    "name": "Theognis"
+   }
+  ],
+  "Thgn.Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Theognis Rhodius"
+   }
+  ],
+  "Thgn.Trag.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Tragicus",
+    "name": "Theognis"
+   }
+  ],
+  "Thom.": [
+   {
+    "date": "vi A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Thomas"
+   }
+  ],
+  "Thom.Mag.": [
+   {
+    "date": "xiii/xiv A.D.",
+    "epithet": "Grammaticus",
+    "name": "Thomas Magister"
+   }
+  ],
+  "Thphr.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Philosophus",
+    "name": "Theophrastus"
+   }
+  ],
+  "Thrasym.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "",
+    "name": "Thrasymachus"
+   }
+  ],
+  "Thugen.": [
+   {
+    "date": "",
+    "epithet": "Comicus",
+    "name": "Thugenides"
+   }
+  ],
+  "Thyill.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epigrammaticus",
+    "name": "Thyillus"
+   }
+  ],
+  "Thymocl.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Thymocles"
+   }
+  ],
+  "Ti.Locr.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Timaeus Locrus"
+   }
+  ],
+  "Tib.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Tiberius"
+   }
+  ],
+  "Tib.Ill.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Tiberius Illustrius"
+   }
+  ],
+  "Tim.": [
+   {
+    "date": "",
+    "epithet": "Grammaticus",
+    "name": "Timaeus"
+   },
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Lyricus",
+    "name": "Timotheus"
+   }
+  ],
+  "Tim.Com.": [
+   {
+    "date": "iv/iii B.C. (?)",
+    "epithet": "Comicus",
+    "name": "Timotheus"
+   }
+  ],
+  "Tim.Gaz.": [
+   {
+    "date": "",
+    "epithet": "Philosophus",
+    "name": "Timotheus Gazaeus"
+   }
+  ],
+  "Timae.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Historicus",
+    "name": "Timaeus"
+   }
+  ],
+  "Timag.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Historicus",
+    "name": "Timagenes"
+   }
+  ],
+  "Timocl.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Timocles"
+   }
+  ],
+  "Timocr.": [
+   {
+    "date": "v. B.C.",
+    "epithet": "Lyricus",
+    "name": "Timocreon"
+   }
+  ],
+  "Timostr.": [
+   {
+    "date": "ii B.C.",
+    "epithet": "Comicus",
+    "name": "Timostratus"
+   }
+  ],
+  "Titanomach.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Titanomachia"
+   }
+  ],
+  "Trag.Adesp.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Tragica Adespota"
+   }
+  ],
+  "Trophil.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Trophilus"
+   }
+  ],
+  "Tryph.": [
+   {
+    "date": "",
+    "epithet": "Epicus",
+    "name": "Tryphiodorus"
+   }
+  ],
+  "Tull.Flacc.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Tullius Flaccus"
+   }
+  ],
+  "Tull.Gem.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Tullius Geminus"
+   }
+  ],
+  "Tull.Laur.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Epigrammaticus.",
+    "name": "Tullius Laurea"
+   }
+  ],
+  "Tull.Sab.": [
+   {
+    "date": "i A.D. (?)",
+    "epithet": "Epigrammaticus",
+    "name": "Sabinus, Tullius"
+   }
+  ],
+  "Tymn.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Tymnes"
+   }
+  ],
+  "Tyrt.": [
+   {
+    "date": "vii B.C.",
+    "epithet": "Elegiacus",
+    "name": "Tyrtaeus"
+   }
+  ],
+  "Tz.": [
+   {
+    "date": "xii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Tzetzes, Joannes"
+   }
+  ],
+  "Ulp.": [
+   {
+    "date": "iii A.D.",
+    "epithet": "Grammaticus",
+    "name": "Ulpianus"
+   }
+  ],
+  "Uran.": [
+   {
+    "date": "i B.C. (?)",
+    "epithet": "Historicus",
+    "name": "Uranius"
+   }
+  ],
+  "Vel.Long.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Grammaticus Latinus",
+    "name": "Velius Longus"
+   }
+  ],
+  "Vett.Val.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Astrologus",
+    "name": "Vettius Valens"
+   }
+  ],
+  "Vit.Hom.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Vitae Homeri"
+   }
+  ],
+  "Vit.Philonid.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Vita Philonidis Epicurei"
+   }
+  ],
+  "Vitr.": [
+   {
+    "date": "i B.C.",
+    "epithet": "Scriptor de Architectura Latinus",
+    "name": "Vitruvius"
+   }
+  ],
+  "X.": [
+   {
+    "date": "v/iv B.C.",
+    "epithet": "Historicus",
+    "name": "Xenophon"
+   }
+  ],
+  "X.Eph.": [
+   {
+    "date": "ii A.D. (?)",
+    "epithet": "Scriptor Eroticus",
+    "name": "Xenophon Ephesius"
+   }
+  ],
+  "Xanth.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Historicus",
+    "name": "Xanthus"
+   }
+  ],
+  "Xenag.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Xenagoras"
+   }
+  ],
+  "Xenarch.": [
+   {
+    "date": "iv B.C.",
+    "epithet": "Comicus",
+    "name": "Xenarchus"
+   }
+  ],
+  "Xenocl.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Tragicus",
+    "name": "Xenocles"
+   }
+  ],
+  "Xenocr.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus (apud Oribasium)",
+    "name": "Xenocrates"
+   }
+  ],
+  "Xenoph.": [
+   {
+    "date": "vi B.C.",
+    "epithet": "Poeta Philosophus",
+    "name": "Xenophanes"
+   }
+  ],
+  "Zaleuc.": [
+   {
+    "date": "(vii B.C.)",
+    "epithet": "",
+    "name": "Zaleucus"
+   }
+  ],
+  "Zelot.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Zelotus"
+   }
+  ],
+  "Zen.": [
+   {
+    "date": "ii A.D.",
+    "epithet": "Paroemiographus",
+    "name": "Zenobius"
+   }
+  ],
+  "Zeno Eleat.": [
+   {
+    "date": "v B.C.",
+    "epithet": "Philosophus",
+    "name": "Zeno Eleaticus"
+   }
+  ],
+  "Zeno Tars.Stoic.": [
+   {
+    "date": "iii/ii B.C.",
+    "epithet": "Stoicus",
+    "name": "Zeno Tarsensis"
+   }
+  ],
+  "ZenoStoic.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Stoicus",
+    "name": "Zeno Citieus"
+   }
+  ],
+  "Zenod.": [
+   {
+    "date": "iv/iii B.C.",
+    "epithet": "Grammaticus",
+    "name": "Zenodotus"
+   }
+  ],
+  "Zon.": [
+   {
+    "date": "i B.C./i A.D.",
+    "epithet": "Epigrammaticus",
+    "name": "Zonas"
+   }
+  ],
+  "Zonae.": [
+   {
+    "date": "",
+    "epithet": "Rhetor",
+    "name": "Zonaeus"
+   }
+  ],
+  "Zonar.": [
+   {
+    "date": "",
+    "epithet": "Lexicographus",
+    "name": "Zonaras"
+   }
+  ],
+  "Zopyr.": [
+   {
+    "date": "i A.D.",
+    "epithet": "Medicus",
+    "name": "Zopyrus"
+   }
+  ],
+  "Zopyr.Hist.": [
+   {
+    "date": "",
+    "epithet": "Historicus",
+    "name": "Zopyrus"
+   }
+  ],
+  "Zos.": [
+   {
+    "date": "",
+    "epithet": "Epigrammaticus",
+    "name": "Zosimus"
+   },
+   {
+    "date": "v A.D.",
+    "epithet": "Historicus",
+    "name": "Zosimus"
+   }
+  ],
+  "Zos.Alch.": [
+   {
+    "date": "iii/iv A.D.",
+    "epithet": "Alchemista",
+    "name": "Zosimus"
+   }
+  ],
+  "h.Hom.": [
+   {
+    "date": "",
+    "epithet": "",
+    "name": "Hymni Homerici"
+   }
+  ]
+ },
+ "publications": {
+  "Anatolian Studies": "Anatolian Studies presented to Sir W. M. Ramsay, Manchester 1923.",
+  "Arangio-Ruiz et Olivieri Inscr. Gr.": "V. Arangio-Ruiz et A. Olivieri, Inscriptiones Graecae Siciliae et infimae Italiae ad ius pertinentes, Milan 1925.",
+  "BGU": "Berliner griechische Urkunden (Ägyptische Urkunden aus den Königlichen Museen zu Berlin), Berlin 1895-.",
+  "BKT": "Berliner Klassikertexte, herausgegeben von der Generalverwaltung der Kgl. Museen zu Berlin, Berlin 1904-.",
+  "BMus.Inscr.": "Ancient Greek Inscriptions in the British Museum, Oxford 1874-1916.",
+  "Baillet Inscr. des tombeaux des rois": "J. Baillet, Inscriptions grecques et latines des tombeaux des rois à Thèbes, Le Caire 1920-23.",
+  "Benndorf-Niemann Reisen in Lykien": "O. Benndorf & G. Niemann, Reisen in Lykien und Karien, Vienna 1884.",
+  "Berichtigungsl.": "Berichtigungsliste der griechischen Papyrusurkunden aus Ägypten: I. F. Preisigke, Hefte 1 & 2, Strassburg 1913; Hefte 3 & 4, Berlin & Leipzig 1922; II. F. Bilabel, Heidelberg 1931, 1933.",
+  "Bilabel Ὀψαρτ.": "F. Bilabel, Ὀψαρτυτικά und Verwandtes (Sitzungsberichte d. Heidelberger Akademie der Wissenschaften, Phil.-hist. Kl. 1919, 23. Abh.), Heidelberg 1920.",
+  "Buckler Anat. Studies": "Anatolian Studies presented to W. H. Buckler, ed. W. M. Calder & J. Keil, Manchester 1939.",
+  "CIG": "A. Boeckh, Corpus Inscriptionum Graecarum, Berlin 1828-77.",
+  "CIJud.": "Corpus Inscriptionum Iudaicarum, ed. J.-B. Frey: vol. i (Europe), Rome 1936.",
+  "CIL": "Corpus Inscriptionum Latinarum, Berlin 1862-.",
+  "CPHerm.": "Corpus Papyrorum Hermopolitanorum i, ed. C. Wessely (Studien zur Paläogr. u. Papyruskunde v), Leipzig 1905.",
+  "CPR": "Corpus Papyrorum Raineri Archiducis Austriae, vol. i, Griechische Texte, ed. C. Wessely, Wien 1895; cf. PRain.(NS).",
+  "Chron.Lind.": "Chronicle of Lindos, ed. Chr. Blinkenberg, Die Lindische Tempelchronik, Bonn 1915; ed. F. Jacoby, FGrH ii p. 1005.",
+  "Corinth": "Corinth, results of excavations conducted by the American School of Classical Studies at Athens, Cambridge, Massachusetts 1929-; vol. viii Part i, Greek Inscriptions, ed. B. D. Meritt, 1931.",
+  "Cumont Fouilles de Doura-Europos": "F. Cumont, Fouilles de Doura-Europos (1922-3), Paris 1926.",
+  "Dain Inscr. du Louvre": "A. Dain, Inscriptions grecques du musée du Louvre: Les textes inédits, Paris 1933.",
+  "Delph. 3(1),(2), . .": "Fouilles de Delphes, tome iii: Épigraphie. Paris 1909-. (École française dʼAthènes.)",
+  "Demitsas Μακεδ.": "M. G. Demitsas, Ἡ Μακεδονία κτλ., vol. i (all published), Athens 1896.",
+  "Dessau ILS": "H. Dessau, Inscriptiones Latinae Selectae, Berlin 1892-1916.",
+  "Dura6": "The Excavations at Dura-Europos. Preliminary Report of First (Second . . . ) Season of Work, ed. P. V. C. Bauer, M. I. Rostovtzeff, A. R. Bellinger, and others, Yale University Press 1929-.",
+  "Durrbach Choix dʼinscrr. de Délos": "F. Durrbach, Choix dʼinscriptions de Délos, Paris 1921.",
+  "Edict.Diocl.": "Edictum Diocletiani, ed. T. Mommsen & H. Blümner, Der Maximaltarif des Diocletian, Berlin 1893; suppl. CIL iii pp. 1926 ff., 2208 ff., 232857 ff.: cited where possible by Mommsenʼs chaps. & lines, recently found portions by place of discovery (Aeg. = Aegira; Clit. = Clitor; Delph. = Delphi; Troez. = Troezen); Geronthr. = IG 5(1)1115; Gyth. = 5(1)1148.",
+  "Eph.Epigr.": "Ephemeris Epigraphica, Corporis Inscriptionum Latinarum Supplementum, Berlin 1872-.",
+  "Ephes. 2,3, . .": "Forschungen in Ephesos, veröffentlicht vom Oesterreichischen Archaeologischen Institute . . Bde. 2, 3, Vienna 1912, 1923; 4(1), 1932; 4(2), Baden bei Wien 1937.",
+  "Epigr.Gr.": "G. Kaibel, Epigrammata Graeca ex lapidibus conlecta, Berlin 1878.",
+  "Foed.Delph.Pell.": "Foedus inter Delphos et Pellanenses, ed. B. Haussoullier, Traité entre Delphes et Pellana, Paris 1917; Schwyzer (q.v.) No. 3282.",
+  "Frisk Bankakten": "Bankakten aus dem Faijûm nebst anderen Berliner Papyri, ed. H. Frisk (Göteborgs Kungl. Vetenskaps- och Vitterhets-Samhälles Handlingar, femte följden, Ser.A. Band 2 No. 2), Göteborg 1931.",
+  "GDI": "Sammlung der griechischen Dialekt-Inschriften, ed. H. Collitz et alii, Göttingen 1884-1915.",
+  "Gerasa": "Gerasa, City of the Decapolis, ed. C. H. Kraeling, New Haven, Connecticut, 1938.",
+  "Haussoullier Milet": "B. Haussoullier, Études sur lʼhistoire de Milet et du Didymeion, Paris 1902.",
+  "Herc. (following an authorʼs name)": "Herculaneum papyri, cited by No. of papyrus and column or fragment from Herculanensium Voluminum quae supersunt, Collectio altera, Naples 1862-76, D. Bassi, Herculanensium Voluminum, Collectio tertia, fasc. i, Milan 1914, and other publications; ‘Epicureus Herc. . . p. . . V.ʼ refers to Epicuri et Epicureorum scripta . . , ed. A. Vogliano (v. I (Add.) s.v. Epicurus).",
+  "Heuzey-Daumet Mission Arch. de Macédoine": "L. Heuzey et H. Daumet, Mission Archéologique de Macédoine, Paris 1876.",
+  "Histria": "V. Párvan, Histria, Part iv, Bucarest 1916; Part vii, Bucarest 1923.",
+  "IG": "Inscriptiones Graecae. vol. i = Inscriptiones Atticae anno Euclidis vetustiores, ed. A. Kirchhoff, 1873: Supplementa, indices 1877, 1887, 1891 [ = Corpus Inscriptionum Atticarum, vol. i et vol. iv pars i fasc. i-iii].",
+  "IG 12": "IG vol. i ed. minor, ed. F. Hiller von Gaertringen, 1924. vol. ii = Inscriptiones Atticae aetatis quae est inter Euclidis annum et Augusti tempora, ed. U. Koehler [5 parts, 1877, 1883, 1888, 1893 (indices by J. Kirchner), 1895 (supplementa) = Corpus Inscriptionum Atticarum, vol. ii partes i-iv et vol. iv",
+  "IG 22": "Voluminum ii et iii editio minor, ed. J. Kirchner, pars i fasc. i 1913, fasc. ii 1916; pars ii fasc. i (1370-1695) 1927, fasc. ii (1696-2788) 1931; pars iii fasc. i (2789-5219) 1935. vol. iv = Inscriptiones Argolidis, ed. M. Fraenkel, 1902 [ =",
+  "IG 42": "Voluminis iv editio minor, fasc. i = Inscriptiones Epidauri, ed. F. Hiller von Gaertringen, 1929. vol. v fasc. i = Inscriptiones Laconiae et Messeniae, ed. W. Kolbe, 1913; fasc. ii = Inscriptiones Arcadiae, ed. F. Hiller von Gaertringen, 1913. vol. vii = Inscriptiones Megaridis et Boeotiae, ed. W. Dittenberger, 1892 [ = Corpus Inscriptionum Graecarum Graeciae Septentrionalis, vol. i]. vol. ix pars i = Inscriptiones Phocidis, Locridis, Aetoliae, Acarnaniae, insularum maris Ionii, ed. W. Dittenberger, 1897 [ = Corpus Inscriptionum Graecarum Graeciae Septentrionalis, vol. iii pars i]; pars ii = Inscriptiones Thessaliae, ed. O. Kern, 1908.",
+  "IG 92": "Voluminis ix partis i editio minor, fasc. i = Inscriptiones Aetoliae, ed. G. Klaffenbach, 1932. vol. xi = Inscriptiones Deli: fasc. ii, ed. F. Dürrbach, 1912; fasc. 3 cited as Inscr. Délos (q.v.); fasc. iv, ed. P. Roussel, 1914. vol. xii = Inscriptiones insularum maris Aegaei praeter Delum: fasc. i, Inscriptiones Rhodi, Chalces, Carpathi cum Saro, Casi, ed. F. Hiller von Gaertringen, 1895. fasc. ii, Inscriptiones Lesbi, Nesi, Tenedi, ed. W. Paton, 1899. fasc. iii, Inscriptiones Symes, Teutlussae, Teli, Nisyri, Astypalaeae, Anaphes, Therae et Therasiae, Pholegandri, Meli, Cimoli, ed. F. Hiller von Gaertringen, 1898; Supplementa, ed. F. Hiller von Gaertringen 1904. fasc. v, Inscriptiones Cycladum: pars i, Inscriptiones Cycladum praeter Tenum, ed. F. Hiller von Gaertringen, 1903; pars ii,",
+  "IGRom.": "Inscriptiones Graecae ad res Romanas pertinentes, ed. R. Cagnat et alii, Paris, vol. i 1911, iii 1906, iv 1927.",
+  "IPE": "Inscriptiones orae septentrionalis Ponti Euxini, ed. B. Latyshev, Petersburg 1885-1901: 12 = vol. i, second edition, 1916.",
+  "Inscr. gr. et lat. de la Syrie": "Inscriptions grecques et latines de la Syrie; I. Commagène et Cyrrhestique, ed. L. Jalabert & R. Mouterde, Paris 1929.",
+  "Inscr.Cos": "The Inscriptions of Cos, ed. W. R. Paton & E. L. Hicks, Oxford 1891.",
+  "Inscr.Cret.": "Inscriptiones Creticae opera et consilio Friderici Halbherr collectae. I. Tituli Cretae mediae praeter Gortynios. Curavit Margarita Guarducci. Rome 1935.",
+  "Inscr.Cypr.": "Cyprian Inscriptions in O. Hoffmann, Die griechischen Dialekte, vol. i, Göttingen 1891.",
+  "Inscr.Délos": "Nos. 290-371, 372-509, ed. F. Durrbach, Paris 1926, 1929 (Acad. des Inscriptions et Belles-Lettres). [The numeration is continued from IGΙΙ(2).] Nos. 1400-96 [an interval is left after the nos. of IGΙΙ(4)] ed. F. Durrbach & P. Roussel, 1935. Nos. 1497-2879 (2 pts.) ed. P. Roussel & M. Launey, 1937.",
+  "Inscr.Magn.": "Die Inschriften von Magnesia am Maeander, ed. O. Kern, Berlin 1900.",
+  "Inscr.Mus.Alex.": "E. Breccia, Iscrizioni greche e latine (Catal. gen. des antiq. égypt. du musée d’ Alexandrie, 57), 1911.",
+  "Inscr.Olymp.": "Olympia: die Ergebnisse der . . . Ausgrabung: Textband v, Die Inschriften, ed. W. Dittenberger & K. Purgold, Berlin 1896.",
+  "Inscr.Perg.": "Die Inschriften von Pergamon (in Altertümer von Pergamon viii), ed. M. Fraenkel, Berlin 1890-1895.",
+  "Inscr.Prien.": "Die Inschriften von Priene, ed. F. Hiller von Gaertringen, Berlin 1906.",
+  "Kapsomenakis": "S. G. Kapsomenakis, Voruntersuchungen zu einer Grammatik der Papyri der nachchristlichen Zeit, Munich 1938.",
+  "LF, LW": "Philippe Le Bas, W. H. Wadding??n & P. Foucart, Voyage Archéologique en Grèce et en Asie Mineure, Paris 1847-70.",
+  "Leg.Gort.": "Leges Gortynensium (GDI 4991, Schwyzer 179).",
+  "Leg.Sacr.": "Leges Graecorum Sacrae, ed. J. de Prott & L. Ziehen, Leipzig fasc. i 1896, fasc. ii (1) 1906.",
+  "MAMA": "Monumenta Asiae Minoris Antiqua, vol. i, ed. W. M. Calder, Manchester-London 1928 (Publications of the American Society for Archaeological Research in Asia Minor); vol. iii, ed. J. Keil & A. Wilhelm, 1931; vol. iv, ed. W. H. Buckler, W. M. Calder, W. K. C. Guthrie, 1933; vol. v, ed. C. W. M. Cox & A. Cameron, 1937; vol. vi, ed. W. H. Buckler & W. M. Calder, 1939 (iii-vi Manchester).",
+  "MacDowell Stamped Objects from Seleucia": "R. H. MacDowell, Stamped & Inscribed Objects from Seleucia on the Tigris (Univ. of Michigan Studies, Humanistic Series, vol. xxxvi), Ann Arbor 1935.",
+  "Maiuri Nuova Silloge": "A. Maiuri, Nuova Silloge Epigrafica di Rodi e Cos, Firenze 1925.",
+  "Marm.Par.": "Marmor Parium (IG 12(5).444) ed. F. Jacoby, Das Marmor Parium, Berlin 1904, and FGrH ii p. 992.",
+  "Meyer Ostr.": "Ostraca in P.Meyer (q.v.).",
+  "Michel": "C. Michel, Recueil dʼinscriptions grecques, Brussels 1900: Supplements i, ii, Brussels 1912, 1927.",
+  "Milet.": "Milet. Ergebnisse der Ausgrabungen und Untersuchungen seit dem Jahre 1899, herausg. von Theodor Wiegand (Königliche Museen zu Berlin), 1906-. Milet 3 = Milet Bd.1 Heft iii; for other parts Band and Heft are given.",
+  "Milet. 6,7": "Sechster (siebenter) vorläufiger Bericht über die in Milet und Didyma unternommenen Ausgrabungen, Abh. Berl. Akad. 1908 Anhang I, 1911 Anh. I.",
+  "Mitteis Chr., Wilcken Chr.": "L. Mitteis & U. Wilcken, Grundzüge und Chrestomathie der Papyruskunde, Leipzig & Berlin 1912.",
+  "Mon.Anc.Gr.": "Monumenti Ancyrani versio Graeca (Res Gestae Divi Augusti, ed. E. Diehl3, Bonn 1918).",
+  "Mon.Piot": "Monuments et mémoires publiés par la fondation Piot, Paris 1894-.",
+  "Mueller-Bees": "N. Mueller & N. A. Bees, Die Inschriften der jüdischen Katakombe am Monteverde zu Rom, Leipzig 1919.",
+  "Myres Cesnola Coll.": "J. L. Myres, Handbook of the Cesnola Collection of Antiquities from Cyprus, New York 1914.",
+  "Mél.Bidez": "Mélanges Bidez (Annuaire de l’ Institut de philologie et dʼhistoire orientales, tome ii), Brussels 1934.",
+  "Mél.Glotz": "Mélanges Gustave Glotz, Paris 1932.",
+  "Mél.Navarre": "Mélanges offerts à M. Octave Navarre par ses élèves et ses amis, Toulouse 1935.",
+  "Möller Pap.Berl.Mus.": "S. Möller, Griechische Papyri aus dem Berliner Museum, Göteborg 1929.",
+  "Naukratis": "Naukratis, Pt. i by [Sir] W. M. Flinders Petrie, London 1886, Pt. ii by E. A. Gardner, 1888 (Egypt Exploration Fund, Memoirs iii, vi).",
+  "OGI": "Orientis Graeci Inscriptiones Selectae, ed. W. Dittenberger, Leipzig 1903-5.",
+  "Ostr.": "U. Wilcken, Griechische Ostraka aus Ägypten und Nubien, Leipzig & Berlin 1899.",
+  "Ostr.Bodl.": "J. G. Tait, Greek Ostraca in the Bodleian Library and other collections, I, London 1930 (cited by No. of part and No. of ostracon).",
+  "Ostr.Mich.": "L. Amundsen, Greek Ostraca in the University of Michigan Collection, Part I, Texts ( = University of Michigan Studies, Humanistic Series, vol. xxxiv), Ann Arbor 1935.",
+  "Ostr.Strassb.": "Griechische und griechisch-demotische Ostraka der Universitäts- und Landesbibliothek zu Strassburg, ed. P. Viereck, Berlin 1923.",
+  "Ostr.Wilbour": "C. Préaux, Les ostraca grecs de la Collection Charles-Edwin Wilbour an Musee de Brooklyn, New York 1935.",
+  "PAberd.": "Catalogue of Greek & Latin papyri & ostraca in the possession of the University of Aberdeen, ed. E. G. Turner (Aberdeen Univ. Studies No. 116), 1939.",
+  "PAlex.": "Papyrus ptolémaïques du Musee d’ Alexandrie, ed. G. Botti, Bull.Soc.Alex. First Series No. 2 (1899) p. 65.",
+  "PAmh.": "Amherst Papyri, ed. B. P. Grenfell & A. S. Hunt, 2 vols., London 1900-1; cited by No. of vol., papyrus, and line.",
+  "PAntin.": "the Antinoe Papyrus of Theocritus in Two Theocritus Papyri, ed. A. S. Hunt & J. Johnson, London 1930.",
+  "PAvrom.": "Parchments of the Parthian period from Avroman in Kurdistan, ed. E. H. Minns, JHS xxxv (1915) p. 22.",
+  "PBaden": "F. Bilabel, Veröffentlichungen aus den badischen Papyrus-Sammlungen, Heft 2 and Heft 4, Griechische Papyri, Heidelberg 1923, 1924.",
+  "PBasel": "Papyrusurkunden der öffentlichen Bibliothek der Universität zu Basel, I. Urkunden in griechischer Sprache, ed. E. Rabel (Abh. Gött. Gesellsch. Neue Folge, vol. xvi, No. 3), Berlin 1917.",
+  "PBerl.Leihg.": "Berliner Leihgabe griechischer Papyri, herausgegeben vom griechischen Seminar der Universität Uppsala durch T. Kalén, Uppsala 1932.",
+  "PBerol.": "Berlin Papyri, cited by inventory No. (PBerol. 6926, 7927v = B. Lavagnini, Eroticorum Graecorum Fragmenta Papyracea, Leipzig (T.) 1922, pp. 1ff., 21ff.).",
+  "PBouriant": "Les papyrus Bouriant, ed. P. Collart, Paris 1926.",
+  "PBremen": "U. Wilcken, Die Bremer Papyri (Abhandlungen der Preussischen Akademie der Wissenschaften, 1936, Phil.-hist. Klasse No. 2), Berlin 1936.",
+  "PCair.": "Cairo Papyri cited by catalogue No. from B. P. Grenfell & A. S. Hunt, Greek Papyri, Catalogue général des Antiquités égyptiennes du Musée du Caire, vol. x, Nos. 10001-10869, Oxford 1903.",
+  "PCair.Preis.": "F. Preisigke, Griechische Urkunden des ägyptischen Museums zu Kairo (Schriften der wissenschaftlichen Gesellschaft zu Strassburg, IIeft 8), Strassburg 1911.",
+  "PCair.Zen.": "C. C. Edgar, Zenon Papyri, 4 vols. (Catal. gén. des Antiq. égypt. du Musée du Caire, 79) 1925-31: digits indicating 59(000) omitted in refs., thus 2 = 59002.",
+  "PCornell": "Greek Papyri in the Library of Cornell University, ed. W. L. Westermann & C. J. Kraemer, New York 1926.",
+  "PEdgar": "C. C. Edgar, Selected papyri from the archives of Zenon, Annales du Service des Antiquités de l’ Égypte, Nos. 1-10 in vol. xviii (1918) pp. 159-82; Nos. 11-21, ib. pp. 224-44; Nos. 22-36, vol. xix (1920) pp. 13-36; Nos. 37-48, ib. pp. 81-104; Nos. 49-54, vol. xx (1920) pp. 19-40; Nos. 55-64, ib. pp. 181-206; Nos. 65-6, vol. xxi (1921) pp. 89-109; Nos. 67-72, vol. xxii (1922) pp. 209-31; Nos. 73-76, vol. xxiii (1923) pp. 73-98; Nos. 77-88, ib. pp. 187-209; Nos. 89-104. vol. xxiv (1924) pp. 17-52.",
+  "PEleph.": "Elephantine Papyri, ed. O. Rubensohn, Ägyptische Urkunden aus den Kgl. Museen zu Berlin: Griechische Urkunden: Sonderheft, Berlin 1907.",
+  "PEnteux.": "Publications de la Société royale égyptienne de Papyrologie, Textes et Documents, i, Ἐντεύξεις . . , ed. O. Guéraud, Cairo 1931-2.",
+  "PFay.": "B. P. Grenfell, A. S. Hunt, D. G. Hogarth, Fayûm Towns and their Papyri, London 1900.",
+  "PFlor.": "Papiri Fiorentini, documenti pubblici e privati dell’ età romana e bizantina: I ed. G. Vitelli, Milano 1906; II ed. D. Comparetti, 1908-11; III ed. G. Vitelli, 1915.",
+  "PFrankf.": "H. Lewald, Griechische Papyri aus dem Besitz des rechts-wissenschaftlichen Seminars der Universität Frankfurt (Sitzungsberichte der Heidelberger Akademie der Wissenschaften, Phil.-hist. Kl. 1920, 14. Abh.).",
+  "PFreib.": "Mitteilungen aus der Freiburger Papyrussammlung, in Sitzungsberichte der Heidelberger Akademie der Wissenschaften, Phil.-hist. Klasse, 1914, 2. Abh., 1916, 10. Abh.",
+  "PGand}": "Quelques papyrus des collections de Gand et de Paris, ed.",
+  "PGen.": "Les papyrus de Genève transcrits et publiés par Jules Nicole, Geneva 1896, 1900.",
+  "PGiss.": "Griechische Papyri im Museum des oberhessischen Geschichtsvereins zu Giessen, Bd. I, Hefte 1-3, ed. O. Eger, E. Kornemann, P. M. Meyer, Leipzig etc. 1910-12.",
+  "PGnom.": "Der Gnomon des Idios Logos (BGU v (1) 1210) ed. W. Schubart 1919.",
+  "PGoodsp.": "E. J. Goodspeed, A group of Greek papyrus texts (Class. Phil. i, 1906, p. 167).",
+  "PGoodsp.Cair.": "E. J. Goodspeed, Greek papyri from the Cairo Museum . . (Decennial publications of the University of Chicago, 1st series, vol. v p. 3), Chicago 1904.",
+  "PGot.": "H. Frisk, Papyrus grecs de la Bibl. Municipale de Gothembourg, Göteborg 1929.",
+  "PGrad.": "G. Plaumann, Griechische Papyri der Sammlung Gradenwitz (Sitzungsberichte der Heidelberger Akademie der Wissenschaften, 1914, 15. Abh.).",
+  "PGrenf. 1.": "B. P. Grenfell. An Alexandrian erotic fragment and other Greek papvri chiefly Ptolemaic, Oxford 1896. 2. = B. P. Grenfell & A. S. Hunt, New Classical Fragments and other Greek and Latin papyri. 1897.",
+  "PGurob": "Greek papyri from Gurob, ed. J. G. Smyly (Royal Irish Academy, Cunningham Memoirs, No. 12, Dublin-London 1921).",
+  "PHal.": "Halle Papyri = Dikaiomata: Auszüge aus alexandrinischen Gesetzen und Verordnungen in einem Papyrus des Philologischen Seminars der Universität Halle, mit einem Anhang . . herausgegeben von der Graeca Halensis . . , Berlin 1913.",
+  "PHamb.": "P. M. Meyer, Griechische Papyrusurkunden der Hamburger Stadtbibliothek (Staats- und Universitätsbibliothek 1924), Bd. 1, Leipzig etc. 1911-24.",
+  "PHarris": "The Rendel Harris Papyri, ed. J. Enoch Powell, Cambridge 1936.",
+  "PHaw.": "The Hawara Papyri, ed. [Sir] W. M. Flinders Petrie, Hawara, Biahmu, and Arsinoe, 1889: in part re-edited by J. G. Milne, Arch. Pap. v (1913) p. 378: PHaw. 80 and 81 re-edited by U. Wilcken in Genethliakon für C. Robert, Berlin 1910, p. 191.",
+  "PHeid.": "Veröffentlichungen aus der Heidelberger Papyrussammlung (vol. i = A. Deissmann, Die Septuaginta-Papyri und andere alt-christliche Texte, 1905; vol. iii (1) = C. H. Becker, Papyri Schott-Reinhardt, i, 1906).",
+  "PHib.": "Hibeh Papyri, Part I, ed. B. P. Grenfell & A. S. Hunt, London 1906.",
+  "PHolm.": "Papyrus Graecus Holmiensis, ed. O. Lagercrantz, Uppsala 1913.",
+  "PIand.": "Papyri Iandanae: cum discipulis edidit Carolus Kalbfleisch, Leipzig & Berlin 1912-.",
+  "PJena": "Jenaer Papyrus-Urkunden, ed. F. Zucker & F. Schneider, Jena 1926.",
+  "PKaran.": "E. J. Goodspeed, Papyri from Karanis (Univ. of Chicago: Studies in Classical Philology, vol. iii), Chicago 1902.",
+  "PKlein.Form.": "Stud.Pal. (q.v.) iii, viii.",
+  "PLeid.": "C. Leemans, Papyri Graeci musei antiquarii publici Lugduni-Batavi, tom. i Leiden 1843; tom. ii 1885.",
+  "PLeid.U.": "Somnium Nectanebi, ed. B. Lavagnini, Eroticorum Graecorum Fragmenta Papyracea, Leipzig (T.) 1922, p. 37: = UPZ 81.",
+  "PLeid.X.": "chemical papyrus in PLeid. (q.v.) vol. ii: reprinted in M. Berthelot, Archéologie et Histoire des Sciences (Paris 1906), pp. 269-306 ( = Comptes rendus des séances de l’ Acad. des Sciences, tom. xlix): cited by Berthelotʼs sections.",
+  "PLille": "Institut papyrologique de l’ université de Lille: Papyrus grecs publiés sous la direction de Pierre Jouguet . . , Paris 1907-28.",
+  "PLips.": "L. Mitteis, Griechische Urkunden der Papyrussammlung zu Leipzig. vol. i, 1906.",
+  "PLit.Lond.": "H. J. M. Milne, Catalogue of the Literary Papyri in the British Museum, London 1927.",
+  "PLond.": "Greek papyri in the British Museum, vols. i and ii ed. F. G. Kenyon, vol. iii ed. F. G. Kenyon & H. I. Bell, vols. iv and v ed. H. I. Bell, London 1893-; unpublished papyri (PLond. ined.) are cited by inventory No.",
+  "PLond. 1912-29": "H. I. Bell, Jews and Christians in Egypt, London 1924.",
+  "PMag.": "Papyri Graecae Magicae, herausgegeben und übersetzt von K. Preisendanz, 2 vols., Leipzig & Berlin 1928, 1931.",
+  "PMag.Berol.": "G. Parthey, Zwei griechische Zauberpapyri des Berliner Museums, Abh. Berl. Akad. 1865 pp. 109-80; cf. W. Kroll, Philol. liv (1895) p. 564 ( = PMag. 1, 2).",
+  "PMag.Leid.V.": "Papyrus magica musei Lugdunensis Batavi, ed. A. Dieterich, Jahrb. f. kl. Phil., Suppl. xvi (1888) pp. 793-818; cited by column and line ( = PMag. 12).",
+  "PMag.Leid.W.": "Leiden magical papyrus W., ed. A. Dieterich, Abraxas (Festschrift . . Hermann Usener . . Bonn), Leipzig 1891; cited by page and line of the papyrus, as in Leemans’ edition ( = PMag. 13, cited by column and line).",
+  "PMag.Lond.": "PLond. 1.46, 121, etc.",
+  "PMag.Par. 1, 2": "C. Wessely, Wiener Denkschr. xxxvi (2) (1888) pp. 44-126, pp. 139-148; partly in A. Dieterich, Eine Mithrasliturgie, Leipzig 1903, pp. 1 ff., and A. Deissmann, Light from the Ancient East, London 1919, pp. 258 ff. ( = PMag. 4, 3).",
+  "PMag.Rain.": "C. Wessely, Wiener Denkschr. xlii (2) (1893) p. 65.",
+  "PMagd.": "Papyrus de Magdola, rééd . . . par Jean Lesquier, Paris 1912 (PLille II 2-4); republished in PEnteux.",
+  "PMasp.": "Jean Maspéro, Papyrus grecs d’ époque byzantine, in Catalogue général des antiquités égyptiennes du Musée du Caire, I (Nos. 67001-67124) 1911, II (Nos. 67125-67278) 1913, III (Nos. 67279-67359) 1916. Digits indicating 67(000) omitted in refs., thus: 2 = 67002.",
+  "PMed.Lond.": "London Medical Papyrus, No. 155, ed. C. Kalbfleisch in Papyri graecae Musei Britannici et Musei Berolinensis, Rostock 1902.",
+  "PMed.Strassb.": "Papyri Argentoratenses Graecae, ed. C. Kalbfleisch, Index lectionum in Academia Rostochiensi 1901.",
+  "PMerton": "H. Idris Bell & C. H. Roberts, Catalogue of the Greek papyri in the collection of Wilfred Merton, London, vol. i 1939.",
+  "PMeyer": "P. M. Meyer, Griechische Texte aus Agypten: 1. Papyri des neutestamentlichen Seminars der Universität Berlin; 2. Ostraka der Sammlung Deissmann, Berlin (Leipzig) 1916.",
+  "PMich.": "University of Michigan papyri, published in Trans. Am. Ph. Ass. liii (1922) p. 134.",
+  "PMich.Teb.": "Michigan Papyri vol. ii: Papyri from Tebtunis, in two volumes, Part I, ed. A. E. R. Boak ( = University of Michigan Studies, Humanistic Series, vol. xxviii), Ann Arbor 1933.",
+  "PMich.Zen.": "Zenon papyri in the University of Michigan collection, ed. C. C. Edgar ( = University of Michigan Studies, Humanistic Series, vol. xxiv), Ann Arbor 1931.",
+  "PMich.iii": "Michigan Papyri vol. iii: Miscellaneous Papyri, edited by J. G. Winter ( = University of Michigan Studies, Humanistic Series, vol. xl), Ann Arbor 1936.",
+  "PMilan.": "Papiri Milanesi, ed. A. Calderini (Pubbl. di ‘Aegyptus’, S. Scient., vol. i), Parte i, Collezione Jacovelli-Vita, Milano, Università Cattolica del Sacro Cuore, 1928.",
+  "PMilan. 17": "Commentario ad Antimaco da Colofone, ed. A. Vogliano, PUniv.Milan. i. 17.",
+  "PMilan.R.Univ.": "PUniv.Milan. (q.v.).",
+  "PMonac.": "A. Heisenberg & L. Wenger, Byzantinische Papyri (Veröffentlichungen aus der Papyrus-Sammlung der K. Hof- und Staatsbibliothek zu München I), Leipzig 1914.",
+  "POsl.": "Papyri Osloenses, ed. S. Eitrem, Oslo 1925-.",
+  "POxy.": "Oxyrhynchus Papyri, ed. B. P. Grenfell & A. S. Hunt, London 1898-.",
+  "PPar.": "W. Brunet de Presle, Notices et extraits des papyrus grecs du musée du Louvre et de la bibliothèque impériale xviii (2), Paris 1865.",
+  "PPar.Wess.": "C. Wessely, Die Pariser Papyri des Fundes von El Faijûm (Wiener Denkschr. xxxvii (2) (1889) pp. 97 ff.).",
+  "PPetr.": "The Flinders Petrie Papyri . . , Pt. 1, ed. J. P. Mahaffy (Royal Irish Academy, Cunningham Memoirs, No. 8); Pt. 2, ed. J. P. Mahaffy (ibid., No. 9); Pt. 3, ed. J. P. Mahaffy & J. G. Smyly (ibid., No. 11), Dublin 1891-1905.",
+  "PPrincet.": "Papyri in the Princeton University Collections, vol. I ed. A. C. Johnson and H. B. van Hoesen ( = Johns Hopkins University Studies in Archaeology No. 10), Baltimore 1931; vol. II ed. E. H. Kase ( = Princeton University Studies in Papyrology No. 1), Princeton 1936.",
+  "PRain. (NS)": "Mitteilungen aus der Papyrussammlung der Nationalbibliothek in Wien (Papyrus Erzherzog Rainer). Neue Serie I i (1932), ed. H. Gerstinger; I ii (1939), ed. H. Oellacher; cf. CPR.",
+  "PRein.": "Papyrus grecs et démotiques . . , ed. Théodore Reinach, Paris 1905.",
+  "PRev.Laws": "B. P. Grenfell, Revenue Laws of Ptolemy Philadelphus, Oxford 1896.",
+  "PRoss.-Georg.": "Papyri Russischer und Georgischer Sammlungen, herausgegeben von Gregor Zereteli, bearbeitet von G Zereteli, O. Krüger, P. Jernstedt, Tiflis 1925-35.",
+  "PRyl.": "Catalogue of the Greek papyri in the John Rylands Library at Manchester, vol. i 1911, ed. A. S. Hunt; vol. ii 1915, ed. A. S. Hunt, J. de M. Johnson, V. Martin; vol. iii 1938, ed. C. H. Roberts.",
+  "PSI": "Papiri greci e latini (Pubblicazioni della Società italiana per la ricerca dei papiri greci e latini in Egitto), Firenze 1912-; cited by No. of vol., papyrus, and line.",
+  "PStrassb.": "F. Preisigke, Griechische Papyrus der kaiserlichen Universitäts- und Landesbibliothek zu Strassburg, 2 vols., Strassburg (afterwards Leipzig) 1906-20.",
+  "PTaur.": "V. A. Peyron, Papyri graeci regii Taurinensis musei Aegyptii, Turin 1826-7.",
+  "PTeb.": "Tebtunis Papyri, ed. B. P. Grenfell, A. S. Hunt, J. G. Smyly, E. J. Goodspeed, London & New York, vol. i 1902, vol. ii 1907, vol. iii pt. i 1933, pt. 2 (ed. A. S. Hunt, J. G. Smyly, C. C. Edgar; London & Univ. of California Press) 1938.",
+  "PThead.": "Papyrus de Théadelphie, éd. par Pierre Jouguet, Paris 1911.",
+  "PTheb.Bank": "U. Wilcken, Aktenstücke aus der Kgl. Bank zu Theben (Abh. Berl. Akad. 1886).",
+  "PUniv.Giss.": "H. Kling and others, Mitteilungen aus der Papyrussammlung der Giessener Universitätsbibliothek, 1924-.",
+  "PUniv.Milan.": "A. Vogliano, Papiri della R. Università di Milano, vol. i, Milan 1937.",
+  "PVarsov.": "G. Manteuffel, Papyri Varsovienses, Warsaw 1935.",
+  "PVat. 11": "Il Papiro Vaticano Greco 11 (1. Φαβωρίνου περὶ φυγῆς; 2. Registri Fondiari della Marmarica), ed. M. Norsa & G. Vitelli, Città del Vaticano, Biblioteca Apostolica Vaticana 1931. (Studi e Testi 53.)",
+  "PWarren": "The Warren Papyri, ed. A. S. Hunt, cited from Studi in onore di S. Riccobono ii, Palermo 1932, pp. 521-5, and Aegyptus xiii (1933) pp. 241-6.",
+  "PWürzb.": "Mitteilungen aus der Würzburger Papyrussammlung, von Ulrich Wilcken (Abhandlungen der Preussischen Akademie der Wissenschaften, 1933, Phil.-hist. Klasse No. 6), Berlin 1934.",
+  "PZen.Col.": "Zenon papyri: business papers of the 3rd century B.C., ed. W. L. Westermann and E. S. Hasenoehrl, New York, vol. i (Columbia Papyri, Greek Series, vol. iii) 1934.",
+  "Pelekides Thessalonica": "S. Pelekides, Ἀπὸ τὴν πολιτεία καὶ τὴν κοινωνία τῆς ἀρχαίας Θεσσαλονίκης, Salonika 1934.",
+  "Petersen-Luschan Reisen in Lykien": "E. Petersen & F. von Luschan, Reisen in Lykien, Milyas und Kibyratis, Vienna 1889.",
+  "Princeton Exp.Inscr.": "Publications of the Princeton University Archaeological Expeditions to Syria in 1904-5 and 1909: Division III, Greek and Latin Inscriptions, Leyden, Section A by E. Littmann, D. Magie, & D. R. Stuart, 1921; Section B by W. K. Prentice, 1922.",
+  "Puchstein Epigr.Gr.": "O.Puchstein, Epigrammata Graeca in Aegypto reperta, Strassburg 1880.",
+  "Raccolta Lumbroso": "Raccolta di Scritti in onore di G. Lumbroso, Milan 1925.",
+  "Ramsay Cities and Bishoprics": "[Sir] W. M. Ramsay, Cities and Bishoprics of Phrygia, Oxford 1895-7.",
+  "Ramsay Studies in Eastern Rom. Prov.": "Studies in the History and Art of the Eastern Provinces of the Roman Empire, ed. [Sir] W. M. Ramsay, Aberdeen 1906.",
+  "Robert Collection Froehner": "Collection Froehner (Bibliothèque nationale. Département des médailles et des antiques), i. Inscriptions grecques, ed. L. Robert, Paris 1936.",
+  "Robert Ét. Anat.": "L. Robert, Études Anatoliennes, Paris 1937 (Études orientales publiées par lʼinstitut français dʼarchéologie de Stamboul No. v).",
+  "Roussel Cultes Égyptiens": "P. Roussel, Les Cultes égyptiens à Délos, Nancy 1916.",
+  "Ruppel T. von Dakke": "W. Ruppel, Der Tempel von Dakke, vol. 3, Cairo 1930 (Service des Antiquités d’ Égypte).",
+  "Rüsch": "E. Rüsch, Grammatik der delphischen Inschriften i, Berlin 1914 (Epigraphischer Anhang, pp. 312-31).",
+  "SIG": "Sylloge Inscriptionum Graecarum, ed. W. Dittenberger, editio tertia, Leipzig 1915-24. (SIG 2 = editio altera, 1898-1901.)",
+  "Sammelb.": "Sammelbuch griechischer Urkunden aus Agypten (both inscriptions and papyri), Bde. i, ii ed. F. Preisigke, Strassburg (later Berlin & Leipzig) 1913-22; Bd. iii (6001-7269) ed. F. Bilabel, Berlin & Leipzig 1926-7; Bd. iv (7270-7514), Bd. v Heft 1 (7515-7654) ed. F. Bilabel, Heidelberg 1931, 1934.",
+  "Sardis 7(1)": "Sardis, Publications of the American Society for the Excavation of Sardis, Vol. vii, Greek and Latin Inscriptions, Part I, by W. H. Buckler and D. M. Robinson, Leyden 1932.",
+  "Schwyzer": "E. Schwyzer, Dialectorum Graecarum Exempla epigraphica potiora, Leipzig 1923.",
+  "Stud.Pal.": "C. Wessely, Studien zur Paläographie und Papyruskunde, Leipzig 1901-.",
+  "Stud.Pont.": "Studia Pontica, Brussels 1903-: vol. iii Recueil des inscriptions grecques et latines du Pont et de l’ Arménie, publ. par J. G. C. Anderson, F. Cumont, H. Grégoire, fasc. i (1910).",
+  "Supp.Epigr.": "Supplementum Epigraphicum Graecum, adjuvantibus P. Roussel, A. Salač, M. N. Tod, E. Ziebarth, ed. J. J. E. Hondius, Leyden 1923-.",
+  "Swoboda Denkmäler": "Denkmäler aus Lykaonien, Pamphylien und Isaurien, herausgegeben von H. Swoboda, J. Keil, und F. Knoll, Brünn etc., 1935.",
+  "TAM": "Tituli Asiae Minoris, vol. ii fasc. i, ed. E. Kalinka, Vicnna 1920; fasc. ii, 1930.",
+  "Tab.Defix.": "Defixionum Tabellae in Attica regione repertae, ed. R. Wuensch (IG 3 pars iii).",
+  "Tab.Defix.Aud.": "Defixionum Tabellae quotquot innotuerunt, ed. A. Audollent, Paris 1904.",
+  "Tab.Heracl.": "Tabulae Heracleenses (IG 14.645, Schwyzer 62-3).",
+  "Test.Epict.": "Testamentum Epictetae (IG 12(3).330, Michel 1001, Schwyzer 227); cited by col. and line.",
+  "Theb.Ostr.": "Theban Ostraca . . Pt. iii: Greek texts, by J. G. Milne, Toronto (Oxford) 1913.",
+  "Thunell Sitologenpapyri": "K.Thunell, Sitologen-Papyri aus d. Berliner Museum, Uppsala 1924; republished in P Berl. Leihg.",
+  "UPZ": "U. Wilcken, Urkunden der Ptolemäerzeit: I. Papyri aus Unterägypten, Berlin & Leipzig 1922; II. Papyri aus Oberägypten, 1935-.",
+  "Wiegand Mnemos.": "Mnemosynon Theodor Wiegand dargebracht, Munich 1938.",
+  "Wood Ephesus": "J. T. Wood, Discoveries at Ephesus, London 1877.",
+  "pars ii]. vol. iii": "Inscriptiones Atticae aetatis Romanae, ed W. Dittenberger, pars i 1878, pars ii 1882, pars iii (v. Tab. Defix.) 1897 [ = Corpus Inscriptionum Atticarum, vol. iii partes i, ii,"
+ },
+ "works": {
+  "A.": {
+   "Ag.": "Agamemnon",
+   "Ch.": "Choephori",
+   "Eleg.": "Fragmenta Elegiaca",
+   "Eu.": "Eumenides",
+   "Fr.": "Fragmenta",
+   "Pers.": "Persae",
+   "Pr.": "Prometheus Vinctus",
+   "Supp.": "Supplices",
+   "Th.": "Septem contra Thebas"
+  },
+  "A.D.": {
+   "Adv.": "de Adverbiis; cited by Schneiderʼs page and line",
+   "Conj.": "de Conjunctionibus; cited by Schneiderʼs page and line",
+   "Pron.": "de Pronominibus; cited by Schneiderʼs page and line",
+   "Synt.": "de Syntaxi; cited by Bekkerʼs page and line, given in Uhligʼs margin"
+  },
+  "Ael.": {
+   "Ep.": "Epistulae (ed. R. Hercher, Epistolographi, p. 17)",
+   "Fr.": "Fragmenta",
+   "NA": "De Natura Animalium (excerpts in Ar.Byz.Epit.)",
+   "Tact.": "Tactica (ed. H. Köchly & W. Rüstow, Griechische Kriegsschriftsteller, Leipzig 1855)",
+   "VH": "Varia Historia"
+  },
+  "Aeschin.": {
+   "Ep.": "Epistulae"
+  },
+  "Aesop.": {
+   "Prov.": "Proverbia"
+  },
+  "Afric.": {
+   "Cest.": "Κεστοί in POxy. 412"
+  },
+  "Agatharch.": {
+   "Fr.Hist.": "Fragmenta Historica"
+  },
+  "Alcid.": {
+   "Od.": "Ὀδυσσεύς",
+   "Soph.": "περὶ σοφιστῶν"
+  },
+  "Alex.Aphr.": {
+   "Pr.": "Problemata",
+   "Quaest.": "Quaestiones"
+  },
+  "Alex.Trall.": {
+   "Febr.": "de febribus",
+   "Verm.": "epistula de vermibus"
+  },
+  "Anon.": {
+   "Fig.": "Anonymi de Figuris",
+   "GGM ii p. 494. in Cat.": "Anonymi in Aristotelis Categorias paraphrasis"
+  },
+  "Anon.Rhythm.": {
+   "Oxy.": "POxy. 9"
+  },
+  "Antisth.": {
+   "Aj.": "Αἴας",
+   "Od.": "Ὀδυσσεύς"
+  },
+  "Apollon.": {
+   "Aeschin.": "Vita Aeschinis"
+  },
+  "App.": {
+   "BC": "Bella Civilia",
+   "Gall.": "Κελτική",
+   "Hann.": "Ἀννιβαϊκή",
+   "Hisp.": "Ἰβηρική",
+   "Ill.": "Ἰλλυρική",
+   "Ital.": "Ἰταλική",
+   "Mac.": "Μακεδονική",
+   "Mith.": "Μιθριδάτειος",
+   "Praef.": "Praefatio",
+   "Pun.": "Λιβυκή",
+   "Reg.": "Βασιλική",
+   "Sam.": "Σαυνιτική",
+   "Sic.": "Σικελική",
+   "Syr.": "Συριακή"
+  },
+  "Aps.": {
+   "Rh.": "Ars Rhetorica"
+  },
+  "Ar.": {
+   "Ach.": "Acharnenses",
+   "Av.": "Aves",
+   "Ec.": "Ecclesiazusae",
+   "Eq.": "Equites",
+   "Fr.": "Fragmenta",
+   "Lys.": "Lysistrata",
+   "Nu.": "Nubes",
+   "Pl.": "Plutus",
+   "Ra.": "Ranae",
+   "Th.": "Thesmophoriazusae",
+   "V.": "Vespae Scholia"
+  },
+  "Ar.Byz.": {
+   "Epit.": "Historiae Animalium Epitome subiunctis Aeliani Timothei aliorumque eclogis"
+  },
+  "Archim.": {
+   "Aequil.": "περὶ ἰσορροπιῶν",
+   "Aren.": "ψαμμίτης",
+   "Bov.": "πρόβλημα βοεικόν",
+   "Circ.": "κύκλου μέτρησις",
+   "Con.Sph.": "περὶ κωνοειδέων καὶ σφαιροειδέων",
+   "Eratosth.": "πρὸς Ἐρατοσθένην ἔφοδος",
+   "Fluit.": "περὶ τῶν ὀχουμένων",
+   "Fr.": "Fragmenta",
+   "Quadr.": "τετραγωνισμὸς παραβολῆς",
+   "Sph.Cyl.": "περὶ σφαίρας καὶ κυλίνδρου",
+   "Spir.": "περὶ ἑλίκων",
+   "Stom.": "στομάχιον"
+  },
+  "Aret.": {
+   "CA": "ὀξέων νούσων θεραπευτικόν",
+   "CD": "χρονίων νούσων θεραπευτικόν",
+   "SA": "περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν",
+   "SD": "περὶ αἰτιῶν καὶ σημείων χρονίων παθῶν"
+  },
+  "Arist.": {
+   "APo.": "Analytica Posteriora",
+   "APr.": "Analytica Priora",
+   "Ath.": "Ἀθηναίων Πολιτεία",
+   "Aud.": "de Audibilibus",
+   "Cael.": "de Caelo",
+   "Cat.": "Categoriae",
+   "Col.": "de Coloribus",
+   "Div.Somn.": "de Divinatione per Somnia",
+   "EE": "Ethica Eudemia",
+   "EN": "Ethica Nicomachea",
+   "Ep.": "Epistulae",
+   "Fr.": "Fragmenta",
+   "GA": "de Generatione Animalium",
+   "GC": "de Generatione et Corruptione",
+   "HA": "Historia Animalium",
+   "IA": "de Incessu Animalium",
+   "Insomn.": "de Insomniis",
+   "Int.": "de Interpretatione",
+   "Juv.": "de Juventute",
+   "LI": "de Lineis Insecabilibus",
+   "Long.": "de Longaevitate",
+   "MA": "de Motu Animalium",
+   "MM": "Magna Moralia",
+   "Mech.": "Mechanica",
+   "Mem.": "de Memoria",
+   "Metaph.": "Metaphysica",
+   "Mete.": "Meteorologica",
+   "Mir.": "Mirabilia",
+   "Mu.": "de Mundo",
+   "Oec.": "Oeconomica",
+   "PA": "de Partibus Animalium",
+   "Pepl.": "Peplus (Fr. 640)",
+   "Ph.": "Physica",
+   "Phgn.": "Physiognomonica",
+   "Po.": "Poetica",
+   "Pol.": "Politica",
+   "Pr.": "Problemata",
+   "Resp.": "de Respiratione",
+   "Rh.": "Rhetorica",
+   "Rh.Al.": "Rhetorica ad Alexandrum",
+   "SE": "Sophistici Elenchi",
+   "Sens.": "de Sensu",
+   "Somn.Vig.": "de Somno et Vigilia",
+   "Spir.": "de Spiritu",
+   "Top.": "Topica",
+   "VV": "de Virtutibus et Vitiis",
+   "Vent.": "de Ventis",
+   "Xen.": "de Xenophane",
+   "de An.": "de Anima"
+  },
+  "Aristid.": {
+   "Or.": "Orationes, cited by speech and section, if from Keil; the rest cited without title by Jebbʼs vol. and page (given in margin of Dindorf)",
+   "Rh.": "τέχναι ῥητορικαί"
+  },
+  "Arr.": {
+   "Alan.": "Expeditio contra Alanos"
+  },
+  "Astramps.": {
+   "Onir.": "Onirocritica"
+  },
+  "Ath.": {
+   "Epit.": "Epitome"
+  },
+  "Aus.": {
+   "Ep.": "Epistulae",
+   "Epigr.": "Epigrammata",
+   "Idyll.": "Idyllia"
+  },
+  "Bacch.": {
+   "Harm.": "Εἰσαγωγὴ τέχνης μουσικῆς"
+  },
+  "Besant.": {
+   "Ara": "AP 15.25"
+  },
+  "Brut.": {
+   "Ep.": "Epistula"
+  },
+  "Cael.Aur.": {
+   "CP": "Celeres Passiones",
+   "TP": "Tardae Passiones"
+  },
+  "Call.": {
+   "Aet.": "Aetia",
+   "Ap.": "Hymnus in Apollinem",
+   "Cer.": "Hymnus in Cererem",
+   "Del.": "Hymnus in Delum",
+   "Dian.": "Hymnus in Dianam",
+   "Epigr.": "Epigrammata",
+   "Fr.": "Fragmenta",
+   "Fr.anon.": "Fragmenta anonyma",
+   "Hec.": "Hecale",
+   "Iamb.": "Iambi",
+   "Jov.": "Hymnus in Jovem",
+   "Lav.Pall.": "Lavacrum Palladis",
+   "Sos.": "Sosibii Victoria Note.—Aet., Hec., Iamb. generally refer to Mairʼs edition; fragments cited from Pfeifferʼs edition are distinguished by the initial ‘P.’"
+  },
+  "Callistr.": {
+   "Stat.": "Statuarum descriptiones"
+  },
+  "Chor.": {
+   "Brum.": "εἰς τὰ Ἰουστινιανοῦ Βρουμάλια",
+   "Lyd.": "Λυδοί",
+   "Milt.": "Μιλτιάδης",
+   "Proc.": "Ἐπιθαλάμιος εἰς Προκόπιον",
+   "Zach.": "Ἐπιθαλάμιος εἰς Ζαχαρίαν"
+  },
+  "Cic.": {
+   "Acad.": "Academica",
+   "Brut.": "Brutus. ed. A. S. Wilkins, Oxford (OCT). Fam",
+   "Orat.": "Oralor",
+   "Top.": "Topica"
+  },
+  "Clem.Al.": {
+   "Paed.": "Paedagogus",
+   "Protr.": "Protrepticus",
+   "Strom.": "Stromateis"
+  },
+  "Cleonid.": {
+   "Harm.": "Introductio Harmonica"
+  },
+  "Crates Theb.": {
+   "Ep.": "Epistulae"
+  },
+  "D.": {
+   "Ep.": "Epistulae",
+   "Prooem.": "Prooemia"
+  },
+  "D.H.": {
+   "Amm.": "Epistula ad Ammaeum 1, 2",
+   "Comp.": "de Compositione Verborum",
+   "Dem.": "de Demosthene",
+   "Din.": "de Dinarcho",
+   "Is.": "de Isaeo",
+   "Isoc.": "de Isocrate",
+   "Lys.": "de Lysia",
+   "Orat.Vett.": "de Oratoribus Veteribus",
+   "Pomp.": "Epistula ad Pompeium",
+   "Rh.": "Ars Rhetorica",
+   "Th.": "de Thucydide Vett.Cens. = de Veterum Censura"
+  },
+  "Dam.": {
+   "Isid.": "Vita Isidori"
+  },
+  "Damian.": {
+   "Opt.": "Optica"
+  },
+  "Demad.": {
+   "Fr.": "Fragmenta"
+  },
+  "Demetr.": {
+   "Eloc.": "Demetrius on Style"
+  },
+  "Demoph.": {
+   "Sent.": "Sententiae"
+  },
+  "Did.": {
+   "D.": "Commentary on Demosthenes"
+  },
+  "Din.": {
+   "Fr.": "Fragmenta"
+  },
+  "Diog.": {
+   "Ep.": "Epistulae"
+  },
+  "Dosiad.": {
+   "Ara": "AP 15. 26"
+  },
+  "Dsc.": {
+   "Alex.": "Alexipharmaca; Ther"
+  },
+  "E.": {
+   "*Antiop.": "Antiope",
+   "*Archel.": "Archelaus",
+   "*Cret.": "Cretes",
+   "*Melanipp.Capt.": "Melanippe Captiva",
+   "*Melanipp.Sap.": "Melanippe Sapiens",
+   "*Oen.": "Oeneus",
+   "*Phaëth.": "Phaëthon",
+   "*Pirith.": "Pirithous",
+   "*Sthen.": "Stheneboea",
+   "Alc.": "Alcestis",
+   "Andr.": "Andromache",
+   "Ba.": "Bacchae",
+   "Cyc.": "Cyclops",
+   "El.": "Electra",
+   "Ep.": "Epistulae",
+   "Epigr.": "Epigrammata",
+   "Fr.": "Fragmenta",
+   "HF": "Hercules Furens",
+   "Hec.": "Hecuba",
+   "Hel.": "Helena",
+   "Heracl.": "Heraclidae",
+   "Hipp.": "Hippolytus",
+   "Hyps.": "Hypsipyle",
+   "IA": "Iphigenia Aulidensis",
+   "IT": "Iphigenia Taurica",
+   "Med.": "Medea",
+   "Or.": "Orestes",
+   "Ph.": "Phoenissae",
+   "Rh.": "Rhesus",
+   "Supp.": "Supplices",
+   "Tr.": "Troades Scholia in Euripidem"
+  },
+  "Emp.": {
+   "Sphaer.": "Sphaera"
+  },
+  "Epict.": {
+   "Ench.": "Enchiridion",
+   "Fr.": "Fragmenta",
+   "Gnom.": "Gnomologium"
+  },
+  "Epicur.": {
+   "Dial. 1413": "Dialogus, in PHerc. 1413 (ined.)",
+   "Ep.": "Epistulae",
+   "Fr.": "Fragmenta",
+   "Nat.": "De rerum natura, partim ined. (cited by book [2, 11, 14, 15, or 28] and col. or Fr.: unnumbered books cited as",
+   "Sent.": "Sententiae ( κύριαι δόξαι )",
+   "Sent.Vat.": "Gnomologium Vaticanum"
+  },
+  "Eratosth.": {
+   "Cat.": "Καταστερισμοί"
+  },
+  "Et.Gud.": {
+   "z": "Cod. Par. Suppl. Gr. 172"
+  },
+  "Euc.": {
+   "Dat.": "Data",
+   "Fr.": "Fragmenta",
+   "Opt.": "Optica",
+   "Phaen.": "Phaenomena",
+   "Sect.Can.": "Sectio Canonis"
+  },
+  "Eudox.": {
+   "Ars": "Ars astronomica"
+  },
+  "Eun.": {
+   "Hist.": "Fragmenta Historica"
+  },
+  "Euph.": {
+   "Hist.": "Fragmenta Historica"
+  },
+  "Eus.": {
+   "DE": "Demonstratio Evangelica"
+  },
+  "Ezek.": {
+   "Exag.": "Exagoge"
+  },
+  "Gem.": {
+   "Calend.": "Calendarium"
+  },
+  "Gorg.": {
+   "Pal.": "Helena, Palamedes"
+  },
+  "Hdn.": {
+   "Gr.": "Herodiani Technici reliquiae",
+   "Philet.": "Philetaerus"
+  },
+  "Hdt.": {
+   "Hom.": "Vita Homeri"
+  },
+  "Heraclit.": {
+   "All.": "Allegoriae",
+   "Ep.": "Epistulae"
+  },
+  "Hermipp.": {
+   "Iamb.": "Fragmenta Iamborum"
+  },
+  "Hermog.": {
+   "*Deff.": "Definitiones",
+   "*Geep.": "Liber Geeponicus",
+   "*Geom.": "Geometrica",
+   "*Mens.": "Mensurae",
+   "*Stereom.": "Stereometrica",
+   "Aut.": "Automatopoetica",
+   "Bel.": "Belopoeica",
+   "Dioptr.": "Dioptra",
+   "Id.": "περὶ ἰδεῶν",
+   "Inv.": "περὶ εὑρέσεως",
+   "Meth.": "περὶ μεθόδου δεινότητος",
+   "Metr.": "Metrica",
+   "Prog.": "προγυμνάσματα",
+   "Spir.": "(Spiritalia) Pneumatica",
+   "Stat.": "περὶ τῶν στάσεων"
+  },
+  "Hes.": {
+   "Fr.": "Fragmenta",
+   "Op.": "Opera et Dies",
+   "Sc.": "Scutum Herculis",
+   "Th.": "Theogonia"
+  },
+  "Him.": {
+   "Ecl.": "Eclogae",
+   "Or.": "Orationes"
+  },
+  "Hippol.": {
+   "Haer.": "Refutatio Omnium Haeresium"
+  },
+  "Hom.": {
+   "Batr.": "Batrachomyomachia",
+   "Epigr.": "Epigrammata",
+   "Il.": "Ilias",
+   "Od.": "Odyssea"
+  },
+  "Hp.": {
+   "Acut.": "περὶ διαίτης ὀξέων",
+   "Acut.(Sp.)": "περὶ διαίτης ὀξέων (νόθα )",
+   "Aff.": "περὶ παθῶν",
+   "Alim.": "περὶ τροφῆς",
+   "Anat.": "περὶ ἀνατομῆς",
+   "Aph.": "ἀφορισμοί",
+   "Art.": "περὶ ἄρθρων ἐμβολῆς",
+   "Aër.": "περὶ ἀέρων ὑδάτων τόπων",
+   "Carn.": "περὶ σαρκῶν",
+   "Coac.": "Κωακαὶ προγνώσιες",
+   "Cord.": "περὶ καρδίης",
+   "Decent.": "περὶ εὐσχημοσύνης",
+   "Dent.": "περὶ ὀδοντοφυΐης",
+   "Dieb.Judic.": "περὶ κρισίμων ἡμερέων",
+   "Ep.": "ἐπιστολαί",
+   "Epid.": "ἐπιδημίαι",
+   "Fist.": "περὶ συρίγγων",
+   "Flat.": "περὶ φυσῶν",
+   "Foet.Exsect.": "περὶ ἐγκατατομῆς ἐμβρύοι",
+   "Fract.": "περὶ ἀγμῶν",
+   "Genit.": "περὶ γονῆς",
+   "Gland.": "περὶ ἀδένων",
+   "Haem.": "περὶ αἱμορροΐδων",
+   "Hebd.": "περὶ ἑβδομάδων",
+   "Hum.": "περὶ χυμῶν",
+   "Insomn.": "περὶ ἐνυπνίων",
+   "Int.": "περὶ τῶν ἐντὸς παθῶν",
+   "Judic.": "περὶ κρισίων",
+   "Jusj.": "ὅρκος",
+   "Lex": "νόμος",
+   "Liqu.": "περὶ ὑγρῶν χρήσιος",
+   "Loc.Hom.": "περὶ τόπων τῶν κατὰ ἄνθρωπον",
+   "Medic.": "περὶ ἰητροῦ",
+   "Mochl.": "μοχλικόν",
+   "Morb.": "περὶ νούσων",
+   "Morb.Sacr.": "περὶ ἱερῆς νούσου",
+   "Mul.": "γυναικεῖα",
+   "Nat.Hom.": "περὶ φύσιος ἀνθρώπου",
+   "Nat.Mul.": "περὶ γυναικείης φύσιος",
+   "Nat.Puer.": "περὶ φύσιος παιδίου",
+   "Oct.": "περὶ ὀκταμήνου",
+   "Off.": "κατʼ ἰητρεῖον",
+   "Oss.": "περὶ ὀστέων φύσιος",
+   "Praec.": "παραγγελίαι",
+   "Prog.": "προγνωστικόν",
+   "Prorrh.": "προρρητικόν",
+   "Salubr.": "περὶ διαίτης ὑγιεινῆς",
+   "Septim.": "περὶ ἑπταμήνου",
+   "Septim. (Sp.)": "περὶ ἑπταμήνου (second treatise)",
+   "Steril.": "περὶ ἀφόρων",
+   "Superf.": "περὶ ἐπικυήσιος",
+   "Ulc.": "περὶ ἑλκῶν",
+   "VC": "περὶ τῶν ἐν κεφαλη_ τρωμάτων",
+   "VM": "περὶ ἀρχαίης ἰητρικῇς",
+   "Vict.": "περὶ διαίτης",
+   "Vid.Ac.": "περὶ ὄψιος",
+   "Virg.": "περὶ παρθενίων",
+   "de Arte": "περὶ τέχνης"
+  },
+  "Hyp.": {
+   "Ath.": "adv. Athenogenem",
+   "Dem.": "adv. Demosthenem",
+   "Epit.": "Epitaphius",
+   "Eux.": "pro Euxenippo",
+   "Fr.": "Fragmenta",
+   "Lyc.": "pro Lycophrone",
+   "Phil.": "adv. Philippum"
+  },
+  "Iamb.": {
+   "Protr.": "Protrepticus"
+  },
+  "Ibyc.": {
+   "Oxy.": "POxy. 1790"
+  },
+  "Isid.": {
+   "Etym.": "Etymologiae"
+  },
+  "Isoc.": {
+   "Ep.": "Epistulae"
+  },
+  "J.": {
+   "AJ": "Antiquitates Judaicae",
+   "Ap.": "contra Apionem",
+   "BJ": "Bellum Judaicum",
+   "Vit.": "Vita"
+  },
+  "Jul.": {
+   "Caes.": "Caesares",
+   "Ep.": "Epistulae",
+   "Gal.": "contra Galilaeos",
+   "Mis.": "Misopogon",
+   "Or.": "Orationes",
+   "ad Ath.": "Epistula ad Athenienses",
+   "ad Them.": "Epistula ad Themistium"
+  },
+  "LXX": {
+   "1 Ch.": "1 Chronicles",
+   "1 Es.": "1 Esdras",
+   "1 Ki.": "1 Kings",
+   "1 Ma.": "1 Maccabees",
+   "2 Ch.": "2 Chronicles",
+   "2 Es.": "2 Esdras",
+   "2 Ki.": "2 Kings",
+   "2 Ma.": "2 Maccabees",
+   "3 Ki.": "3 Kings",
+   "3 Ma.": "3 Maccabees",
+   "4 Ki.": "4 Kings",
+   "4 Ma.": "4 Maccabees",
+   "Am.": "Amos",
+   "Aq.": "Aquila (q. v.) Heb",
+   "Ba.": "Baruch",
+   "Ca.": "Canticles",
+   "Da.": "Daniel",
+   "De.": "Deuteronomy",
+   "Ec.": "Ecclesiastes",
+   "Ep.Je.": "Epistle of Jeremiah",
+   "Es.": "Esther",
+   "Ex.": "Exodus",
+   "Ez.": "Ezekiel",
+   "Ge.": "Genesis",
+   "Hb.": "Habakkuk",
+   "Hg.": "Haggai",
+   "Ho.": "Hosea",
+   "Is.": "Isaiah",
+   "Jb.": "Job",
+   "Jd.": "Judges",
+   "Je": "Jeremiah",
+   "Jl.": "Joel",
+   "Jn.": "Jonah",
+   "Jo.": "Joshua",
+   "Ju.": "Judith",
+   "La.": "Lamentations",
+   "Le.": "Leviticus",
+   "Ma.": "Malachi",
+   "Mi.": "Micah",
+   "Na.": "Nahum",
+   "Ne.": "Nehemian",
+   "Nu.": "Numbers",
+   "Ob.": "Obadiah",
+   "Pr.": "Proverbs",
+   "Prec.Man.": "Prayer of Manasses",
+   "Ps.": "Psalms",
+   "Quint.": "Quinta Sext",
+   "Ru.": "Ruth",
+   "Si.": "Ecclesiasticus (Siracides)",
+   "Sm.": "Symmachus",
+   "Su.": "Susanna",
+   "To.": "Tobit",
+   "Wi.": "Wisdom of Solomon",
+   "Za.": "Zechariah",
+   "Ze.": "Zephaniah"
+  },
+  "Lib.": {
+   "Arg.D.": "Argumenta Orationum Demosthenicarum (viii p. 600)",
+   "Chr.": "Chriae (viii p. 63)",
+   "Comp.": "Comparationes (viii p. 334)",
+   "Conf.": "Confirmationes (viii p. 138)",
+   "Decl.": "Declamationes (v-vii)",
+   "Def.Leg.": "Defensio Legis (viii p. 568)",
+   "Descr.": "Descriptiones (viii p. 460)",
+   "Enc.": "Encomia (viii p. 216)",
+   "Ep.": "Epistulae (x, xi)",
+   "Eth.": "Ethopoeiae (viii p. 372)",
+   "Fab.": "Fabulae (viii p. 24)",
+   "Loc.": "Loci Communes (viii p. 158)",
+   "Narr.": "Narrationes (viii p. 33)",
+   "Or.": "Orationes (i-iv)",
+   "Ref.": "Refutationes (viii p. 123)",
+   "Sent.": "Sententiae (viii p. 106)",
+   "Thes.": "Theses (viii p. 550)",
+   "Vit.": "Vituperationes (viii p. 282)"
+  },
+  "Longin.": {
+   "Fr.": "Fragmenta",
+   "Rh.": "Ars Rhetorica"
+  },
+  "Luc.": {
+   "Abd.": "Abdicatus",
+   "Alex.": "Alexander",
+   "Am.": "Amores",
+   "Anach.": "Anacharsis",
+   "Apol.": "Apologia",
+   "Asin.": "Asinus",
+   "Astr.": "de Astrologia",
+   "Bacch.": "Bacchus",
+   "Bis Acc.": "Bis Accusatus",
+   "Cal.": "Calumniae non temere credendum",
+   "Cat.": "Cataplus",
+   "Charid.": "Charidemus",
+   "Cont.": "Contemplantes",
+   "Cyn.": "Cynicus",
+   "DDeor.": "Dialogi Deorum",
+   "DMar.": "Dialogi Marini",
+   "DMeretr.": "Dialogi Meretricii",
+   "DMort.": "Dialogi Mortuorum",
+   "Dem.Enc.": "Demosthenis Encomium",
+   "Demon.": "Demonax",
+   "Deor.Conc.": "Deorum Concilium",
+   "Dips.": "Dipsades",
+   "Dom.": "de Domo",
+   "Electr.": "Electrum",
+   "Ep.Sat.": "Epistulae Saturnales",
+   "Eun.": "Eunuchus",
+   "Fug.": "Fugitivi",
+   "Gall.": "Gallus",
+   "Halc.": "Halcyon",
+   "Harm.": "Harmonides",
+   "Herc.": "Hercules",
+   "Herm.": "Hermotimus",
+   "Herod.": "Herodotus",
+   "Hes.": "Hesiodus",
+   "Hipp.": "Hippias",
+   "Hist.Conscr.": "Quomoao historia conscribenda sit",
+   "Icar.": "Icaromenippus",
+   "Im.": "Imagines",
+   "Ind.": "adversus Indoctum",
+   "JConf.": "Juppiter Confutatus",
+   "JTr.": "Juppiter Tragoedus",
+   "Jud.Voc.": "Judicium Vocalium",
+   "Laps.": "pro Lapsu inter Salutandum",
+   "Lex.": "Lexiphanes",
+   "Luct.": "de Luctu",
+   "Macr.": "Macrobii",
+   "Merc.Cond.": "de Mercede Conductis",
+   "Musc.Enc.": "Muscae Encomium",
+   "Nav.": "Navigium",
+   "Nec.": "Necyomantia",
+   "Ner.": "Nero",
+   "Nigr.": "Nigrinus",
+   "Ocyp.": "Ocypus",
+   "Par.": "de Parasito",
+   "Patr.Enc.": "Patriae Encomium",
+   "Peregr.": "de Morte Peregrini",
+   "Phal.": "Phalaris 1, 2",
+   "Philopatr.": "Philopatris [Ps.-Luc.]",
+   "Philops.": "Philopseudes",
+   "Pisc.": "Piscator",
+   "Pr.Im.": "pro Imaginibus",
+   "ProMerc.Cond.": "pro Mercede Conductis",
+   "Prom.": "Prometheus",
+   "Prom.Es": "Prometheus es in verbis",
+   "Pseudol.": "Pseudologista",
+   "Rh.Pr.": "Rhetorum praeceptor",
+   "Sacr.": "de Sacrificiis",
+   "Salt.": "de Saltatione",
+   "Sat.": "Saturnalia",
+   "Scyth.": "Scytha",
+   "Sol.": "Soloecista",
+   "Somn.": "Somnium sive Vita Luciani",
+   "Symp.": "Symposium",
+   "Syr.D.": "de Syria Dea",
+   "Tim.": "Timon",
+   "Tox.": "Toxaris",
+   "Trag.": "Tragodopodagra",
+   "Tyr.": "Tyrannicida",
+   "VH": "Verae Historiae 1, 2",
+   "Vit.Auct.": "Vitarum Auctio",
+   "Zeux.": "Zeuxis"
+  },
+  "Lyc.": {
+   "Fr.": "Fragmenta Tragica"
+  },
+  "Lysipp.": {
+   "Lysis Philosophus Ep.": "Epistula, v. Pythagorae et Pythagoreorum Epistulae"
+  },
+  "Macr.": {
+   "Exc.": "Excerpta Grammatica"
+  },
+  "Marcian.": {
+   "Epit.": "Artemidori Epitome"
+  },
+  "Marin.": {
+   "Procl.": "Vita Procli"
+  },
+  "Max.": {
+   "Epit.": "Epitome"
+  },
+  "Mel.": {
+   "Melissa Ep.": "Epistula, v Pythagorae et Pythagoreorum Epistulae"
+  },
+  "Men.": {
+   "Epit.": "Ἐπιτρέποντες",
+   "Georg.": "Γεωργός",
+   "Her.": "Ἥρως",
+   "Inc.": "Fabula incerta 1, 2",
+   "Kith.": "Κιθαριστής",
+   "Kol.": "Κόλαξ",
+   "Kon.": "Κωνεαζόμεναι",
+   "Mis.": "Μισούμεναι",
+   "Mon.": "Μονόστιχοι",
+   "Per.": "Περινθία",
+   "Phasm.": "Φάσμα",
+   "Pk.": "Περικειρομένη",
+   "Sam.": "Σαμία"
+  },
+  "Mesom.": {
+   "Mus.": "Hymnus in Musam",
+   "Nem.": "Hymnus in Nemesin",
+   "Sol.": "Hymnus in Solem"
+  },
+  "Muson.": {
+   "Ep.": "Epistula in R. Hercher, Epistolographi, p. 401",
+   "Myia Ep.": "Epistula, v. Pythagorae et Pythagoreorum Epistulae"
+  },
+  "Nic.": {
+   "Al.": "Alexipharmaca",
+   "Th.": "Theriaca Scholia vetera ed. H. Bianchi, Stud. Ital. xii (1904) p. 321"
+  },
+  "Nic.Dam.": {
+   "Vit.Caes.": "Vita Caesaris"
+  },
+  "Nicol.": {
+   "Prog.": "Progymnasmata"
+  },
+  "Nicom.": {
+   "Ar.": "Arithmetica Introductio",
+   "Exc.": "Excerpta, ib., p. 266"
+  },
+  "Nonn.": {
+   "D.": "Dionysiaca"
+  },
+  "Olymp.": {
+   "Proll.": "Prolegomena"
+  },
+  "Opp.": {
+   "C.": "Cynegetica",
+   "H.": "Halieutica"
+  },
+  "Orib.": {
+   "Cels.": "contra Celsum",
+   "Eup.": "Euporista",
+   "Fr.": "Fragmenta",
+   "Syn.": "Synopsis",
+   "inc.": "liber incertus"
+  },
+  "Orph.": {
+   "A.": "Argonautica",
+   "H.": "Hymni",
+   "L.": "Lithica Fr. = Fragmenta"
+  },
+  "Pancrat.": {
+   "Oxy.": "POxy. 1085"
+  },
+  "Ph.": {
+   "Fr.": "Fragmenta"
+  },
+  "Phalar.": {
+   "Ep.": "Epistulae"
+  },
+  "Philostr.": {
+   "Dial.": "Διαλέξεις",
+   "Ep.": "Epistulae",
+   "Her.": "Heroicus",
+   "VA": "Vita Apollonii",
+   "VS": "Vitae Sophistarum Gym. = de gymnastica"
+  },
+  "Philostr.Jun.": {
+   "Im.": "Imagines"
+  },
+  "Phld.": {
+   "Herc.": "Herculanensia Volumina, Collectio altera, Naples 1862-76, (i. e. partim inedita) (ex apographis W. Crönert). [No. of papyrus, Col. or Fr.] Hom",
+   "Ind.": "Academicorum Index",
+   "Sto.": "Stóicorum Index Herculanensis"
+  },
+  "Phleg.": {
+   "Macr.": "Macrobii",
+   "Mir.": "Miracula",
+   "Olymp.": "Olympiades Fragmenta Historica"
+  },
+  "Phlp.": {
+   "Cat.": "Philoponi (olim Ammonii) in Aristotelis Categorias commentarium",
+   "GA": "Philoponi (Michaelis Ephesii) in libros de Generatione Animalium commentaria"
+  },
+  "Phot.": {
+   "Bibl.": "Bibliotheca"
+  },
+  "Phryn.": {
+   "PS": "Praeparatio Sophistica"
+  },
+  "Pi.": {
+   "Fr.": "Fragmenta. Dith.Oxy. = Dithyrambi, in POxy. 1604. Pae., Parth. = Paeanes, Parthenia",
+   "I.": "Olympian, Pythian, Nemean, Isthmian Odes;",
+   "N.": "Olympian, Pythian, Nemean, Isthmian Odes;",
+   "O.": "Olympian, Pythian, Nemean, Isthmian Odes;",
+   "P.": "Olympian, Pythian, Nemean, Isthmian Odes;"
+  },
+  "Pl.": {
+   "Alc.": "Alcibiades 1, 2",
+   "Amat.": "Amatores",
+   "Ap.": "Apologia",
+   "Ax.": "Axiochus",
+   "Chrm.": "Charmides",
+   "Clit.": "Clitopho",
+   "Cra.": "Cratylus",
+   "Cri.": "Crito",
+   "Criti.": "Critias",
+   "Def.": "Definitiones",
+   "Demod.": "Demodocus",
+   "Ep.": "Epistulae",
+   "Epigr.": "Epigrammata",
+   "Epin.": "Epinomis",
+   "Erx.": "Eryxias",
+   "Euthd.": "Euthydemus",
+   "Euthphr.": "Euthyphro",
+   "Grg.": "Gorgias",
+   "Hipparch.": "Hipparchus",
+   "Hp.Ma.": "Hippias Major, Minor",
+   "Hp.Mi.": "Hippias Major, Minor",
+   "Just.": "De Justo",
+   "La.": "Laches",
+   "Lg.": "Leges",
+   "Ly.": "Lysis",
+   "Men.": "Meno",
+   "Min.": "Minos",
+   "Mx.": "Menexenus",
+   "Phd.": "Phaedo",
+   "Phdr.": "Phaedrus",
+   "Phlb.": "Philebus",
+   "Plt.": "Politicus",
+   "Prm.": "Parmenides",
+   "Prt.": "Protagoras",
+   "R.": "Respublica",
+   "Sis.": "Sisyphus",
+   "Smp.": "Symposium",
+   "Sph.": "Sophista",
+   "Thg.": "Theages",
+   "Tht.": "Theaetetus",
+   "Ti.": "Timaeus",
+   "Virt.": "De Virtute Scholia"
+  },
+  "Plb.": {
+   "Fr.": "Fragmenta"
+  },
+  "Plin.": {
+   "HN": "Historia Naturalis"
+  },
+  "Plu.": {
+   "Aem.": "Aemilius Paulus",
+   "Ages.": "Agesilaus",
+   "Alc.": "Alcibiades",
+   "Alex.": "Alexander",
+   "Ant.": "Antonius",
+   "Arat.": "Aratus",
+   "Arist.": "Aristides",
+   "Art.": "Artoxerxes",
+   "Brut.": "Brutus",
+   "CG": "C. Gracchus",
+   "Caes.": "Caesar",
+   "Cam.": "Camillus",
+   "Cat.Ma.": "Cato Major, Minor",
+   "Cat.Mi.": "Cato Major, Minor",
+   "Cic.": "Cicero",
+   "Cim.": "Cimon",
+   "Cleom.": "Cleomenes",
+   "Comp.": "Comparatio [followed by two names]",
+   "Cor.": "Coriolanus",
+   "Crass.": "Crassus",
+   "Daed.": "de Daedalʼs Plataeensibus (vol. vii, p. 43 B.)",
+   "Dem.": "Demosthenes",
+   "Demetr.": "Demetrius",
+   "Eum.": "Eumenes",
+   "Fab.": "Fabius Maximus",
+   "Flam.": "Flamininus",
+   "Fr.": "Fragmenta (vol. vii, pp. 1-149 B.); Fr.inc. = Fragmenta incerta, ib., pp. 150-2",
+   "Galb.": "Galba (not in original Bibliography)",
+   "Lib.": "de Libidine et Aegritudine (vol. vii, p. 1 B.)",
+   "Luc.": "Lucullus",
+   "Lyc.": "Lycurgus",
+   "Lys.": "Lysander",
+   "Mar.": "Marius",
+   "Marc.": "Marcellus",
+   "Metr.": "de Metris (vol. vii, p. 465 B.)",
+   "Nic.": "Nicias",
+   "Nob.": "pro Nobilitate (vol. vii, p. 194 B.)",
+   "Num.": "Numa",
+   "Oth.": "Otho",
+   "Pel.": "Pelopidas",
+   "Per.": "Pericles",
+   "Phil.": "Philopoemen",
+   "Phoc.": "Phocion",
+   "Pomp.": "Pompeius",
+   "Prov.": "Proverbia (ed. von E. L. Leutsch & F. G. Schneidewin, Paroemiographi i p. 321)",
+   "Publ.": "Publicola",
+   "Pyrrh.": "Pyrrhus",
+   "Rom.": "Romulus",
+   "Sert.": "Sertorius",
+   "Sol.": "Solon",
+   "Strom.": "Στρωματεῖς (vol. vii, p. 37 B.)",
+   "Sull.": "Sulla",
+   "TG": "Tiberius Gracchus",
+   "Them.": "Themistocles",
+   "Thes.": "Theseus",
+   "Tim.": "Timoleon Ps.-Plu.Fluv. = de Fluviis (vol. vii, p. 282 B.). Ps.-Plu.Vit.Hom. = Vita Homeri",
+   "in Hes.": "Commentarii in Hesiodum (vol. vii, p. 5 B.)"
+  },
+  "Polem.": {
+   "Call.": "Callimachus",
+   "Cyn.": "Cynegirus"
+  },
+  "Porph.": {
+   "Hist.": "Fragmenta Historica"
+  },
+  "Priscian.": {
+   "Inst.": "Institutio"
+  },
+  "Procl.": {
+   "Chr.": "Chrestomathia",
+   "Hyp.": "Hypotyposis astronomicarum positionum",
+   "Inst": "Institutio Theologica",
+   "Ptol.": "Paraphrasis Ptolemaei Tetrabiblou"
+  },
+  "Procop.": {
+   "Aed.": "de Aedificiis",
+   "Arc.": "Historia Arcana",
+   "Goth.": "de Bello Gothico",
+   "Pers.": "de Bello Persico",
+   "Vand.": "de Bello Vandalico"
+  },
+  "Procop.Gaz.": {
+   "Ep.": "Epistulae"
+  },
+  "Ptol.": {
+   "*Alm.": "Almagest = Syntaxis Mathematica",
+   "*Anal.": "περὶ ἀναλήμματος",
+   "*Fr.": "Fragmenta",
+   "*Hyp.": "Ὑποθέσεις",
+   "*Inscr.Can.": "Inscriptio Canobi",
+   "*Phas.": "Φάσεις",
+   "*Planisph.": "Planisphaerium",
+   "*Pseph.": "ψηφοφορία",
+   "Calend.": "Calendarium",
+   "Geog.": "Geographia (lib. i-iii",
+   "Harm.": "Harmonica",
+   "Judic.": "περὶ κριτηρίου",
+   "Tetr.": "Tetrabiblos"
+  },
+  "Quint.": {
+   "Inst.": "Institutio Oratoria"
+  },
+  "Ruf.": {
+   "Anat.": "ἀνατομή",
+   "Onom.": "περὶ ὀνομασίας",
+   "Ren.Ves.": "de renum et vesicae affectionibus",
+   "Sat.Gon.": "de satyriasmo et gonorrhoea",
+   "Syn.Puls.": "synopsis de pulsibus"
+  },
+  "S.": {
+   "Aj.": "Ajax",
+   "Ant.": "Antigone",
+   "El.": "Electra",
+   "Eleg.": "Elegiae",
+   "Fr.": "Fragmenta",
+   "OC": "Oedipus Coloneus",
+   "OT": "Oedipus Tyrannus",
+   "Ph.": "Philoctetes",
+   "Tr.": "Trachiniae"
+  },
+  "S.E.": {
+   "M.": "adversus Mathematicos",
+   "P.": "Πυρρώνειοι ὑποτυπώσεις"
+  },
+  "Sapph.": {
+   "Supp.": "Papyrus fragments in E. Diehl, Supp. Lyr. 3 p. 29. Oxy"
+  },
+  "Satyr.": {
+   "Eur.": "Vita Euripidis, POxy. 1176"
+  },
+  "Secund.": {
+   "Sent.": "Sententiae"
+  },
+  "Seren.": {
+   "Sect.Con.": "Sectio Coni",
+   "Sect.Cyl.": "Sectio Cylindri"
+  },
+  "Sext.": {
+   "Sent.": "Sententiae"
+  },
+  "Simm.": {
+   "Simon Atheniensis Eq.": "de forma et delectu equorum"
+  },
+  "Stob.": {
+   "App.": "Appendix to the ed. of T. Gaisford, vol. iv, Oxford 1822. Scholia"
+  },
+  "Str.": {
+   "Chr.": "Chrestomathiae (cited by bk, and section as given in C. Müller, GGM ii p. 529)"
+  },
+  "Theag.": {
+   "Theano Ep.": "Epistulae, v. Pythagorae et Pythagoreorum Epistulae"
+  },
+  "Them.": {
+   "APo.": "Aristotelis Analyticorum Posteriorum paraphrasis",
+   "PN": "Themistii (Sophoniae) in Parva Naturalia commentarium"
+  },
+  "Themist.": {
+   "Ep.": "Epistulae"
+  },
+  "Theoc.": {
+   "Beren.": "Coma Berenices",
+   "Ep.": "Epigrammata Scholia"
+  },
+  "Theodos.": {
+   "Can.": "Canones"
+  },
+  "Theognost.": {
+   "Can.": "Canones"
+  },
+  "Thphr.": {
+   "CP": "de Causis Plantarum",
+   "Char.": "Characteres",
+   "Fr.": "Fragmenta",
+   "HP": "Historia Plantarum",
+   "Ign.": "de Igne",
+   "Lap.": "de Lapidibus",
+   "Lass.": "de Lassitudine",
+   "Metaph.": "Metaphysica",
+   "Od.": "de Odoribus",
+   "Sens.": "de Sensu",
+   "Sign.": "de Signis Tempestatum",
+   "Sud.": "de Sudore",
+   "Vent.": "de Ventis",
+   "Vert.": "de Vertigine"
+  },
+  "Tim.": {
+   "Fr.": "Fragmenta",
+   "Lex.": "Lexicon Platonicum",
+   "Pers.": "Persae"
+  },
+  "Tz.": {
+   "CGF p. 17. Trag.Poes.": "De Tragica Poesi",
+   "H.": "Historiarum variarum chiliades"
+  },
+  "X.": {
+   "Ages.": "Agesilaus",
+   "An.": "Anabasis",
+   "Ap.": "Apologia Socratis",
+   "Ath.": "Respublica Atheniensium",
+   "Cyn.": "Cynegeticus",
+   "Cyr.": "Institutio Cyri (Cyropaedia)",
+   "Ep.": "Epistulae",
+   "Eq.": "de Equitandi ratione",
+   "Eq.Mag.": "de Equitum magistro",
+   "HG": "Historia Graeca (Hellenica)",
+   "Hier.": "Hiero",
+   "Lac.": "Respublica Lacedaemoniorum",
+   "Mem.": "Memorabilia",
+   "Oec.": "Oeconomicus",
+   "Smp.": "Symposium",
+   "Vect.": "de Vectigalibus"
+  }
+ }
+}

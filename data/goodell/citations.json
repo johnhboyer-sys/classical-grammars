@@ -1,0 +1,3566 @@
+{
+  "aesch.ag.15": [
+    {
+      "section": 573
+    }
+  ],
+  "aesch.ag.212": [
+    {
+      "section": 471
+    }
+  ],
+  "aesch.ag.224": [
+    {
+      "section": 539
+    }
+  ],
+  "aesch.ag.565": [
+    {
+      "section": 628
+    }
+  ],
+  "aesch.ag.944": [
+    {
+      "section": 611
+    }
+  ],
+  "aesch.eum.837": [
+    {
+      "section": 492
+    }
+  ],
+  "aesch.lib.313": [
+    {
+      "section": 492
+    }
+  ],
+  "aesch.pb.106": [
+    {
+      "section": 530
+    }
+  ],
+  "aesch.pb.12": [
+    {
+      "section": 523
+    }
+  ],
+  "aesch.pb.152": [
+    {
+      "section": 636
+    }
+  ],
+  "aesch.pb.19": [
+    {
+      "section": 641
+    }
+  ],
+  "aesch.pb.206": [
+    {
+      "section": 570
+    }
+  ],
+  "aesch.pb.241": [
+    {
+      "section": 504
+    }
+  ],
+  "aesch.pb.35": [
+    {
+      "section": 618
+    }
+  ],
+  "aesch.pb.38": [
+    {
+      "section": 619
+    }
+  ],
+  "aesch.pb.514": [
+    {
+      "section": 526
+    }
+  ],
+  "aesch.pb.522": [
+    {
+      "section": 511
+    }
+  ],
+  "aesch.pb.545": [
+    {
+      "section": 503
+    }
+  ],
+  "aesch.pb.612": [
+    {
+      "section": 522
+    }
+  ],
+  "aesch.pb.616": [
+    {
+      "section": 480
+    }
+  ],
+  "aesch.pb.625": [
+    {
+      "section": 570
+    }
+  ],
+  "aesch.pb.627": [
+    {
+      "section": 572
+    }
+  ],
+  "aesch.pb.697": [
+    {
+      "section": 631
+    }
+  ],
+  "aesch.pb.712": [
+    {
+      "section": 492
+    }
+  ],
+  "aesch.pb.717": [
+    {
+      "section": 533
+    },
+    {
+      "section": 615
+    }
+  ],
+  "aesch.pb.788": [
+    {
+      "section": 615
+    }
+  ],
+  "aesch.pb.9": [
+    {
+      "section": 636
+    }
+  ],
+  "aesch.pb.938": [
+    {
+      "section": 511
+    }
+  ],
+  "aesch.pers.742": [
+    {
+      "section": 627
+    }
+  ],
+  "aesch.seven.253": [
+    {
+      "section": 492
+    }
+  ],
+  "aesch.seven.38": [
+    {
+      "section": 489
+    }
+  ],
+  "aristoph.cl.1231": [
+    {
+      "section": 510
+    }
+  ],
+  "aristoph.cl.493": [
+    {
+      "section": 611
+    }
+  ],
+  "aristoph.cl.505": [
+    {
+      "section": 489
+    }
+  ],
+  "aristoph.cl.520": [
+    {
+      "section": 476
+    }
+  ],
+  "aristoph.frogs.1022": [
+    {
+      "section": 467
+    }
+  ],
+  "aristoph.frogs.198": [
+    {
+      "section": 561
+    }
+  ],
+  "aristoph.frogs.291": [
+    {
+      "section": 472
+    }
+  ],
+  "aristoph.frogs.339": [
+    {
+      "section": 652
+    }
+  ],
+  "aristoph.frogs.568": [
+    {
+      "section": 460
+    }
+  ],
+  "aristoph.frogs.830": [
+    {
+      "section": 480
+    }
+  ],
+  "aristoph.wasps.835": [
+    {
+      "section": 492
+    }
+  ],
+  "aristot.poet.6": [
+    {
+      "section": 679
+    }
+  ],
+  "dem.1.10": [
+    {
+      "section": 508
+    }
+  ],
+  "dem.1.2": [
+    {
+      "section": 619
+    }
+  ],
+  "dem.1.20": [
+    {
+      "section": 510
+    }
+  ],
+  "dem.1.9": [
+    {
+      "section": 681
+    }
+  ],
+  "dem.18.200": [
+    {
+      "section": 464
+    }
+  ],
+  "dem.18.224": [
+    {
+      "section": 461
+    }
+  ],
+  "dem.18.235": [
+    {
+      "section": 512
+    }
+  ],
+  "dem.18.267": [
+    {
+      "section": 472
+    }
+  ],
+  "dem.18.291": [
+    {
+      "section": 464
+    }
+  ],
+  "dem.18.324": [
+    {
+      "section": 476
+    }
+  ],
+  "dem.18.79": [
+    {
+      "section": 622
+    }
+  ],
+  "dem.19.170": [
+    {
+      "section": 534
+    }
+  ],
+  "dem.22.64": [
+    {
+      "section": 471
+    }
+  ],
+  "dem.3.10": [
+    {
+      "section": 555
+    }
+  ],
+  "dem.3.17": [
+    {
+      "section": 460
+    }
+  ],
+  "dem.3.24": [
+    {
+      "section": 510
+    }
+  ],
+  "dem.37.57": [
+    {
+      "section": 467
+    }
+  ],
+  "dem.4.1": [
+    {
+      "section": 631
+    }
+  ],
+  "dem.4.10": [
+    {
+      "section": 672
+    }
+  ],
+  "dem.4.14": [
+    {
+      "section": 629
+    }
+  ],
+  "dem.4.17": [
+    {
+      "section": 553
+    }
+  ],
+  "dem.4.19": [
+    {
+      "section": 493
+    },
+    {
+      "section": 553
+    }
+  ],
+  "dem.4.2": [
+    {
+      "section": 590
+    }
+  ],
+  "dem.4.20": [
+    {
+      "section": 638
+    }
+  ],
+  "dem.4.21": [
+    {
+      "section": 525
+    }
+  ],
+  "dem.4.27": [
+    {
+      "section": 642
+    }
+  ],
+  "dem.4.28": [
+    {
+      "section": 523
+    }
+  ],
+  "dem.4.29": [
+    {
+      "section": 546
+    }
+  ],
+  "dem.4.3": [
+    {
+      "section": 555
+    }
+  ],
+  "dem.4.31": [
+    {
+      "section": 630
+    }
+  ],
+  "dem.4.32": [
+    {
+      "section": 547
+    }
+  ],
+  "dem.4.35": [
+    {
+      "section": 515
+    }
+  ],
+  "dem.4.38": [
+    {
+      "section": 565
+    }
+  ],
+  "dem.4.43": [
+    {
+      "section": 654
+    }
+  ],
+  "dem.4.45": [
+    {
+      "section": 531
+    }
+  ],
+  "dem.4.47": [
+    {
+      "section": 543
+    }
+  ],
+  "dem.4.5": [
+    {
+      "section": 557
+    },
+    {
+      "section": 682
+    }
+  ],
+  "dem.4.50": [
+    {
+      "section": 535
+    }
+  ],
+  "dem.4.51": [
+    {
+      "section": 575
+    }
+  ],
+  "dem.4.7": [
+    {
+      "section": 523
+    }
+  ],
+  "dem.4.9": [
+    {
+      "section": 507
+    }
+  ],
+  "dem.6.11": [
+    {
+      "section": 566
+    }
+  ],
+  "dem.6.24": [
+    {
+      "section": 600
+    }
+  ],
+  "dem.8.39": [
+    {
+      "section": 492
+    }
+  ],
+  "dem.9.13": [
+    {
+      "section": 467
+    }
+  ],
+  "dem.9.16": [
+    {
+      "section": 473
+    }
+  ],
+  "dem.9.17": [
+    {
+      "section": 565
+    }
+  ],
+  "dem.9.18": [
+    {
+      "section": 575
+    }
+  ],
+  "dem.9.27": [
+    {
+      "section": 487
+    }
+  ],
+  "dem.9.32": [
+    {
+      "section": 575
+    }
+  ],
+  "dem.9.54": [
+    {
+      "section": 507
+    }
+  ],
+  "dem.9.55": [
+    {
+      "section": 511
+    }
+  ],
+  "dem.9.61": [
+    {
+      "section": 511
+    },
+    {
+      "section": 651
+    }
+  ],
+  "dem.9.67": [
+    {
+      "section": 578
+    }
+  ],
+  "dem.9.68": [
+    {
+      "section": 460
+    },
+    {
+      "section": 672
+    }
+  ],
+  "dem.9.69": [
+    {
+      "section": 631
+    }
+  ],
+  "dem.9.70": [
+    {
+      "section": 596
+    }
+  ],
+  "dem.9.75": [
+    {
+      "section": 638
+    }
+  ],
+  "dem.9.9": [
+    {
+      "section": 553
+    }
+  ],
+  "eur.alc.1045": [
+    {
+      "section": 511
+    }
+  ],
+  "eur.alc.128": [
+    {
+      "section": 644
+    }
+  ],
+  "eur.alc.284": [
+    {
+      "section": 617
+    }
+  ],
+  "eur.alc.315": [
+    {
+      "section": 474
+    }
+  ],
+  "eur.alc.540": [
+    {
+      "section": 651
+    }
+  ],
+  "eur.alc.864": [
+    {
+      "section": 480
+    }
+  ],
+  "eur.alc.865": [
+    {
+      "section": 547
+    }
+  ],
+  "eur.andr.103": [
+    {
+      "section": 521
+    }
+  ],
+  "eur.andr.80": [
+    {
+      "section": 566
+    }
+  ],
+  "eur.el.282": [
+    {
+      "section": 470
+    }
+  ],
+  "eur.hipp.297": [
+    {
+      "section": 460
+    }
+  ],
+  "eur.ia.654": [
+    {
+      "section": 648
+    }
+  ],
+  "eur.it.1030": [
+    {
+      "section": 510
+    }
+  ],
+  "eur.it.1064": [
+    {
+      "section": 618
+    }
+  ],
+  "eur.it.991": [
+    {
+      "section": 216
+    }
+  ],
+  "eur.it.995": [
+    {
+      "section": 638
+    }
+  ],
+  "eur.med.26": [
+    {
+      "section": 587
+    }
+  ],
+  "eur.med.280": [
+    {
+      "section": 592
+    }
+  ],
+  "eur.med.46": [
+    {
+      "section": 561
+    }
+  ],
+  "eur.med.587": [
+    {
+      "section": 506
+    }
+  ],
+  "eur.med.8": [
+    {
+      "section": 537
+    }
+  ],
+  "eur.tro.982": [
+    {
+      "section": 474
+    }
+  ],
+  "lys.12.100": [
+    {
+      "section": 456
+    },
+    {
+      "section": 600
+    }
+  ],
+  "lys.12.15": [
+    {
+      "section": 501
+    },
+    {
+      "section": 574
+    }
+  ],
+  "lys.12.20": [
+    {
+      "section": 506
+    }
+  ],
+  "lys.12.22": [
+    {
+      "section": 461
+    }
+  ],
+  "lys.12.30": [
+    {
+      "section": 524
+    }
+  ],
+  "lys.12.44": [
+    {
+      "section": 618
+    }
+  ],
+  "lys.12.45": [
+    {
+      "section": 624
+    }
+  ],
+  "lys.12.48": [
+    {
+      "section": 510
+    }
+  ],
+  "lys.12.60": [
+    {
+      "section": 656
+    }
+  ],
+  "lys.12.62": [
+    {
+      "section": 473
+    }
+  ],
+  "lys.12.66": [
+    {
+      "section": 631
+    }
+  ],
+  "lys.12.67": [
+    {
+      "section": 507
+    }
+  ],
+  "lys.12.84": [
+    {
+      "section": 618
+    }
+  ],
+  "lys.12.90": [
+    {
+      "section": 648
+    }
+  ],
+  "lys.16.19": [
+    {
+      "section": 536
+    }
+  ],
+  "lys.16.2": [
+    {
+      "section": 520
+    }
+  ],
+  "lys.16.20": [
+    {
+      "section": 586
+    }
+  ],
+  "lys.16.7": [
+    {
+      "section": 586
+    }
+  ],
+  "lys.16.8": [
+    {
+      "section": 523
+    },
+    {
+      "section": 639
+    }
+  ],
+  "lys.22.4": [
+    {
+      "section": 644
+    }
+  ],
+  "lys.24.1": [
+    {
+      "section": 616
+    }
+  ],
+  "lys.24.11": [
+    {
+      "section": 649
+    }
+  ],
+  "lys.7.12": [
+    {
+      "section": 461
+    }
+  ],
+  "lys.7.20": [
+    {
+      "section": 469
+    },
+    {
+      "section": 647
+    }
+  ],
+  "lys.7.32": [
+    {
+      "section": 459
+    }
+  ],
+  "lys.7.40": [
+    {
+      "section": 615
+    },
+    {
+      "section": 618
+    }
+  ],
+  "lys.7.7": [
+    {
+      "section": 647
+    }
+  ],
+  "plat.apol.17a": [
+    {
+      "section": 621
+    }
+  ],
+  "plat.apol.17b": [
+    {
+      "section": 582
+    }
+  ],
+  "plat.apol.17c": [
+    {
+      "section": 574
+    },
+    {
+      "section": 641
+    }
+  ],
+  "plat.apol.17d": [
+    {
+      "section": 538
+    }
+  ],
+  "plat.apol.18b": [
+    {
+      "section": 531
+    },
+    {
+      "section": 593
+    }
+  ],
+  "plat.apol.18c": [
+    {
+      "section": 582
+    }
+  ],
+  "plat.apol.19e": [
+    {
+      "section": 629
+    },
+    {
+      "section": 651
+    }
+  ],
+  "plat.apol.20a": [
+    {
+      "section": 570
+    }
+  ],
+  "plat.apol.20b": [
+    {
+      "section": 513
+    }
+  ],
+  "plat.apol.20d": [
+    {
+      "section": 480
+    },
+    {
+      "section": 604
+    }
+  ],
+  "plat.apol.20e": [
+    {
+      "section": 552
+    }
+  ],
+  "plat.apol.21a": [
+    {
+      "section": 536
+    }
+  ],
+  "plat.apol.21b": [
+    {
+      "section": 538
+    },
+    {
+      "section": 570
+    },
+    {
+      "section": 587
+    },
+    {
+      "section": 623
+    }
+  ],
+  "plat.apol.21c": [
+    {
+      "section": 517
+    },
+    {
+      "section": 593
+    }
+  ],
+  "plat.apol.21d": [
+    {
+      "section": 614
+    },
+    {
+      "section": 617
+    }
+  ],
+  "plat.apol.22a": [
+    {
+      "section": 536
+    }
+  ],
+  "plat.apol.22b": [
+    {
+      "section": 461
+    }
+  ],
+  "plat.apol.22c": [
+    {
+      "section": 583
+    }
+  ],
+  "plat.apol.22e": [
+    {
+      "section": 536
+    }
+  ],
+  "plat.apol.23b": [
+    {
+      "section": 520
+    }
+  ],
+  "plat.apol.23c": [
+    {
+      "section": 520
+    }
+  ],
+  "plat.apol.24c": [
+    {
+      "section": 635
+    }
+  ],
+  "plat.apol.24d": [
+    {
+      "section": 591
+    },
+    {
+      "section": 638
+    }
+  ],
+  "plat.apol.25b": [
+    {
+      "section": 653
+    }
+  ],
+  "plat.apol.26a": [
+    {
+      "section": 622
+    }
+  ],
+  "plat.apol.26b": [
+    {
+      "section": 536
+    }
+  ],
+  "plat.apol.27e": [
+    {
+      "section": 638
+    }
+  ],
+  "plat.apol.28c": [
+    {
+      "section": 648
+    }
+  ],
+  "plat.apol.28d": [
+    {
+      "section": 488
+    },
+    {
+      "section": 509
+    }
+  ],
+  "plat.apol.28e": [
+    {
+      "section": 565
+    }
+  ],
+  "plat.apol.29c": [
+    {
+      "section": 567
+    }
+  ],
+  "plat.apol.29d": [
+    {
+      "section": 520
+    }
+  ],
+  "plat.apol.29e": [
+    {
+      "section": 455
+    },
+    {
+      "section": 511
+    }
+  ],
+  "plat.apol.30a": [
+    {
+      "section": 522
+    },
+    {
+      "section": 523
+    }
+  ],
+  "plat.apol.30c": [
+    {
+      "section": 479
+    }
+  ],
+  "plat.apol.32a": [
+    {
+      "section": 536
+    }
+  ],
+  "plat.apol.32b": [
+    {
+      "section": 572
+    }
+  ],
+  "plat.apol.33c": [
+    {
+      "section": 586
+    }
+  ],
+  "plat.apol.34c": [
+    {
+      "section": 536
+    }
+  ],
+  "plat.apol.34d": [
+    {
+      "section": 491
+    }
+  ],
+  "plat.apol.35a": [
+    {
+      "section": 527
+    },
+    {
+      "section": 648
+    }
+  ],
+  "plat.apol.36c": [
+    {
+      "section": 536
+    }
+  ],
+  "plat.apol.37c": [
+    {
+      "section": 514
+    }
+  ],
+  "plat.apol.38c": [
+    {
+      "section": 518
+    },
+    {
+      "section": 647
+    }
+  ],
+  "plat.apol.39a": [
+    {
+      "section": 474
+    },
+    {
+      "section": 566
+    }
+  ],
+  "plat.apol.39c": [
+    {
+      "section": 582
+    }
+  ],
+  "plat.apol.40b": [
+    {
+      "section": 592
+    }
+  ],
+  "plat.apol.41d": [
+    {
+      "section": 522
+    }
+  ],
+  "plat.apol.41e": [
+    {
+      "section": 458
+    }
+  ],
+  "plat.crito.46a": [
+    {
+      "section": 611
+    }
+  ],
+  "plat.crito.46e": [
+    {
+      "section": 575
+    }
+  ],
+  "plat.crito.50a": [
+    {
+      "section": 614
+    }
+  ],
+  "plat.crito.52d": [
+    {
+      "section": 471
+    }
+  ],
+  "plat.gorg.462e": [
+    {
+      "section": 474
+    }
+  ],
+  "plat.phaedo.114c": [
+    {
+      "section": 552
+    },
+    {
+      "section": 682
+    }
+  ],
+  "plat.phaedo.117d": [
+    {
+      "section": 614
+    }
+  ],
+  "plat.phaedo.59d": [
+    {
+      "section": 629
+    }
+  ],
+  "plat.prot.310b": [
+    {
+      "section": 488
+    }
+  ],
+  "plat.prot.310d": [
+    {
+      "section": 477
+    },
+    {
+      "section": 488
+    }
+  ],
+  "plat.prot.311": [
+    {
+      "section": 649
+    }
+  ],
+  "plat.prot.311a": [
+    {
+      "section": 472
+    }
+  ],
+  "plat.prot.312a": [
+    {
+      "section": 488
+    }
+  ],
+  "plat.prot.312c": [
+    {
+      "section": 647
+    }
+  ],
+  "plat.prot.313b": [
+    {
+      "section": 546
+    }
+  ],
+  "plat.prot.320b": [
+    {
+      "section": 544
+    }
+  ],
+  "plat.prot.330e": [
+    {
+      "section": 622
+    }
+  ],
+  "plat.prot.335d": [
+    {
+      "section": 633
+    }
+  ],
+  "plat.rep.328c": [
+    {
+      "section": 460
+    }
+  ],
+  "plat.rep.337b": [
+    {
+      "section": 471
+    }
+  ],
+  "soph.aj.119": [
+    {
+      "section": 467
+    }
+  ],
+  "soph.aj.1252": [
+    {
+      "section": 454
+    }
+  ],
+  "soph.aj.154": [
+    {
+      "section": 510
+    }
+  ],
+  "soph.aj.403": [
+    {
+      "section": 471
+    }
+  ],
+  "soph.aj.410": [
+    {
+      "section": 492
+    }
+  ],
+  "soph.aj.588": [
+    {
+      "section": 604
+    }
+  ],
+  "soph.aj.658": [
+    {
+      "section": 620
+    }
+  ],
+  "soph.aj.715": [
+    {
+      "section": 628
+    }
+  ],
+  "soph.aj.807": [
+    {
+      "section": 509
+    }
+  ],
+  "soph.aj.866": [
+    {
+      "section": 521
+    }
+  ],
+  "soph.ant.1033": [
+    {
+      "section": 639
+    }
+  ],
+  "soph.ant.1105": [
+    {
+      "section": 573
+    }
+  ],
+  "soph.ant.1170": [
+    {
+      "section": 650
+    }
+  ],
+  "soph.ant.188": [
+    {
+      "section": 622
+    }
+  ],
+  "soph.ant.242": [
+    {
+      "section": 594
+    }
+  ],
+  "soph.ant.244": [
+    {
+      "section": 455
+    }
+  ],
+  "soph.ant.280": [
+    {
+      "section": 611
+    }
+  ],
+  "soph.ant.281": [
+    {
+      "section": 680
+    }
+  ],
+  "soph.ant.303": [
+    {
+      "section": 566
+    }
+  ],
+  "soph.ant.329": [
+    {
+      "section": 638
+    }
+  ],
+  "soph.ant.386": [
+    {
+      "section": 561
+    }
+  ],
+  "soph.ant.41": [
+    {
+      "section": 655
+    }
+  ],
+  "soph.ant.42": [
+    {
+      "section": 507
+    }
+  ],
+  "soph.ant.442": [
+    {
+      "section": 572
+    }
+  ],
+  "soph.ant.444": [
+    {
+      "section": 480
+    }
+  ],
+  "soph.ant.523": [
+    {
+      "section": 565
+    }
+  ],
+  "soph.ant.55": [
+    {
+      "section": 497
+    }
+  ],
+  "soph.ant.554": [
+    {
+      "section": 471
+    },
+    {
+      "section": 509
+    }
+  ],
+  "soph.ant.577": [
+    {
+      "section": 484
+    }
+  ],
+  "soph.ant.605": [
+    {
+      "section": 482
+    }
+  ],
+  "soph.ant.666": [
+    {
+      "section": 616
+    }
+  ],
+  "soph.ant.746": [
+    {
+      "section": 491
+    }
+  ],
+  "soph.ant.77": [
+    {
+      "section": 682
+    }
+  ],
+  "soph.ant.787": [
+    {
+      "section": 531
+    }
+  ],
+  "soph.ant.79": [
+    {
+      "section": 573
+    }
+  ],
+  "soph.ant.82": [
+    {
+      "section": 509
+    }
+  ],
+  "soph.ant.895": [
+    {
+      "section": 526
+    }
+  ],
+  "soph.ant.896": [
+    {
+      "section": 568
+    }
+  ],
+  "soph.ant.91": [
+    {
+      "section": 627
+    }
+  ],
+  "soph.el.1052": [
+    {
+      "section": 489
+    }
+  ],
+  "soph.el.126": [
+    {
+      "section": 633
+    }
+  ],
+  "soph.el.1450": [
+    {
+      "section": 480
+    }
+  ],
+  "soph.el.175": [
+    {
+      "section": 527
+    }
+  ],
+  "soph.el.193": [
+    {
+      "section": 493
+    }
+  ],
+  "soph.el.23": [
+    {
+      "section": 507
+    }
+  ],
+  "soph.el.25": [
+    {
+      "section": 637
+    }
+  ],
+  "soph.el.295": [
+    {
+      "section": 523
+    }
+  ],
+  "soph.el.32": [
+    {
+      "section": 636
+    }
+  ],
+  "soph.el.344": [
+    {
+      "section": 509
+    }
+  ],
+  "soph.el.40": [
+    {
+      "section": 638
+    }
+  ],
+  "soph.el.779": [
+    {
+      "section": 566
+    }
+  ],
+  "soph.el.920": [
+    {
+      "section": 509
+    }
+  ],
+  "soph.oc.174": [
+    {
+      "section": 473
+    }
+  ],
+  "soph.oc.731": [
+    {
+      "section": 485
+    }
+  ],
+  "soph.ot.1068": [
+    {
+      "section": 477
+    },
+    {
+      "section": 621
+    }
+  ],
+  "soph.ot.1117": [
+    {
+      "section": 456
+    }
+  ],
+  "soph.ot.1122": [
+    {
+      "section": 620
+    }
+  ],
+  "soph.ot.119": [
+    {
+      "section": 565
+    }
+  ],
+  "soph.ot.1217": [
+    {
+      "section": 470
+    }
+  ],
+  "soph.ot.1230": [
+    {
+      "section": 616
+    }
+  ],
+  "soph.ot.1293": [
+    {
+      "section": 565
+    }
+  ],
+  "soph.ot.133": [
+    {
+      "section": 603
+    }
+  ],
+  "soph.ot.1387": [
+    {
+      "section": 642
+    }
+  ],
+  "soph.ot.1391": [
+    {
+      "section": 636
+    }
+  ],
+  "soph.ot.142": [
+    {
+      "section": 509
+    }
+  ],
+  "soph.ot.1464": [
+    {
+      "section": 620
+    }
+  ],
+  "soph.ot.147": [
+    {
+      "section": 472
+    }
+  ],
+  "soph.ot.151": [
+    {
+      "section": 533
+    }
+  ],
+  "soph.ot.153": [
+    {
+      "section": 546
+    }
+  ],
+  "soph.ot.170": [
+    {
+      "section": 617
+    }
+  ],
+  "soph.ot.197": [
+    {
+      "section": 650
+    }
+  ],
+  "soph.ot.2": [
+    {
+      "section": 547
+    }
+  ],
+  "soph.ot.236": [
+    {
+      "section": 572
+    }
+  ],
+  "soph.ot.270": [
+    {
+      "section": 509
+    }
+  ],
+  "soph.ot.275": [
+    {
+      "section": 476
+    }
+  ],
+  "soph.ot.317": [
+    {
+      "section": 583
+    }
+  ],
+  "soph.ot.341": [
+    {
+      "section": 558
+    }
+  ],
+  "soph.ot.363": [
+    {
+      "section": 583
+    }
+  ],
+  "soph.ot.382": [
+    {
+      "section": 620
+    }
+  ],
+  "soph.ot.410": [
+    {
+      "section": 523
+    }
+  ],
+  "soph.ot.413": [
+    {
+      "section": 456
+    }
+  ],
+  "soph.ot.505": [
+    {
+      "section": 644
+    }
+  ],
+  "soph.ot.543": [
+    {
+      "section": 633
+    }
+  ],
+  "soph.ot.547": [
+    {
+      "section": 633
+    }
+  ],
+  "soph.ot.603": [
+    {
+      "section": 539
+    }
+  ],
+  "soph.ot.65": [
+    {
+      "section": 527
+    }
+  ],
+  "soph.ot.67": [
+    {
+      "section": 527
+    }
+  ],
+  "soph.ot.687": [
+    {
+      "section": 641
+    }
+  ],
+  "soph.ot.704": [
+    {
+      "section": 558
+    }
+  ],
+  "soph.ot.725": [
+    {
+      "section": 620
+    }
+  ],
+  "soph.ot.818": [
+    {
+      "section": 527
+    }
+  ],
+  "soph.ot.834": [
+    {
+      "section": 631
+    }
+  ],
+  "soph.ot.918": [
+    {
+      "section": 627
+    }
+  ],
+  "soph.phil.103": [
+    {
+      "section": 479
+    },
+    {
+      "section": 489
+    }
+  ],
+  "soph.phil.1239": [
+    {
+      "section": 461
+    }
+  ],
+  "soph.phil.1276": [
+    {
+      "section": 485
+    }
+  ],
+  "soph.phil.1399": [
+    {
+      "section": 485
+    }
+  ],
+  "soph.phil.141": [
+    {
+      "section": 533
+    }
+  ],
+  "soph.phil.222": [
+    {
+      "section": 508
+    }
+  ],
+  "soph.phil.232": [
+    {
+      "section": 626
+    }
+  ],
+  "soph.phil.240": [
+    {
+      "section": 502
+    }
+  ],
+  "soph.phil.324": [
+    {
+      "section": 642
+    }
+  ],
+  "soph.phil.418": [
+    {
+      "section": 460
+    }
+  ],
+  "soph.phil.470": [
+    {
+      "section": 473
+    }
+  ],
+  "soph.phil.572": [
+    {
+      "section": 461
+    }
+  ],
+  "soph.phil.585": [
+    {
+      "section": 626
+    }
+  ],
+  "soph.phil.705": [
+    {
+      "section": 630
+    }
+  ],
+  "soph.phil.789": [
+    {
+      "section": 487
+    }
+  ],
+  "soph.phil.806": [
+    {
+      "section": 454
+    }
+  ],
+  "soph.phil.908": [
+    {
+      "section": 471
+    }
+  ],
+  "soph.phil.917": [
+    {
+      "section": 644
+    }
+  ],
+  "soph.phil.969": [
+    {
+      "section": 470
+    }
+  ],
+  "thuc.1.103.1": [
+    {
+      "section": 527
+    }
+  ],
+  "thuc.1.11.1": [
+    {
+      "section": 523
+    },
+    {
+      "section": 547
+    }
+  ],
+  "thuc.1.128": [
+    {
+      "section": 510
+    }
+  ],
+  "thuc.1.13.3": [
+    {
+      "section": 521
+    }
+  ],
+  "thuc.1.15.1": [
+    {
+      "section": 526
+    }
+  ],
+  "thuc.1.18.1": [
+    {
+      "section": 526
+    }
+  ],
+  "thuc.1.19": [
+    {
+      "section": 524
+    },
+    {
+      "section": 552
+    }
+  ],
+  "thuc.1.19.1": [
+    {
+      "section": 522
+    }
+  ],
+  "thuc.1.2": [
+    {
+      "section": 593
+    }
+  ],
+  "thuc.1.20": [
+    {
+      "section": 498
+    }
+  ],
+  "thuc.1.20.3": [
+    {
+      "section": 523
+    }
+  ],
+  "thuc.1.22.1": [
+    {
+      "section": 523
+    }
+  ],
+  "thuc.1.3.4": [
+    {
+      "section": 511
+    }
+  ],
+  "thuc.1.30": [
+    {
+      "section": 507
+    }
+  ],
+  "thuc.1.32.5": [
+    {
+      "section": 587
+    }
+  ],
+  "thuc.1.34.1": [
+    {
+      "section": 571
+    }
+  ],
+  "thuc.1.4": [
+    {
+      "section": 526
+    },
+    {
+      "section": 576
+    }
+  ],
+  "thuc.1.5.1": [
+    {
+      "section": 523
+    }
+  ],
+  "thuc.1.5.3": [
+    {
+      "section": 526
+    }
+  ],
+  "thuc.1.51": [
+    {
+      "section": 561
+    }
+  ],
+  "thuc.1.58.1": [
+    {
+      "section": 652
+    }
+  ],
+  "thuc.1.6.3": [
+    {
+      "section": 548
+    }
+  ],
+  "thuc.1.7": [
+    {
+      "section": 548
+    }
+  ],
+  "thuc.1.8": [
+    {
+      "section": 506
+    }
+  ],
+  "thuc.1.90": [
+    {
+      "section": 525
+    }
+  ],
+  "thuc.1.91.4": [
+    {
+      "section": 624
+    }
+  ],
+  "thuc.1.93.7": [
+    {
+      "section": 520
+    }
+  ],
+  "thuc.1.97.1": [
+    {
+      "section": 547
+    }
+  ],
+  "thuc.2.18": [
+    {
+      "section": 457
+    }
+  ],
+  "thuc.2.39.2": [
+    {
+      "section": 680
+    }
+  ],
+  "thuc.2.65.10": [
+    {
+      "section": 571
+    }
+  ],
+  "thuc.3.14.1": [
+    {
+      "section": 551
+    }
+  ],
+  "thuc.3.53.2": [
+    {
+      "section": 611
+    }
+  ],
+  "thuc.6.54.2": [
+    {
+      "section": 464
+    }
+  ],
+  "thuc.6.78": [
+    {
+      "section": 460
+    }
+  ],
+  "thuc.7.28.3": [
+    {
+      "section": 467
+    }
+  ],
+  "xen.anab.1.1.1": [
+    {
+      "section": 570
+    }
+  ],
+  "xen.anab.1.1.10": [
+    {
+      "section": 509
+    },
+    {
+      "section": 555
+    },
+    {
+      "section": 644
+    }
+  ],
+  "xen.anab.1.1.11": [
+    {
+      "section": 570
+    }
+  ],
+  "xen.anab.1.1.2": [
+    {
+      "section": 454
+    },
+    {
+      "section": 463
+    },
+    {
+      "section": 534
+    },
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.1.1.3": [
+    {
+      "section": 551
+    },
+    {
+      "section": 593
+    },
+    {
+      "section": 603
+    },
+    {
+      "section": 629
+    }
+  ],
+  "xen.anab.1.1.4": [
+    {
+      "section": 583
+    },
+    {
+      "section": 633
+    },
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.1.1.5": [
+    {
+      "section": 566
+    }
+  ],
+  "xen.anab.1.1.6": [
+    {
+      "section": 457
+    }
+  ],
+  "xen.anab.1.1.8": [
+    {
+      "section": 639
+    }
+  ],
+  "xen.anab.1.1.9": [
+    {
+      "section": 459
+    },
+    {
+      "section": 525
+    },
+    {
+      "section": 549
+    }
+  ],
+  "xen.anab.1.10.1": [
+    {
+      "section": 498
+    }
+  ],
+  "xen.anab.1.10.13": [
+    {
+      "section": 509
+    }
+  ],
+  "xen.anab.1.10.16": [
+    {
+      "section": 586
+    }
+  ],
+  "xen.anab.1.10.4": [
+    {
+      "section": 509
+    }
+  ],
+  "xen.anab.1.10.5": [
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.1.10.9": [
+    {
+      "section": 611
+    }
+  ],
+  "xen.anab.1.2.1": [
+    {
+      "section": 457
+    },
+    {
+      "section": 520
+    },
+    {
+      "section": 565
+    },
+    {
+      "section": 571
+    }
+  ],
+  "xen.anab.1.2.11": [
+    {
+      "section": 583
+    }
+  ],
+  "xen.anab.1.2.12": [
+    {
+      "section": 462
+    },
+    {
+      "section": 578
+    }
+  ],
+  "xen.anab.1.2.13": [
+    {
+      "section": 525
+    }
+  ],
+  "xen.anab.1.2.15": [
+    {
+      "section": 633
+    }
+  ],
+  "xen.anab.1.2.19": [
+    {
+      "section": 565
+    },
+    {
+      "section": 593
+    }
+  ],
+  "xen.anab.1.2.2": [
+    {
+      "section": 520
+    },
+    {
+      "section": 644
+    }
+  ],
+  "xen.anab.1.2.22": [
+    {
+      "section": 589
+    }
+  ],
+  "xen.anab.1.2.23": [
+    {
+      "section": 537
+    }
+  ],
+  "xen.anab.1.2.25": [
+    {
+      "section": 546
+    }
+  ],
+  "xen.anab.1.2.26": [
+    {
+      "section": 552
+    },
+    {
+      "section": 644
+    }
+  ],
+  "xen.anab.1.2.3": [
+    {
+      "section": 508
+    },
+    {
+      "section": 583
+    }
+  ],
+  "xen.anab.1.2.5": [
+    {
+      "section": 511
+    }
+  ],
+  "xen.anab.1.2.7": [
+    {
+      "section": 524
+    },
+    {
+      "section": 627
+    }
+  ],
+  "xen.anab.1.2.9": [
+    {
+      "section": 627
+    }
+  ],
+  "xen.anab.1.3.1": [
+    {
+      "section": 459
+    },
+    {
+      "section": 515
+    }
+  ],
+  "xen.anab.1.3.10": [
+    {
+      "section": 590
+    },
+    {
+      "section": 611
+    },
+    {
+      "section": 622
+    }
+  ],
+  "xen.anab.1.3.11": [
+    {
+      "section": 565
+    },
+    {
+      "section": 631
+    },
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.1.3.12": [
+    {
+      "section": 578
+    },
+    {
+      "section": 616
+    }
+  ],
+  "xen.anab.1.3.13": [
+    {
+      "section": 583
+    }
+  ],
+  "xen.anab.1.3.14": [
+    {
+      "section": 535
+    },
+    {
+      "section": 552
+    },
+    {
+      "section": 583
+    }
+  ],
+  "xen.anab.1.3.15": [
+    {
+      "section": 484
+    },
+    {
+      "section": 524
+    },
+    {
+      "section": 536
+    },
+    {
+      "section": 594
+    },
+    {
+      "section": 596
+    },
+    {
+      "section": 616
+    },
+    {
+      "section": 642
+    },
+    {
+      "section": 680
+    }
+  ],
+  "xen.anab.1.3.16": [
+    {
+      "section": 523
+    },
+    {
+      "section": 572
+    },
+    {
+      "section": 593
+    }
+  ],
+  "xen.anab.1.3.17": [
+    {
+      "section": 479
+    },
+    {
+      "section": 525
+    },
+    {
+      "section": 557
+    },
+    {
+      "section": 570
+    },
+    {
+      "section": 585
+    },
+    {
+      "section": 589
+    },
+    {
+      "section": 611
+    },
+    {
+      "section": 613
+    },
+    {
+      "section": 616
+    }
+  ],
+  "xen.anab.1.3.2": [
+    {
+      "section": 572
+    },
+    {
+      "section": 583
+    }
+  ],
+  "xen.anab.1.3.20": [
+    {
+      "section": 582
+    }
+  ],
+  "xen.anab.1.3.3": [
+    {
+      "section": 526
+    },
+    {
+      "section": 622
+    }
+  ],
+  "xen.anab.1.3.4": [
+    {
+      "section": 629
+    },
+    {
+      "section": 642
+    }
+  ],
+  "xen.anab.1.3.5": [
+    {
+      "section": 487
+    },
+    {
+      "section": 618
+    },
+    {
+      "section": 635
+    },
+    {
+      "section": 655
+    }
+  ],
+  "xen.anab.1.3.6": [
+    {
+      "section": 620
+    },
+    {
+      "section": 629
+    }
+  ],
+  "xen.anab.1.3.8": [
+    {
+      "section": 518
+    },
+    {
+      "section": 593
+    }
+  ],
+  "xen.anab.1.3.9": [
+    {
+      "section": 507
+    }
+  ],
+  "xen.anab.1.4.13": [
+    {
+      "section": 571
+    }
+  ],
+  "xen.anab.1.4.15": [
+    {
+      "section": 509
+    },
+    {
+      "section": 575
+    }
+  ],
+  "xen.anab.1.4.16": [
+    {
+      "section": 520
+    },
+    {
+      "section": 568
+    },
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.1.4.18": [
+    {
+      "section": 642
+    }
+  ],
+  "xen.anab.1.4.4": [
+    {
+      "section": 496
+    },
+    {
+      "section": 498
+    }
+  ],
+  "xen.anab.1.4.7": [
+    {
+      "section": 633
+    }
+  ],
+  "xen.anab.1.4.8": [
+    {
+      "section": 456
+    },
+    {
+      "section": 484
+    },
+    {
+      "section": 566
+    }
+  ],
+  "xen.anab.1.4.9": [
+    {
+      "section": 534
+    }
+  ],
+  "xen.anab.1.5.1": [
+    {
+      "section": 496
+    }
+  ],
+  "xen.anab.1.5.10": [
+    {
+      "section": 512
+    },
+    {
+      "section": 526
+    }
+  ],
+  "xen.anab.1.5.12": [
+    {
+      "section": 586
+    },
+    {
+      "section": 633
+    }
+  ],
+  "xen.anab.1.5.13": [
+    {
+      "section": 570
+    }
+  ],
+  "xen.anab.1.5.2": [
+    {
+      "section": 522
+    },
+    {
+      "section": 629
+    }
+  ],
+  "xen.anab.1.5.4": [
+    {
+      "section": 524
+    },
+    {
+      "section": 527
+    }
+  ],
+  "xen.anab.1.5.5": [
+    {
+      "section": 496
+    }
+  ],
+  "xen.anab.1.5.8": [
+    {
+      "section": 547
+    },
+    {
+      "section": 633
+    }
+  ],
+  "xen.anab.1.6.1": [
+    {
+      "section": 590
+    }
+  ],
+  "xen.anab.1.6.10": [
+    {
+      "section": 510
+    }
+  ],
+  "xen.anab.1.6.2": [
+    {
+      "section": 572
+    }
+  ],
+  "xen.anab.1.6.5": [
+    {
+      "section": 507
+    },
+    {
+      "section": 633
+    }
+  ],
+  "xen.anab.1.6.8": [
+    {
+      "section": 536
+    },
+    {
+      "section": 672
+    }
+  ],
+  "xen.anab.1.7.1": [
+    {
+      "section": 510
+    }
+  ],
+  "xen.anab.1.7.18": [
+    {
+      "section": 515
+    }
+  ],
+  "xen.anab.1.7.3": [
+    {
+      "section": 509
+    },
+    {
+      "section": 613
+    },
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.1.7.4": [
+    {
+      "section": 526
+    },
+    {
+      "section": 672
+    }
+  ],
+  "xen.anab.1.7.7": [
+    {
+      "section": 616
+    }
+  ],
+  "xen.anab.1.7.9": [
+    {
+      "section": 647
+    }
+  ],
+  "xen.anab.1.8.1": [
+    {
+      "section": 570
+    }
+  ],
+  "xen.anab.1.8.10": [
+    {
+      "section": 566
+    }
+  ],
+  "xen.anab.1.8.12": [
+    {
+      "section": 524
+    }
+  ],
+  "xen.anab.1.8.13": [
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.1.8.15": [
+    {
+      "section": 566
+    }
+  ],
+  "xen.anab.1.8.16": [
+    {
+      "section": 491
+    },
+    {
+      "section": 511
+    }
+  ],
+  "xen.anab.1.8.6": [
+    {
+      "section": 552
+    }
+  ],
+  "xen.anab.1.8.8": [
+    {
+      "section": 630
+    }
+  ],
+  "xen.anab.1.8.9": [
+    {
+      "section": 510
+    }
+  ],
+  "xen.anab.1.9.13": [
+    {
+      "section": 507
+    },
+    {
+      "section": 620
+    }
+  ],
+  "xen.anab.1.9.14": [
+    {
+      "section": 578
+    },
+    {
+      "section": 613
+    }
+  ],
+  "xen.anab.1.9.17": [
+    {
+      "section": 520
+    }
+  ],
+  "xen.anab.1.9.19": [
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.1.9.22": [
+    {
+      "section": 459
+    },
+    {
+      "section": 520
+    }
+  ],
+  "xen.anab.1.9.23": [
+    {
+      "section": 523
+    }
+  ],
+  "xen.anab.1.9.24": [
+    {
+      "section": 509
+    },
+    {
+      "section": 575
+    }
+  ],
+  "xen.anab.1.9.25": [
+    {
+      "section": 521
+    }
+  ],
+  "xen.anab.1.9.26": [
+    {
+      "section": 510
+    },
+    {
+      "section": 526
+    }
+  ],
+  "xen.anab.1.9.28": [
+    {
+      "section": 636
+    },
+    {
+      "section": 651
+    }
+  ],
+  "xen.anab.1.9.29": [
+    {
+      "section": 510
+    }
+  ],
+  "xen.anab.1.9.3": [
+    {
+      "section": 479
+    }
+  ],
+  "xen.anab.1.9.4": [
+    {
+      "section": 592
+    }
+  ],
+  "xen.anab.1.9.6": [
+    {
+      "section": 520
+    },
+    {
+      "section": 530
+    }
+  ],
+  "xen.anab.1.9.7": [
+    {
+      "section": 534
+    }
+  ],
+  "xen.anab.2.1.11": [
+    {
+      "section": 508
+    }
+  ],
+  "xen.anab.2.1.12": [
+    {
+      "section": 455
+    }
+  ],
+  "xen.anab.2.1.13": [
+    {
+      "section": 509
+    },
+    {
+      "section": 520
+    },
+    {
+      "section": 587
+    }
+  ],
+  "xen.anab.2.1.16": [
+    {
+      "section": 546
+    }
+  ],
+  "xen.anab.2.1.2": [
+    {
+      "section": 525
+    },
+    {
+      "section": 631
+    }
+  ],
+  "xen.anab.2.1.21": [
+    {
+      "section": 594
+    }
+  ],
+  "xen.anab.2.1.22": [
+    {
+      "section": 650
+    }
+  ],
+  "xen.anab.2.1.23": [
+    {
+      "section": 455
+    },
+    {
+      "section": 493
+    },
+    {
+      "section": 523
+    }
+  ],
+  "xen.anab.2.1.3": [
+    {
+      "section": 622
+    }
+  ],
+  "xen.anab.2.1.4": [
+    {
+      "section": 454
+    },
+    {
+      "section": 470
+    }
+  ],
+  "xen.anab.2.1.6": [
+    {
+      "section": 565
+    }
+  ],
+  "xen.anab.2.1.7": [
+    {
+      "section": 516
+    }
+  ],
+  "xen.anab.2.1.9": [
+    {
+      "section": 508
+    }
+  ],
+  "xen.anab.2.2.1": [
+    {
+      "section": 517
+    }
+  ],
+  "xen.anab.2.2.11": [
+    {
+      "section": 512
+    },
+    {
+      "section": 515
+    },
+    {
+      "section": 565
+    }
+  ],
+  "xen.anab.2.2.12": [
+    {
+      "section": 489
+    },
+    {
+      "section": 525
+    }
+  ],
+  "xen.anab.2.2.14": [
+    {
+      "section": 626
+    }
+  ],
+  "xen.anab.2.2.20": [
+    {
+      "section": 455
+    }
+  ],
+  "xen.anab.2.2.3": [
+    {
+      "section": 506
+    }
+  ],
+  "xen.anab.2.2.4": [
+    {
+      "section": 520
+    }
+  ],
+  "xen.anab.2.2.8": [
+    {
+      "section": 510
+    }
+  ],
+  "xen.anab.2.3.11": [
+    {
+      "section": 467
+    }
+  ],
+  "xen.anab.2.3.13": [
+    {
+      "section": 512
+    }
+  ],
+  "xen.anab.2.3.15": [
+    {
+      "section": 509
+    }
+  ],
+  "xen.anab.2.3.17": [
+    {
+      "section": 546
+    }
+  ],
+  "xen.anab.2.3.18": [
+    {
+      "section": 546
+    }
+  ],
+  "xen.anab.2.3.19": [
+    {
+      "section": 586
+    }
+  ],
+  "xen.anab.2.3.21": [
+    {
+      "section": 459
+    }
+  ],
+  "xen.anab.2.3.23": [
+    {
+      "section": 509
+    },
+    {
+      "section": 510
+    },
+    {
+      "section": 525
+    },
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.2.3.24": [
+    {
+      "section": 520
+    },
+    {
+      "section": 631
+    }
+  ],
+  "xen.anab.2.3.5": [
+    {
+      "section": 493
+    },
+    {
+      "section": 512
+    },
+    {
+      "section": 555
+    }
+  ],
+  "xen.anab.2.4.16": [
+    {
+      "section": 498
+    }
+  ],
+  "xen.anab.2.4.24": [
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.2.4.3": [
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.2.4.5": [
+    {
+      "section": 458
+    }
+  ],
+  "xen.anab.2.5.12": [
+    {
+      "section": 619
+    }
+  ],
+  "xen.anab.2.5.15": [
+    {
+      "section": 604
+    }
+  ],
+  "xen.anab.2.5.16": [
+    {
+      "section": 509
+    },
+    {
+      "section": 636
+    }
+  ],
+  "xen.anab.2.5.18": [
+    {
+      "section": 596
+    }
+  ],
+  "xen.anab.2.5.29": [
+    {
+      "section": 572
+    }
+  ],
+  "xen.anab.2.5.7": [
+    {
+      "section": 506
+    }
+  ],
+  "xen.anab.2.5.9": [
+    {
+      "section": 682
+    }
+  ],
+  "xen.anab.2.6.1": [
+    {
+      "section": 537
+    }
+  ],
+  "xen.anab.2.6.12": [
+    {
+      "section": 518
+    }
+  ],
+  "xen.anab.2.6.13": [
+    {
+      "section": 526
+    }
+  ],
+  "xen.anab.2.6.20": [
+    {
+      "section": 508
+    }
+  ],
+  "xen.anab.2.6.21": [
+    {
+      "section": 642
+    }
+  ],
+  "xen.anab.2.6.4": [
+    {
+      "section": 621
+    }
+  ],
+  "xen.anab.2.6.6": [
+    {
+      "section": 591
+    }
+  ],
+  "xen.anab.2.6.8": [
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.2.6.9": [
+    {
+      "section": 565
+    },
+    {
+      "section": 672
+    }
+  ],
+  "xen.anab.3.1.10": [
+    {
+      "section": 506
+    }
+  ],
+  "xen.anab.3.1.14": [
+    {
+      "section": 593
+    }
+  ],
+  "xen.anab.3.1.17": [
+    {
+      "section": 648
+    }
+  ],
+  "xen.anab.3.1.18": [
+    {
+      "section": 536
+    }
+  ],
+  "xen.anab.3.1.19": [
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.3.1.2": [
+    {
+      "section": 538
+    }
+  ],
+  "xen.anab.3.1.24": [
+    {
+      "section": 473
+    }
+  ],
+  "xen.anab.3.1.26": [
+    {
+      "section": 527
+    }
+  ],
+  "xen.anab.3.1.27": [
+    {
+      "section": 525
+    }
+  ],
+  "xen.anab.3.1.32": [
+    {
+      "section": 493
+    },
+    {
+      "section": 620
+    }
+  ],
+  "xen.anab.3.1.33": [
+    {
+      "section": 627
+    }
+  ],
+  "xen.anab.3.1.37": [
+    {
+      "section": 509
+    }
+  ],
+  "xen.anab.3.1.4": [
+    {
+      "section": 615
+    }
+  ],
+  "xen.anab.3.1.42": [
+    {
+      "section": 527
+    }
+  ],
+  "xen.anab.3.1.43": [
+    {
+      "section": 522
+    }
+  ],
+  "xen.anab.3.1.45": [
+    {
+      "section": 614
+    }
+  ],
+  "xen.anab.3.1.47": [
+    {
+      "section": 592
+    }
+  ],
+  "xen.anab.3.1.6": [
+    {
+      "section": 613
+    }
+  ],
+  "xen.anab.3.2": [
+    {
+      "section": 526
+    }
+  ],
+  "xen.anab.3.2.10": [
+    {
+      "section": 522
+    },
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.3.2.11": [
+    {
+      "section": 535
+    },
+    {
+      "section": 574
+    }
+  ],
+  "xen.anab.3.2.14": [
+    {
+      "section": 508
+    },
+    {
+      "section": 517
+    }
+  ],
+  "xen.anab.3.2.16": [
+    {
+      "section": 516
+    }
+  ],
+  "xen.anab.3.2.19": [
+    {
+      "section": 523
+    }
+  ],
+  "xen.anab.3.2.2": [
+    {
+      "section": 627
+    }
+  ],
+  "xen.anab.3.2.21": [
+    {
+      "section": 513
+    }
+  ],
+  "xen.anab.3.2.25": [
+    {
+      "section": 511
+    }
+  ],
+  "xen.anab.3.2.3": [
+    {
+      "section": 638
+    }
+  ],
+  "xen.anab.3.2.34": [
+    {
+      "section": 517
+    }
+  ],
+  "xen.anab.3.2.35": [
+    {
+      "section": 651
+    }
+  ],
+  "xen.anab.3.2.38": [
+    {
+      "section": 510
+    }
+  ],
+  "xen.anab.3.2.39": [
+    {
+      "section": 511
+    },
+    {
+      "section": 618
+    }
+  ],
+  "xen.anab.3.2.4": [
+    {
+      "section": 530
+    }
+  ],
+  "xen.anab.3.2.7": [
+    {
+      "section": 510
+    }
+  ],
+  "xen.anab.3.2.8": [
+    {
+      "section": 604
+    }
+  ],
+  "xen.anab.3.3.1": [
+    {
+      "section": 590
+    }
+  ],
+  "xen.anab.3.3.17": [
+    {
+      "section": 548
+    }
+  ],
+  "xen.anab.3.3.7": [
+    {
+      "section": 510
+    },
+    {
+      "section": 549
+    },
+    {
+      "section": 566
+    }
+  ],
+  "xen.anab.3.4.15": [
+    {
+      "section": 509
+    }
+  ],
+  "xen.anab.3.4.17": [
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.3.4.41": [
+    {
+      "section": 650
+    }
+  ],
+  "xen.anab.3.4.49": [
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.3.5.13": [
+    {
+      "section": 621
+    }
+  ],
+  "xen.anab.4.1.14": [
+    {
+      "section": 549
+    }
+  ],
+  "xen.anab.4.2.13": [
+    {
+      "section": 593
+    }
+  ],
+  "xen.anab.4.2.19": [
+    {
+      "section": 567
+    }
+  ],
+  "xen.anab.4.2.4": [
+    {
+      "section": 631
+    }
+  ],
+  "xen.anab.4.3.2": [
+    {
+      "section": 509
+    }
+  ],
+  "xen.anab.4.3.28": [
+    {
+      "section": 507
+    }
+  ],
+  "xen.anab.4.4.17": [
+    {
+      "section": 571
+    }
+  ],
+  "xen.anab.4.4.19": [
+    {
+      "section": 583
+    }
+  ],
+  "xen.anab.4.4.22": [
+    {
+      "section": 611
+    }
+  ],
+  "xen.anab.4.6.13": [
+    {
+      "section": 566
+    }
+  ],
+  "xen.anab.4.7.10": [
+    {
+      "section": 506
+    }
+  ],
+  "xen.anab.4.8.13": [
+    {
+      "section": 489
+    }
+  ],
+  "xen.anab.4.8.14": [
+    {
+      "section": 573
+    }
+  ],
+  "xen.anab.5.1.2": [
+    {
+      "section": 585
+    }
+  ],
+  "xen.anab.5.3.13": [
+    {
+      "section": 516
+    }
+  ],
+  "xen.anab.7.1.8": [
+    {
+      "section": 656
+    }
+  ],
+  "xen.cyrop.1.3.2": [
+    {
+      "section": 656
+    }
+  ],
+  "xen.cyrop.1.4.2": [
+    {
+      "section": 572
+    }
+  ],
+  "xen.cyrop.3.3.9": [
+    {
+      "section": 531
+    }
+  ],
+  "xen.cyrop.4.5.15": [
+    {
+      "section": 566
+    }
+  ],
+  "xen.hell.1.2.12": [
+    {
+      "section": 525
+    }
+  ],
+  "xen.hell.1.3.11": [
+    {
+      "section": 631
+    }
+  ],
+  "xen.hell.1.3.3": [
+    {
+      "section": 656
+    }
+  ],
+  "xen.hell.1.5.2": [
+    {
+      "section": 571
+    }
+  ],
+  "xen.hell.1.7.7": [
+    {
+      "section": 461
+    }
+  ],
+  "xen.hell.2.2.17": [
+    {
+      "section": 558
+    }
+  ],
+  "xen.hell.2.2.22": [
+    {
+      "section": 616
+    }
+  ],
+  "xen.hell.2.3.2": [
+    {
+      "section": 615
+    }
+  ],
+  "xen.hell.2.3.24": [
+    {
+      "section": 622
+    }
+  ],
+  "xen.hell.2.3.44": [
+    {
+      "section": 622
+    }
+  ],
+  "xen.hell.2.3.45": [
+    {
+      "section": 565
+    }
+  ],
+  "xen.hell.2.3.46": [
+    {
+      "section": 647
+    }
+  ],
+  "xen.hell.2.4.17": [
+    {
+      "section": 616
+    },
+    {
+      "section": 630
+    }
+  ],
+  "xen.hell.2.4.19": [
+    {
+      "section": 629
+    }
+  ],
+  "xen.hell.2.4.20": [
+    {
+      "section": 454
+    }
+  ],
+  "xen.hell.2.4.7": [
+    {
+      "section": 631
+    }
+  ],
+  "xen.hell.2.4.8": [
+    {
+      "section": 651
+    }
+  ],
+  "xen.hell.3.1.1": [
+    {
+      "section": 570
+    }
+  ],
+  "xen.hell.3.4.18": [
+    {
+      "section": 467
+    }
+  ],
+  "xen.hell.4.8.22": [
+    {
+      "section": 616
+    }
+  ],
+  "xen.hell.4.8.23": [
+    {
+      "section": 566
+    }
+  ],
+  "xen.mem.1.1.1": [
+    {
+      "section": 463
+    },
+    {
+      "section": 585
+    }
+  ],
+  "xen.mem.1.1.19": [
+    {
+      "section": 570
+    }
+  ],
+  "xen.mem.1.1.4": [
+    {
+      "section": 582
+    }
+  ],
+  "xen.mem.1.2.23": [
+    {
+      "section": 570
+    }
+  ],
+  "xen.mem.1.2.46": [
+    {
+      "section": 470
+    }
+  ],
+  "xen.mem.1.2.62": [
+    {
+      "section": 523
+    }
+  ],
+  "xen.mem.1.3.2": [
+    {
+      "section": 591
+    }
+  ],
+  "xen.mem.2.1.28": [
+    {
+      "section": 596
+    }
+  ],
+  "xen.mem.2.4.1": [
+    {
+      "section": 586
+    }
+  ],
+  "xen.mem.3.6.16": [
+    {
+      "section": 638
+    }
+  ],
+  "xen.mem.4.3.3": [
+    {
+      "section": 649
+    }
+  ],
+  "xen.mem.4.4.4": [
+    {
+      "section": 595
+    }
+  ],
+  "_meta": {
+    "work": "goodell",
+    "sourceCitations": 768,
+    "parsed": 759,
+    "unparsed": 9,
+    "unparsedRate": 0.0117,
+    "uniqueKeys": 614,
+    "tablePrefixes": 45,
+    "byAuthor": {
+      "xen": 355,
+      "soph": 115,
+      "plat": 87,
+      "dem": 64,
+      "thuc": 39,
+      "lys": 33,
+      "aesch": 32,
+      "eur": 22,
+      "aristoph": 11,
+      "aristot": 1
+    },
+    "unparsedByReason": {
+      "no prefix in this grammar's table": 9
+    },
+    "unparsedCitations": [
+      {
+        "text": "(see Xen. Memorabilia 4.4.19)",
+        "section": 500,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Corpus Inscriptionum Atticarum 2263",
+        "section": 649,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Epich. in Xen. Memorabilia 2.1.20",
+        "section": 513,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Menander FCG 118",
+        "section": 571,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Menander FCG 387",
+        "section": 575,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Menander FCG 475",
+        "section": 525,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Menander FCG 495",
+        "section": 465,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Menander FCG 75",
+        "section": 537,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      },
+      {
+        "text": "Menander FCG 96",
+        "section": 574,
+        "anchor": null,
+        "reason": "no prefix in this grammar's table"
+      }
+    ]
+  }
+}

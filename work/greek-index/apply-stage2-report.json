@@ -1,0 +1,2405 @@
+{
+ "log": [
+  {
+   "rule": "fraction",
+   "page": "758",
+   "line": 44,
+   "before": "-αιν/ε, tense-suff., 523 i.",
+   "after": "-αινο/ε-, tense-suff., 523 i."
+  },
+  {
+   "rule": "fraction",
+   "page": "767",
+   "line": 71,
+   "before": "η/ε, tense-suff., 455. 9.",
+   "after": "-η/ε-, tense-suff., 455. 9."
+  },
+  {
+   "rule": "fraction",
+   "page": "773",
+   "line": 13,
+   "before": "-νε/ε-, tense-suff., 523 d.",
+   "after": "-νεο/ε-, tense-suff., 523 d."
+  },
+  {
+   "rule": "fraction",
+   "page": "773",
+   "line": 28,
+   "before": "-ν/ε-, tense-suff., 523 a.",
+   "after": "-νο/ε-, tense-suff., 523 a."
+  },
+  {
+   "rule": "fraction",
+   "page": "773",
+   "line": 81,
+   "before": "-ο/-ε-, them. vow., 455, 455 D, 456, 457 D.",
+   "after": "-ο/ε-, them. vow., 455, 455 D, 456, 457 D."
+  },
+  {
+   "rule": "fraction",
+   "page": "779",
+   "line": 49,
+   "before": "-σκ/ο ε, iterative imperfs. and aors. in,",
+   "after": "-σκο/ε-, iterative imperfs. and aors. in,"
+  },
+  {
+   "rule": "fraction",
+   "page": "781",
+   "line": 78,
+   "before": "-υνο%ε, tense-suff., 523 e.",
+   "after": "-υνο/ε-, tense-suff., 523 e."
+  },
+  {
+   "rule": "stacking",
+   "page": "759",
+   "line": 2,
+   "before": "ἄ̄κων, decl., 305 b; gen. abs., 2071,",
+   "after": "ᾱ̓́κων, decl., 305 b; gen. abs., 2071,"
+  },
+  {
+   "rule": "stacking",
+   "page": "760",
+   "line": 42,
+   "before": "ἀποκρί̄νομαι, pass. dep., 812 b, 813.",
+   "after": "ἀποκρῑ́νομαι, pass. dep., 812 b, 813."
+  },
+  {
+   "rule": "stacking",
+   "page": "761",
+   "line": 25,
+   "before": "ἀφί̄ημι, aug., 450; w. redund. μή, 2741.",
+   "after": "ἀφῑ́ημι, aug., 450; w. redund. μή, 2741."
+  },
+  {
+   "rule": "stacking",
+   "page": "761",
+   "line": 48,
+   "before": "βελτί̄ων, βέλτιστος, 319; mean., 319 a.",
+   "after": "βελτῑ́ων, βέλτιστος, 319; mean., 319 a."
+  },
+  {
+   "rule": "stacking",
+   "page": "761",
+   "line": 94,
+   "before": "γί̄νομαι, 89.",
+   "after": "γῑ́νομαι, 89."
+  },
+  {
+   "rule": "stacking",
+   "page": "762",
+   "line": 17,
+   "before": "δακρύ̄ω, 500. 1 a; w. acc., 1595 a.",
+   "after": "δακρῡ́ω, 500. 1 a; w. acc., 1595 a."
+  },
+  {
+   "rule": "stacking",
+   "page": "763",
+   "line": 2,
+   "before": "-διδρά̄σκω, 687; fut. mid., 806.",
+   "after": "-διδρᾱ́σκω, 687; fut. mid., 806."
+  },
+  {
+   "rule": "stacking",
+   "page": "763",
+   "line": 20,
+   "before": "Διονύ̄σια, defect., 283.",
+   "after": "Διονῡ́σια, defect., 283."
+  },
+  {
+   "rule": "stacking",
+   "page": "765",
+   "line": 10,
+   "before": "ἐλά̄ττων, ἐλά̄σσων, 319, 319 b ; w. or",
+   "after": "ἐλᾱ́ττων, ἐλᾱ́σσων, 319, 319 b ; w. or"
+  },
+  {
+   "rule": "stacking",
+   "page": "766",
+   "line": 10,
+   "before": "ἐπά̄ν, 1768 a, 2399 a.",
+   "after": "ἐπᾱ́ν, 1768 a, 2399 a."
+  },
+  {
+   "rule": "stacking",
+   "page": "766",
+   "line": 59,
+   "before": "ἐρύ̄κω, followed by μή, 2741.",
+   "after": "ἐρῡ́κω, followed by μή, 2741."
+  },
+  {
+   "rule": "stacking",
+   "page": "768",
+   "line": 9,
+   "before": "ἡδύ̄νω, 489 h, 518 c.",
+   "after": "ἡδῡ́νω, 489 h, 518 c."
+  },
+  {
+   "rule": "stacking",
+   "page": "768",
+   "line": 75,
+   "before": "θηλύ̄νω, 489 h.",
+   "after": "θηλῡ́νω, 489 h."
+  },
+  {
+   "rule": "stacking",
+   "page": "768",
+   "line": 83,
+   "before": "θλί̄βω, 501, 570, 571, 595.",
+   "after": "θλῑ́βω, 501, 570, 571, 595."
+  },
+  {
+   "rule": "stacking",
+   "page": "769",
+   "line": 18,
+   "before": "ἰ̄άομαι, mid. dep., 813 c.",
+   "after": "ῑ̓άομαι, mid. dep., 813 c."
+  },
+  {
+   "rule": "stacking",
+   "page": "769",
+   "line": 26,
+   "before": "ἵ̄ημι, aug., 431, 450, 725 a, 777-782.",
+   "after": "ῑ̔́ημι, aug., 431, 450, 725 a, 777-782."
+  },
+  {
+   "rule": "stacking",
+   "page": "769",
+   "line": 28,
+   "before": "ἱ̄λάσκομαι, 488 a, 489 e.",
+   "after": "ῑ̔λάσκομαι, 488 a, 489 e."
+  },
+  {
+   "rule": "stacking",
+   "page": "769",
+   "line": 48,
+   "before": "ἰχθύ̄ς, 254 a, 268, 272, 273.",
+   "after": "ἰχθῡ́ς, 254 a, 268, 272, 273."
+  },
+  {
+   "rule": "stacking",
+   "page": "772",
+   "line": 71,
+   "before": "μνά̄ομαι, 641 D, 644.",
+   "after": "μνᾱ́ομαι, 641 D, 644."
+  },
+  {
+   "rule": "stacking",
+   "page": "773",
+   "line": 49,
+   "before": "νῦν, νῡνί̄, νύ̄ν, νύν, νύ, 134 D, 181 D,",
+   "after": "νῦν, νῡνῑ́, νῡ́ν, νύν, νύ, 134 D, 181 D,"
+  },
+  {
+   "rule": "stacking",
+   "page": "773",
+   "line": 77,
+   "before": "ὁδί̄, 75 a, 333 g, 1240.",
+   "after": "ὁδῑ́, 75 a, 333 g, 1240."
+  },
+  {
+   "rule": "stacking",
+   "page": "774",
+   "line": 26,
+   "before": "οἴομαι, 2692 a ; w. μή, 2723, 2726 ; ὀί̄ο-",
+   "after": "οἴομαι, 2692 a ; w. μή, 2723, 2726 ; ὀῑ́ο-"
+  },
+  {
+   "rule": "stacking",
+   "page": "776",
+   "line": 72,
+   "before": "οὑτοσί̄, 333 g, 1240.",
+   "after": "οὑτοσῑ́, 333 g, 1240."
+  },
+  {
+   "rule": "stacking",
+   "page": "777",
+   "line": 72,
+   "before": "πί̄νω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466.",
+   "after": "πῑ́νω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466."
+  },
+  {
+   "rule": "stacking",
+   "page": "778",
+   "line": 39,
+   "before": "πρά̄ττω, 514, 571, 809, 819 ; w. advs.,",
+   "after": "πρᾱ́ττω, 514, 571, 809, 819 ; w. advs.,"
+  },
+  {
+   "rule": "stacking",
+   "page": "778",
+   "line": 51,
+   "before": "πρί̄ω, 489 c, 500. 2.",
+   "after": "πρῑ́ω, 489 c, 500. 2."
+  },
+  {
+   "rule": "stacking",
+   "page": "778",
+   "line": 57,
+   "before": "προί̄ημι, accent of forms, 426 f, 746 c ;",
+   "after": "προῑ́ημι, accent of forms, 426 f, 746 c ;"
+  },
+  {
+   "rule": "stacking",
+   "page": "778",
+   "line": 58,
+   "before": "προί̄εμαι w. part., 2103.",
+   "after": "προῑ́εμαι w. part., 2103."
+  },
+  {
+   "rule": "stacking",
+   "page": "778",
+   "line": 82,
+   "before": "πτύ̄ω, 488 a, 500. 1 a and 1 D.",
+   "after": "πτῡ́ω, 488 a, 500. 1 a and 1 D."
+  },
+  {
+   "rule": "stacking",
+   "page": "780",
+   "line": 82,
+   "before": "τίν, τί̄νη, 325 D 4.",
+   "after": "τίν, τῑ́νη, 325 D 4."
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 27,
+   "before": "τουτί̄, derivation, 75 a.",
+   "after": "τουτῑ́, derivation, 75 a."
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 32,
+   "before": "τρί̄βω, 501, 570, 571, 595, 808.",
+   "after": "τρῑ́βω, 501, 570, 571, 595, 808."
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 62,
+   "before": "ὕ̄ει, 500. 1 a, 934 a.",
+   "after": "ῡ̔́ει, 500. 1 a, 934 a."
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 66,
+   "before": "ὑ̄μέας, 325 D 1, 2.",
+   "after": "ῡ̔μέας, 325 D 1, 2."
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 69,
+   "before": "ὑ̄μέτερος, 313 b, 330, 1182, 1183, 1196,",
+   "after": "ῡ̔μέτερος, 313 b, 330, 1182, 1183, 1196,"
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 72,
+   "before": "ὑ̄μέτερος αὐτῶν, 1200. 2 b, 1203 b and N.",
+   "after": "ῡ̔μέτερος αὐτῶν, 1200. 2 b, 1203 b and N."
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 75,
+   "before": "ὑ̄μός, in Hom., 330 D 1.",
+   "after": "ῡ̔μός, in Hom., 330 D 1."
+  },
+  {
+   "rule": "stacking",
+   "page": "781",
+   "line": 76,
+   "before": "ὕ̄μων, ὗμιν, ὗμας, 325 f, 325 D 4.",
+   "after": "ῡ̔́μων, ὗμιν, ὗμας, 325 f, 325 D 4."
+  },
+  {
+   "rule": "stacking",
+   "page": "783",
+   "line": 1,
+   "before": "φρί̄ττω, form πεφρίκων, 557 D 2, 700 D.",
+   "after": "φρῑ́ττω, form πεφρίκων, 557 D 2, 700 D."
+  },
+  {
+   "rule": "stacking",
+   "page": "783",
+   "line": 49,
+   "before": "χλί̄ω, 500. 2.",
+   "after": "χλῑ́ω, 500. 2."
+  },
+  {
+   "rule": "caps",
+   "page": "773",
+   "line": 66,
+   "before": "rel., 180 D N., 1105; decl., 332 and D;",
+   "after": "rel., 180 d N., 1105; decl., 332 and D;"
+  },
+  {
+   "rule": "ellipsis-grave",
+   "page": "761",
+   "line": 74,
+   "before": "ἀλλά . . . γε, 2786; ἀλλὰ γέ τοι (τοί",
+   "after": "ἀλλὰ . . . γε, 2786; ἀλλὰ γέ τοι (τοί"
+  },
+  {
+   "rule": "ellipsis-grave",
+   "page": "767",
+   "line": 81,
+   "before": "ἢ . . . ἤ, 2852 a, 2856 ; εἴτε . . . ἤ, ἤ . . .",
+   "after": "ἢ . . . ἤ, 2852 a, 2856 ; εἴτε . . . ἤ, ἢ . . ."
+  },
+  {
+   "rule": "ellipsis-grave",
+   "page": "776",
+   "line": 25,
+   "before": ". . . οὐδέ, 2949; οὔτε . . . οὐδέ . . .",
+   "after": ". . . οὐδέ, 2949; οὔτε . . . οὐδὲ . . ."
+  },
+  {
+   "rule": "vision",
+   "page": "757",
+   "line": 14,
+   "before": "ἀ- or ἀ-, copul., 885. 4.",
+   "after": "ἀ- or ἁ-, copul., 885. 4."
+  },
+  {
+   "rule": "vision",
+   "page": "758",
+   "line": 7,
+   "before": "-αξε, 342 a.",
+   "after": "-αζε, 342 a."
+  },
+  {
+   "rule": "vision",
+   "page": "758",
+   "line": 32,
+   "before": "Ἀΐδόσδε, 342 D.",
+   "after": "Ἀϊδόσδε, 342 D."
+  },
+  {
+   "rule": "vision",
+   "page": "758",
+   "line": 95,
+   "before": "ἀκροάομαι. fut. and aor., 487 a; w. gen.,",
+   "after": "ἀκροάομαι, fut. and aor., 487 a; w. gen.,"
+  },
+  {
+   "rule": "vision",
+   "page": "759",
+   "line": 6,
+   "before": "ἄλειφαρ, 258 C.",
+   "after": "ἄλειφαρ, 258 c."
+  },
+  {
+   "rule": "vision",
+   "page": "759",
+   "line": 90,
+   "before": "ᾱ̓́ν, the form, 2283; see ἐάν.",
+   "after": "ᾱ̓́ν, the form, 2283; see ἐᾱ́ν."
+  },
+  {
+   "rule": "vision",
+   "page": "760",
+   "line": 57,
+   "before": "ἄρα, 2787-2799 ; γάρ ἄρα, 2820 ; δ' ἄρα,",
+   "after": "ἄρα, 2787-2799 ; γὰρ ἄρα, 2820 ; δ' ἄρα,"
+  },
+  {
+   "rule": "vision",
+   "page": "760",
+   "line": 86,
+   "before": "-ᾱσι (ησι), in Â stems, loc., 341.",
+   "after": "-ᾱσι (ησι), in Ā stems, loc., 341."
+  },
+  {
+   "rule": "vision",
+   "page": "761",
+   "line": 24,
+   "before": "τι, 1630; w. redund. μή, 2741.",
+   "after": "τι, 1630; w. redundant μή, 2741."
+  },
+  {
+   "rule": "vision",
+   "page": "761",
+   "line": 74,
+   "before": "ἀλλὰ . . . γε, 2786; ἀλλὰ γέ τοι (τοί",
+   "after": "ἀλλὰ . . . γε, 2786; ἀλλά γέ τοι (τοί"
+  },
+  {
+   "rule": "vision",
+   "page": "761",
+   "line": 80,
+   "before": "γελάω, 488 a, 489 e, f; γελάω, 641 D,",
+   "after": "γελάω, 488 a, 489 e, f; γελώω, 641 D,"
+  },
+  {
+   "rule": "vision",
+   "page": "762",
+   "line": 1,
+   "before": "γινώσκω, 89",
+   "after": "γῑνώσκω, 89"
+  },
+  {
+   "rule": "vision",
+   "page": "762",
+   "line": 3,
+   "before": "and νικᾶν γνώμην, 1576.",
+   "after": "and νῑκᾶν γνώμην, 1576."
+  },
+  {
+   "rule": "vision",
+   "page": "762",
+   "line": 25,
+   "before": "2947; δ᾽' οὖν, 2959; τὲ . . . δέ, 2981.",
+   "after": "2947; δ' οὖν, 2959; τὲ . . . δέ, 2981."
+  },
+  {
+   "rule": "vision",
+   "page": "763",
+   "line": 75,
+   "before": "ἐᾱ́ν, ἤν, ᾰ̓́ν, 1768 a, 2283, 2247, 2323,",
+   "after": "ἐᾱ́ν, ἤν, ᾱ̓́ν, 1768 a, 2283, 2247, 2323,"
+  },
+  {
+   "rule": "vision",
+   "page": "763",
+   "line": 78,
+   "before": "ἐᾱ̀ν ἄρα, 2796, 2797; ἐὰν τε (ἤν τε, ᾱ̓́ν",
+   "after": "ἐᾱ̀ν ἄρα, 2796, 2797; ἐᾱ́ν τε (ἤν τε, ᾱ̓́ν"
+  },
+  {
+   "rule": "vision",
+   "page": "764",
+   "line": 12,
+   "before": "2480 ; ὡς εἰ (τε), 2087 b, 2347, 2481-",
+   "after": "2480 ; ὡς εἴ (τε), 2087 b, 2347, 2481-"
+  },
+  {
+   "rule": "vision",
+   "page": "764",
+   "line": 17,
+   "before": "omitted, 2346 ; εἰ δ ἄγε, 2348 ; εἰ and",
+   "after": "omitted, 2346 ; εἰ δ' ἄγε, 2348 ; εἰ and"
+  },
+  {
+   "rule": "vision",
+   "page": "765",
+   "line": 44,
+   "before": "1534, 1536, 1541, 1542 ; cpds. of w.",
+   "after": "1534, 1536, 1541, 1542 ; cpds. of, w."
+  },
+  {
+   "rule": "vision",
+   "page": "766",
+   "line": 7,
+   "before": "ἑοῦ, ἑοῖς, 325 D 4.",
+   "after": "ἑοῦ, ἑοῦς, 325 D 4."
+  },
+  {
+   "rule": "vision",
+   "page": "766",
+   "line": 82,
+   "before": "subst.-stems in, 275; for eo dial.,",
+   "after": "subst.-stems in, 275; for εο dial.,"
+  },
+  {
+   "rule": "vision",
+   "page": "767",
+   "line": 16,
+   "before": "-ευω, vbs. in, 866. 4 ; mean. of mid.,",
+   "after": "-ευω, vbs. in., 866. 4 ; mean. of mid.,"
+  },
+  {
+   "rule": "vision",
+   "page": "767",
+   "line": 48,
+   "before": "mary of constrs. 2422-2429.",
+   "after": "mary of constrs., 2422-2429."
+  },
+  {
+   "rule": "vision",
+   "page": "767",
+   "line": 83,
+   "before": "ἤ, or, 2661, 2676 e.",
+   "after": "ἦ, or, 2661, 2676 e."
+  },
+  {
+   "rule": "vision",
+   "page": "768",
+   "line": 34,
+   "before": "ἤν, the form, 2283. See ἐάν.",
+   "after": "ἤν, the form, 2283. See ἐά̄ν."
+  },
+  {
+   "rule": "vision",
+   "page": "768",
+   "line": 59,
+   "before": "θανάτου, w. κρίνω, τιμάω, etc., 1374.",
+   "after": "θανάτου, w. κρίνω, τῑμάω, etc., 1374."
+  },
+  {
+   "rule": "vision",
+   "page": "769",
+   "line": 70,
+   "before": "καὶ . . . δέ, 2891; καὶ μέν, 2902; μέν",
+   "after": "καὶ . . . δέ, 2891; καὶ μέν, 2902; μὲν"
+  },
+  {
+   "rule": "vision",
+   "page": "769",
+   "line": 90,
+   "before": "καλός, comp., 319; καλὸς κἀγαθός, 1034 a.",
+   "after": "καλός, comp., 319; καλὸς κᾱ̓γαθός, 1034 a."
+  },
+  {
+   "rule": "vision",
+   "page": "770",
+   "line": 13,
+   "before": "κατακρίνω, w. gen. and acc., 1385.",
+   "after": "κατακρῑ́νω, w. gen. and acc., 1385."
+  },
+  {
+   "rule": "vision",
+   "page": "770",
+   "line": 44,
+   "before": "κλάω (κλαίω), 38, 396, 489 c, f, 520,",
+   "after": "κλᾱ́ω (κλαίω), 38, 396, 489 c, f, 520,"
+  },
+  {
+   "rule": "vision",
+   "page": "770",
+   "line": 45,
+   "before": "521, 806; w. acc., 1595 a; κλαίων, τὸ",
+   "after": "521, 806; w. acc., 1595 a; κλαίων, to"
+  },
+  {
+   "rule": "vision",
+   "page": "770",
+   "line": 46,
+   "before": "ὄνειρ' ὄρρου, 2062 a.",
+   "after": "one's sorrow, 2062 a."
+  },
+  {
+   "rule": "vision",
+   "page": "771",
+   "line": 74,
+   "before": "ἀλλὰ μέντοι, 2786; καὶ · · · μέντοι,",
+   "after": "ἀλλὰ μέντοι, 2786; καὶ . . . μέντοι,"
+  },
+  {
+   "rule": "vision",
+   "page": "772",
+   "line": 55,
+   "before": "μι-verbs, 379, 412-422, ¶717-767; irregu-",
+   "after": "μι-verbs, 379, 412-422, 717-767; irregu-"
+  },
+  {
+   "rule": "vision",
+   "page": "772",
+   "line": 59,
+   "before": "μῑκρός, comp., 319; μικροῦ, almost,",
+   "after": "μῑκρός, comp., 319; μῑκροῦ, almost,"
+  },
+  {
+   "rule": "vision",
+   "page": "772",
+   "line": 66,
+   "before": "2106, 2138, w. ὅτε, 2395 a N.",
+   "after": "2106, 2138, w. ὅτε, 2395 A N."
+  },
+  {
+   "rule": "vision",
+   "page": "772",
+   "line": 86,
+   "before": "μύριοι, 10,000, μῡρίοι, countless, 352.",
+   "after": "μῡ́ριοι, 10,000, μῡρίοι, countless, 352."
+  },
+  {
+   "rule": "vision",
+   "page": "773",
+   "line": 37,
+   "before": "-ντι, in 3 pl., in Dor., 462 D, 463 D.",
+   "after": "-ντι, in 3 pl., in Dor., 462 D, 463 d."
+  },
+  {
+   "rule": "vision",
+   "page": "773",
+   "line": 88,
+   "before": "aug., 435; final, usul. short in Att.,",
+   "after": "aug., 435; final, usu. short in Att.,"
+  },
+  {
+   "rule": "vision",
+   "page": "775",
+   "line": 94,
+   "before": "οὐ γάρ, 2805 b; οὐ μέντοι, 2918 a;",
+   "after": "οὐ γάρ, 2805 b; οὐ μέντοι, 2918 a; οὐ"
+  },
+  {
+   "rule": "vision",
+   "page": "776",
+   "line": 37,
+   "before": "οὐκοῦν and , 186 a, 2951-2953;",
+   "after": "οὔκουν and οὐκοῦν, 186 a, 2951-2953;"
+  },
+  {
+   "rule": "vision",
+   "page": "777",
+   "line": 1,
+   "before": "παιδεύω, παιδεύω τινά τινι or τινά εἰς,",
+   "after": "παιδεύω, παιδεύω τινά τινι or τινὰ εἰς,"
+  },
+  {
+   "rule": "vision",
+   "page": "777",
+   "line": 55,
+   "before": "πολλοῦ τιμάομαι, etc., 1373 ; use, 1675-",
+   "after": "πολλοῦ τῑμάομαι, etc., 1373 ; use, 1675-"
+  },
+  {
+   "rule": "vision",
+   "page": "777",
+   "line": 72,
+   "before": "πῑ́νω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466.",
+   "after": "πίνω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466."
+  },
+  {
+   "rule": "vision",
+   "page": "777",
+   "line": 92,
+   "before": "πλύνω, 491.",
+   "after": "πλῡ́νω, 491."
+  },
+  {
+   "rule": "vision",
+   "page": "778",
+   "line": 4,
+   "before": "ποῖ, enclit., 181 b, 346 ; ποί, 346.",
+   "after": "ποί, enclit., 181 b, 346 ; ποῖ, 346."
+  },
+  {
+   "rule": "vision",
+   "page": "778",
+   "line": 16,
+   "before": "πολιτεύομαι, dep. w. pass. mean., 813 d.",
+   "after": "πολῑτεύομαι, dep. w. pass. mean., 813 d."
+  },
+  {
+   "rule": "vision",
+   "page": "778",
+   "line": 37,
+   "before": "πραγματεύομαι, 812 a, 813 d.",
+   "after": "πρᾱγματεύομαι, 812 a, 813 d."
+  },
+  {
+   "rule": "vision",
+   "page": "779",
+   "line": 1,
+   "before": "P, initial, 13, 18 ; pp, see pp ; for σ, dial.,",
+   "after": "Ρ, initial, 13, 18 ; ρρ, see ρρ ; for σ, dial.,"
+  },
+  {
+   "rule": "vision",
+   "page": "780",
+   "line": 20,
+   "before": "T, bef. dental stop, 83; bef. μ, 86;",
+   "after": "Τ, bef. dental stop, 83; bef. μ, 86;"
+  },
+  {
+   "rule": "vision",
+   "page": "780",
+   "line": 78,
+   "before": "τῑμάομαι τινος, 1374.",
+   "after": "τῑμάομαί τινος, 1374."
+  },
+  {
+   "rule": "vision",
+   "page": "782",
+   "line": 48,
+   "before": "hastily, 2062 a; φέρων, with, 2068 a",
+   "after": "hastily, 2062 a; φέρων, with, 2068 a;"
+  },
+  {
+   "rule": "vision",
+   "page": "783",
+   "line": 23,
+   "before": "Χ, pronunc., 26 ; bef. dental stop, 82 ;",
+   "after": "Χ, pronunc., 26 : bef. dental stop, 82 ;"
+  },
+  {
+   "rule": "vision",
+   "page": "783",
+   "line": 65,
+   "before": "and inf., 1562, 1985 b ; w. acc and",
+   "after": "and inf., 1562, 1985 b ; w. acc. and"
+  },
+  {
+   "rule": "vision",
+   "page": "783",
+   "line": 82,
+   "before": "36, 738 c ; for ou, dial., 33 D ; inter-",
+   "after": "36, 738 c ; for ου, dial., 33 D ; inter-"
+  },
+  {
+   "rule": "vision",
+   "page": "784",
+   "line": 1,
+   "before": "604: vowel vbs., 606-613; cons. vbs.,",
+   "after": "604; vowel vbs., 606-613; cons. vbs.,"
+  },
+  {
+   "rule": "vision",
+   "page": "784",
+   "line": 8,
+   "before": "-ων, parts. in decl., 305.",
+   "after": "-ων, parts. in, decl., 305."
+  },
+  {
+   "rule": "stacking",
+   "page": "768",
+   "line": 34,
+   "before": "ἤν, the form, 2283. See ἐά̄ν.",
+   "after": "ἤν, the form, 2283. See ἐᾱ́ν."
+  },
+  {
+   "rule": "xref-caps",
+   "page": "767",
+   "line": 70,
+   "before": "433, 436. See A, E.",
+   "after": "433, 436. See Α, Ε."
+  }
+ ],
+ "flags": [
+  {
+   "rule": "caps-ambiguous",
+   "page": "758",
+   "line": 3,
+   "cite": "539 D.",
+   "section": 539,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "758",
+   "line": 8,
+   "cite": "539 d.",
+   "section": 539,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "758",
+   "line": 18,
+   "cite": "238 D.",
+   "section": 238,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "759",
+   "line": 48,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "759",
+   "line": 53,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "759",
+   "line": 93,
+   "cite": "72 D",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "759",
+   "line": 94,
+   "cite": "72 D",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "760",
+   "line": 11,
+   "cite": "819 N.",
+   "section": 819,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "760",
+   "line": 17,
+   "cite": "1 D",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "760",
+   "line": 18,
+   "cite": "539 D",
+   "section": 539,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "760",
+   "line": 75,
+   "cite": "894 N.",
+   "section": 894,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "760",
+   "line": 85,
+   "cite": "463 d",
+   "section": 463,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "761",
+   "line": 9,
+   "cite": "325 d",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "761",
+   "line": 45,
+   "cite": "711 d.",
+   "section": 711,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "761",
+   "line": 63,
+   "cite": "489 d",
+   "section": 489,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "761",
+   "line": 73,
+   "cite": "181 d",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "761",
+   "line": 81,
+   "cite": "643 N.",
+   "section": 643,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "762",
+   "line": 18,
+   "cite": "539 D",
+   "section": 539,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "762",
+   "line": 19,
+   "cite": "747 D",
+   "section": 747,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "762",
+   "line": 27,
+   "cite": "181 d",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "762",
+   "line": 69,
+   "cite": "1982 N.",
+   "section": 1982,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 18,
+   "cite": "354 D.",
+   "section": 354,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 23,
+   "cite": "354 d.",
+   "section": 354,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 24,
+   "cite": "354 D",
+   "section": 354,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 28,
+   "cite": "349 D.",
+   "section": 349,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 49,
+   "cite": "349 d",
+   "section": 349,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 56,
+   "cite": "1 D",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 72,
+   "cite": "187 N.",
+   "section": 187,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "763",
+   "line": 91,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 1,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 1,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 29,
+   "cite": "72 D",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 38,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 40,
+   "cite": "747 D",
+   "section": 747,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 54,
+   "cite": "463 d",
+   "section": 463,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 54,
+   "cite": "747 D",
+   "section": 747,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 60,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 69,
+   "cite": "2017 N.",
+   "section": 2017,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "764",
+   "line": 94,
+   "cite": "325 d",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 24,
+   "cite": "2 d",
+   "section": 2,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 25,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 26,
+   "cite": "325 D.",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 29,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 34,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 47,
+   "cite": "469 D.",
+   "section": 469,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 50,
+   "cite": "469 N.",
+   "section": 469,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 50,
+   "cite": "469 D",
+   "section": 469,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 56,
+   "cite": "292 d.",
+   "section": 292,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 75,
+   "cite": "489 d",
+   "section": 489,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 95,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "765",
+   "line": 95,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "766",
+   "line": 2,
+   "cite": "704 d",
+   "section": 704,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "766",
+   "line": 7,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "766",
+   "line": 60,
+   "cite": "489 d",
+   "section": 489,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "766",
+   "line": 60,
+   "cite": "1 D.",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "766",
+   "line": 91,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "766",
+   "line": 91,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "767",
+   "line": 49,
+   "cite": "238 d",
+   "section": 238,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "767",
+   "line": 55,
+   "cite": "746 D",
+   "section": 746,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "767",
+   "line": 62,
+   "cite": "289 D.",
+   "section": 289,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "768",
+   "line": 18,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "768",
+   "line": 35,
+   "cite": "469 D",
+   "section": 469,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "768",
+   "line": 76,
+   "cite": "181 D.",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "769",
+   "line": 1,
+   "cite": "1 D",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "769",
+   "line": 3,
+   "cite": "1 D.",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "769",
+   "line": 13,
+   "cite": "460 D.",
+   "section": 460,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "770",
+   "line": 28,
+   "cite": "1996 N.",
+   "section": 1996,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "770",
+   "line": 30,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "770",
+   "line": 32,
+   "cite": "258 D",
+   "section": 258,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "770",
+   "line": 68,
+   "cite": "264 D",
+   "section": 264,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "770",
+   "line": 74,
+   "cite": "442 N.",
+   "section": 442,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "771",
+   "line": 24,
+   "cite": "374 N.",
+   "section": 374,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "771",
+   "line": 25,
+   "cite": "711 D.",
+   "section": 711,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "771",
+   "line": 67,
+   "cite": "469 D",
+   "section": 469,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "771",
+   "line": 71,
+   "cite": "469 D",
+   "section": 469,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "771",
+   "line": 81,
+   "cite": "465 d.",
+   "section": 465,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "771",
+   "line": 90,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "771",
+   "line": 90,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "772",
+   "line": 62,
+   "cite": "442 N.",
+   "section": 442,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "772",
+   "line": 67,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "772",
+   "line": 67,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "772",
+   "line": 67,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "772",
+   "line": 76,
+   "cite": "72 D.",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 3,
+   "cite": "469 D",
+   "section": 469,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 4,
+   "cite": "72 D.",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 11,
+   "cite": "488 D",
+   "section": 488,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 27,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 27,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 37,
+   "cite": "463 D.",
+   "section": 463,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 40,
+   "cite": "3 N.",
+   "section": 3,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 49,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 51,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 54,
+   "cite": "489 d",
+   "section": 489,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 58,
+   "cite": "1 D.",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 67,
+   "cite": "338 D",
+   "section": 338,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 80,
+   "cite": "489 d",
+   "section": 489,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "773",
+   "line": 93,
+   "cite": "325 d",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "774",
+   "line": 27,
+   "cite": "2 D.",
+   "section": 2,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "774",
+   "line": 49,
+   "cite": "746 D",
+   "section": 746,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "775",
+   "line": 9,
+   "cite": "746 D",
+   "section": 746,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "775",
+   "line": 14,
+   "cite": "338 d",
+   "section": 338,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "776",
+   "line": 10,
+   "cite": "325 d",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "776",
+   "line": 10,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "776",
+   "line": 14,
+   "cite": "264 D",
+   "section": 264,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "776",
+   "line": 83,
+   "cite": "894 N.",
+   "section": 894,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 24,
+   "cite": "526 d",
+   "section": 526,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 33,
+   "cite": "489 D",
+   "section": 489,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 36,
+   "cite": "1992 N.",
+   "section": 1992,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 38,
+   "cite": "1992 N.",
+   "section": 1992,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 48,
+   "cite": "72 D.",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 49,
+   "cite": "181 d",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 63,
+   "cite": "36 N.",
+   "section": 36,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 73,
+   "cite": "2 D",
+   "section": 2,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 77,
+   "cite": "36 N.",
+   "section": 36,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "777",
+   "line": 83,
+   "cite": "489 d",
+   "section": 489,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "778",
+   "line": 24,
+   "cite": "894 N.",
+   "section": 894,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "778",
+   "line": 36,
+   "cite": "311 d.",
+   "section": 311,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "778",
+   "line": 71,
+   "cite": "1042 N.",
+   "section": 1042,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "778",
+   "line": 82,
+   "cite": "1 D.",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "778",
+   "line": 92,
+   "cite": "1 d.",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 5,
+   "cite": "72 D",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 5,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 14,
+   "cite": "1 D",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 31,
+   "cite": "2 d",
+   "section": 2,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 33,
+   "cite": "325 D.",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 39,
+   "cite": "469 d",
+   "section": 469,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 39,
+   "cite": "72 D.",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 61,
+   "cite": "544 D",
+   "section": 544,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 70,
+   "cite": "72 D",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 77,
+   "cite": "894 N.",
+   "section": 894,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 92,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 93,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "779",
+   "line": 95,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 1,
+   "cite": "2 d",
+   "section": 2,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 3,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 4,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 6,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 7,
+   "cite": "325 d",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 8,
+   "cite": "326 D",
+   "section": 326,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 10,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 19,
+   "cite": "289 D.",
+   "section": 289,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 27,
+   "cite": "1 D",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 34,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 34,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 35,
+   "cite": "181 d",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 36,
+   "cite": "338 d",
+   "section": 338,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 41,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 46,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 59,
+   "cite": "333 d",
+   "section": 333,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 61,
+   "cite": "464 d.",
+   "section": 464,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 82,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "780",
+   "line": 93,
+   "cite": "339 d",
+   "section": 339,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 5,
+   "cite": "338 D",
+   "section": 338,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 6,
+   "cite": "72 D",
+   "section": 72,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 7,
+   "cite": "181 d",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 10,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 14,
+   "cite": "333 d",
+   "section": 333,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 20,
+   "cite": "333 d",
+   "section": 333,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 34,
+   "cite": "354 d.",
+   "section": 354,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 35,
+   "cite": "354 D.",
+   "section": 354,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 41,
+   "cite": "181 D",
+   "section": 181,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 41,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 47,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 66,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 67,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 68,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 73,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "781",
+   "line": 76,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "782",
+   "line": 21,
+   "cite": "1 D",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "782",
+   "line": 39,
+   "cite": "1982 N.",
+   "section": 1982,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "782",
+   "line": 40,
+   "cite": "258 D.",
+   "section": 258,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "782",
+   "line": 44,
+   "cite": "544 d",
+   "section": 544,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "782",
+   "line": 62,
+   "cite": "374 N.",
+   "section": 374,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "782",
+   "line": 71,
+   "cite": "463 D",
+   "section": 463,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "782",
+   "line": 76,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "783",
+   "line": 8,
+   "cite": "522 N.",
+   "section": 522,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "783",
+   "line": 14,
+   "cite": "1 D",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "783",
+   "line": 40,
+   "cite": "1 d",
+   "section": 1,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "783",
+   "line": 70,
+   "cite": "2 D.",
+   "section": 2,
+   "has_letter": false,
+   "has_dialect": false
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "783",
+   "line": 78,
+   "cite": "325 D",
+   "section": 325,
+   "has_letter": true,
+   "has_dialect": true
+  },
+  {
+   "rule": "caps-ambiguous",
+   "page": "783",
+   "line": 90,
+   "cite": "238 d.",
+   "section": 238,
+   "has_letter": true,
+   "has_dialect": true
+  }
+ ]
+}

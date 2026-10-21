@@ -1,0 +1,87 @@
+{
+ "format": 2,
+ "datasets": {
+  "grc-analyses": {
+   "pack_bytes": 17928744,
+   "buckets": 372,
+   "sha256": "001690a3601b23279a9f789446266f67166e7cdb9d003ec44be3244406db1798",
+   "forms": 911519,
+   "variant_aliases": 91813,
+   "lemmas": 116350,
+   "lemmas_resolved": 92135
+  },
+  "grc-lsj": {
+   "pack_bytes": 19200817,
+   "buckets": 361,
+   "sha256": "3d6256368f2fcc6a964bb1d822861a62f7fb63230ae1c04abe40c21cffc49b4e",
+   "entries": 116715,
+   "fallback_rendered": 0
+  },
+  "grc-lsj-t8": {
+   "pack_bytes": 12630023,
+   "buckets": 361,
+   "sha256": "dbedf1cb409017edf58d89ebb434f20f89d1b0f63981a015ef2f6c96516cc1f0",
+   "entries": 116715,
+   "errors": 0,
+   "error_rate": 0.0,
+   "unlabelled_divisions": 1,
+   "bare_in_print": 6,
+   "source": "grc-lsj"
+  },
+  "lat-analyses": {
+   "pack_bytes": 7533427,
+   "buckets": 225,
+   "sha256": "0cfe4d76befdb14c34ffd2a1b8d32d08e5e1fe2368b5c22cbb5836de67e63b61",
+   "forms": 349741,
+   "variant_aliases": 136301,
+   "lemmas": 46196,
+   "lemmas_resolved": 38368
+  },
+  "lat-ls": {
+   "pack_bytes": 14538631,
+   "buckets": 242,
+   "sha256": "fd54f2024c742b5f50b3d3e2ea1d6830bc7ebdfbcac8f4aed5142eff03987c7c",
+   "entries": 51674,
+   "fallback_rendered": 0
+  },
+  "lat-ls-t8": {
+   "pack_bytes": 9473557,
+   "buckets": 242,
+   "sha256": "c180dafba879a6e9f50aaeb4ca5ef361e8f8456adbb5f5c803632527b1ec1d9c",
+   "entries": 51674,
+   "errors": 0,
+   "error_rate": 0.0,
+   "unlabelled_divisions": 12,
+   "bare_in_print": 2,
+   "source": "lat-ls"
+  },
+  "grc-ml": {
+   "pack_bytes": 3715801,
+   "buckets": 313,
+   "sha256": "681899040a9b8817d1ad64863e28a652c2e405a9b8f13ecd3512b93c411845ee",
+   "entries": 36494,
+   "fallback_rendered": 0
+  }
+ },
+ "sources": {
+  "greek-analyses.txt": {
+   "bytes": 120783066
+  },
+  "latin-analyses.txt": {
+   "bytes": 43683497
+  },
+  "grc.lsj.xml": {
+   "bytes": 115550101
+  },
+  "lat.ls.perseus-eng1.xml": {
+   "bytes": 79414691
+  },
+  "viaf66541464.001.perseus-eng1.xml": {
+   "bytes": 20190148,
+   "sha256": "e273dbed7938de7ab9ed4cf4af0e93216141f89226318a697c94b5d43f924cb7",
+   "repo": "PerseusDL/canonical-pdlrefwk",
+   "commit": "02768b0c37d6102be4899fc0eb57f9d348195243"
+  }
+ },
+ "license": "Perseus Digital Library data as distributed with Diogenes (P. J. Heslin). Lexica (LSJ 1940, Lewis & Short 1879): CC BY-SA (PerseusDL/lexica states 4.0). Middle Liddell (1889): CC BY-SA 4.0 from PerseusDL/canonical-pdlrefwk, text provided by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from the Annenberg Foundation. Morphology (Morpheus analyses): Perseus morphology data; Perseus notes component rights vary — verify terms before any public deployment. Derived packs carry the source licenses."
+}

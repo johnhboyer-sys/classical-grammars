@@ -1,0 +1,2102 @@
+{
+  "work": "monro",
+  "title": "A Grammar of the Homeric Dialect",
+  "author": "D. B. Monro",
+  "source": "grammar-monro/src/dcc/",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Text: Dickinson College Commentaries edition (CC BY-SA 4.0)",
+  "sectionSources": [
+    {
+      "n": 1,
+      "slug": "introduction-and-definitions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 2,
+      "slug": "introduction-and-definitions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 3,
+      "slug": "personal-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 4,
+      "slug": "personal-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 5,
+      "slug": "personal-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 6,
+      "slug": "stem-variation",
+      "continuationSlugs": []
+    },
+    {
+      "n": 7,
+      "slug": "stem-variation",
+      "continuationSlugs": []
+    },
+    {
+      "n": 8,
+      "slug": "meaning-middle",
+      "continuationSlugs": []
+    },
+    {
+      "n": 9,
+      "slug": "verb-stems-and-tense-stems",
+      "continuationSlugs": []
+    },
+    {
+      "n": 10,
+      "slug": "verb-stems-and-tense-stems",
+      "continuationSlugs": []
+    },
+    {
+      "n": 11,
+      "slug": "simple-athematic-present",
+      "continuationSlugs": []
+    },
+    {
+      "n": 12,
+      "slug": "simple-athematic-present",
+      "continuationSlugs": []
+    },
+    {
+      "n": 13,
+      "slug": "simple-athematic-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 14,
+      "slug": "metathesis",
+      "continuationSlugs": []
+    },
+    {
+      "n": 15,
+      "slug": "aorists-%E1%BE%B0-and-%CE%BA%E1%BE%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 16,
+      "slug": "athematic-reduplicated-present",
+      "continuationSlugs": []
+    },
+    {
+      "n": 17,
+      "slug": "present-forms-%CE%BD%CE%B7-%CE%BD%E1%BE%B0-and-%CE%BD%CF%85",
+      "continuationSlugs": []
+    },
+    {
+      "n": 18,
+      "slug": "present-forms-%CE%BD%CE%B7-%CE%BD%E1%BE%B0-and-%CE%BD%CF%85",
+      "continuationSlugs": []
+    },
+    {
+      "n": 19,
+      "slug": "athematic-contract-verbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 20,
+      "slug": "athematic-contract-aorists",
+      "continuationSlugs": []
+    },
+    {
+      "n": 21,
+      "slug": "meaning-athematic-presents-and-aorists",
+      "continuationSlugs": []
+    },
+    {
+      "n": 22,
+      "slug": "perfect",
+      "continuationSlugs": []
+    },
+    {
+      "n": 23,
+      "slug": "perfect",
+      "continuationSlugs": []
+    },
+    {
+      "n": 24,
+      "slug": "perfect",
+      "continuationSlugs": []
+    },
+    {
+      "n": 25,
+      "slug": "perfect",
+      "continuationSlugs": []
+    },
+    {
+      "n": 26,
+      "slug": "perfect-participle",
+      "continuationSlugs": []
+    },
+    {
+      "n": 27,
+      "slug": "thematic-perfects",
+      "continuationSlugs": []
+    },
+    {
+      "n": 28,
+      "slug": "meaning-perfect",
+      "continuationSlugs": []
+    },
+    {
+      "n": 29,
+      "slug": "thematic-present",
+      "continuationSlugs": []
+    },
+    {
+      "n": 30,
+      "slug": "thematic-present",
+      "continuationSlugs": []
+    },
+    {
+      "n": 31,
+      "slug": "thematic-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 32,
+      "slug": "thematic-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 33,
+      "slug": "thematic-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 34,
+      "slug": "thematic-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 35,
+      "slug": "reduplicated-thematic-present",
+      "continuationSlugs": []
+    },
+    {
+      "n": 36,
+      "slug": "reduplicated-thematic-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 37,
+      "slug": "reduplicated-thematic-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 38,
+      "slug": "athematic-tenses-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 39,
+      "slug": "athematic-tenses-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 40,
+      "slug": "athematic-tenses-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 41,
+      "slug": "athematic-tenses-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 42,
+      "slug": "athematic-tenses-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 43,
+      "slug": "athematic-tenses-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 44,
+      "slug": "meanings-passive-aorist",
+      "continuationSlugs": []
+    },
+    {
+      "n": 45,
+      "slug": "thematic-present-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 46,
+      "slug": "thematic-present-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 47,
+      "slug": "thematic-present-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 48,
+      "slug": "thematic-present-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 49,
+      "slug": "thematic-present-suffix",
+      "continuationSlugs": []
+    },
+    {
+      "n": 50,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 51,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 52,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 53,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 54,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 55,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 56,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 57,
+      "slug": "%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 58,
+      "slug": "meanings-verbs-%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 59,
+      "slug": "meanings-verbs-%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 60,
+      "slug": "meanings-verbs-%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 61,
+      "slug": "meanings-verbs-%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 62,
+      "slug": "meanings-verbs-%CE%B9-class",
+      "continuationSlugs": []
+    },
+    {
+      "n": 63,
+      "slug": "future",
+      "continuationSlugs": []
+    },
+    {
+      "n": 64,
+      "slug": "future",
+      "continuationSlugs": []
+    },
+    {
+      "n": 65,
+      "slug": "future",
+      "continuationSlugs": []
+    },
+    {
+      "n": 66,
+      "slug": "future",
+      "continuationSlugs": []
+    },
+    {
+      "n": 67,
+      "slug": "historical-tenses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 68,
+      "slug": "historical-tenses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 69,
+      "slug": "historical-tenses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 70,
+      "slug": "meanings-present-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 71,
+      "slug": "meanings-present-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 72,
+      "slug": "meanings-present-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 73,
+      "slug": "meanings-present-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 74,
+      "slug": "meanings-present-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 75,
+      "slug": "meanings-aorist-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 76,
+      "slug": "meanings-aorist-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 77,
+      "slug": "meanings-aorist-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 78,
+      "slug": "meanings-aorist-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 79,
+      "slug": "moods-verbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 80,
+      "slug": "subjunctive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 81,
+      "slug": "subjunctive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 82,
+      "slug": "subjunctive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 83,
+      "slug": "optative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 84,
+      "slug": "verbal-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 85,
+      "slug": "verbal-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 86,
+      "slug": "verbal-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 87,
+      "slug": "general-rule-and-exceptions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 88,
+      "slug": "accent-composition",
+      "continuationSlugs": []
+    },
+    {
+      "n": 89,
+      "slug": "accentuation-infinitives-and-participles",
+      "continuationSlugs": []
+    },
+    {
+      "n": 90,
+      "slug": "declension-nouns-and-pronouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 91,
+      "slug": "declension-nouns-and-pronouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 92,
+      "slug": "vocative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 93,
+      "slug": "case-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 94,
+      "slug": "case-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 95,
+      "slug": "case-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 96,
+      "slug": "singular",
+      "continuationSlugs": []
+    },
+    {
+      "n": 97,
+      "slug": "singular",
+      "continuationSlugs": []
+    },
+    {
+      "n": 98,
+      "slug": "singular",
+      "continuationSlugs": []
+    },
+    {
+      "n": 99,
+      "slug": "singular",
+      "continuationSlugs": []
+    },
+    {
+      "n": 100,
+      "slug": "plural",
+      "continuationSlugs": []
+    },
+    {
+      "n": 101,
+      "slug": "plural",
+      "continuationSlugs": []
+    },
+    {
+      "n": 102,
+      "slug": "plural",
+      "continuationSlugs": []
+    },
+    {
+      "n": 103,
+      "slug": "dual-and-instrumental",
+      "continuationSlugs": []
+    },
+    {
+      "n": 104,
+      "slug": "dual-and-instrumental",
+      "continuationSlugs": []
+    },
+    {
+      "n": 105,
+      "slug": "contraction-synizesis-hyphaeresis",
+      "continuationSlugs": []
+    },
+    {
+      "n": 106,
+      "slug": "variation-stem",
+      "continuationSlugs": []
+    },
+    {
+      "n": 107,
+      "slug": "heteroclite-nouns-and-pronouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 108,
+      "slug": "heteroclite-nouns-and-pronouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 109,
+      "slug": "adverbial-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 110,
+      "slug": "adverbial-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 111,
+      "slug": "accentuation-case-forms",
+      "continuationSlugs": []
+    },
+    {
+      "n": 112,
+      "slug": "accentuation-case-forms",
+      "continuationSlugs": []
+    },
+    {
+      "n": 113,
+      "slug": "nominal-stems",
+      "continuationSlugs": []
+    },
+    {
+      "n": 114,
+      "slug": "primary-suffixes",
+      "continuationSlugs": []
+    },
+    {
+      "n": 115,
+      "slug": "accentuation-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 116,
+      "slug": "gender-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 117,
+      "slug": "secondary-suffixes",
+      "continuationSlugs": []
+    },
+    {
+      "n": 118,
+      "slug": "secondary-suffixes",
+      "continuationSlugs": []
+    },
+    {
+      "n": 119,
+      "slug": "gender-denominative-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 120,
+      "slug": "denominative-verbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 121,
+      "slug": "comparitives-and-superlatives",
+      "continuationSlugs": []
+    },
+    {
+      "n": 122,
+      "slug": "comparitives-and-superlatives",
+      "continuationSlugs": []
+    },
+    {
+      "n": 123,
+      "slug": "composition",
+      "continuationSlugs": []
+    },
+    {
+      "n": 124,
+      "slug": "composition",
+      "continuationSlugs": []
+    },
+    {
+      "n": 125,
+      "slug": "composition",
+      "continuationSlugs": []
+    },
+    {
+      "n": 126,
+      "slug": "meaning-compound-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 127,
+      "slug": "stems-compounded-prepositions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 128,
+      "slug": "accentuation-compound-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 129,
+      "slug": "proper-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 130,
+      "slug": "numerals",
+      "continuationSlugs": []
+    },
+    {
+      "n": 131,
+      "slug": "function-case-endings",
+      "continuationSlugs": []
+    },
+    {
+      "n": 132,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 133,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 134,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 135,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 136,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 137,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 138,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 139,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 140,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 141,
+      "slug": "uses-accusative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 142,
+      "slug": "uses-dative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 143,
+      "slug": "uses-dative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 144,
+      "slug": "uses-dative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 145,
+      "slug": "uses-dative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 146,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 147,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 148,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 149,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 150,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 151,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 152,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 153,
+      "slug": "uses-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 154,
+      "slug": "case-forms-%CF%86%CE%B9%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 155,
+      "slug": "case-forms-%CF%86%CE%B9%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 156,
+      "slug": "case-forms-%CF%86%CE%B9%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 157,
+      "slug": "case-forms-%CF%86%CE%B9%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 158,
+      "slug": "true-dative-and-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 159,
+      "slug": "forms-%CE%B8%CE%B5%CE%BD-and-%CF%89%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 160,
+      "slug": "forms-%CE%B8%CE%B5%CE%BD-and-%CF%89%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 161,
+      "slug": "uses-nominative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 162,
+      "slug": "uses-nominative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 163,
+      "slug": "uses-nominative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 164,
+      "slug": "uses-vocative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 165,
+      "slug": "adjectival-use-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 166,
+      "slug": "adjectival-use-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 167,
+      "slug": "adjectival-use-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 168,
+      "slug": "adjectival-use-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 169,
+      "slug": "collective-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 170,
+      "slug": "distributive-singular",
+      "continuationSlugs": []
+    },
+    {
+      "n": 171,
+      "slug": "plural-things",
+      "continuationSlugs": []
+    },
+    {
+      "n": 172,
+      "slug": "neuter-plural",
+      "continuationSlugs": []
+    },
+    {
+      "n": 173,
+      "slug": "dual",
+      "continuationSlugs": []
+    },
+    {
+      "n": 174,
+      "slug": "about-prepositions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 175,
+      "slug": "adverbial-use-prepositions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 176,
+      "slug": "tmesis",
+      "continuationSlugs": []
+    },
+    {
+      "n": 177,
+      "slug": "ellipse-verb",
+      "continuationSlugs": []
+    },
+    {
+      "n": 178,
+      "slug": "prepositions-oblique-cases",
+      "continuationSlugs": []
+    },
+    {
+      "n": 179,
+      "slug": "prepositions-genitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 180,
+      "slug": "accentuation-prepositions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 181,
+      "slug": "%E1%BC%80%CE%BC%CF%86%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 182,
+      "slug": "%E1%BC%80%CE%BC%CF%86%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 183,
+      "slug": "%E1%BC%80%CE%BC%CF%86%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 184,
+      "slug": "%E1%BC%80%CE%BC%CF%86%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 185,
+      "slug": "%CF%80%CE%B5%CF%81%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 186,
+      "slug": "%CF%80%CE%B5%CF%81%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 187,
+      "slug": "%CF%80%CE%B5%CF%81%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 188,
+      "slug": "%CF%80%CE%B5%CF%81%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 189,
+      "slug": "%CF%80%CE%B1%CF%81%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 190,
+      "slug": "%CF%80%CE%B1%CF%81%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 191,
+      "slug": "%CF%80%CE%B1%CF%81%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 192,
+      "slug": "%CF%80%CE%B1%CF%81%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 193,
+      "slug": "%CE%BC%CE%B5%CF%84%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 194,
+      "slug": "%CE%BC%CE%B5%CF%84%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 195,
+      "slug": "%CE%BC%CE%B5%CF%84%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 196,
+      "slug": "%CE%BC%CE%B5%CF%84%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 197,
+      "slug": "%E1%BC%90%CF%80%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 198,
+      "slug": "%E1%BC%90%CF%80%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 199,
+      "slug": "%E1%BC%90%CF%80%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 200,
+      "slug": "%E1%BC%90%CF%80%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 201,
+      "slug": "%E1%BD%91%CF%80%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 202,
+      "slug": "%E1%BD%91%CF%80%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 203,
+      "slug": "%E1%BD%91%CF%80%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 204,
+      "slug": "%E1%BD%91%CF%80%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 205,
+      "slug": "%CF%80%CF%81%CE%BF%CF%84%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 206,
+      "slug": "%CF%80%CF%81%CE%BF%CF%84%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 207,
+      "slug": "%CF%80%CF%81%CE%BF%CF%84%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 208,
+      "slug": "%CF%80%CF%81%CE%BF%CF%84%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 209,
+      "slug": "%E1%BC%80%CE%BD%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 210,
+      "slug": "%E1%BC%80%CE%BD%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 211,
+      "slug": "%CE%BA%CE%B1%CF%84%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 212,
+      "slug": "%CE%BA%CE%B1%CF%84%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 213,
+      "slug": "%CE%BA%CE%B1%CF%84%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 214,
+      "slug": "%CE%B4%CE%B9%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 215,
+      "slug": "%CE%B4%CE%B9%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 216,
+      "slug": "%CE%B4%CE%B9%CE%AC",
+      "continuationSlugs": []
+    },
+    {
+      "n": 217,
+      "slug": "%E1%BD%90%CF%80%CE%AD%CF%81",
+      "continuationSlugs": []
+    },
+    {
+      "n": 218,
+      "slug": "%E1%BD%90%CF%80%CE%AD%CF%81",
+      "continuationSlugs": []
+    },
+    {
+      "n": 219,
+      "slug": "%E1%BD%90%CF%80%CE%AD%CF%81",
+      "continuationSlugs": []
+    },
+    {
+      "n": 220,
+      "slug": "%E1%BC%90%CE%BD%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 221,
+      "slug": "%CF%83%CF%8D%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 222,
+      "slug": "%CE%B5%E1%BC%B0%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 223,
+      "slug": "%E1%BC%90%CE%BE",
+      "continuationSlugs": []
+    },
+    {
+      "n": 224,
+      "slug": "%E1%BC%80%CF%80%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 225,
+      "slug": "%CF%80%CF%81%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 226,
+      "slug": "%E1%BC%80%CE%BD%CF%84%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 227,
+      "slug": "other-prepositions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 228,
+      "slug": "other-prepositions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 229,
+      "slug": "homeric-and-attic-uses-prepositions",
+      "continuationSlugs": []
+    },
+    {
+      "n": 230,
+      "slug": "explanation-verbal-nouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 231,
+      "slug": "form-infinitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 232,
+      "slug": "infinitive-nouns-etc",
+      "continuationSlugs": []
+    },
+    {
+      "n": 233,
+      "slug": "infinitive-impersonal-verbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 234,
+      "slug": "infinitive-apparent-subject",
+      "continuationSlugs": []
+    },
+    {
+      "n": 235,
+      "slug": "infinitive-relatives",
+      "continuationSlugs": []
+    },
+    {
+      "n": 236,
+      "slug": "infinitive-%CF%80%CF%81%CE%AF%CE%BD-and-%CF%80%CE%AC%CF%81%CE%BF%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 237,
+      "slug": "accusative-and-infinitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 238,
+      "slug": "tenses-infinitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 239,
+      "slug": "dative-infinitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 240,
+      "slug": "predicative-nouns-attraction",
+      "continuationSlugs": []
+    },
+    {
+      "n": 241,
+      "slug": "infinitive-imperative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 242,
+      "slug": "origin-and-history-infinitive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 243,
+      "slug": "uses-participles",
+      "continuationSlugs": []
+    },
+    {
+      "n": 244,
+      "slug": "tenses-participles",
+      "continuationSlugs": []
+    },
+    {
+      "n": 245,
+      "slug": "implied-predication",
+      "continuationSlugs": []
+    },
+    {
+      "n": 246,
+      "slug": "genitive-absolute",
+      "continuationSlugs": [
+        "verbal-adjectives"
+      ]
+    },
+    {
+      "n": 247,
+      "slug": "explanation-pronouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 248,
+      "slug": "interrogative-pronouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 249,
+      "slug": "%E1%BD%85%CE%B4%CE%B5-%CE%BA%CE%B5%E1%BF%96%CE%BD%CE%BF%CF%82-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 250,
+      "slug": "%E1%BD%85%CE%B4%CE%B5-%CE%BA%CE%B5%E1%BF%96%CE%BD%CE%BF%CF%82-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 251,
+      "slug": "%E1%BD%85%CE%B4%CE%B5-%CE%BA%CE%B5%E1%BF%96%CE%BD%CE%BF%CF%82-%CE%BF%E1%BD%97%CF%84%CE%BF%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 252,
+      "slug": "%CE%B1%E1%BD%90%CF%84%CF%8C%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 253,
+      "slug": "reflexive-pronoun",
+      "continuationSlugs": []
+    },
+    {
+      "n": 254,
+      "slug": "reflexive-pronoun",
+      "continuationSlugs": []
+    },
+    {
+      "n": 255,
+      "slug": "reflexive-pronoun",
+      "continuationSlugs": []
+    },
+    {
+      "n": 256,
+      "slug": "%E1%BD%81-%E1%BC%A1-%CF%84%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 257,
+      "slug": "%E1%BD%81-%E1%BC%A1-%CF%84%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 258,
+      "slug": "%E1%BD%81-%E1%BC%A1-%CF%84%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 259,
+      "slug": "%E1%BD%81-%E1%BC%A1-%CF%84%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 260,
+      "slug": "%E1%BD%81-%E1%BC%A1-%CF%84%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 261,
+      "slug": "%E1%BD%81-%E1%BC%A1-%CF%84%CF%8C",
+      "continuationSlugs": []
+    },
+    {
+      "n": 262,
+      "slug": "article-relative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 263,
+      "slug": "article-%CF%84%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 264,
+      "slug": "homeric-and-attic-use-article",
+      "continuationSlugs": []
+    },
+    {
+      "n": 265,
+      "slug": "%E1%BD%85%CF%82-%E1%BC%A5-%E1%BD%85",
+      "continuationSlugs": []
+    },
+    {
+      "n": 266,
+      "slug": "%E1%BD%85%CF%82-%CF%84%CE%B5-%E1%BD%85%CF%82-%CF%84%CE%B9%CF%82",
+      "continuationSlugs": []
+    },
+    {
+      "n": 267,
+      "slug": "correlative-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 268,
+      "slug": "%CE%BF%E1%BD%95%CE%BD%CE%B5%CE%BA%CE%B1",
+      "continuationSlugs": []
+    },
+    {
+      "n": 269,
+      "slug": "%E1%BD%85-%E1%BD%85%CF%84%CE%B9-%E1%BD%85-%CF%84%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 270,
+      "slug": "%E1%BD%85-%E1%BD%85%CF%84%CE%B9-%E1%BD%85-%CF%84%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 271,
+      "slug": "form-relative-clause",
+      "continuationSlugs": []
+    },
+    {
+      "n": 272,
+      "slug": "form-relative-clause",
+      "continuationSlugs": []
+    },
+    {
+      "n": 273,
+      "slug": "classification-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 274,
+      "slug": "subjunctive-principal-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 275,
+      "slug": "subjunctive-principal-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 276,
+      "slug": "subjunctive-principal-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 277,
+      "slug": "subjunctive-principal-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 278,
+      "slug": "subjunctive-principal-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 279,
+      "slug": "subjunctive-principal-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 280,
+      "slug": "subjunctive-subordinate-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 281,
+      "slug": "subjunctive-subordinate-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 282,
+      "slug": "subjunctive-subordinate-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 283,
+      "slug": "subjunctive-subordinate-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 284,
+      "slug": "relatival-adverbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 285,
+      "slug": "relatival-adverbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 286,
+      "slug": "relatival-adverbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 287,
+      "slug": "relatival-adverbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 288,
+      "slug": "relatival-adverbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 289,
+      "slug": "relatival-adverbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 290,
+      "slug": "relatival-adverbs",
+      "continuationSlugs": []
+    },
+    {
+      "n": 291,
+      "slug": "subjunctive-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 292,
+      "slug": "subjunctive-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 293,
+      "slug": "subjunctive-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 294,
+      "slug": "subjunctive-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 295,
+      "slug": "subjunctive-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 296,
+      "slug": "subjunctive-%E1%BC%90%CF%80%CE%B5%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 297,
+      "slug": "%CF%80%CF%81%CE%AF%CE%BD-subjunctive",
+      "continuationSlugs": []
+    },
+    {
+      "n": 298,
+      "slug": "subjunctive-after-secondary-tenses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 299,
+      "slug": "optative-simple-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 300,
+      "slug": "optative-simple-sentences",
+      "continuationSlugs": []
+    },
+    {
+      "n": 301,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 302,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 303,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 304,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 305,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 306,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 307,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 308,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 309,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 310,
+      "slug": "optative-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 311,
+      "slug": "optative-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 312,
+      "slug": "optative-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 313,
+      "slug": "optative-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 314,
+      "slug": "optative-%CE%B5%E1%BC%B0",
+      "continuationSlugs": []
+    },
+    {
+      "n": 315,
+      "slug": "uses-independent-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 316,
+      "slug": "uses-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 317,
+      "slug": "uses-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 318,
+      "slug": "uses-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 319,
+      "slug": "uses-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 320,
+      "slug": "uses-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 321,
+      "slug": "uses-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 322,
+      "slug": "uses-subordinate-clauses",
+      "continuationSlugs": []
+    },
+    {
+      "n": 323,
+      "slug": "explanation-indicative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 324,
+      "slug": "conditional-clauses-apodosis",
+      "continuationSlugs": [
+        "ellipse-apodosis"
+      ]
+    },
+    {
+      "n": 325,
+      "slug": "past-tense-assimilation",
+      "continuationSlugs": []
+    },
+    {
+      "n": 326,
+      "slug": "future-indicative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 327,
+      "slug": "imperative",
+      "continuationSlugs": []
+    },
+    {
+      "n": 328,
+      "slug": "prohibition",
+      "continuationSlugs": []
+    },
+    {
+      "n": 329,
+      "slug": "classification-particles",
+      "continuationSlugs": []
+    },
+    {
+      "n": 330,
+      "slug": "%CE%BA%CE%B1%CE%AF",
+      "continuationSlugs": []
+    },
+    {
+      "n": 331,
+      "slug": "%CF%84%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 332,
+      "slug": "%CF%84%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 333,
+      "slug": "%CE%B4%CE%AD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 334,
+      "slug": "%CE%B4%CE%AD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 335,
+      "slug": "%CE%B4%CE%AD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 336,
+      "slug": "%E1%BC%80%CE%BB%CE%BB%CE%AC-%CE%B1%E1%BD%90%CF%84%CE%AC%CF%81-%E1%BC%80%CF%84%CE%AC%CF%81-%CE%B1%E1%BD%96-%CE%B1%E1%BD%96%CF%84%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 337,
+      "slug": "%E1%BC%80%CE%BB%CE%BB%CE%AC-%CE%B1%E1%BD%90%CF%84%CE%AC%CF%81-%E1%BC%80%CF%84%CE%AC%CF%81-%CE%B1%E1%BD%96-%CE%B1%E1%BD%96%CF%84%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 338,
+      "slug": "%E1%BC%A6",
+      "continuationSlugs": []
+    },
+    {
+      "n": 339,
+      "slug": "%E1%BC%A6",
+      "continuationSlugs": []
+    },
+    {
+      "n": 340,
+      "slug": "%E1%BC%A0%CE%AD-%E1%BC%A4",
+      "continuationSlugs": []
+    },
+    {
+      "n": 341,
+      "slug": "%E1%BC%A0%CE%AD-%E1%BC%A4",
+      "continuationSlugs": []
+    },
+    {
+      "n": 342,
+      "slug": "%CE%BC%CE%AC%CE%BD-%CE%BC%CE%AE%CE%BD-%CE%BC%CE%AD%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 343,
+      "slug": "%CE%BC%CE%AC%CE%BD-%CE%BC%CE%AE%CE%BD-%CE%BC%CE%AD%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 344,
+      "slug": "%CE%BC%CE%AC%CE%BD-%CE%BC%CE%AE%CE%BD-%CE%BC%CE%AD%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 345,
+      "slug": "%CE%BC%CE%AC%CE%BD-%CE%BC%CE%AE%CE%BD-%CE%BC%CE%AD%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 346,
+      "slug": "%CF%84%CE%BF%CE%B9",
+      "continuationSlugs": []
+    },
+    {
+      "n": 347,
+      "slug": "%E1%BC%84%CF%81%CE%B1-%CE%B3%CE%AC%CF%81",
+      "continuationSlugs": []
+    },
+    {
+      "n": 348,
+      "slug": "%E1%BC%84%CF%81%CE%B1-%CE%B3%CE%AC%CF%81",
+      "continuationSlugs": []
+    },
+    {
+      "n": 349,
+      "slug": "%CE%BF%E1%BD%96%CE%BD-%CE%B4%CE%AE-%CE%BD%CF%85-%CE%B8%CE%B7%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 350,
+      "slug": "%CE%BF%E1%BD%96%CE%BD-%CE%B4%CE%AE-%CE%BD%CF%85-%CE%B8%CE%B7%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 351,
+      "slug": "%CE%BF%E1%BD%96%CE%BD-%CE%B4%CE%AE-%CE%BD%CF%85-%CE%B8%CE%B7%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 352,
+      "slug": "%CE%BF%E1%BD%96%CE%BD-%CE%B4%CE%AE-%CE%BD%CF%85-%CE%B8%CE%B7%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 353,
+      "slug": "%CF%80%CE%B5%CF%81",
+      "continuationSlugs": []
+    },
+    {
+      "n": 354,
+      "slug": "%CE%B3%CE%B5",
+      "continuationSlugs": []
+    },
+    {
+      "n": 355,
+      "slug": "%CE%BF%E1%BD%96-%CE%BC%CE%B7",
+      "continuationSlugs": []
+    },
+    {
+      "n": 356,
+      "slug": "%CE%BF%E1%BD%90%CE%B4%CE%AD-%CE%BC%CE%B7%CE%B4%CE%AD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 357,
+      "slug": "%CE%BF%E1%BD%90%CE%B4%CE%AD-%CE%BC%CE%B7%CE%B4%CE%AD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 358,
+      "slug": "%CE%BC%CE%B7",
+      "continuationSlugs": []
+    },
+    {
+      "n": 359,
+      "slug": "%CE%BC%CE%B7",
+      "continuationSlugs": []
+    },
+    {
+      "n": 360,
+      "slug": "%CE%BC%CE%B7",
+      "continuationSlugs": []
+    },
+    {
+      "n": 361,
+      "slug": "%CE%BC%CE%B7",
+      "continuationSlugs": []
+    },
+    {
+      "n": 362,
+      "slug": "%CE%BA%CE%B5%CE%BD-and-%CE%B1%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 363,
+      "slug": "%CE%BA%CE%B5%CE%BD-and-%CE%B1%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 364,
+      "slug": "%CE%BA%CE%B5%CE%BD-and-%CE%B1%CE%BD",
+      "continuationSlugs": []
+    },
+    {
+      "n": 365,
+      "slug": "order-particles-and-enclitic-pronouns",
+      "continuationSlugs": []
+    },
+    {
+      "n": 366,
+      "slug": "hexameter",
+      "continuationSlugs": []
+    },
+    {
+      "n": 367,
+      "slug": "hexameter",
+      "continuationSlugs": []
+    },
+    {
+      "n": 368,
+      "slug": "hexameter",
+      "continuationSlugs": []
+    },
+    {
+      "n": 369,
+      "slug": "syllabic-quantity-position",
+      "continuationSlugs": []
+    },
+    {
+      "n": 370,
+      "slug": "syllabic-quantity-position",
+      "continuationSlugs": []
+    },
+    {
+      "n": 371,
+      "slug": "lengthening-%CF%81-%CE%BB-%CE%BC-%CE%BD-%CF%83-%CE%B4",
+      "continuationSlugs": []
+    },
+    {
+      "n": 372,
+      "slug": "lengthening-%CF%81-%CE%BB-%CE%BC-%CE%BD-%CF%83-%CE%B4",
+      "continuationSlugs": []
+    },
+    {
+      "n": 373,
+      "slug": "final-%CE%B9-dative-singular",
+      "continuationSlugs": []
+    },
+    {
+      "n": 374,
+      "slug": "final-%CE%B1",
+      "continuationSlugs": []
+    },
+    {
+      "n": 375,
+      "slug": "short-syllables-ending-consonant",
+      "continuationSlugs": []
+    },
+    {
+      "n": 376,
+      "slug": "elision-crasis-synizesis",
+      "continuationSlugs": []
+    },
+    {
+      "n": 377,
+      "slug": "elision-crasis-synizesis",
+      "continuationSlugs": []
+    },
+    {
+      "n": 378,
+      "slug": "elision-crasis-synizesis",
+      "continuationSlugs": [
+        "contraction-homer"
+      ]
+    },
+    {
+      "n": 379,
+      "slug": "hiatus",
+      "continuationSlugs": []
+    },
+    {
+      "n": 380,
+      "slug": "hiatus",
+      "continuationSlugs": []
+    },
+    {
+      "n": 381,
+      "slug": "hiatus",
+      "continuationSlugs": []
+    },
+    {
+      "n": 382,
+      "slug": "hiatus",
+      "continuationSlugs": []
+    },
+    {
+      "n": 383,
+      "slug": "doubtful-syllables",
+      "continuationSlugs": []
+    },
+    {
+      "n": 384,
+      "slug": "doubtful-syllables",
+      "continuationSlugs": []
+    },
+    {
+      "n": 385,
+      "slug": "doubtful-syllables",
+      "continuationSlugs": []
+    },
+    {
+      "n": 386,
+      "slug": "metrical-license",
+      "continuationSlugs": []
+    },
+    {
+      "n": 387,
+      "slug": "metrical-license",
+      "continuationSlugs": []
+    },
+    {
+      "n": 388,
+      "slug": "evidence-digamma",
+      "continuationSlugs": []
+    },
+    {
+      "n": 389,
+      "slug": "evidence-digamma",
+      "continuationSlugs": []
+    },
+    {
+      "n": 390,
+      "slug": "words-initial-%CF%9D",
+      "continuationSlugs": []
+    },
+    {
+      "n": 391,
+      "slug": "words-initial-%CF%83%CF%9D",
+      "continuationSlugs": []
+    },
+    {
+      "n": 392,
+      "slug": "%CF%9D-inferred-meter-only",
+      "continuationSlugs": []
+    },
+    {
+      "n": 393,
+      "slug": "loss-%CF%9D-homer",
+      "continuationSlugs": []
+    },
+    {
+      "n": 394,
+      "slug": "words-initial-%CE%B4%CF%9D",
+      "continuationSlugs": []
+    },
+    {
+      "n": 395,
+      "slug": "words-initial-%CF%9D%CF%81-etc",
+      "continuationSlugs": []
+    },
+    {
+      "n": 396,
+      "slug": "%CF%9D-not-initial",
+      "continuationSlugs": []
+    },
+    {
+      "n": 397,
+      "slug": "loss-initial-%CF%83-and-consonantal-%CE%B9",
+      "continuationSlugs": []
+    },
+    {
+      "n": 398,
+      "slug": "summary-evidence-%CF%9D",
+      "continuationSlugs": []
+    },
+    {
+      "n": 399,
+      "slug": "theories-%CF%9D",
+      "continuationSlugs": []
+    },
+    {
+      "n": 400,
+      "slug": "theories-%CF%9D",
+      "continuationSlugs": []
+    },
+    {
+      "n": 401,
+      "slug": "explanation-fixed-phrases",
+      "continuationSlugs": []
+    },
+    {
+      "n": 402,
+      "slug": "hiatus-etc-survival",
+      "continuationSlugs": []
+    },
+    {
+      "n": 403,
+      "slug": "explanation-nature-%CF%9D",
+      "continuationSlugs": []
+    },
+    {
+      "n": 404,
+      "slug": "%CF%9D-other-greek-dialects",
+      "continuationSlugs": []
+    },
+    {
+      "n": 405,
+      "slug": "%CF%9D-other-greek-dialects",
+      "continuationSlugs": []
+    }
+  ],
+  "counts": {
+    "sourcePages": 205,
+    "sections": 405,
+    "primarySectionMarkers": 405,
+    "crossPageContinuations": 3,
+    "sectionCrossRefUses": 760,
+    "uniqueRefEdges": 668,
+    "crossRefRanges": 3,
+    "examples": 1832,
+    "footnoteMarkersRetained": 185
+  },
+  "extraction": {
+    "sectionSplit": "leading strong/bold numeric paragraph labels; rising labels start sections; starred first labels append cross-page continuations",
+    "examplePattern": "indented paragraphs whose text begins with Il. or Od. book.line; Greek text before the first emphasized gloss",
+    "crossPageContinuations": [
+      {
+        "n": 246,
+        "slug": "verbal-adjectives",
+        "head": "Verbal Adjectives"
+      },
+      {
+        "n": 324,
+        "slug": "ellipse-apodosis",
+        "head": "Ellipse of the Apodosis"
+      },
+      {
+        "n": 378,
+        "slug": "contraction-homer",
+        "head": "Contraction in Homer"
+      }
+    ],
+    "ignoredUnnumberedPages": [
+      {
+        "slug": "editors-note",
+        "head": "Editor's Note"
+      },
+      {
+        "slug": "paradigm-charts",
+        "head": "Paradigm Charts"
+      },
+      {
+        "slug": "preface",
+        "head": "Preface"
+      }
+    ],
+    "sourceTextNormalization": {
+      "policy": "retain precomposed Latin quantity vowels in Latin-script words; map them to marked Greek vowels only in Greek-script context",
+      "latinQuantityContextDecisions": {
+        "greekContextTokens": 1,
+        "latinContextTokens": 17,
+        "greekContextCharacters": 1,
+        "latinContextCharacters": 17
+      },
+      "retainedLatinWordQuantity": {
+        "tokens": 100,
+        "characters": 102
+      },
+      "mixedScriptTokens": 1784
+    },
+    "unresolvedRefs": []
+  }
+}

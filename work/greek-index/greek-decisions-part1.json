@@ -1,0 +1,1467 @@
+[
+ {
+  "id": "g|757|14|1",
+  "choice": "genie"
+ },
+ {
+  "id": "g|757|20|2",
+  "choice": "sol"
+ },
+ {
+  "id": "g|757|23|3",
+  "choice": "sol"
+ },
+ {
+  "id": "g|757|25|4",
+  "choice": "terra"
+ },
+ {
+  "id": "g|757|26|5",
+  "choice": "llama"
+ },
+ {
+  "id": "g|757|34|6",
+  "choice": "sol"
+ },
+ {
+  "id": "g|757|42|7",
+  "choice": "genie"
+ },
+ {
+  "id": "g|757|42|8",
+  "choice": "terra",
+  "note": "Can’t vouch for what comes after 657. | Clarified: 657 is in print; macron reading correct; terra frame already matches -> no edit.",
+  "resolved": "ἀγῑνέμεναι 657 ἀγνοέω"
+ },
+ {
+  "id": "g|757|46|9",
+  "choice": "sol"
+ },
+ {
+  "id": "g|757|48|10",
+  "choice": "llama"
+ },
+ {
+  "id": "g|758|8|11",
+  "choice": "terra"
+ },
+ {
+  "id": "g|758|12|12",
+  "choice": "terra"
+ },
+ {
+  "id": "g|758|13|13",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|17|14",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|18|15",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|18|16",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|25|17",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|31|18",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|31|19",
+  "choice": "custom",
+  "note": "Sol but macron on second alpha like with Genie.",
+  "resolved": "Ἀΐδᾱο"
+ },
+ {
+  "id": "g|758|32|20",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|34|21",
+  "choice": "genie"
+ },
+ {
+  "id": "g|758|35|22",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|41|23",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|45|24",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|67|25",
+  "choice": "custom",
+  "note": "Sol for first letter but no umlaut over iota, just accent.",
+  "resolved": "ᾱ̓ίσσω"
+ },
+ {
+  "id": "g|758|70|26",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|77|27",
+  "choice": "sol"
+ },
+ {
+  "id": "g|758|82|28",
+  "choice": "sol"
+ },
+ {
+  "id": "g|759|4|29",
+  "choice": "sol"
+ },
+ {
+  "id": "g|759|10|30",
+  "choice": "sol"
+ },
+ {
+  "id": "g|759|12|31",
+  "choice": "llama"
+ },
+ {
+  "id": "g|759|47|32",
+  "choice": "custom",
+  "note": "Owner: macrons on many initial alphas (marked unclear). Orchestrator hi-res read: rough breathing + macron on all five initial alphas; final word ἇμιν with circumflex (genie's reading). PENDING OWNER CONFIRM.",
+  "resolved": "ᾱ̔μέ ᾱ̔μές ᾱ̔μέων ᾱ̔μῶν ᾱ̔μίν ἇμιν"
+ },
+ {
+  "id": "g|759|51|33",
+  "choice": "genie"
+ },
+ {
+  "id": "g|759|55|34",
+  "choice": "custom",
+  "note": "Owner: macron on initial alpha in both; breathings per genie (rough then smooth). Hi-res crop confirms: ᾱ̔μός (sometimes printed ᾱ̓μός).",
+  "resolved": "ᾱ̔μός ᾱ̓μός"
+ },
+ {
+  "id": "g|759|71|35",
+  "choice": "custom",
+  "resolved": "κᾱ̓̀ν",
+  "note": "Owner: Genie right (grave) but macron on the alpha -> κᾱ̓̀ν (kappa + alpha-macron + smooth + grave + nu)."
+ },
+ {
+  "id": "g|759|90|36",
+  "choice": "sol"
+ },
+ {
+  "id": "g|759|91|37",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|11|38",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|13|39",
+  "choice": "custom",
+  "resolved": "ανο ε",
+  "note": "Owner: printed suffix is -ανο/ε- with stacked ο/ε (either/or: -ανο-/-ανε-). Apply as -ανο/ε-."
+ },
+ {
+  "id": "g|760|20|40",
+  "choice": "genie"
+ },
+ {
+  "id": "g|760|25|41",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|45|42",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|49|43",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|57|44",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|75|45",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|77|46",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|82|47",
+  "choice": "custom",
+  "resolved": "ᾰς ᾱς",
+  "note": "Owner: breve on first alpha: -ᾰς, for -ᾱς."
+ },
+ {
+  "id": "g|760|84|48",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|85|49",
+  "choice": "custom",
+  "resolved": "ᾰσι ᾱσι",
+  "note": "Owner: breve on first alpha: -ᾰσι, -ᾱσι."
+ },
+ {
+  "id": "g|760|86|50",
+  "choice": "sol"
+ },
+ {
+  "id": "g|760|89|51",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|1|52",
+  "choice": "genie"
+ },
+ {
+  "id": "g|761|11|53",
+  "choice": "genie"
+ },
+ {
+  "id": "g|761|12|54",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|36|55",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|36|56",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|41|57",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|42|58",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|45|59",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|62|60",
+  "choice": "custom",
+  "resolved": "D. βῡνέω",
+  "note": "Owner confirmed: capital D. (caps rule) + βῡνέω with upsilon macron (sol right)."
+ },
+ {
+  "id": "g|761|66|61",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|71|62",
+  "choice": "sol"
+ },
+ {
+  "id": "g|761|75|63",
+  "choice": "genie"
+ },
+ {
+  "id": "g|761|80|64",
+  "choice": "terra"
+ },
+ {
+  "id": "g|761|80|65",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|761|81|66",
+  "choice": "rule-caps",
+  "resolved": "N.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|761|83|67",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|761|84|68",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|761|85|69",
+  "choice": "genie"
+ },
+ {
+  "id": "g|762|8|70",
+  "choice": "sol"
+ },
+ {
+  "id": "g|762|15|71",
+  "choice": "sol"
+ },
+ {
+  "id": "g|762|18|72",
+  "choice": "genie"
+ },
+ {
+  "id": "g|762|18|73",
+  "choice": "genie"
+ },
+ {
+  "id": "g|762|25|74",
+  "choice": "sol"
+ },
+ {
+  "id": "g|762|25|75",
+  "choice": "genie"
+ },
+ {
+  "id": "g|762|40|76",
+  "choice": "genie"
+ },
+ {
+  "id": "g|762|51|77",
+  "choice": "sol"
+ },
+ {
+  "id": "g|762|52|78",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|762|66|79",
+  "choice": "custom",
+  "note": "Crop was off-line; hi-res shows δὴ οὖν, 2960 (omicron, circumflex) — genie/llama right. Recorded pending owner veto (crop sent).",
+  "resolved": "οὖν"
+ },
+ {
+  "id": "g|762|68|80",
+  "choice": "sol",
+  "note": "Crop was off-line; hi-res shows δῆλός ἐστι (double accent) — sol right. Pending owner veto (crop sent)."
+ },
+ {
+  "id": "g|762|77|81",
+  "choice": "genie",
+  "note": "Crop was off-line; hi-res shows -δῑ, deictic suff. (iota macron) — genie right. Pending owner veto (crop sent)."
+ },
+ {
+  "id": "g|763|5|82",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|13|83",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|15|84",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|32|85",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|55|86",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|59|87",
+  "choice": "terra"
+ },
+ {
+  "id": "g|763|66|88",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|74|89",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|77|90",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|78|91",
+  "choice": "sol"
+ },
+ {
+  "id": "g|763|78|92",
+  "choice": "custom",
+  "note": "Owner: sol nailed the macron but accent direction wrong -> ἐᾱ̀ν (macron + grave).",
+  "resolved": "ἐᾱ̀ν"
+ },
+ {
+  "id": "g|764|20|93",
+  "choice": "genie"
+ },
+ {
+  "id": "g|764|25|94",
+  "choice": "genie"
+ },
+ {
+  "id": "g|764|31|95",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|37|96",
+  "choice": "genie"
+ },
+ {
+  "id": "g|764|50|97",
+  "choice": "genie"
+ },
+ {
+  "id": "g|764|54|98",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|764|60|99",
+  "choice": "genie"
+ },
+ {
+  "id": "g|764|61|100",
+  "choice": "sol"
+ },
+ {
+  "id": "g|764|64|101",
+  "choice": "genie"
+ },
+ {
+  "id": "g|764|66|102",
+  "choice": "genie"
+ },
+ {
+  "id": "g|764|77|103",
+  "choice": "genie"
+ },
+ {
+  "id": "g|765|3|104",
+  "choice": "llama"
+ },
+ {
+  "id": "g|765|5|105",
+  "choice": "genie"
+ },
+ {
+  "id": "g|765|9|106",
+  "choice": "sol"
+ },
+ {
+  "id": "g|765|34|107",
+  "choice": "genie"
+ },
+ {
+  "id": "g|765|73|108",
+  "choice": "llama"
+ },
+ {
+  "id": "g|765|75|109",
+  "choice": "genie"
+ },
+ {
+  "id": "g|765|76|110",
+  "choice": "genie"
+ },
+ {
+  "id": "g|765|93|111",
+  "choice": "genie"
+ },
+ {
+  "id": "g|765|95|112",
+  "choice": "genie"
+ },
+ {
+  "id": "g|766|6|113",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|766|7|114",
+  "choice": "genie"
+ },
+ {
+  "id": "g|766|58|115",
+  "choice": "sol"
+ },
+ {
+  "id": "g|766|91|116",
+  "choice": "genie"
+ },
+ {
+  "id": "g|767|24|117",
+  "choice": "genie"
+ },
+ {
+  "id": "g|767|44|118",
+  "choice": "genie"
+ },
+ {
+  "id": "g|767|45|119",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|767|66|120",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|767|68|121",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|767|69|122",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|767|73|123",
+  "choice": "genie"
+ },
+ {
+  "id": "g|767|75|124",
+  "choice": "genie"
+ },
+ {
+  "id": "g|767|76|125",
+  "choice": "terra"
+ },
+ {
+  "id": "g|767|77|126",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|77|127",
+  "choice": "sol"
+ },
+ {
+  "id": "g|767|80|128",
+  "choice": "custom",
+  "note": "Owner: ἢ (ἠὲ) . . . ἦ (ἦε) — first pair grave, second pair circumflex.",
+  "resolved": "ἢ ἠὲ ἦ ἦε"
+ },
+ {
+  "id": "g|767|82|129",
+  "choice": "sol",
+  "note": "Owner: sol, noting possible goof on second τε. Owner's authoritative line (p767 l82): εἴτε, 2854 ; ἢ . . . τέ, τὲ . . . ἤ, 2982. — first ἤ is GRAVE ἢ (uncovered by any dispute span: all readers misread it acute); first τε acute τέ, second τε grave τὲ, final ἤ acute. Apply overrides whole line."
+ },
+ {
+  "id": "g|767|82|130",
+  "choice": "custom",
+  "note": "Owner's authoritative line (p767 l82): εἴτε, 2854 ; ἢ . . . τέ, τὲ . . . ἤ, 2982. — first ἤ is GRAVE ἢ (uncovered by any dispute span: all readers misread it acute); first τε acute τέ, second τε grave τὲ, final ἤ acute. Apply overrides whole line.",
+  "resolved": "ἤ 2982"
+ },
+ {
+  "id": "g|768|3|131",
+  "choice": "genie"
+ },
+ {
+  "id": "g|768|4|132",
+  "choice": "genie"
+ },
+ {
+  "id": "g|768|16|133",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|18|134",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|29|135",
+  "choice": "llama"
+ },
+ {
+  "id": "g|768|31|136",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|31|137",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|32|138",
+  "choice": "custom",
+  "note": "Owner: ἥμων, ἧμιν, ἧμας (Hom. accents; 325 f).",
+  "resolved": "ἥμων ἧμιν ἧμας"
+ },
+ {
+  "id": "g|768|35|139",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|35|140",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|35|141",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|36|142",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|36|143",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|39|144",
+  "choice": "custom",
+  "note": "Owner: ᾗπερ (iota subscript + circumflex).",
+  "resolved": "ᾗπερ"
+ },
+ {
+  "id": "g|768|42|145",
+  "choice": "rule-caps",
+  "resolved": "N.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|44|146",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|45|147",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|51|148",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|56|149",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|60|150",
+  "choice": "rule-caps",
+  "resolved": "N.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|67|151",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|71|152",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|72|153",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|76|154",
+  "choice": "rule-caps",
+  "resolved": "D.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|80|155",
+  "choice": "rule-caps",
+  "resolved": "D.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|768|86|156",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|93|157",
+  "choice": "sol"
+ },
+ {
+  "id": "g|768|95|158",
+  "choice": "rule-caps",
+  "resolved": "D.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|769|5|159",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|12|160",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|14|161",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|15|162",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|25|163",
+  "choice": "llama"
+ },
+ {
+  "id": "g|769|33|164",
+  "choice": "custom",
+  "note": "Owner: printed suffix is -ινο/ε- with stacked ο/ε either-or (= -ινο-/-ινε-). Apply as -ινο/ε-.",
+  "resolved": "ινο ε"
+ },
+ {
+  "id": "g|769|34|165",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|36|166",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|38|167",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|50|168",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|51|169",
+  "choice": "sol",
+  "note": "Owner: probably Greek capital Κ, not Latin K — resolved to GREEK CAPITAL KAPPA.",
+  "resolved": "Κ"
+ },
+ {
+  "id": "g|769|53|170",
+  "choice": "rule-caps",
+  "resolved": "N.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|769|59|171",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|65|172",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|72|173",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|73|174",
+  "choice": "sol"
+ },
+ {
+  "id": "g|769|79|175",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|1|176",
+  "choice": "genie"
+ },
+ {
+  "id": "g|770|31|177",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|35|178",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|39|179",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|41|180",
+  "choice": "sol"
+ },
+ {
+  "id": "g|770|81|181",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|770|87|182",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|10|183",
+  "choice": "custom",
+  "note": "Owner saw 'circumflex UNDER the ι' = Smyth's non-syllabic iota (yod), U+032F combining inverted breve below. Hi-res: entry is λι̯, 110. Number is 110 (terra's 1110 wrong).",
+  "resolved": "λι̯ 110"
+ },
+ {
+  "id": "g|771|21|184",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|25|185",
+  "choice": "genie"
+ },
+ {
+  "id": "g|771|35|186",
+  "choice": "sol",
+  "note": "Owner: line-end hyphenated fragment is μᾶλ- (circumflex), per sol."
+ },
+ {
+  "id": "g|771|38|187",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|39|188",
+  "choice": "genie"
+ },
+ {
+  "id": "g|771|56|189",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|58|190",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|59|191",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|80|192",
+  "choice": "sol"
+ },
+ {
+  "id": "g|771|88|193",
+  "choice": "sol"
+ },
+ {
+  "id": "g|772|43|194",
+  "choice": "sol"
+ },
+ {
+  "id": "g|772|57|195",
+  "choice": "rule-caps",
+  "resolved": "D.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|772|68|196",
+  "choice": "sol"
+ },
+ {
+  "id": "g|772|73|197",
+  "choice": "sol"
+ },
+ {
+  "id": "g|772|80|198",
+  "choice": "sol"
+ },
+ {
+  "id": "g|772|86|199",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|11|200",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|24|201",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|25|202",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|27|203",
+  "choice": "terra",
+  "note": "Owner: terra (νίν). Owner also flags: next line (-νο/ε-) is another stacked ο/ε fraction that fooled all four readers — see rule-fractions."
+ },
+ {
+  "id": "g|773|37|204",
+  "choice": "rule-caps",
+  "resolved": "D.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|773|41|205",
+  "choice": "terra"
+ },
+ {
+  "id": "g|773|48|206",
+  "choice": "sol"
+ },
+ {
+  "id": "g|773|49|207",
+  "choice": "custom",
+  "resolved": "νῡνί̄ νύ̄ν",
+  "note": "Owner: second word νυνί has macrons on BOTH υ and ι (accents as sol: acute on ι) -> νῡνί̄; third word νύν has macron on υ -> νύ̄ν. Orchestrator added macrons per owner instruction."
+ },
+ {
+  "id": "g|773|56|208",
+  "choice": "rule-caps",
+  "resolved": "N.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|773|66|209",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|773|77|210",
+  "choice": "custom",
+  "resolved": "ὁδί̄",
+  "note": "Owner: sol (ὁδί) but iota has macron -> ὁδί̄."
+ },
+ {
+  "id": "g|773|79|211",
+  "choice": "llama"
+ },
+ {
+  "id": "g|773|81|212",
+  "choice": "custom",
+  "resolved": "ο ε",
+  "note": "Owner: -ο/ε- stacked fraction (them. vow., 455-457). See rule-fractions."
+ },
+ {
+  "id": "g|773|87|213",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|1|214",
+  "choice": "genie",
+  "note": "Owner also asks: check next line 'οἷα, οἷον (οἷον δή), w. part. 2085; cp.' against readers."
+ },
+ {
+  "id": "g|774|12|215",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|15|216",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|26|217",
+  "choice": "custom",
+  "resolved": "ὀί̄ο μαι",
+  "note": "Owner: line-end fragment is ὀίο- with macron on the iota -> ὀί̄ο- (Homeric ὀί̄ομαι; llama base)."
+ },
+ {
+  "id": "g|774|32|218",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|40|219",
+  "choice": "genie"
+ },
+ {
+  "id": "g|774|43|220",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|45|221",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|49|222",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|65|223",
+  "choice": "sol"
+ },
+ {
+  "id": "g|774|70|224",
+  "choice": "sol",
+  "note": "Owner WHOLE-LINE override (p774 l70): 'οο to οω, ωο ; οοι to οῳ ; οου to οω, 652.' — terra's ω/ωῳ/ωω targets are wrong; results are οω/οῳ/οω."
+ },
+ {
+  "id": "g|774|95|225",
+  "choice": "genie"
+ },
+ {
+  "id": "g|775|9|226",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|37|227",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|42|228",
+  "choice": "sol"
+ },
+ {
+  "id": "g|775|76|229",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|18|230",
+  "choice": "terra",
+  "note": "Owner: terra is the only reader catching apostrophes in ἀλλ᾽ so far."
+ },
+ {
+  "id": "g|776|20|231",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|25|232",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|26|233",
+  "choice": "genie"
+ },
+ {
+  "id": "g|776|27|234",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|44|235",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|54|236",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|776|61|237",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|63|238",
+  "choice": "terra"
+ },
+ {
+  "id": "g|776|84|239",
+  "choice": "sol"
+ },
+ {
+  "id": "g|776|89|240",
+  "choice": "genie"
+ },
+ {
+  "id": "g|776|90|241",
+  "choice": "genie",
+  "note": "Owner TWO-LINE override (p776 l90-91): 'οω for αο, αω, αου, 643; for οο, οου, 652; οῳ for αοι, 643; for οοι, 652.' — headwords are οω/οῳ (not ω), and l90 'ου' should be 'οου'."
+ },
+ {
+  "id": "g|776|91|242",
+  "choice": "genie"
+ },
+ {
+  "id": "g|777|19|243",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|24|244",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|777|26|245",
+  "choice": "sol"
+ },
+ {
+  "id": "g|777|44|246",
+  "choice": "sol",
+  "note": "Owner: looks like lower-case c."
+ },
+ {
+  "id": "g|777|51|247",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|4|248",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|4|249",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|10|250",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|12|251",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|12|252",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|27|253",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|33|254",
+  "choice": "custom",
+  "resolved": "πού ποῦ",
+  "note": "Owner: it's πού, ποῦ, 181 b, 346 — acute enclitic first, then circumflex."
+ },
+ {
+  "id": "g|778|33|255",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|35|256",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|51|257",
+  "choice": "custom",
+  "resolved": "πρί̄ω",
+  "note": "Owner: sol (πρίω) but iota has macron -> πρί̄ω."
+ },
+ {
+  "id": "g|778|52|258",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|56|259",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|57|260",
+  "choice": "custom",
+  "resolved": "προί̄ημι",
+  "note": "Owner: προίημι with accent AND macron on iota -> προί̄ημι (no diaeresis; macron replaces it in print)."
+ },
+ {
+  "id": "g|778|58|261",
+  "choice": "custom",
+  "resolved": "προί̄εμαι",
+  "note": "Owner: προίεμαι with accent AND macron on iota -> προί̄εμαι."
+ },
+ {
+  "id": "g|778|64|262",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|66|263",
+  "choice": "sol"
+ },
+ {
+  "id": "g|778|72|264",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|5|265",
+  "choice": "genie"
+ },
+ {
+  "id": "g|779|49|266",
+  "choice": "custom",
+  "resolved": "ο ε",
+  "note": "Owner: -σκο/ε- stacked fraction (= -σκο-/-σκε-, iteratives). See rule-fractions."
+ },
+ {
+  "id": "g|779|64|267",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|77|268",
+  "choice": "custom",
+  "resolved": "σῡλος",
+  "note": "Owner: upsilon has macron, NO accent -> -σῡλος (compounds of, accent, 894 N.)."
+ },
+ {
+  "id": "g|779|80|269",
+  "choice": "sol"
+ },
+ {
+  "id": "g|779|93|270",
+  "choice": "sol",
+  "note": "Owner WHOLE-LINE override (p779 l93): 'σφεα, σφέας, σφεας, 325 D 1, 2.' — first and third unaccented, middle σφέας."
+ },
+ {
+  "id": "g|779|94|271",
+  "choice": "rule-caps",
+  "resolved": "N.",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|780|5|272",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|780|26|273",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|32|274",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|34|275",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|780|36|276",
+  "choice": "genie"
+ },
+ {
+  "id": "g|780|37|277",
+  "choice": "llama"
+ },
+ {
+  "id": "g|780|41|278",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|70|279",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|75|280",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|77|281",
+  "choice": "genie"
+ },
+ {
+  "id": "g|780|78|282",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|79|283",
+  "choice": "genie"
+ },
+ {
+  "id": "g|780|80|284",
+  "choice": "sol"
+ },
+ {
+  "id": "g|780|82|285",
+  "choice": "custom",
+  "resolved": "τί̄νη",
+  "note": "Owner: genie's τίνη but macron on the iota -> τί̄νη (no subscript; sol's τίνῃ wrong)."
+ },
+ {
+  "id": "g|780|91|286",
+  "choice": "terra"
+ },
+ {
+  "id": "g|781|1|287",
+  "choice": "sol"
+ },
+ {
+  "id": "g|781|7|288",
+  "choice": "sol",
+  "note": "Owner marked unclear (crop cut). Hi-res: print reads ἀλλά (acute) before γέ τοι — sol/genie/llama. Crop sent for owner verification."
+ },
+ {
+  "id": "g|781|26|289",
+  "choice": "sol"
+ },
+ {
+  "id": "g|781|60|290",
+  "choice": "sol"
+ },
+ {
+  "id": "g|781|60|291",
+  "choice": "sol"
+ },
+ {
+  "id": "g|781|63|292",
+  "choice": "genie"
+ },
+ {
+  "id": "g|781|68|293",
+  "choice": "custom",
+  "resolved": "ῡ̔μίν ῡ̔μάς",
+  "note": "Owner: sol/genie accents right (ὑμίν, ὑμάς — acute, not circumflex) but macrons on each upsilon -> ῡ̔μίν, ῡ̔μάς. LINES-OVERRIDE: p781 l67-69 all have macrons on each initial upsilon: ῡ̔μείων, ῡ̔μέων (l67); ῡ̔μές, ῡ̔μίν, ῡ̔μάς (l68); ῡ̔μέτερος (l69, matches unanimity-audit flag)."
+ },
+ {
+  "id": "g|781|76|294",
+  "choice": "custom",
+  "resolved": "ὕ̄μων ὗμιν ὗμας",
+  "note": "Owner: no reader got the accents: ὕμων, ὗμιν, ὗμας; macron on FIRST upsilon only -> ὕ̄μων, ὗμιν, ὗμας."
+ },
+ {
+  "id": "g|781|78|295",
+  "choice": "custom",
+  "resolved": "υνο ε",
+  "note": "Owner: -υνο/ε- stacked fraction (= -υνο-/-υνε-, 523 e). In rule-fractions census."
+ },
+ {
+  "id": "g|781|79|296",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|11|297",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|13|298",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|14|299",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|57|300",
+  "choice": "llama"
+ },
+ {
+  "id": "g|782|58|301",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|75|302",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|77|303",
+  "choice": "sol",
+  "note": "Owner: SOL AND GENIE GOT THE ACCENT MACRON COMBO FOR ONCE! YAY!"
+ },
+ {
+  "id": "g|782|79|304",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|85|305",
+  "choice": "llama"
+ },
+ {
+  "id": "g|782|87|306",
+  "choice": "sol"
+ },
+ {
+  "id": "g|782|92|307",
+  "choice": "llama"
+ },
+ {
+  "id": "g|782|94|308",
+  "choice": "sol"
+ },
+ {
+  "id": "g|783|8|309",
+  "choice": "genie"
+ },
+ {
+  "id": "g|783|13|310",
+  "choice": "sol",
+  "note": "Owner marked unclear (crop cut next line); hi-res shows φῡ́ω, 488 c — macron + acute stacked on upsilon, sol right. Crop sent for owner verification."
+ },
+ {
+  "id": "g|783|34|311",
+  "choice": "genie"
+ },
+ {
+  "id": "g|783|45|312",
+  "choice": "genie"
+ },
+ {
+  "id": "g|783|47|313",
+  "choice": "custom",
+  "resolved": "χι̯ 112",
+  "note": "Owner: circumflex under the iota = non-syllabic iota (yod, U+032F), same as λι̯ card 183. Hi-res: last line of column reads χι̯, 112. Crop sent for verification."
+ },
+ {
+  "id": "g|783|49|314",
+  "choice": "custom",
+  "resolved": "χλί̄ω",
+  "note": "Owner: genie (χλίω) but macron on iota -> χλί̄ω (500. 2)."
+ },
+ {
+  "id": "g|783|89|315",
+  "choice": "rule-caps",
+  "resolved": "D",
+  "note": "Auto-resolved by owner rule 2026-08-03: any solo D/N is small capital (D., N.)."
+ },
+ {
+  "id": "g|784|7|316",
+  "choice": "genie"
+ },
+ {
+  "id": "g|784|7|317",
+  "choice": "genie",
+  "note": "Owner: same line as 316, second occurrence (οὐκ ὦν) — sol/genie's ὦν (circumflex, Hdt.); llama's ὧν (rough) wrong."
+ },
+ {
+  "id": "g|784|14|318",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|20|319",
+  "choice": "genie"
+ },
+ {
+  "id": "g|784|21|320",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|36|321",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|37|322",
+  "choice": "sol"
+ },
+ {
+  "id": "g|784|38|323",
+  "choice": "custom",
+  "resolved": "ωὐτός",
+  "note": "Owner: ωὐτός (crasis, smooth breathing on upsilon) — matches corpus §327 convention. Sol/genie's rough ωὑτός and terra's ὠυτός both wrong."
+ },
+ {
+  "id": "rule-fractions",
+  "choice": "rule",
+  "resolved": null,
+  "note": "Standing owner rule (2026-08-03, cards 39/164/203): tense-suffix entries print their alternants as a STACKED fraction (top over bottom) which every reader flattened. Apply-time line corrections (terra frame -> printed form): p758 l44: -αιν/ε -> -αινο/ε- (523 i); p760 l13: -αν/ε- -> -ανο/ε- (523 b,c) [card 39]; p767 l71: η/ε -> -η/ε- stacked pair (455.9); p769 l33: -ιν/ε- -> -ινο/ε- (523 h) [card 164]; p773 l13: -νεο/ε- -> -νεο/ε- stacked (523 d); p773 l28: -νο/ε- -> -νο/ε- stacked (523 a); p781 l78: -υν%ε -> -υνο/ε- (523 e). Linearize as top/bottom with slash; entries render '-Xο/ε-'. ADDED 2026-08-03 (cards 212/266): p773 l81: -ο/-ε- -> -ο/ε- stacked (them. vow. 455-457); p779 l49: -σκ/ε -> -σκο/ε- stacked (iteratives)."
+ }
+]

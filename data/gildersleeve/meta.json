@@ -1,0 +1,98 @@
+{
+  "work": "gildersleeve",
+  "title": "Syntax of Classical Greek from Homer to Demosthenes",
+  "source": "grammar-gildersleeve/src/gildersleeve-1999.04.0074.xml",
+  "edition": "Part I, 1900; Part II, 1911",
+  "counts": {
+    "sections": 674,
+    "sourceNumericMarkers": 672,
+    "sourceUniqueNumericMarkers": 671,
+    "prefaceMarkers": 2,
+    "sectionCrossRefs": 37,
+    "uniqueRefEdges": 35,
+    "crossRefRanges": 1,
+    "examples": 3951,
+    "sourceCitations": 2124,
+    "notes": 107,
+    "footnotes": 121,
+    "tables": 2,
+    "lists": 4,
+    "skippedTextElements": 0
+  },
+  "anomalies": {
+    "missingSourceMarkers": [
+      78,
+      111,
+      642
+    ],
+    "duplicateSourceMarkers": [
+      88
+    ],
+    "implicitSections": [
+      {
+        "n": 78,
+        "sourcePrefix": "78.",
+        "text": "78. Sometimes an indefinite subject is to be supplied from the context. This is very easy in the dependencies of the inf"
+      },
+      {
+        "n": 111,
+        "sourcePrefix": "III.",
+        "text": "III. Even here the plural is the rule."
+      },
+      {
+        "n": 642,
+        "sourcePrefix": "642.",
+        "text": "642. πᾶς, ἅπας, σύμπας (συνάπας). — The original difference between ἅπας and πᾶς gradually faded and the avoidance of hi"
+      }
+    ],
+    "sourceTextFixes": [
+      {
+        "kind": "Beta Code",
+        "pattern": "matro\\\\s\\s+a\\)mfo/teroi",
+        "replacement": "ματρὸς ἀμφότεροι",
+        "count": 1
+      },
+      {
+        "kind": "editorial angle brackets",
+        "pattern": "&lt;([^&<>]+)&gt;",
+        "replacement": "⟨\\1⟩",
+        "count": 5
+      }
+    ],
+    "sourceMarkRepairs": {
+      "macronsRestacked": 1,
+      "ancepsMacronsKept": 0,
+      "subscriptMacronsKept": 3
+    },
+    "malformedRefs": [],
+    "unresolvedRefs": [],
+    "strippedWrappers": {},
+    "skippedTextElements": [],
+    "unassignedElements": [
+      {
+        "tag": "note",
+        "text": "See B. L. G., A. J. P. iv (1883), 158-65; C. W. E. Miller, A. J. P. xvi (1895), 139-185."
+      },
+      {
+        "tag": "note",
+        "text": "Or quasi-subject. See Infinitive."
+      }
+    ],
+    "prefaces": [
+      {
+        "marker": "pref1",
+        "part": 1,
+        "blocks": 3,
+        "characters": 2885,
+        "text": "In compliance with the wishes of many of my former pupils, I have determined to publish my Greek Syntax in parts. The framework was planned many years ago, and corresponds in its structure to the scheme of my Latin Grammar, the first edition of which was published in 1867. In fact, the Latin Syntax was based on the MS of the Greek. Doubtless the syntactician of to-day will find ample opportunity to criticise the arrangement, but to refashion the book would require more time than the speeding years will allow me to presume on. Nor will I undertake in this place a vindication of the principles that have guided me in my syntactical studies. A word, however, as to the order of the examples may be deemed appropriate. A catena of syntactical usage would be a memorable achievement, and I do not deny that at one time I thought it possible to organize such a work, for which a large staff of helpers would have been needed; but I have learned to renounce this ambitious scheme. and even the present far more modest undertaking would have been impossible unless I had associated with myself a scholar who is acquainted with every detail of my syntactical work, published and unpublished, and who has brought to the task not only a hearty sympathy with my views and methods, but a clearness of judgment and an accuracy in details that have been of great service to me in my own researches. In completing the list of examples, and in filling up the gaps in the presentation, I have availed myself freely of his help, and we have worked side by side in the collection and the scrutiny of the passages cited; and to this pupil, colleague, friend, Professor C. W. E. MILLER, the completion of the work has been committed, in case the privilege should be denied me of putting the last hand to the labor of many years. Like myself, Professor MILLER is thoroughly imbued with the conviction that the study of syntax is of the utmost importance for the appreciation of literary form, and we both believe that the presentation of the phenomena under the rubrics of the different departments of literature will be found useful for instruction and even more so for suggestion. Taking the Attic Orators as the standard of conventional Greek, we have worked backward through philosophy and history to tragic, lyric, and epic poetry, comedy being the bridge which spans the syntax of the agora and the syntax of Parnassus. Individual syntax we have not been able to set forth with any fulness, but the different departments have been represented to the best of our ability and judgment. The plan has saved us from giving the usual medley of examples, it has forced us to rely largely on our own collections and to examine the texts for ourselves, and it will enable those who come after us to fill up these outlines with greater ease. BASIL L. GILDERSLEEVE, THE JOHNS HOPKINS UNIVERSITY, BALTIMORE."
+      },
+      {
+        "marker": "pref2",
+        "part": 2,
+        "blocks": 3,
+        "characters": 2170,
+        "text": "THE first part of this Greek Syntax is a fragment of a larger scheme of a Greek Series, which was abandoned for good and sufficient reasons, and it lay in print for some time unpublished. Finally, yielding to the representations of those who were interested in my grammatical work, I gave it to the scholarly world as a specimen of my method of treating a subject about which my studies had revolved for many years. That method demands repeated reading and repeated sifting, and the utmost bound of my hope was the continuation of the general plan by other hands and the acceptance by competent judges of the results already gained. The framework, as constituted in my Latin Grammar, which was built on the same lines, has been in use for a lifetime. The details of my special Greek studies are accessible in various publications, so that any one who finds aught worth adopting either in general plan or in individual formula can readily avail himself of what I have done for the furtherance of syntactical study. This second part, like the first, is based on the manuscript of the original work and the text is with some slight exceptions my own; but whereas in the first part the contributions of Professor MILLER were merely supplementary, in the second part, and especially in the treatment of the article, the collection and the sorting of the examples have been carried out with his characteristic fulness and accuracy, so that I desire that all credit be given to him for the value of this segment of the work as a repository of facts. The disparateness of the two parts was inevitable under the circumstances, and the delay occasioned by the coöperation has been so great that it has seemed best at this point to dissolve the partnership, maintained for so many years, as it would have been dissolved at any rate in the natural course of things. An outline of what remains is in progress, and though it is high time that I cut down long hope to match the brief space of human life, I do not hesitate to commit myself to a plan that involves little more than the shaping of material already in hand. BASIL L. GILDERSLEEVE, THE JOHNS HOPKINS UNIVERSITY, BALTIMORE."
+      }
+    ]
+  }
+}

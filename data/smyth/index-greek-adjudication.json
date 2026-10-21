@@ -1,0 +1,8111 @@
+{
+ "work": "smyth",
+ "primaryRecord": "work/greek-index/",
+ "decisions": {
+  "part1": "work/greek-index/greek-decisions-part1.json",
+  "part2": "work/greek-index/greek-decisions-part2.json",
+  "unanimityAudit": "work/greek-index/greek-decisions-audit.json",
+  "calibration": "work/greek-index/greek-decisions-calibration.json",
+  "consolidated": "work/greek-index/greek-rulings-consolidated.json"
+ },
+ "stage1": {
+  "applied": 440,
+  "overrides": 9,
+  "skipped_malformed": [
+   {
+    "page": 770,
+    "line": 45,
+    "find": "τὸ ὄνειρ ὄρρου",
+    "replace": "s",
+    "source": "auto-gross"
+   }
+  ],
+  "missed": [
+   {
+    "page": 758,
+    "line": 6,
+    "find": "ἀετός",
+    "replace": "ἀ̄ετός",
+    "source": "ga|758|6|1"
+   },
+   {
+    "page": 760,
+    "line": 11,
+    "find": "N. ανύω",
+    "replace": "N. αννῡμι",
+    "source": "g|760|11|38"
+   },
+   {
+    "page": 761,
+    "line": 63,
+    "find": "βυνέω",
+    "replace": "βῡνέω",
+    "source": "ga|761|63|7"
+   },
+   {
+    "page": 768,
+    "line": 94,
+    "find": "θρώσκω",
+    "replace": "θρῴσκω",
+    "source": "ga|768|94|19"
+   }
+  ],
+  "legacy_displaced": [
+   {
+    "source": "g|758|25|17",
+    "page": 758,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 23
+   },
+   {
+    "source": "g|761|11|53",
+    "page": 761,
+    "ruled_line": 11,
+    "landed_line": 11,
+    "mode": "on_target",
+    "legacy_line": 8
+   },
+   {
+    "source": "g|761|75|63",
+    "page": 761,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 73
+   },
+   {
+    "source": "g|763|31|69",
+    "page": 763,
+    "ruled_line": 31,
+    "landed_line": 31,
+    "mode": "on_target",
+    "legacy_line": 30
+   },
+   {
+    "source": "g|764|37|96",
+    "page": 764,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 35
+   },
+   {
+    "source": "g|767|74|118",
+    "page": 767,
+    "ruled_line": 74,
+    "landed_line": 74,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|767|75|124",
+    "page": 767,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|767|77|126",
+    "page": 767,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 76
+   },
+   {
+    "source": "g|767|81|120",
+    "page": 767,
+    "ruled_line": 81,
+    "landed_line": 81,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "g|768|86|156",
+    "page": 768,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 84
+   },
+   {
+    "source": "g|773|5|171",
+    "page": 773,
+    "ruled_line": 5,
+    "landed_line": 5,
+    "mode": "on_target",
+    "legacy_line": 3
+   },
+   {
+    "source": "g|775|76|229",
+    "page": 775,
+    "ruled_line": 76,
+    "landed_line": 76,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|775|96|196",
+    "page": 775,
+    "ruled_line": 96,
+    "landed_line": 96,
+    "mode": "on_target",
+    "legacy_line": 93
+   },
+   {
+    "source": "g|776|61|237",
+    "page": 776,
+    "ruled_line": 61,
+    "landed_line": 61,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "g|777|86|225",
+    "page": 777,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 85
+   },
+   {
+    "source": "g|779|91|238",
+    "page": 779,
+    "ruled_line": 91,
+    "landed_line": 91,
+    "mode": "on_target",
+    "legacy_line": 90
+   },
+   {
+    "source": "g|784|20|319",
+    "page": 784,
+    "ruled_line": 20,
+    "landed_line": 20,
+    "mode": "on_target",
+    "legacy_line": 17
+   }
+  ],
+  "placements": [
+   {
+    "source": "g|757|14|1",
+    "page": 757,
+    "ruled_line": 14,
+    "landed_line": 14,
+    "mode": "on_target",
+    "legacy_line": 14
+   },
+   {
+    "source": "g|757|23|3",
+    "page": 757,
+    "ruled_line": 23,
+    "landed_line": 23,
+    "mode": "on_target",
+    "legacy_line": 23
+   },
+   {
+    "source": "g|757|46|9",
+    "page": 757,
+    "ruled_line": 46,
+    "landed_line": 46,
+    "mode": "on_target",
+    "legacy_line": 46
+   },
+   {
+    "source": "g|757|48|10",
+    "page": 757,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|757|66|16",
+    "page": 757,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "g|758|5|17",
+    "page": 758,
+    "ruled_line": 5,
+    "landed_line": 5,
+    "mode": "wrap",
+    "legacy_line": 5
+   },
+   {
+    "source": "ga|758|6|1",
+    "page": 758,
+    "ruled_line": 6,
+    "landed_line": null,
+    "mode": "miss",
+    "legacy_line": null
+   },
+   {
+    "source": "g|758|13|13",
+    "page": 758,
+    "ruled_line": 13,
+    "landed_line": 13,
+    "mode": "wrap",
+    "legacy_line": 13
+   },
+   {
+    "source": "g|758|17|14",
+    "page": 758,
+    "ruled_line": 17,
+    "landed_line": 17,
+    "mode": "on_target",
+    "legacy_line": 17
+   },
+   {
+    "source": "g|758|18|16",
+    "page": 758,
+    "ruled_line": 18,
+    "landed_line": 18,
+    "mode": "on_target",
+    "legacy_line": 18
+   },
+   {
+    "source": "g|758|22|19",
+    "page": 758,
+    "ruled_line": 22,
+    "landed_line": 22,
+    "mode": "on_target",
+    "legacy_line": 22
+   },
+   {
+    "source": "g|758|25|17",
+    "page": 758,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 23
+   },
+   {
+    "source": "g|758|27|20",
+    "page": 758,
+    "ruled_line": 27,
+    "landed_line": 27,
+    "mode": "on_target",
+    "legacy_line": 27
+   },
+   {
+    "source": "g|758|31|18",
+    "page": 758,
+    "ruled_line": 31,
+    "landed_line": 31,
+    "mode": "on_target",
+    "legacy_line": 31
+   },
+   {
+    "source": "g|758|31|19",
+    "page": 758,
+    "ruled_line": 31,
+    "landed_line": 31,
+    "mode": "on_target",
+    "legacy_line": 31
+   },
+   {
+    "source": "g|758|34|21",
+    "page": 758,
+    "ruled_line": 34,
+    "landed_line": 34,
+    "mode": "on_target",
+    "legacy_line": 34
+   },
+   {
+    "source": "g|758|35|22",
+    "page": 758,
+    "ruled_line": 35,
+    "landed_line": 35,
+    "mode": "on_target",
+    "legacy_line": 35
+   },
+   {
+    "source": "g|758|41|23",
+    "page": 758,
+    "ruled_line": 41,
+    "landed_line": 41,
+    "mode": "on_target",
+    "legacy_line": 41
+   },
+   {
+    "source": "g|758|45|24",
+    "page": 758,
+    "ruled_line": 45,
+    "landed_line": 45,
+    "mode": "on_target",
+    "legacy_line": 45
+   },
+   {
+    "source": "g|758|48|22",
+    "page": 758,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|758|58|23",
+    "page": 758,
+    "ruled_line": 58,
+    "landed_line": 58,
+    "mode": "on_target",
+    "legacy_line": 58
+   },
+   {
+    "source": "auto-gross",
+    "page": 758,
+    "ruled_line": 60,
+    "landed_line": 60,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "g|758|67|25",
+    "page": 758,
+    "ruled_line": 67,
+    "landed_line": 67,
+    "mode": "on_target",
+    "legacy_line": 67
+   },
+   {
+    "source": "g|758|70|26",
+    "page": 758,
+    "ruled_line": 70,
+    "landed_line": 70,
+    "mode": "on_target",
+    "legacy_line": 70
+   },
+   {
+    "source": "g|758|77|27",
+    "page": 758,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|758|82|28",
+    "page": 758,
+    "ruled_line": 82,
+    "landed_line": 82,
+    "mode": "on_target",
+    "legacy_line": 82
+   },
+   {
+    "source": "ga|759|2|3",
+    "page": 759,
+    "ruled_line": 2,
+    "landed_line": 2,
+    "mode": "on_target",
+    "legacy_line": 2
+   },
+   {
+    "source": "g|759|10|30",
+    "page": 759,
+    "ruled_line": 10,
+    "landed_line": 10,
+    "mode": "on_target",
+    "legacy_line": 10
+   },
+   {
+    "source": "g|759|12|31",
+    "page": 759,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|759|15|24",
+    "page": 759,
+    "ruled_line": 15,
+    "landed_line": 15,
+    "mode": "on_target",
+    "legacy_line": 15
+   },
+   {
+    "source": "auto-gross",
+    "page": 759,
+    "ruled_line": 30,
+    "landed_line": 30,
+    "mode": "on_target",
+    "legacy_line": 30
+   },
+   {
+    "source": "g|759|40|30",
+    "page": 759,
+    "ruled_line": 40,
+    "landed_line": 40,
+    "mode": "on_target",
+    "legacy_line": 40
+   },
+   {
+    "source": "g|759|47|32",
+    "page": 759,
+    "ruled_line": 47,
+    "landed_line": 47,
+    "mode": "on_target",
+    "legacy_line": 47
+   },
+   {
+    "source": "g|759|55|34",
+    "page": 759,
+    "ruled_line": 55,
+    "landed_line": 55,
+    "mode": "on_target",
+    "legacy_line": 55
+   },
+   {
+    "source": "g|759|56|31",
+    "page": 759,
+    "ruled_line": 56,
+    "landed_line": 56,
+    "mode": "on_target",
+    "legacy_line": 56
+   },
+   {
+    "source": "g|759|60|32",
+    "page": 759,
+    "ruled_line": 60,
+    "landed_line": 60,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "g|759|61|33",
+    "page": 759,
+    "ruled_line": 61,
+    "landed_line": 61,
+    "mode": "on_target",
+    "legacy_line": 61
+   },
+   {
+    "source": "auto-gross",
+    "page": 759,
+    "ruled_line": 62,
+    "landed_line": 62,
+    "mode": "on_target",
+    "legacy_line": 62
+   },
+   {
+    "source": "g|759|63|34",
+    "page": 759,
+    "ruled_line": 63,
+    "landed_line": 63,
+    "mode": "on_target",
+    "legacy_line": 63
+   },
+   {
+    "source": "g|759|71|35",
+    "page": 759,
+    "ruled_line": 71,
+    "landed_line": 71,
+    "mode": "on_target",
+    "legacy_line": 71
+   },
+   {
+    "source": "g|759|90|36",
+    "page": 759,
+    "ruled_line": 90,
+    "landed_line": 90,
+    "mode": "on_target",
+    "legacy_line": 90
+   },
+   {
+    "source": "g|759|91|37",
+    "page": 759,
+    "ruled_line": 91,
+    "landed_line": 91,
+    "mode": "on_target",
+    "legacy_line": 91
+   },
+   {
+    "source": "g|760|4|35",
+    "page": 760,
+    "ruled_line": 4,
+    "landed_line": 4,
+    "mode": "on_target",
+    "legacy_line": 4
+   },
+   {
+    "source": "g|760|11|38",
+    "page": 760,
+    "ruled_line": 11,
+    "landed_line": null,
+    "mode": "miss",
+    "legacy_line": null
+   },
+   {
+    "source": "g|760|13|39",
+    "page": 760,
+    "ruled_line": 13,
+    "landed_line": 13,
+    "mode": "on_target",
+    "legacy_line": 13
+   },
+   {
+    "source": "g|760|14|36",
+    "page": 760,
+    "ruled_line": 14,
+    "landed_line": 14,
+    "mode": "on_target",
+    "legacy_line": 14
+   },
+   {
+    "source": "g|760|18|37",
+    "page": 760,
+    "ruled_line": 18,
+    "landed_line": 18,
+    "mode": "on_target",
+    "legacy_line": 18
+   },
+   {
+    "source": "g|760|20|40",
+    "page": 760,
+    "ruled_line": 20,
+    "landed_line": 20,
+    "mode": "on_target",
+    "legacy_line": 20
+   },
+   {
+    "source": "g|760|22|38",
+    "page": 760,
+    "ruled_line": 22,
+    "landed_line": 22,
+    "mode": "on_target",
+    "legacy_line": 22
+   },
+   {
+    "source": "g|760|25|41",
+    "page": 760,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 25
+   },
+   {
+    "source": "ga|760|42|5",
+    "page": 760,
+    "ruled_line": 42,
+    "landed_line": 42,
+    "mode": "on_target",
+    "legacy_line": 42
+   },
+   {
+    "source": "g|760|45|42",
+    "page": 760,
+    "ruled_line": 45,
+    "landed_line": 45,
+    "mode": "on_target",
+    "legacy_line": 45
+   },
+   {
+    "source": "g|760|49|43",
+    "page": 760,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "g|760|57|44",
+    "page": 760,
+    "ruled_line": 57,
+    "landed_line": 57,
+    "mode": "on_target",
+    "legacy_line": 57
+   },
+   {
+    "source": "g|760|65|43",
+    "page": 760,
+    "ruled_line": 65,
+    "landed_line": 65,
+    "mode": "on_target",
+    "legacy_line": 65
+   },
+   {
+    "source": "g|760|67|45",
+    "page": 760,
+    "ruled_line": 67,
+    "landed_line": 67,
+    "mode": "on_target",
+    "legacy_line": 67
+   },
+   {
+    "source": "g|760|81|46",
+    "page": 760,
+    "ruled_line": 81,
+    "landed_line": 81,
+    "mode": "on_target",
+    "legacy_line": 81
+   },
+   {
+    "source": "g|760|82|47",
+    "page": 760,
+    "ruled_line": 82,
+    "landed_line": 82,
+    "mode": "on_target",
+    "legacy_line": 82
+   },
+   {
+    "source": "g|760|83|47",
+    "page": 760,
+    "ruled_line": 83,
+    "landed_line": 83,
+    "mode": "on_target",
+    "legacy_line": 83
+   },
+   {
+    "source": "g|760|84|48",
+    "page": 760,
+    "ruled_line": 84,
+    "landed_line": 84,
+    "mode": "on_target",
+    "legacy_line": 84
+   },
+   {
+    "source": "g|760|85|49",
+    "page": 760,
+    "ruled_line": 85,
+    "landed_line": 85,
+    "mode": "on_target",
+    "legacy_line": 85
+   },
+   {
+    "source": "g|760|86|50",
+    "page": 760,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 86
+   },
+   {
+    "source": "g|760|89|51",
+    "page": 760,
+    "ruled_line": 89,
+    "landed_line": 89,
+    "mode": "on_target",
+    "legacy_line": 89
+   },
+   {
+    "source": "g|760|93|49",
+    "page": 760,
+    "ruled_line": 93,
+    "landed_line": 93,
+    "mode": "on_target",
+    "legacy_line": 93
+   },
+   {
+    "source": "g|760|94|50",
+    "page": 760,
+    "ruled_line": 94,
+    "landed_line": 94,
+    "mode": "on_target",
+    "legacy_line": 94
+   },
+   {
+    "source": "g|760|96|52",
+    "page": 760,
+    "ruled_line": 96,
+    "landed_line": 96,
+    "mode": "on_target",
+    "legacy_line": 96
+   },
+   {
+    "source": "g|761|6|54",
+    "page": 761,
+    "ruled_line": 6,
+    "landed_line": 6,
+    "mode": "on_target",
+    "legacy_line": 6
+   },
+   {
+    "source": "g|761|11|53",
+    "page": 761,
+    "ruled_line": 11,
+    "landed_line": 11,
+    "mode": "on_target",
+    "legacy_line": 8
+   },
+   {
+    "source": "auto-gross",
+    "page": 761,
+    "ruled_line": 22,
+    "landed_line": 22,
+    "mode": "wrap",
+    "legacy_line": 22
+   },
+   {
+    "source": "g|761|23|55",
+    "page": 761,
+    "ruled_line": 23,
+    "landed_line": 23,
+    "mode": "on_target",
+    "legacy_line": 23
+   },
+   {
+    "source": "ga|761|25|6",
+    "page": 761,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 25
+   },
+   {
+    "source": "g|761|36|57",
+    "page": 761,
+    "ruled_line": 36,
+    "landed_line": 36,
+    "mode": "on_target",
+    "legacy_line": 36
+   },
+   {
+    "source": "g|761|48|58",
+    "page": 761,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|761|62|60",
+    "page": 761,
+    "ruled_line": 62,
+    "landed_line": 62,
+    "mode": "wrap",
+    "legacy_line": 62
+   },
+   {
+    "source": "ga|761|63|7",
+    "page": 761,
+    "ruled_line": 63,
+    "landed_line": null,
+    "mode": "miss",
+    "legacy_line": null
+   },
+   {
+    "source": "g|761|71|62",
+    "page": 761,
+    "ruled_line": 71,
+    "landed_line": 71,
+    "mode": "on_target",
+    "legacy_line": 71
+   },
+   {
+    "source": "g|761|74|60",
+    "page": 761,
+    "ruled_line": 74,
+    "landed_line": 74,
+    "mode": "on_target",
+    "legacy_line": 74
+   },
+   {
+    "source": "g|761|75|63",
+    "page": 761,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 73
+   },
+   {
+    "source": "auto-gross",
+    "page": 761,
+    "ruled_line": 79,
+    "landed_line": 79,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "g|761|85|69",
+    "page": 761,
+    "ruled_line": 85,
+    "landed_line": 85,
+    "mode": "on_target",
+    "legacy_line": 85
+   },
+   {
+    "source": "ga|761|94|8",
+    "page": 761,
+    "ruled_line": 94,
+    "landed_line": 94,
+    "mode": "on_target",
+    "legacy_line": 94
+   },
+   {
+    "source": "g|762|8|70",
+    "page": 762,
+    "ruled_line": 8,
+    "landed_line": 8,
+    "mode": "on_target",
+    "legacy_line": 8
+   },
+   {
+    "source": "g|762|15|71",
+    "page": 762,
+    "ruled_line": 15,
+    "landed_line": 15,
+    "mode": "on_target",
+    "legacy_line": 15
+   },
+   {
+    "source": "ga|762|17|9",
+    "page": 762,
+    "ruled_line": 17,
+    "landed_line": 17,
+    "mode": "on_target",
+    "legacy_line": 17
+   },
+   {
+    "source": "g|762|18|72",
+    "page": 762,
+    "ruled_line": 18,
+    "landed_line": 18,
+    "mode": "on_target",
+    "legacy_line": 18
+   },
+   {
+    "source": "g|762|18|73",
+    "page": 762,
+    "ruled_line": 18,
+    "landed_line": 18,
+    "mode": "on_target",
+    "legacy_line": 18
+   },
+   {
+    "source": "ga|762|22|10",
+    "page": 762,
+    "ruled_line": 22,
+    "landed_line": 22,
+    "mode": "on_target",
+    "legacy_line": 22
+   },
+   {
+    "source": "g|762|25|74",
+    "page": 762,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 25
+   },
+   {
+    "source": "g|762|25|75",
+    "page": 762,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 25
+   },
+   {
+    "source": "auto-gross",
+    "page": 762,
+    "ruled_line": 38,
+    "landed_line": 38,
+    "mode": "on_target",
+    "legacy_line": 38
+   },
+   {
+    "source": "g|762|40|76",
+    "page": 762,
+    "ruled_line": 40,
+    "landed_line": 40,
+    "mode": "on_target",
+    "legacy_line": 40
+   },
+   {
+    "source": "g|762|51|77",
+    "page": 762,
+    "ruled_line": 51,
+    "landed_line": 51,
+    "mode": "wrap",
+    "legacy_line": 51
+   },
+   {
+    "source": "g|762|66|79",
+    "page": 762,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "g|762|68|80",
+    "page": 762,
+    "ruled_line": 68,
+    "landed_line": 68,
+    "mode": "on_target",
+    "legacy_line": 68
+   },
+   {
+    "source": "auto-gross",
+    "page": 762,
+    "ruled_line": 68,
+    "landed_line": 68,
+    "mode": "on_target",
+    "legacy_line": 68
+   },
+   {
+    "source": "g|762|69|64",
+    "page": 762,
+    "ruled_line": 69,
+    "landed_line": 69,
+    "mode": "on_target",
+    "legacy_line": 69
+   },
+   {
+    "source": "auto-gross",
+    "page": 762,
+    "ruled_line": 70,
+    "landed_line": 70,
+    "mode": "on_target",
+    "legacy_line": 70
+   },
+   {
+    "source": "g|762|77|81",
+    "page": 762,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "ga|763|2|11",
+    "page": 763,
+    "ruled_line": 2,
+    "landed_line": 2,
+    "mode": "on_target",
+    "legacy_line": 2
+   },
+   {
+    "source": "g|763|5|82",
+    "page": 763,
+    "ruled_line": 5,
+    "landed_line": 5,
+    "mode": "on_target",
+    "legacy_line": 5
+   },
+   {
+    "source": "g|763|13|83",
+    "page": 763,
+    "ruled_line": 13,
+    "landed_line": 13,
+    "mode": "on_target",
+    "legacy_line": 13
+   },
+   {
+    "source": "g|763|15|84",
+    "page": 763,
+    "ruled_line": 15,
+    "landed_line": 15,
+    "mode": "on_target",
+    "legacy_line": 15
+   },
+   {
+    "source": "g|763|20|67",
+    "page": 763,
+    "ruled_line": 20,
+    "landed_line": 20,
+    "mode": "on_target",
+    "legacy_line": 20
+   },
+   {
+    "source": "g|763|31|69",
+    "page": 763,
+    "ruled_line": 31,
+    "landed_line": 31,
+    "mode": "on_target",
+    "legacy_line": 30
+   },
+   {
+    "source": "g|763|32|85",
+    "page": 763,
+    "ruled_line": 32,
+    "landed_line": 32,
+    "mode": "on_target",
+    "legacy_line": 32
+   },
+   {
+    "source": "g|763|55|86",
+    "page": 763,
+    "ruled_line": 55,
+    "landed_line": 55,
+    "mode": "on_target",
+    "legacy_line": 55
+   },
+   {
+    "source": "g|763|66|88",
+    "page": 763,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "wrap",
+    "legacy_line": 66
+   },
+   {
+    "source": "g|763|74|89",
+    "page": 763,
+    "ruled_line": 74,
+    "landed_line": 74,
+    "mode": "on_target",
+    "legacy_line": 74
+   },
+   {
+    "source": "g|763|75|73",
+    "page": 763,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|763|75|74",
+    "page": 763,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|763|76|75",
+    "page": 763,
+    "ruled_line": 76,
+    "landed_line": 76,
+    "mode": "on_target",
+    "legacy_line": 76
+   },
+   {
+    "source": "g|763|77|90",
+    "page": 763,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|763|77|76",
+    "page": 763,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|763|78|91",
+    "page": 763,
+    "ruled_line": 78,
+    "landed_line": 78,
+    "mode": "on_target",
+    "legacy_line": 78
+   },
+   {
+    "source": "g|763|78|77",
+    "page": 763,
+    "ruled_line": 78,
+    "landed_line": 78,
+    "mode": "on_target",
+    "legacy_line": 78
+   },
+   {
+    "source": "auto-gross",
+    "page": 764,
+    "ruled_line": 17,
+    "landed_line": 17,
+    "mode": "on_target",
+    "legacy_line": 17
+   },
+   {
+    "source": "auto-gross",
+    "page": 764,
+    "ruled_line": 22,
+    "landed_line": 22,
+    "mode": "on_target",
+    "legacy_line": 22
+   },
+   {
+    "source": "g|764|31|95",
+    "page": 764,
+    "ruled_line": 31,
+    "landed_line": 31,
+    "mode": "on_target",
+    "legacy_line": 31
+   },
+   {
+    "source": "auto-gross",
+    "page": 764,
+    "ruled_line": 34,
+    "landed_line": 34,
+    "mode": "on_target",
+    "legacy_line": 34
+   },
+   {
+    "source": "g|764|37|96",
+    "page": 764,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 35
+   },
+   {
+    "source": "g|764|39|79",
+    "page": 764,
+    "ruled_line": 39,
+    "landed_line": 39,
+    "mode": "on_target",
+    "legacy_line": 39
+   },
+   {
+    "source": "g|764|49|80",
+    "page": 764,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "g|764|49|81",
+    "page": 764,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "g|764|50|97",
+    "page": 764,
+    "ruled_line": 50,
+    "landed_line": 50,
+    "mode": "on_target",
+    "legacy_line": 50
+   },
+   {
+    "source": "g|764|51|82",
+    "page": 764,
+    "ruled_line": 51,
+    "landed_line": 51,
+    "mode": "on_target",
+    "legacy_line": 51
+   },
+   {
+    "source": "g|764|51|83",
+    "page": 764,
+    "ruled_line": 51,
+    "landed_line": 51,
+    "mode": "on_target",
+    "legacy_line": 51
+   },
+   {
+    "source": "g|764|54|84",
+    "page": 764,
+    "ruled_line": 54,
+    "landed_line": 54,
+    "mode": "on_target",
+    "legacy_line": 54
+   },
+   {
+    "source": "g|764|55|85",
+    "page": 764,
+    "ruled_line": 55,
+    "landed_line": 55,
+    "mode": "on_target",
+    "legacy_line": 55
+   },
+   {
+    "source": "g|764|58|86",
+    "page": 764,
+    "ruled_line": 58,
+    "landed_line": 58,
+    "mode": "on_target",
+    "legacy_line": 58
+   },
+   {
+    "source": "g|764|60|99",
+    "page": 764,
+    "ruled_line": 60,
+    "landed_line": 60,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "g|764|61|100",
+    "page": 764,
+    "ruled_line": 61,
+    "landed_line": 61,
+    "mode": "on_target",
+    "legacy_line": 61
+   },
+   {
+    "source": "g|764|63|87",
+    "page": 764,
+    "ruled_line": 63,
+    "landed_line": 63,
+    "mode": "on_target",
+    "legacy_line": 63
+   },
+   {
+    "source": "g|764|64|101",
+    "page": 764,
+    "ruled_line": 64,
+    "landed_line": 64,
+    "mode": "on_target",
+    "legacy_line": 64
+   },
+   {
+    "source": "g|764|66|102",
+    "page": 764,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "auto-gross",
+    "page": 764,
+    "ruled_line": 69,
+    "landed_line": 69,
+    "mode": "on_target",
+    "legacy_line": 69
+   },
+   {
+    "source": "g|764|76|89",
+    "page": 764,
+    "ruled_line": 76,
+    "landed_line": 76,
+    "mode": "on_target",
+    "legacy_line": 76
+   },
+   {
+    "source": "g|764|77|103",
+    "page": 764,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|764|87|90",
+    "page": 764,
+    "ruled_line": 87,
+    "landed_line": 87,
+    "mode": "on_target",
+    "legacy_line": 87
+   },
+   {
+    "source": "g|765|3|104",
+    "page": 765,
+    "ruled_line": 3,
+    "landed_line": 3,
+    "mode": "on_target",
+    "legacy_line": 3
+   },
+   {
+    "source": "g|765|5|105",
+    "page": 765,
+    "ruled_line": 5,
+    "landed_line": 5,
+    "mode": "on_target",
+    "legacy_line": 5
+   },
+   {
+    "source": "g|765|6|91",
+    "page": 765,
+    "ruled_line": 6,
+    "landed_line": 6,
+    "mode": "on_target",
+    "legacy_line": 6
+   },
+   {
+    "source": "g|765|7|92",
+    "page": 765,
+    "ruled_line": 7,
+    "landed_line": 7,
+    "mode": "on_target",
+    "legacy_line": 7
+   },
+   {
+    "source": "g|765|9|106",
+    "page": 765,
+    "ruled_line": 9,
+    "landed_line": 9,
+    "mode": "on_target",
+    "legacy_line": 9
+   },
+   {
+    "source": "g|765|10|93",
+    "page": 765,
+    "ruled_line": 10,
+    "landed_line": 10,
+    "mode": "on_target",
+    "legacy_line": 10
+   },
+   {
+    "source": "g|765|11|94",
+    "page": 765,
+    "ruled_line": 11,
+    "landed_line": 11,
+    "mode": "on_target",
+    "legacy_line": 11
+   },
+   {
+    "source": "g|765|26|95",
+    "page": 765,
+    "ruled_line": 26,
+    "landed_line": 26,
+    "mode": "on_target",
+    "legacy_line": 26
+   },
+   {
+    "source": "g|765|34|107",
+    "page": 765,
+    "ruled_line": 34,
+    "landed_line": 34,
+    "mode": "on_target",
+    "legacy_line": 34
+   },
+   {
+    "source": "auto-gross",
+    "page": 765,
+    "ruled_line": 50,
+    "landed_line": 50,
+    "mode": "on_target",
+    "legacy_line": 50
+   },
+   {
+    "source": "ga|765|69|12",
+    "page": 765,
+    "ruled_line": 69,
+    "landed_line": 69,
+    "mode": "on_target",
+    "legacy_line": 69
+   },
+   {
+    "source": "g|765|75|109",
+    "page": 765,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|765|76|110",
+    "page": 765,
+    "ruled_line": 76,
+    "landed_line": 76,
+    "mode": "on_target",
+    "legacy_line": 76
+   },
+   {
+    "source": "g|765|93|111",
+    "page": 765,
+    "ruled_line": 93,
+    "landed_line": 93,
+    "mode": "on_target",
+    "legacy_line": 93
+   },
+   {
+    "source": "g|765|95|112",
+    "page": 765,
+    "ruled_line": 95,
+    "landed_line": 95,
+    "mode": "on_target",
+    "legacy_line": 95
+   },
+   {
+    "source": "g|766|6|97",
+    "page": 766,
+    "ruled_line": 6,
+    "landed_line": 6,
+    "mode": "on_target",
+    "legacy_line": 6
+   },
+   {
+    "source": "g|766|7|114",
+    "page": 766,
+    "ruled_line": 7,
+    "landed_line": 7,
+    "mode": "on_target",
+    "legacy_line": 7
+   },
+   {
+    "source": "ga|766|10|13",
+    "page": 766,
+    "ruled_line": 10,
+    "landed_line": 10,
+    "mode": "on_target",
+    "legacy_line": 10
+   },
+   {
+    "source": "auto-gross",
+    "page": 766,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|766|27|98",
+    "page": 766,
+    "ruled_line": 27,
+    "landed_line": 27,
+    "mode": "on_target",
+    "legacy_line": 27
+   },
+   {
+    "source": "g|766|32|99",
+    "page": 766,
+    "ruled_line": 32,
+    "landed_line": 32,
+    "mode": "on_target",
+    "legacy_line": 32
+   },
+   {
+    "source": "g|766|44|100",
+    "page": 766,
+    "ruled_line": 44,
+    "landed_line": 44,
+    "mode": "on_target",
+    "legacy_line": 44
+   },
+   {
+    "source": "g|766|48|101",
+    "page": 766,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|766|58|115",
+    "page": 766,
+    "ruled_line": 58,
+    "landed_line": 58,
+    "mode": "on_target",
+    "legacy_line": 58
+   },
+   {
+    "source": "ga|766|59|14",
+    "page": 766,
+    "ruled_line": 59,
+    "landed_line": 59,
+    "mode": "on_target",
+    "legacy_line": 59
+   },
+   {
+    "source": "auto-gross",
+    "page": 766,
+    "ruled_line": 60,
+    "landed_line": 60,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "g|766|62|102",
+    "page": 766,
+    "ruled_line": 62,
+    "landed_line": 62,
+    "mode": "on_target",
+    "legacy_line": 62
+   },
+   {
+    "source": "g|766|91|116",
+    "page": 766,
+    "ruled_line": 91,
+    "landed_line": 91,
+    "mode": "on_target",
+    "legacy_line": 91
+   },
+   {
+    "source": "g|766|94|106",
+    "page": 766,
+    "ruled_line": 94,
+    "landed_line": 94,
+    "mode": "on_target",
+    "legacy_line": 94
+   },
+   {
+    "source": "g|767|12|108",
+    "page": 767,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|767|24|117",
+    "page": 767,
+    "ruled_line": 24,
+    "landed_line": 24,
+    "mode": "on_target",
+    "legacy_line": 24
+   },
+   {
+    "source": "g|767|44|118",
+    "page": 767,
+    "ruled_line": 44,
+    "landed_line": 44,
+    "mode": "on_target",
+    "legacy_line": 44
+   },
+   {
+    "source": "auto-gross",
+    "page": 767,
+    "ruled_line": 50,
+    "landed_line": 50,
+    "mode": "on_target",
+    "legacy_line": 50
+   },
+   {
+    "source": "g|767|55|116",
+    "page": 767,
+    "ruled_line": 55,
+    "landed_line": 55,
+    "mode": "on_target",
+    "legacy_line": 55
+   },
+   {
+    "source": "g|767|61|117",
+    "page": 767,
+    "ruled_line": 61,
+    "landed_line": 61,
+    "mode": "on_target",
+    "legacy_line": 61
+   },
+   {
+    "source": "g|767|73|123",
+    "page": 767,
+    "ruled_line": 73,
+    "landed_line": 73,
+    "mode": "on_target",
+    "legacy_line": 73
+   },
+   {
+    "source": "g|767|74|118",
+    "page": 767,
+    "ruled_line": 74,
+    "landed_line": 74,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|767|75|124",
+    "page": 767,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "auto-gross",
+    "page": 767,
+    "ruled_line": 76,
+    "landed_line": 76,
+    "mode": "on_target",
+    "legacy_line": 76
+   },
+   {
+    "source": "g|767|77|126",
+    "page": 767,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 76
+   },
+   {
+    "source": "g|767|77|127",
+    "page": 767,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|767|80|128",
+    "page": 767,
+    "ruled_line": 80,
+    "landed_line": 80,
+    "mode": "on_target",
+    "legacy_line": 80
+   },
+   {
+    "source": "g|767|81|120",
+    "page": 767,
+    "ruled_line": 81,
+    "landed_line": 81,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "g|768|3|131",
+    "page": 768,
+    "ruled_line": 3,
+    "landed_line": 3,
+    "mode": "on_target",
+    "legacy_line": 3
+   },
+   {
+    "source": "g|768|4|132",
+    "page": 768,
+    "ruled_line": 4,
+    "landed_line": 4,
+    "mode": "on_target",
+    "legacy_line": 4
+   },
+   {
+    "source": "ga|768|9|16",
+    "page": 768,
+    "ruled_line": 9,
+    "landed_line": 9,
+    "mode": "on_target",
+    "legacy_line": 9
+   },
+   {
+    "source": "g|768|11|126",
+    "page": 768,
+    "ruled_line": 11,
+    "landed_line": 11,
+    "mode": "on_target",
+    "legacy_line": 11
+   },
+   {
+    "source": "g|768|20|128",
+    "page": 768,
+    "ruled_line": 20,
+    "landed_line": 20,
+    "mode": "on_target",
+    "legacy_line": 20
+   },
+   {
+    "source": "g|768|29|135",
+    "page": 768,
+    "ruled_line": 29,
+    "landed_line": 29,
+    "mode": "on_target",
+    "legacy_line": 29
+   },
+   {
+    "source": "g|768|32|138",
+    "page": 768,
+    "ruled_line": 32,
+    "landed_line": 32,
+    "mode": "on_target",
+    "legacy_line": 32
+   },
+   {
+    "source": "auto-gross",
+    "page": 768,
+    "ruled_line": 33,
+    "landed_line": 33,
+    "mode": "on_target",
+    "legacy_line": 33
+   },
+   {
+    "source": "g|768|34|130",
+    "page": 768,
+    "ruled_line": 34,
+    "landed_line": 34,
+    "mode": "on_target",
+    "legacy_line": 34
+   },
+   {
+    "source": "g|768|39|144",
+    "page": 768,
+    "ruled_line": 39,
+    "landed_line": 39,
+    "mode": "on_target",
+    "legacy_line": 39
+   },
+   {
+    "source": "g|768|40|131",
+    "page": 768,
+    "ruled_line": 40,
+    "landed_line": 40,
+    "mode": "on_target",
+    "legacy_line": 40
+   },
+   {
+    "source": "ga|768|75|17",
+    "page": 768,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "auto-gross",
+    "page": 768,
+    "ruled_line": 78,
+    "landed_line": 78,
+    "mode": "on_target",
+    "legacy_line": 78
+   },
+   {
+    "source": "ga|768|83|18",
+    "page": 768,
+    "ruled_line": 83,
+    "landed_line": 83,
+    "mode": "on_target",
+    "legacy_line": 83
+   },
+   {
+    "source": "g|768|86|156",
+    "page": 768,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 84
+   },
+   {
+    "source": "g|768|93|157",
+    "page": 768,
+    "ruled_line": 93,
+    "landed_line": 93,
+    "mode": "wrap",
+    "legacy_line": 93
+   },
+   {
+    "source": "ga|768|94|19",
+    "page": 768,
+    "ruled_line": 94,
+    "landed_line": null,
+    "mode": "miss",
+    "legacy_line": null
+   },
+   {
+    "source": "g|769|12|160",
+    "page": 769,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|769|14|161",
+    "page": 769,
+    "ruled_line": 14,
+    "landed_line": 14,
+    "mode": "on_target",
+    "legacy_line": 14
+   },
+   {
+    "source": "g|769|15|162",
+    "page": 769,
+    "ruled_line": 15,
+    "landed_line": 15,
+    "mode": "on_target",
+    "legacy_line": 15
+   },
+   {
+    "source": "g|769|18|139",
+    "page": 769,
+    "ruled_line": 18,
+    "landed_line": 18,
+    "mode": "on_target",
+    "legacy_line": 18
+   },
+   {
+    "source": "g|769|26|141",
+    "page": 769,
+    "ruled_line": 26,
+    "landed_line": 26,
+    "mode": "on_target",
+    "legacy_line": 26
+   },
+   {
+    "source": "ga|769|28|20",
+    "page": 769,
+    "ruled_line": 28,
+    "landed_line": 28,
+    "mode": "on_target",
+    "legacy_line": 28
+   },
+   {
+    "source": "g|769|33|164",
+    "page": 769,
+    "ruled_line": 33,
+    "landed_line": 33,
+    "mode": "on_target",
+    "legacy_line": 33
+   },
+   {
+    "source": "g|769|34|165",
+    "page": 769,
+    "ruled_line": 34,
+    "landed_line": 34,
+    "mode": "on_target",
+    "legacy_line": 34
+   },
+   {
+    "source": "g|769|38|167",
+    "page": 769,
+    "ruled_line": 38,
+    "landed_line": 38,
+    "mode": "on_target",
+    "legacy_line": 38
+   },
+   {
+    "source": "g|769|42|144",
+    "page": 769,
+    "ruled_line": 42,
+    "landed_line": 42,
+    "mode": "on_target",
+    "legacy_line": 42
+   },
+   {
+    "source": "g|769|42|145",
+    "page": 769,
+    "ruled_line": 42,
+    "landed_line": 42,
+    "mode": "on_target",
+    "legacy_line": 42
+   },
+   {
+    "source": "g|769|45|146",
+    "page": 769,
+    "ruled_line": 45,
+    "landed_line": 45,
+    "mode": "on_target",
+    "legacy_line": 45
+   },
+   {
+    "source": "ga|769|48|21",
+    "page": 769,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|769|50|168",
+    "page": 769,
+    "ruled_line": 50,
+    "landed_line": 50,
+    "mode": "on_target",
+    "legacy_line": 50
+   },
+   {
+    "source": "g|769|51|169",
+    "page": 769,
+    "ruled_line": 51,
+    "landed_line": 51,
+    "mode": "on_target",
+    "legacy_line": 51
+   },
+   {
+    "source": "g|769|59|171",
+    "page": 769,
+    "ruled_line": 59,
+    "landed_line": 59,
+    "mode": "on_target",
+    "legacy_line": 59
+   },
+   {
+    "source": "g|769|65|172",
+    "page": 769,
+    "ruled_line": 65,
+    "landed_line": 65,
+    "mode": "on_target",
+    "legacy_line": 65
+   },
+   {
+    "source": "g|769|68|148",
+    "page": 769,
+    "ruled_line": 68,
+    "landed_line": 68,
+    "mode": "on_target",
+    "legacy_line": 68
+   },
+   {
+    "source": "g|769|72|173",
+    "page": 769,
+    "ruled_line": 72,
+    "landed_line": 72,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|769|73|174",
+    "page": 769,
+    "ruled_line": 73,
+    "landed_line": 73,
+    "mode": "on_target",
+    "legacy_line": 73
+   },
+   {
+    "source": "g|769|79|175",
+    "page": 769,
+    "ruled_line": 79,
+    "landed_line": 79,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "g|770|1|176",
+    "page": 770,
+    "ruled_line": 1,
+    "landed_line": 1,
+    "mode": "on_target",
+    "legacy_line": 1
+   },
+   {
+    "source": "g|770|4|150",
+    "page": 770,
+    "ruled_line": 4,
+    "landed_line": 4,
+    "mode": "on_target",
+    "legacy_line": 4
+   },
+   {
+    "source": "g|770|5|151",
+    "page": 770,
+    "ruled_line": 5,
+    "landed_line": 5,
+    "mode": "on_target",
+    "legacy_line": 5
+   },
+   {
+    "source": "g|770|31|177",
+    "page": 770,
+    "ruled_line": 31,
+    "landed_line": 31,
+    "mode": "on_target",
+    "legacy_line": 31
+   },
+   {
+    "source": "g|770|35|178",
+    "page": 770,
+    "ruled_line": 35,
+    "landed_line": 35,
+    "mode": "on_target",
+    "legacy_line": 35
+   },
+   {
+    "source": "g|770|36|153",
+    "page": 770,
+    "ruled_line": 36,
+    "landed_line": 36,
+    "mode": "on_target",
+    "legacy_line": 36
+   },
+   {
+    "source": "g|770|37|154",
+    "page": 770,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 37
+   },
+   {
+    "source": "g|770|39|179",
+    "page": 770,
+    "ruled_line": 39,
+    "landed_line": 39,
+    "mode": "on_target",
+    "legacy_line": 39
+   },
+   {
+    "source": "g|770|41|180",
+    "page": 770,
+    "ruled_line": 41,
+    "landed_line": 41,
+    "mode": "on_target",
+    "legacy_line": 41
+   },
+   {
+    "source": "g|770|42|155",
+    "page": 770,
+    "ruled_line": 42,
+    "landed_line": 42,
+    "mode": "on_target",
+    "legacy_line": 42
+   },
+   {
+    "source": "g|770|49|156",
+    "page": 770,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "g|770|50|157",
+    "page": 770,
+    "ruled_line": 50,
+    "landed_line": 50,
+    "mode": "on_target",
+    "legacy_line": 50
+   },
+   {
+    "source": "auto-gross",
+    "page": 770,
+    "ruled_line": 61,
+    "landed_line": 61,
+    "mode": "on_target",
+    "legacy_line": 61
+   },
+   {
+    "source": "g|770|70|159",
+    "page": 770,
+    "ruled_line": 70,
+    "landed_line": 70,
+    "mode": "on_target",
+    "legacy_line": 70
+   },
+   {
+    "source": "g|770|79|160",
+    "page": 770,
+    "ruled_line": 79,
+    "landed_line": 79,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "g|770|82|161",
+    "page": 770,
+    "ruled_line": 82,
+    "landed_line": 82,
+    "mode": "on_target",
+    "legacy_line": 82
+   },
+   {
+    "source": "g|770|87|182",
+    "page": 770,
+    "ruled_line": 87,
+    "landed_line": 87,
+    "mode": "on_target",
+    "legacy_line": 87
+   },
+   {
+    "source": "g|771|10|183",
+    "page": 771,
+    "ruled_line": 10,
+    "landed_line": 10,
+    "mode": "on_target",
+    "legacy_line": 10
+   },
+   {
+    "source": "g|771|18|162",
+    "page": 771,
+    "ruled_line": 18,
+    "landed_line": 18,
+    "mode": "on_target",
+    "legacy_line": 18
+   },
+   {
+    "source": "g|771|20|163",
+    "page": 771,
+    "ruled_line": 20,
+    "landed_line": 20,
+    "mode": "on_target",
+    "legacy_line": 20
+   },
+   {
+    "source": "g|771|21|184",
+    "page": 771,
+    "ruled_line": 21,
+    "landed_line": 21,
+    "mode": "wrap",
+    "legacy_line": 21
+   },
+   {
+    "source": "g|771|25|185",
+    "page": 771,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 25
+   },
+   {
+    "source": "g|771|28|164",
+    "page": 771,
+    "ruled_line": 28,
+    "landed_line": 28,
+    "mode": "on_target",
+    "legacy_line": 28
+   },
+   {
+    "source": "g|771|35|186",
+    "page": 771,
+    "ruled_line": 35,
+    "landed_line": 35,
+    "mode": "wrap",
+    "legacy_line": 35
+   },
+   {
+    "source": "g|771|38|187",
+    "page": 771,
+    "ruled_line": 38,
+    "landed_line": 38,
+    "mode": "on_target",
+    "legacy_line": 38
+   },
+   {
+    "source": "g|771|39|188",
+    "page": 771,
+    "ruled_line": 39,
+    "landed_line": 39,
+    "mode": "on_target",
+    "legacy_line": 39
+   },
+   {
+    "source": "ga|771|46|22",
+    "page": 771,
+    "ruled_line": 46,
+    "landed_line": 46,
+    "mode": "on_target",
+    "legacy_line": 46
+   },
+   {
+    "source": "g|771|50|166",
+    "page": 771,
+    "ruled_line": 50,
+    "landed_line": 50,
+    "mode": "on_target",
+    "legacy_line": 50
+   },
+   {
+    "source": "g|771|56|189",
+    "page": 771,
+    "ruled_line": 56,
+    "landed_line": 56,
+    "mode": "on_target",
+    "legacy_line": 56
+   },
+   {
+    "source": "g|771|58|190",
+    "page": 771,
+    "ruled_line": 58,
+    "landed_line": 58,
+    "mode": "on_target",
+    "legacy_line": 58
+   },
+   {
+    "source": "g|771|59|191",
+    "page": 771,
+    "ruled_line": 59,
+    "landed_line": 59,
+    "mode": "on_target",
+    "legacy_line": 59
+   },
+   {
+    "source": "g|771|80|192",
+    "page": 771,
+    "ruled_line": 80,
+    "landed_line": 80,
+    "mode": "on_target",
+    "legacy_line": 80
+   },
+   {
+    "source": "g|771|88|193",
+    "page": 771,
+    "ruled_line": 88,
+    "landed_line": 88,
+    "mode": "on_target",
+    "legacy_line": 88
+   },
+   {
+    "source": "g|772|51|168",
+    "page": 772,
+    "ruled_line": 51,
+    "landed_line": 51,
+    "mode": "on_target",
+    "legacy_line": 51
+   },
+   {
+    "source": "auto-gross",
+    "page": 772,
+    "ruled_line": 55,
+    "landed_line": 55,
+    "mode": "on_target",
+    "legacy_line": 55
+   },
+   {
+    "source": "g|772|57|195",
+    "page": 772,
+    "ruled_line": 57,
+    "landed_line": 57,
+    "mode": "on_target",
+    "legacy_line": 57
+   },
+   {
+    "source": "ga|772|59|23",
+    "page": 772,
+    "ruled_line": 59,
+    "landed_line": 59,
+    "mode": "on_target",
+    "legacy_line": 59
+   },
+   {
+    "source": "ga|772|61|24",
+    "page": 772,
+    "ruled_line": 61,
+    "landed_line": 61,
+    "mode": "on_target",
+    "legacy_line": 61
+   },
+   {
+    "source": "g|772|62|169",
+    "page": 772,
+    "ruled_line": 62,
+    "landed_line": 62,
+    "mode": "on_target",
+    "legacy_line": 62
+   },
+   {
+    "source": "g|772|68|196",
+    "page": 772,
+    "ruled_line": 68,
+    "landed_line": 68,
+    "mode": "on_target",
+    "legacy_line": 68
+   },
+   {
+    "source": "ga|772|71|25",
+    "page": 772,
+    "ruled_line": 71,
+    "landed_line": 71,
+    "mode": "on_target",
+    "legacy_line": 71
+   },
+   {
+    "source": "g|772|73|197",
+    "page": 772,
+    "ruled_line": 73,
+    "landed_line": 73,
+    "mode": "on_target",
+    "legacy_line": 73
+   },
+   {
+    "source": "g|772|80|198",
+    "page": 772,
+    "ruled_line": 80,
+    "landed_line": 80,
+    "mode": "on_target",
+    "legacy_line": 80
+   },
+   {
+    "source": "g|772|86|199",
+    "page": 772,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 86
+   },
+   {
+    "source": "g|773|5|171",
+    "page": 773,
+    "ruled_line": 5,
+    "landed_line": 5,
+    "mode": "on_target",
+    "legacy_line": 3
+   },
+   {
+    "source": "auto-gross",
+    "page": 773,
+    "ruled_line": 7,
+    "landed_line": 7,
+    "mode": "on_target",
+    "legacy_line": 7
+   },
+   {
+    "source": "g|773|11|200",
+    "page": 773,
+    "ruled_line": 11,
+    "landed_line": 11,
+    "mode": "on_target",
+    "legacy_line": 11
+   },
+   {
+    "source": "auto-gross",
+    "page": 773,
+    "ruled_line": 13,
+    "landed_line": 13,
+    "mode": "on_target",
+    "legacy_line": 13
+   },
+   {
+    "source": "g|773|24|201",
+    "page": 773,
+    "ruled_line": 24,
+    "landed_line": 24,
+    "mode": "on_target",
+    "legacy_line": 24
+   },
+   {
+    "source": "g|773|25|202",
+    "page": 773,
+    "ruled_line": 25,
+    "landed_line": 25,
+    "mode": "on_target",
+    "legacy_line": 25
+   },
+   {
+    "source": "auto-gross",
+    "page": 773,
+    "ruled_line": 28,
+    "landed_line": 28,
+    "mode": "on_target",
+    "legacy_line": 28
+   },
+   {
+    "source": "g|773|37|204",
+    "page": 773,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 37
+   },
+   {
+    "source": "g|773|45|174",
+    "page": 773,
+    "ruled_line": 45,
+    "landed_line": 45,
+    "mode": "on_target",
+    "legacy_line": 45
+   },
+   {
+    "source": "g|773|48|206",
+    "page": 773,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|773|49|207",
+    "page": 773,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "ga|773|57|26",
+    "page": 773,
+    "ruled_line": 57,
+    "landed_line": 57,
+    "mode": "on_target",
+    "legacy_line": 57
+   },
+   {
+    "source": "g|773|66|209",
+    "page": 773,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "auto-gross",
+    "page": 773,
+    "ruled_line": 72,
+    "landed_line": 72,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|773|77|210",
+    "page": 773,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|773|78|175",
+    "page": 773,
+    "ruled_line": 78,
+    "landed_line": 78,
+    "mode": "on_target",
+    "legacy_line": 78
+   },
+   {
+    "source": "auto-gross",
+    "page": 773,
+    "ruled_line": 82,
+    "landed_line": 82,
+    "mode": "on_target",
+    "legacy_line": 82
+   },
+   {
+    "source": "g|773|84|176",
+    "page": 773,
+    "ruled_line": 84,
+    "landed_line": 84,
+    "mode": "on_target",
+    "legacy_line": 84
+   },
+   {
+    "source": "g|773|85|177",
+    "page": 773,
+    "ruled_line": 85,
+    "landed_line": 85,
+    "mode": "on_target",
+    "legacy_line": 85
+   },
+   {
+    "source": "g|773|86|178",
+    "page": 773,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 86
+   },
+   {
+    "source": "g|773|87|213",
+    "page": 773,
+    "ruled_line": 87,
+    "landed_line": 87,
+    "mode": "on_target",
+    "legacy_line": 87
+   },
+   {
+    "source": "g|773|87|179",
+    "page": 773,
+    "ruled_line": 87,
+    "landed_line": 87,
+    "mode": "on_target",
+    "legacy_line": 87
+   },
+   {
+    "source": "g|774|1|214",
+    "page": 774,
+    "ruled_line": 1,
+    "landed_line": 1,
+    "mode": "on_target",
+    "legacy_line": 1
+   },
+   {
+    "source": "g|774|12|215",
+    "page": 774,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|774|15|216",
+    "page": 774,
+    "ruled_line": 15,
+    "landed_line": 15,
+    "mode": "on_target",
+    "legacy_line": 15
+   },
+   {
+    "source": "g|774|19|181",
+    "page": 774,
+    "ruled_line": 19,
+    "landed_line": 19,
+    "mode": "on_target",
+    "legacy_line": 19
+   },
+   {
+    "source": "g|774|21|182",
+    "page": 774,
+    "ruled_line": 21,
+    "landed_line": 21,
+    "mode": "on_target",
+    "legacy_line": 21
+   },
+   {
+    "source": "g|774|26|217",
+    "page": 774,
+    "ruled_line": 26,
+    "landed_line": 26,
+    "mode": "wrap",
+    "legacy_line": 26
+   },
+   {
+    "source": "g|774|32|218",
+    "page": 774,
+    "ruled_line": 32,
+    "landed_line": 32,
+    "mode": "on_target",
+    "legacy_line": 32
+   },
+   {
+    "source": "ga|774|34|27",
+    "page": 774,
+    "ruled_line": 34,
+    "landed_line": 34,
+    "mode": "on_target",
+    "legacy_line": 34
+   },
+   {
+    "source": "g|774|38|183",
+    "page": 774,
+    "ruled_line": 38,
+    "landed_line": 38,
+    "mode": "on_target",
+    "legacy_line": 38
+   },
+   {
+    "source": "g|774|40|219",
+    "page": 774,
+    "ruled_line": 40,
+    "landed_line": 40,
+    "mode": "on_target",
+    "legacy_line": 40
+   },
+   {
+    "source": "g|774|43|220",
+    "page": 774,
+    "ruled_line": 43,
+    "landed_line": 43,
+    "mode": "on_target",
+    "legacy_line": 43
+   },
+   {
+    "source": "g|774|45|221",
+    "page": 774,
+    "ruled_line": 45,
+    "landed_line": 45,
+    "mode": "on_target",
+    "legacy_line": 45
+   },
+   {
+    "source": "g|774|49|222",
+    "page": 774,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "auto-gross",
+    "page": 774,
+    "ruled_line": 74,
+    "landed_line": 74,
+    "mode": "on_target",
+    "legacy_line": 74
+   },
+   {
+    "source": "g|774|95|225",
+    "page": 774,
+    "ruled_line": 95,
+    "landed_line": 95,
+    "mode": "on_target",
+    "legacy_line": 95
+   },
+   {
+    "source": "g|775|8|186",
+    "page": 775,
+    "ruled_line": 8,
+    "landed_line": 8,
+    "mode": "on_target",
+    "legacy_line": 8
+   },
+   {
+    "source": "g|775|9|226",
+    "page": 775,
+    "ruled_line": 9,
+    "landed_line": 9,
+    "mode": "on_target",
+    "legacy_line": 9
+   },
+   {
+    "source": "auto-gross",
+    "page": 775,
+    "ruled_line": 31,
+    "landed_line": 31,
+    "mode": "on_target",
+    "legacy_line": 31
+   },
+   {
+    "source": "g|775|37|227",
+    "page": 775,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 37
+   },
+   {
+    "source": "g|775|38|189",
+    "page": 775,
+    "ruled_line": 38,
+    "landed_line": 38,
+    "mode": "on_target",
+    "legacy_line": 38
+   },
+   {
+    "source": "g|775|42|228",
+    "page": 775,
+    "ruled_line": 42,
+    "landed_line": 42,
+    "mode": "on_target",
+    "legacy_line": 42
+   },
+   {
+    "source": "auto-gross",
+    "page": 775,
+    "ruled_line": 67,
+    "landed_line": 67,
+    "mode": "on_target",
+    "legacy_line": 67
+   },
+   {
+    "source": "g|775|76|229",
+    "page": 775,
+    "ruled_line": 76,
+    "landed_line": 76,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|775|96|196",
+    "page": 775,
+    "ruled_line": 96,
+    "landed_line": 96,
+    "mode": "on_target",
+    "legacy_line": 93
+   },
+   {
+    "source": "g|776|20|231",
+    "page": 776,
+    "ruled_line": 20,
+    "landed_line": 20,
+    "mode": "on_target",
+    "legacy_line": 20
+   },
+   {
+    "source": "g|776|26|233",
+    "page": 776,
+    "ruled_line": 26,
+    "landed_line": 26,
+    "mode": "on_target",
+    "legacy_line": 26
+   },
+   {
+    "source": "g|776|27|234",
+    "page": 776,
+    "ruled_line": 27,
+    "landed_line": 27,
+    "mode": "wrap",
+    "legacy_line": 27
+   },
+   {
+    "source": "g|776|28|206",
+    "page": 776,
+    "ruled_line": 28,
+    "landed_line": 28,
+    "mode": "on_target",
+    "legacy_line": 28
+   },
+   {
+    "source": "auto-gross",
+    "page": 776,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 37
+   },
+   {
+    "source": "g|776|39|209",
+    "page": 776,
+    "ruled_line": 39,
+    "landed_line": 39,
+    "mode": "on_target",
+    "legacy_line": 39
+   },
+   {
+    "source": "g|776|48|214",
+    "page": 776,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|776|61|237",
+    "page": 776,
+    "ruled_line": 61,
+    "landed_line": 61,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "ga|776|72|28",
+    "page": 776,
+    "ruled_line": 72,
+    "landed_line": 72,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|776|84|239",
+    "page": 776,
+    "ruled_line": 84,
+    "landed_line": 84,
+    "mode": "on_target",
+    "legacy_line": 84
+   },
+   {
+    "source": "g|776|89|240",
+    "page": 776,
+    "ruled_line": 89,
+    "landed_line": 89,
+    "mode": "on_target",
+    "legacy_line": 89
+   },
+   {
+    "source": "auto-gross",
+    "page": 777,
+    "ruled_line": 10,
+    "landed_line": 10,
+    "mode": "on_target",
+    "legacy_line": 10
+   },
+   {
+    "source": "g|777|19|243",
+    "page": 777,
+    "ruled_line": 19,
+    "landed_line": 19,
+    "mode": "on_target",
+    "legacy_line": 19
+   },
+   {
+    "source": "g|777|51|247",
+    "page": 777,
+    "ruled_line": 51,
+    "landed_line": 51,
+    "mode": "on_target",
+    "legacy_line": 51
+   },
+   {
+    "source": "g|777|63|220",
+    "page": 777,
+    "ruled_line": 63,
+    "landed_line": 63,
+    "mode": "on_target",
+    "legacy_line": 63
+   },
+   {
+    "source": "g|777|65|221",
+    "page": 777,
+    "ruled_line": 65,
+    "landed_line": 65,
+    "mode": "on_target",
+    "legacy_line": 65
+   },
+   {
+    "source": "g|777|66|223",
+    "page": 777,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "ga|777|72|31",
+    "page": 777,
+    "ruled_line": 72,
+    "landed_line": 72,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|777|82|224",
+    "page": 777,
+    "ruled_line": 82,
+    "landed_line": 82,
+    "mode": "on_target",
+    "legacy_line": 82
+   },
+   {
+    "source": "g|777|86|225",
+    "page": 777,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 85
+   },
+   {
+    "source": "g|778|4|248",
+    "page": 778,
+    "ruled_line": 4,
+    "landed_line": 4,
+    "mode": "on_target",
+    "legacy_line": 4
+   },
+   {
+    "source": "g|778|4|249",
+    "page": 778,
+    "ruled_line": 4,
+    "landed_line": 4,
+    "mode": "on_target",
+    "legacy_line": 4
+   },
+   {
+    "source": "g|778|10|250",
+    "page": 778,
+    "ruled_line": 10,
+    "landed_line": 10,
+    "mode": "on_target",
+    "legacy_line": 10
+   },
+   {
+    "source": "g|778|12|251",
+    "page": 778,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|778|12|252",
+    "page": 778,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|778|33|254",
+    "page": 778,
+    "ruled_line": 33,
+    "landed_line": 33,
+    "mode": "on_target",
+    "legacy_line": 33
+   },
+   {
+    "source": "g|778|33|255",
+    "page": 778,
+    "ruled_line": 33,
+    "landed_line": 33,
+    "mode": "on_target",
+    "legacy_line": 33
+   },
+   {
+    "source": "g|778|35|256",
+    "page": 778,
+    "ruled_line": 35,
+    "landed_line": 35,
+    "mode": "on_target",
+    "legacy_line": 35
+   },
+   {
+    "source": "ga|778|38|33",
+    "page": 778,
+    "ruled_line": 38,
+    "landed_line": 38,
+    "mode": "on_target",
+    "legacy_line": 38
+   },
+   {
+    "source": "g|778|39|226",
+    "page": 778,
+    "ruled_line": 39,
+    "landed_line": 39,
+    "mode": "on_target",
+    "legacy_line": 39
+   },
+   {
+    "source": "g|778|51|257",
+    "page": 778,
+    "ruled_line": 51,
+    "landed_line": 51,
+    "mode": "on_target",
+    "legacy_line": 51
+   },
+   {
+    "source": "g|778|52|258",
+    "page": 778,
+    "ruled_line": 52,
+    "landed_line": 52,
+    "mode": "on_target",
+    "legacy_line": 52
+   },
+   {
+    "source": "g|778|56|259",
+    "page": 778,
+    "ruled_line": 56,
+    "landed_line": 56,
+    "mode": "on_target",
+    "legacy_line": 56
+   },
+   {
+    "source": "g|778|57|260",
+    "page": 778,
+    "ruled_line": 57,
+    "landed_line": 57,
+    "mode": "on_target",
+    "legacy_line": 57
+   },
+   {
+    "source": "g|778|58|261",
+    "page": 778,
+    "ruled_line": 58,
+    "landed_line": 58,
+    "mode": "on_target",
+    "legacy_line": 58
+   },
+   {
+    "source": "g|778|64|262",
+    "page": 778,
+    "ruled_line": 64,
+    "landed_line": 64,
+    "mode": "on_target",
+    "legacy_line": 64
+   },
+   {
+    "source": "g|778|82|228",
+    "page": 778,
+    "ruled_line": 82,
+    "landed_line": 82,
+    "mode": "on_target",
+    "legacy_line": 82
+   },
+   {
+    "source": "g|778|94|229",
+    "page": 778,
+    "ruled_line": 94,
+    "landed_line": 94,
+    "mode": "on_target",
+    "legacy_line": 94
+   },
+   {
+    "source": "g|779|5|265",
+    "page": 779,
+    "ruled_line": 5,
+    "landed_line": 5,
+    "mode": "on_target",
+    "legacy_line": 5
+   },
+   {
+    "source": "g|779|6|230",
+    "page": 779,
+    "ruled_line": 6,
+    "landed_line": 6,
+    "mode": "on_target",
+    "legacy_line": 6
+   },
+   {
+    "source": "g|779|7|231",
+    "page": 779,
+    "ruled_line": 7,
+    "landed_line": 7,
+    "mode": "on_target",
+    "legacy_line": 7
+   },
+   {
+    "source": "g|779|10|232",
+    "page": 779,
+    "ruled_line": 10,
+    "landed_line": 10,
+    "mode": "on_target",
+    "legacy_line": 10
+   },
+   {
+    "source": "ga|779|11|34",
+    "page": 779,
+    "ruled_line": 11,
+    "landed_line": 11,
+    "mode": "on_target",
+    "legacy_line": 11
+   },
+   {
+    "source": "g|779|15|233",
+    "page": 779,
+    "ruled_line": 15,
+    "landed_line": 15,
+    "mode": "on_target",
+    "legacy_line": 15
+   },
+   {
+    "source": "g|779|16|234",
+    "page": 779,
+    "ruled_line": 16,
+    "landed_line": 16,
+    "mode": "on_target",
+    "legacy_line": 16
+   },
+   {
+    "source": "g|779|27|235",
+    "page": 779,
+    "ruled_line": 27,
+    "landed_line": 27,
+    "mode": "on_target",
+    "legacy_line": 27
+   },
+   {
+    "source": "g|779|49|266",
+    "page": 779,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "g|779|64|267",
+    "page": 779,
+    "ruled_line": 64,
+    "landed_line": 64,
+    "mode": "on_target",
+    "legacy_line": 64
+   },
+   {
+    "source": "g|779|67|236",
+    "page": 779,
+    "ruled_line": 67,
+    "landed_line": 67,
+    "mode": "on_target",
+    "legacy_line": 67
+   },
+   {
+    "source": "auto-gross",
+    "page": 779,
+    "ruled_line": 69,
+    "landed_line": 69,
+    "mode": "on_target",
+    "legacy_line": 69
+   },
+   {
+    "source": "g|779|77|268",
+    "page": 779,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|779|80|269",
+    "page": 779,
+    "ruled_line": 80,
+    "landed_line": 80,
+    "mode": "on_target",
+    "legacy_line": 80
+   },
+   {
+    "source": "g|779|86|237",
+    "page": 779,
+    "ruled_line": 86,
+    "landed_line": 86,
+    "mode": "on_target",
+    "legacy_line": 86
+   },
+   {
+    "source": "g|779|91|238",
+    "page": 779,
+    "ruled_line": 91,
+    "landed_line": 91,
+    "mode": "on_target",
+    "legacy_line": 90
+   },
+   {
+    "source": "g|780|19|241",
+    "page": 780,
+    "ruled_line": 19,
+    "landed_line": 19,
+    "mode": "on_target",
+    "legacy_line": 19
+   },
+   {
+    "source": "g|780|26|273",
+    "page": 780,
+    "ruled_line": 26,
+    "landed_line": 26,
+    "mode": "on_target",
+    "legacy_line": 26
+   },
+   {
+    "source": "g|780|32|274",
+    "page": 780,
+    "ruled_line": 32,
+    "landed_line": 32,
+    "mode": "on_target",
+    "legacy_line": 32
+   },
+   {
+    "source": "g|780|37|277",
+    "page": 780,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 37
+   },
+   {
+    "source": "g|780|41|278",
+    "page": 780,
+    "ruled_line": 41,
+    "landed_line": 41,
+    "mode": "on_target",
+    "legacy_line": 41
+   },
+   {
+    "source": "auto-gross",
+    "page": 780,
+    "ruled_line": 46,
+    "landed_line": 46,
+    "mode": "on_target",
+    "legacy_line": 46
+   },
+   {
+    "source": "g|780|60|243",
+    "page": 780,
+    "ruled_line": 60,
+    "landed_line": 60,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "g|780|66|244",
+    "page": 780,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "g|780|70|279",
+    "page": 780,
+    "ruled_line": 70,
+    "landed_line": 70,
+    "mode": "on_target",
+    "legacy_line": 70
+   },
+   {
+    "source": "g|780|75|280",
+    "page": 780,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|780|77|281",
+    "page": 780,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|780|78|282",
+    "page": 780,
+    "ruled_line": 78,
+    "landed_line": 78,
+    "mode": "on_target",
+    "legacy_line": 78
+   },
+   {
+    "source": "g|780|79|283",
+    "page": 780,
+    "ruled_line": 79,
+    "landed_line": 79,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "g|780|80|284",
+    "page": 780,
+    "ruled_line": 80,
+    "landed_line": 80,
+    "mode": "on_target",
+    "legacy_line": 80
+   },
+   {
+    "source": "g|780|82|285",
+    "page": 780,
+    "ruled_line": 82,
+    "landed_line": 82,
+    "mode": "on_target",
+    "legacy_line": 82
+   },
+   {
+    "source": "g|780|92|245",
+    "page": 780,
+    "ruled_line": 92,
+    "landed_line": 92,
+    "mode": "on_target",
+    "legacy_line": 92
+   },
+   {
+    "source": "g|781|1|287",
+    "page": 781,
+    "ruled_line": 1,
+    "landed_line": 1,
+    "mode": "on_target",
+    "legacy_line": 1
+   },
+   {
+    "source": "g|781|1|246",
+    "page": 781,
+    "ruled_line": 1,
+    "landed_line": 1,
+    "mode": "on_target",
+    "legacy_line": 1
+   },
+   {
+    "source": "g|781|7|288",
+    "page": 781,
+    "ruled_line": 7,
+    "landed_line": 7,
+    "mode": "on_target",
+    "legacy_line": 7
+   },
+   {
+    "source": "g|781|14|248",
+    "page": 781,
+    "ruled_line": 14,
+    "landed_line": 14,
+    "mode": "on_target",
+    "legacy_line": 14
+   },
+   {
+    "source": "g|781|26|289",
+    "page": 781,
+    "ruled_line": 26,
+    "landed_line": 26,
+    "mode": "on_target",
+    "legacy_line": 26
+   },
+   {
+    "source": "ga|781|27|36",
+    "page": 781,
+    "ruled_line": 27,
+    "landed_line": 27,
+    "mode": "on_target",
+    "legacy_line": 27
+   },
+   {
+    "source": "ga|781|32|37",
+    "page": 781,
+    "ruled_line": 32,
+    "landed_line": 32,
+    "mode": "on_target",
+    "legacy_line": 32
+   },
+   {
+    "source": "g|781|36|249",
+    "page": 781,
+    "ruled_line": 36,
+    "landed_line": 36,
+    "mode": "on_target",
+    "legacy_line": 36
+   },
+   {
+    "source": "g|781|52|251",
+    "page": 781,
+    "ruled_line": 52,
+    "landed_line": 52,
+    "mode": "on_target",
+    "legacy_line": 52
+   },
+   {
+    "source": "g|781|60|290",
+    "page": 781,
+    "ruled_line": 60,
+    "landed_line": 60,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "g|781|60|291",
+    "page": 781,
+    "ruled_line": 60,
+    "landed_line": 60,
+    "mode": "on_target",
+    "legacy_line": 60
+   },
+   {
+    "source": "ga|781|62|38",
+    "page": 781,
+    "ruled_line": 62,
+    "landed_line": 62,
+    "mode": "on_target",
+    "legacy_line": 62
+   },
+   {
+    "source": "g|781|63|292",
+    "page": 781,
+    "ruled_line": 63,
+    "landed_line": 63,
+    "mode": "on_target",
+    "legacy_line": 63
+   },
+   {
+    "source": "ga|781|66|39",
+    "page": 781,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "ga|781|69|40",
+    "page": 781,
+    "ruled_line": 69,
+    "landed_line": 69,
+    "mode": "on_target",
+    "legacy_line": 69
+   },
+   {
+    "source": "ga|781|72|41",
+    "page": 781,
+    "ruled_line": 72,
+    "landed_line": 72,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|781|73|252",
+    "page": 781,
+    "ruled_line": 73,
+    "landed_line": 73,
+    "mode": "on_target",
+    "legacy_line": 73
+   },
+   {
+    "source": "ga|781|75|42",
+    "page": 781,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|781|76|294",
+    "page": 781,
+    "ruled_line": 76,
+    "landed_line": 76,
+    "mode": "on_target",
+    "legacy_line": 76
+   },
+   {
+    "source": "g|781|78|295",
+    "page": 781,
+    "ruled_line": 78,
+    "landed_line": 78,
+    "mode": "on_target",
+    "legacy_line": 78
+   },
+   {
+    "source": "g|781|79|296",
+    "page": 781,
+    "ruled_line": 79,
+    "landed_line": 79,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "ga|781|94|43",
+    "page": 781,
+    "ruled_line": 94,
+    "landed_line": 94,
+    "mode": "on_target",
+    "legacy_line": 94
+   },
+   {
+    "source": "g|782|11|297",
+    "page": 782,
+    "ruled_line": 11,
+    "landed_line": 11,
+    "mode": "on_target",
+    "legacy_line": 11
+   },
+   {
+    "source": "g|782|13|298",
+    "page": 782,
+    "ruled_line": 13,
+    "landed_line": 13,
+    "mode": "on_target",
+    "legacy_line": 13
+   },
+   {
+    "source": "g|782|14|299",
+    "page": 782,
+    "ruled_line": 14,
+    "landed_line": 14,
+    "mode": "on_target",
+    "legacy_line": 14
+   },
+   {
+    "source": "auto-gross",
+    "page": 782,
+    "ruled_line": 48,
+    "landed_line": 48,
+    "mode": "on_target",
+    "legacy_line": 48
+   },
+   {
+    "source": "g|782|57|300",
+    "page": 782,
+    "ruled_line": 57,
+    "landed_line": 57,
+    "mode": "on_target",
+    "legacy_line": 57
+   },
+   {
+    "source": "g|782|58|301",
+    "page": 782,
+    "ruled_line": 58,
+    "landed_line": 58,
+    "mode": "wrap",
+    "legacy_line": 58
+   },
+   {
+    "source": "g|782|69|257",
+    "page": 782,
+    "ruled_line": 69,
+    "landed_line": 69,
+    "mode": "on_target",
+    "legacy_line": 69
+   },
+   {
+    "source": "g|782|75|302",
+    "page": 782,
+    "ruled_line": 75,
+    "landed_line": 75,
+    "mode": "on_target",
+    "legacy_line": 75
+   },
+   {
+    "source": "g|782|77|303",
+    "page": 782,
+    "ruled_line": 77,
+    "landed_line": 77,
+    "mode": "on_target",
+    "legacy_line": 77
+   },
+   {
+    "source": "g|782|79|304",
+    "page": 782,
+    "ruled_line": 79,
+    "landed_line": 79,
+    "mode": "on_target",
+    "legacy_line": 79
+   },
+   {
+    "source": "ga|782|84|44",
+    "page": 782,
+    "ruled_line": 84,
+    "landed_line": 84,
+    "mode": "on_target",
+    "legacy_line": 84
+   },
+   {
+    "source": "g|782|85|305",
+    "page": 782,
+    "ruled_line": 85,
+    "landed_line": 85,
+    "mode": "on_target",
+    "legacy_line": 85
+   },
+   {
+    "source": "g|782|87|306",
+    "page": 782,
+    "ruled_line": 87,
+    "landed_line": 87,
+    "mode": "on_target",
+    "legacy_line": 87
+   },
+   {
+    "source": "auto-gross",
+    "page": 782,
+    "ruled_line": 88,
+    "landed_line": 88,
+    "mode": "on_target",
+    "legacy_line": 88
+   },
+   {
+    "source": "g|782|94|308",
+    "page": 782,
+    "ruled_line": 94,
+    "landed_line": 94,
+    "mode": "on_target",
+    "legacy_line": 94
+   },
+   {
+    "source": "ga|783|1|45",
+    "page": 783,
+    "ruled_line": 1,
+    "landed_line": 1,
+    "mode": "on_target",
+    "legacy_line": 1
+   },
+   {
+    "source": "g|783|8|309",
+    "page": 783,
+    "ruled_line": 8,
+    "landed_line": 8,
+    "mode": "on_target",
+    "legacy_line": 8
+   },
+   {
+    "source": "g|783|13|310",
+    "page": 783,
+    "ruled_line": 13,
+    "landed_line": 13,
+    "mode": "wrap",
+    "legacy_line": 13
+   },
+   {
+    "source": "g|783|34|311",
+    "page": 783,
+    "ruled_line": 34,
+    "landed_line": 34,
+    "mode": "on_target",
+    "legacy_line": 34
+   },
+   {
+    "source": "g|783|49|314",
+    "page": 783,
+    "ruled_line": 49,
+    "landed_line": 49,
+    "mode": "on_target",
+    "legacy_line": 49
+   },
+   {
+    "source": "g|783|52|258",
+    "page": 783,
+    "ruled_line": 52,
+    "landed_line": 52,
+    "mode": "on_target",
+    "legacy_line": 52
+   },
+   {
+    "source": "auto-gross",
+    "page": 783,
+    "ruled_line": 53,
+    "landed_line": 53,
+    "mode": "on_target",
+    "legacy_line": 53
+   },
+   {
+    "source": "g|783|62|259",
+    "page": 783,
+    "ruled_line": 62,
+    "landed_line": 62,
+    "mode": "on_target",
+    "legacy_line": 62
+   },
+   {
+    "source": "g|783|66|260",
+    "page": 783,
+    "ruled_line": 66,
+    "landed_line": 66,
+    "mode": "on_target",
+    "legacy_line": 66
+   },
+   {
+    "source": "auto-gross",
+    "page": 783,
+    "ruled_line": 70,
+    "landed_line": 70,
+    "mode": "on_target",
+    "legacy_line": 70
+   },
+   {
+    "source": "auto-gross",
+    "page": 783,
+    "ruled_line": 71,
+    "landed_line": 71,
+    "mode": "on_target",
+    "legacy_line": 71
+   },
+   {
+    "source": "g|783|72|261",
+    "page": 783,
+    "ruled_line": 72,
+    "landed_line": 72,
+    "mode": "on_target",
+    "legacy_line": 72
+   },
+   {
+    "source": "g|783|74|263",
+    "page": 783,
+    "ruled_line": 74,
+    "landed_line": 74,
+    "mode": "on_target",
+    "legacy_line": 74
+   },
+   {
+    "source": "auto-gross",
+    "page": 783,
+    "ruled_line": 81,
+    "landed_line": 81,
+    "mode": "on_target",
+    "legacy_line": 81
+   },
+   {
+    "source": "auto-gross",
+    "page": 783,
+    "ruled_line": 83,
+    "landed_line": 83,
+    "mode": "on_target",
+    "legacy_line": 83
+   },
+   {
+    "source": "auto-gross",
+    "page": 783,
+    "ruled_line": 83,
+    "landed_line": 83,
+    "mode": "wrap",
+    "legacy_line": 83
+   },
+   {
+    "source": "auto-gross",
+    "page": 783,
+    "ruled_line": 84,
+    "landed_line": 84,
+    "mode": "on_target",
+    "legacy_line": 84
+   },
+   {
+    "source": "g|784|4|265",
+    "page": 784,
+    "ruled_line": 4,
+    "landed_line": 4,
+    "mode": "on_target",
+    "legacy_line": 4
+   },
+   {
+    "source": "g|784|7|316",
+    "page": 784,
+    "ruled_line": 7,
+    "landed_line": 7,
+    "mode": "on_target",
+    "legacy_line": 7
+   },
+   {
+    "source": "ga|784|12|46",
+    "page": 784,
+    "ruled_line": 12,
+    "landed_line": 12,
+    "mode": "on_target",
+    "legacy_line": 12
+   },
+   {
+    "source": "g|784|13|267",
+    "page": 784,
+    "ruled_line": 13,
+    "landed_line": 13,
+    "mode": "on_target",
+    "legacy_line": 13
+   },
+   {
+    "source": "g|784|14|318",
+    "page": 784,
+    "ruled_line": 14,
+    "landed_line": 14,
+    "mode": "on_target",
+    "legacy_line": 14
+   },
+   {
+    "source": "g|784|20|319",
+    "page": 784,
+    "ruled_line": 20,
+    "landed_line": 20,
+    "mode": "on_target",
+    "legacy_line": 17
+   },
+   {
+    "source": "g|784|21|320",
+    "page": 784,
+    "ruled_line": 21,
+    "landed_line": 21,
+    "mode": "on_target",
+    "legacy_line": 21
+   },
+   {
+    "source": "g|784|33|269",
+    "page": 784,
+    "ruled_line": 33,
+    "landed_line": 33,
+    "mode": "on_target",
+    "legacy_line": 33
+   },
+   {
+    "source": "g|784|36|321",
+    "page": 784,
+    "ruled_line": 36,
+    "landed_line": 36,
+    "mode": "on_target",
+    "legacy_line": 36
+   },
+   {
+    "source": "g|784|37|322",
+    "page": 784,
+    "ruled_line": 37,
+    "landed_line": 37,
+    "mode": "on_target",
+    "legacy_line": 37
+   },
+   {
+    "source": "g|784|38|323",
+    "page": 784,
+    "ruled_line": 38,
+    "landed_line": 38,
+    "mode": "on_target",
+    "legacy_line": 38
+   }
+  ]
+ },
+ "stage2": {
+  "log": [
+   {
+    "rule": "fraction",
+    "page": "758",
+    "line": 44,
+    "before": "-αιν/ε, tense-suff., 523 i.",
+    "after": "-αινο/ε-, tense-suff., 523 i."
+   },
+   {
+    "rule": "fraction",
+    "page": "767",
+    "line": 71,
+    "before": "η/ε, tense-suff., 455. 9.",
+    "after": "-η/ε-, tense-suff., 455. 9."
+   },
+   {
+    "rule": "fraction",
+    "page": "773",
+    "line": 13,
+    "before": "-νε/ε-, tense-suff., 523 d.",
+    "after": "-νεο/ε-, tense-suff., 523 d."
+   },
+   {
+    "rule": "fraction",
+    "page": "773",
+    "line": 28,
+    "before": "-ν/ε-, tense-suff., 523 a.",
+    "after": "-νο/ε-, tense-suff., 523 a."
+   },
+   {
+    "rule": "fraction",
+    "page": "773",
+    "line": 81,
+    "before": "-ο/-ε-, them. vow., 455, 455 D, 456, 457 D.",
+    "after": "-ο/ε-, them. vow., 455, 455 D, 456, 457 D."
+   },
+   {
+    "rule": "fraction",
+    "page": "779",
+    "line": 49,
+    "before": "-σκ/ο ε, iterative imperfs. and aors. in,",
+    "after": "-σκο/ε-, iterative imperfs. and aors. in,"
+   },
+   {
+    "rule": "fraction",
+    "page": "781",
+    "line": 78,
+    "before": "-υνο%ε, tense-suff., 523 e.",
+    "after": "-υνο/ε-, tense-suff., 523 e."
+   },
+   {
+    "rule": "stacking",
+    "page": "759",
+    "line": 2,
+    "before": "ἄ̄κων, decl., 305 b; gen. abs., 2071,",
+    "after": "ᾱ̓́κων, decl., 305 b; gen. abs., 2071,"
+   },
+   {
+    "rule": "stacking",
+    "page": "760",
+    "line": 42,
+    "before": "ἀποκρί̄νομαι, pass. dep., 812 b, 813.",
+    "after": "ἀποκρῑ́νομαι, pass. dep., 812 b, 813."
+   },
+   {
+    "rule": "stacking",
+    "page": "761",
+    "line": 25,
+    "before": "ἀφί̄ημι, aug., 450; w. redund. μή, 2741.",
+    "after": "ἀφῑ́ημι, aug., 450; w. redund. μή, 2741."
+   },
+   {
+    "rule": "stacking",
+    "page": "761",
+    "line": 48,
+    "before": "βελτί̄ων, βέλτιστος, 319; mean., 319 a.",
+    "after": "βελτῑ́ων, βέλτιστος, 319; mean., 319 a."
+   },
+   {
+    "rule": "stacking",
+    "page": "761",
+    "line": 94,
+    "before": "γί̄νομαι, 89.",
+    "after": "γῑ́νομαι, 89."
+   },
+   {
+    "rule": "stacking",
+    "page": "762",
+    "line": 17,
+    "before": "δακρύ̄ω, 500. 1 a; w. acc., 1595 a.",
+    "after": "δακρῡ́ω, 500. 1 a; w. acc., 1595 a."
+   },
+   {
+    "rule": "stacking",
+    "page": "763",
+    "line": 2,
+    "before": "-διδρά̄σκω, 687; fut. mid., 806.",
+    "after": "-διδρᾱ́σκω, 687; fut. mid., 806."
+   },
+   {
+    "rule": "stacking",
+    "page": "763",
+    "line": 20,
+    "before": "Διονύ̄σια, defect., 283.",
+    "after": "Διονῡ́σια, defect., 283."
+   },
+   {
+    "rule": "stacking",
+    "page": "765",
+    "line": 10,
+    "before": "ἐλά̄ττων, ἐλά̄σσων, 319, 319 b ; w. or",
+    "after": "ἐλᾱ́ττων, ἐλᾱ́σσων, 319, 319 b ; w. or"
+   },
+   {
+    "rule": "stacking",
+    "page": "766",
+    "line": 10,
+    "before": "ἐπά̄ν, 1768 a, 2399 a.",
+    "after": "ἐπᾱ́ν, 1768 a, 2399 a."
+   },
+   {
+    "rule": "stacking",
+    "page": "766",
+    "line": 59,
+    "before": "ἐρύ̄κω, followed by μή, 2741.",
+    "after": "ἐρῡ́κω, followed by μή, 2741."
+   },
+   {
+    "rule": "stacking",
+    "page": "768",
+    "line": 9,
+    "before": "ἡδύ̄νω, 489 h, 518 c.",
+    "after": "ἡδῡ́νω, 489 h, 518 c."
+   },
+   {
+    "rule": "stacking",
+    "page": "768",
+    "line": 75,
+    "before": "θηλύ̄νω, 489 h.",
+    "after": "θηλῡ́νω, 489 h."
+   },
+   {
+    "rule": "stacking",
+    "page": "768",
+    "line": 83,
+    "before": "θλί̄βω, 501, 570, 571, 595.",
+    "after": "θλῑ́βω, 501, 570, 571, 595."
+   },
+   {
+    "rule": "stacking",
+    "page": "769",
+    "line": 18,
+    "before": "ἰ̄άομαι, mid. dep., 813 c.",
+    "after": "ῑ̓άομαι, mid. dep., 813 c."
+   },
+   {
+    "rule": "stacking",
+    "page": "769",
+    "line": 26,
+    "before": "ἵ̄ημι, aug., 431, 450, 725 a, 777-782.",
+    "after": "ῑ̔́ημι, aug., 431, 450, 725 a, 777-782."
+   },
+   {
+    "rule": "stacking",
+    "page": "769",
+    "line": 28,
+    "before": "ἱ̄λάσκομαι, 488 a, 489 e.",
+    "after": "ῑ̔λάσκομαι, 488 a, 489 e."
+   },
+   {
+    "rule": "stacking",
+    "page": "769",
+    "line": 48,
+    "before": "ἰχθύ̄ς, 254 a, 268, 272, 273.",
+    "after": "ἰχθῡ́ς, 254 a, 268, 272, 273."
+   },
+   {
+    "rule": "stacking",
+    "page": "772",
+    "line": 71,
+    "before": "μνά̄ομαι, 641 D, 644.",
+    "after": "μνᾱ́ομαι, 641 D, 644."
+   },
+   {
+    "rule": "stacking",
+    "page": "773",
+    "line": 49,
+    "before": "νῦν, νῡνί̄, νύ̄ν, νύν, νύ, 134 D, 181 D,",
+    "after": "νῦν, νῡνῑ́, νῡ́ν, νύν, νύ, 134 D, 181 D,"
+   },
+   {
+    "rule": "stacking",
+    "page": "773",
+    "line": 77,
+    "before": "ὁδί̄, 75 a, 333 g, 1240.",
+    "after": "ὁδῑ́, 75 a, 333 g, 1240."
+   },
+   {
+    "rule": "stacking",
+    "page": "774",
+    "line": 26,
+    "before": "οἴομαι, 2692 a ; w. μή, 2723, 2726 ; ὀί̄ο-",
+    "after": "οἴομαι, 2692 a ; w. μή, 2723, 2726 ; ὀῑ́ο-"
+   },
+   {
+    "rule": "stacking",
+    "page": "776",
+    "line": 72,
+    "before": "οὑτοσί̄, 333 g, 1240.",
+    "after": "οὑτοσῑ́, 333 g, 1240."
+   },
+   {
+    "rule": "stacking",
+    "page": "777",
+    "line": 72,
+    "before": "πί̄νω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466.",
+    "after": "πῑ́νω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466."
+   },
+   {
+    "rule": "stacking",
+    "page": "778",
+    "line": 39,
+    "before": "πρά̄ττω, 514, 571, 809, 819 ; w. advs.,",
+    "after": "πρᾱ́ττω, 514, 571, 809, 819 ; w. advs.,"
+   },
+   {
+    "rule": "stacking",
+    "page": "778",
+    "line": 51,
+    "before": "πρί̄ω, 489 c, 500. 2.",
+    "after": "πρῑ́ω, 489 c, 500. 2."
+   },
+   {
+    "rule": "stacking",
+    "page": "778",
+    "line": 57,
+    "before": "προί̄ημι, accent of forms, 426 f, 746 c ;",
+    "after": "προῑ́ημι, accent of forms, 426 f, 746 c ;"
+   },
+   {
+    "rule": "stacking",
+    "page": "778",
+    "line": 58,
+    "before": "προί̄εμαι w. part., 2103.",
+    "after": "προῑ́εμαι w. part., 2103."
+   },
+   {
+    "rule": "stacking",
+    "page": "778",
+    "line": 82,
+    "before": "πτύ̄ω, 488 a, 500. 1 a and 1 D.",
+    "after": "πτῡ́ω, 488 a, 500. 1 a and 1 D."
+   },
+   {
+    "rule": "stacking",
+    "page": "780",
+    "line": 82,
+    "before": "τίν, τί̄νη, 325 D 4.",
+    "after": "τίν, τῑ́νη, 325 D 4."
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 27,
+    "before": "τουτί̄, derivation, 75 a.",
+    "after": "τουτῑ́, derivation, 75 a."
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 32,
+    "before": "τρί̄βω, 501, 570, 571, 595, 808.",
+    "after": "τρῑ́βω, 501, 570, 571, 595, 808."
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 62,
+    "before": "ὕ̄ει, 500. 1 a, 934 a.",
+    "after": "ῡ̔́ει, 500. 1 a, 934 a."
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 66,
+    "before": "ὑ̄μέας, 325 D 1, 2.",
+    "after": "ῡ̔μέας, 325 D 1, 2."
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 69,
+    "before": "ὑ̄μέτερος, 313 b, 330, 1182, 1183, 1196,",
+    "after": "ῡ̔μέτερος, 313 b, 330, 1182, 1183, 1196,"
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 72,
+    "before": "ὑ̄μέτερος αὐτῶν, 1200. 2 b, 1203 b and N.",
+    "after": "ῡ̔μέτερος αὐτῶν, 1200. 2 b, 1203 b and N."
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 75,
+    "before": "ὑ̄μός, in Hom., 330 D 1.",
+    "after": "ῡ̔μός, in Hom., 330 D 1."
+   },
+   {
+    "rule": "stacking",
+    "page": "781",
+    "line": 76,
+    "before": "ὕ̄μων, ὗμιν, ὗμας, 325 f, 325 D 4.",
+    "after": "ῡ̔́μων, ὗμιν, ὗμας, 325 f, 325 D 4."
+   },
+   {
+    "rule": "stacking",
+    "page": "783",
+    "line": 1,
+    "before": "φρί̄ττω, form πεφρίκων, 557 D 2, 700 D.",
+    "after": "φρῑ́ττω, form πεφρίκων, 557 D 2, 700 D."
+   },
+   {
+    "rule": "stacking",
+    "page": "783",
+    "line": 49,
+    "before": "χλί̄ω, 500. 2.",
+    "after": "χλῑ́ω, 500. 2."
+   },
+   {
+    "rule": "caps",
+    "page": "773",
+    "line": 66,
+    "before": "rel., 180 D N., 1105; decl., 332 and D;",
+    "after": "rel., 180 d N., 1105; decl., 332 and D;"
+   },
+   {
+    "rule": "ellipsis-grave",
+    "page": "761",
+    "line": 74,
+    "before": "ἀλλά . . . γε, 2786; ἀλλὰ γέ τοι (τοί",
+    "after": "ἀλλὰ . . . γε, 2786; ἀλλὰ γέ τοι (τοί"
+   },
+   {
+    "rule": "ellipsis-grave",
+    "page": "767",
+    "line": 81,
+    "before": "ἢ . . . ἤ, 2852 a, 2856 ; εἴτε . . . ἤ, ἤ . . .",
+    "after": "ἢ . . . ἤ, 2852 a, 2856 ; εἴτε . . . ἤ, ἢ . . ."
+   },
+   {
+    "rule": "ellipsis-grave",
+    "page": "776",
+    "line": 25,
+    "before": ". . . οὐδέ, 2949; οὔτε . . . οὐδέ . . .",
+    "after": ". . . οὐδέ, 2949; οὔτε . . . οὐδὲ . . ."
+   },
+   {
+    "rule": "vision",
+    "page": "757",
+    "line": 14,
+    "before": "ἀ- or ἀ-, copul., 885. 4.",
+    "after": "ἀ- or ἁ-, copul., 885. 4."
+   },
+   {
+    "rule": "vision",
+    "page": "758",
+    "line": 7,
+    "before": "-αξε, 342 a.",
+    "after": "-αζε, 342 a."
+   },
+   {
+    "rule": "vision",
+    "page": "758",
+    "line": 32,
+    "before": "Ἀΐδόσδε, 342 D.",
+    "after": "Ἀϊδόσδε, 342 D."
+   },
+   {
+    "rule": "vision",
+    "page": "758",
+    "line": 95,
+    "before": "ἀκροάομαι. fut. and aor., 487 a; w. gen.,",
+    "after": "ἀκροάομαι, fut. and aor., 487 a; w. gen.,"
+   },
+   {
+    "rule": "vision",
+    "page": "759",
+    "line": 6,
+    "before": "ἄλειφαρ, 258 C.",
+    "after": "ἄλειφαρ, 258 c."
+   },
+   {
+    "rule": "vision",
+    "page": "759",
+    "line": 90,
+    "before": "ᾱ̓́ν, the form, 2283; see ἐάν.",
+    "after": "ᾱ̓́ν, the form, 2283; see ἐᾱ́ν."
+   },
+   {
+    "rule": "vision",
+    "page": "760",
+    "line": 57,
+    "before": "ἄρα, 2787-2799 ; γάρ ἄρα, 2820 ; δ' ἄρα,",
+    "after": "ἄρα, 2787-2799 ; γὰρ ἄρα, 2820 ; δ' ἄρα,"
+   },
+   {
+    "rule": "vision",
+    "page": "760",
+    "line": 86,
+    "before": "-ᾱσι (ησι), in Â stems, loc., 341.",
+    "after": "-ᾱσι (ησι), in Ā stems, loc., 341."
+   },
+   {
+    "rule": "vision",
+    "page": "761",
+    "line": 24,
+    "before": "τι, 1630; w. redund. μή, 2741.",
+    "after": "τι, 1630; w. redundant μή, 2741."
+   },
+   {
+    "rule": "vision",
+    "page": "761",
+    "line": 74,
+    "before": "ἀλλὰ . . . γε, 2786; ἀλλὰ γέ τοι (τοί",
+    "after": "ἀλλὰ . . . γε, 2786; ἀλλά γέ τοι (τοί"
+   },
+   {
+    "rule": "vision",
+    "page": "761",
+    "line": 80,
+    "before": "γελάω, 488 a, 489 e, f; γελάω, 641 D,",
+    "after": "γελάω, 488 a, 489 e, f; γελώω, 641 D,"
+   },
+   {
+    "rule": "vision",
+    "page": "762",
+    "line": 1,
+    "before": "γινώσκω, 89",
+    "after": "γῑνώσκω, 89"
+   },
+   {
+    "rule": "vision",
+    "page": "762",
+    "line": 3,
+    "before": "and νικᾶν γνώμην, 1576.",
+    "after": "and νῑκᾶν γνώμην, 1576."
+   },
+   {
+    "rule": "vision",
+    "page": "762",
+    "line": 25,
+    "before": "2947; δ᾽' οὖν, 2959; τὲ . . . δέ, 2981.",
+    "after": "2947; δ' οὖν, 2959; τὲ . . . δέ, 2981."
+   },
+   {
+    "rule": "vision",
+    "page": "763",
+    "line": 75,
+    "before": "ἐᾱ́ν, ἤν, ᾰ̓́ν, 1768 a, 2283, 2247, 2323,",
+    "after": "ἐᾱ́ν, ἤν, ᾱ̓́ν, 1768 a, 2283, 2247, 2323,"
+   },
+   {
+    "rule": "vision",
+    "page": "763",
+    "line": 78,
+    "before": "ἐᾱ̀ν ἄρα, 2796, 2797; ἐὰν τε (ἤν τε, ᾱ̓́ν",
+    "after": "ἐᾱ̀ν ἄρα, 2796, 2797; ἐᾱ́ν τε (ἤν τε, ᾱ̓́ν"
+   },
+   {
+    "rule": "vision",
+    "page": "764",
+    "line": 12,
+    "before": "2480 ; ὡς εἰ (τε), 2087 b, 2347, 2481-",
+    "after": "2480 ; ὡς εἴ (τε), 2087 b, 2347, 2481-"
+   },
+   {
+    "rule": "vision",
+    "page": "764",
+    "line": 17,
+    "before": "omitted, 2346 ; εἰ δ ἄγε, 2348 ; εἰ and",
+    "after": "omitted, 2346 ; εἰ δ' ἄγε, 2348 ; εἰ and"
+   },
+   {
+    "rule": "vision",
+    "page": "765",
+    "line": 44,
+    "before": "1534, 1536, 1541, 1542 ; cpds. of w.",
+    "after": "1534, 1536, 1541, 1542 ; cpds. of, w."
+   },
+   {
+    "rule": "vision",
+    "page": "766",
+    "line": 7,
+    "before": "ἑοῦ, ἑοῖς, 325 D 4.",
+    "after": "ἑοῦ, ἑοῦς, 325 D 4."
+   },
+   {
+    "rule": "vision",
+    "page": "766",
+    "line": 82,
+    "before": "subst.-stems in, 275; for eo dial.,",
+    "after": "subst.-stems in, 275; for εο dial.,"
+   },
+   {
+    "rule": "vision",
+    "page": "767",
+    "line": 16,
+    "before": "-ευω, vbs. in, 866. 4 ; mean. of mid.,",
+    "after": "-ευω, vbs. in., 866. 4 ; mean. of mid.,"
+   },
+   {
+    "rule": "vision",
+    "page": "767",
+    "line": 48,
+    "before": "mary of constrs. 2422-2429.",
+    "after": "mary of constrs., 2422-2429."
+   },
+   {
+    "rule": "vision",
+    "page": "767",
+    "line": 83,
+    "before": "ἤ, or, 2661, 2676 e.",
+    "after": "ἦ, or, 2661, 2676 e."
+   },
+   {
+    "rule": "vision",
+    "page": "768",
+    "line": 34,
+    "before": "ἤν, the form, 2283. See ἐάν.",
+    "after": "ἤν, the form, 2283. See ἐά̄ν."
+   },
+   {
+    "rule": "vision",
+    "page": "768",
+    "line": 59,
+    "before": "θανάτου, w. κρίνω, τιμάω, etc., 1374.",
+    "after": "θανάτου, w. κρίνω, τῑμάω, etc., 1374."
+   },
+   {
+    "rule": "vision",
+    "page": "769",
+    "line": 70,
+    "before": "καὶ . . . δέ, 2891; καὶ μέν, 2902; μέν",
+    "after": "καὶ . . . δέ, 2891; καὶ μέν, 2902; μὲν"
+   },
+   {
+    "rule": "vision",
+    "page": "769",
+    "line": 90,
+    "before": "καλός, comp., 319; καλὸς κἀγαθός, 1034 a.",
+    "after": "καλός, comp., 319; καλὸς κᾱ̓γαθός, 1034 a."
+   },
+   {
+    "rule": "vision",
+    "page": "770",
+    "line": 13,
+    "before": "κατακρίνω, w. gen. and acc., 1385.",
+    "after": "κατακρῑ́νω, w. gen. and acc., 1385."
+   },
+   {
+    "rule": "vision",
+    "page": "770",
+    "line": 44,
+    "before": "κλάω (κλαίω), 38, 396, 489 c, f, 520,",
+    "after": "κλᾱ́ω (κλαίω), 38, 396, 489 c, f, 520,"
+   },
+   {
+    "rule": "vision",
+    "page": "770",
+    "line": 45,
+    "before": "521, 806; w. acc., 1595 a; κλαίων, τὸ",
+    "after": "521, 806; w. acc., 1595 a; κλαίων, to"
+   },
+   {
+    "rule": "vision",
+    "page": "770",
+    "line": 46,
+    "before": "ὄνειρ' ὄρρου, 2062 a.",
+    "after": "one's sorrow, 2062 a."
+   },
+   {
+    "rule": "vision",
+    "page": "771",
+    "line": 74,
+    "before": "ἀλλὰ μέντοι, 2786; καὶ · · · μέντοι,",
+    "after": "ἀλλὰ μέντοι, 2786; καὶ . . . μέντοι,"
+   },
+   {
+    "rule": "vision",
+    "page": "772",
+    "line": 55,
+    "before": "μι-verbs, 379, 412-422, ¶717-767; irregu-",
+    "after": "μι-verbs, 379, 412-422, 717-767; irregu-"
+   },
+   {
+    "rule": "vision",
+    "page": "772",
+    "line": 59,
+    "before": "μῑκρός, comp., 319; μικροῦ, almost,",
+    "after": "μῑκρός, comp., 319; μῑκροῦ, almost,"
+   },
+   {
+    "rule": "vision",
+    "page": "772",
+    "line": 66,
+    "before": "2106, 2138, w. ὅτε, 2395 a N.",
+    "after": "2106, 2138, w. ὅτε, 2395 A N."
+   },
+   {
+    "rule": "vision",
+    "page": "772",
+    "line": 86,
+    "before": "μύριοι, 10,000, μῡρίοι, countless, 352.",
+    "after": "μῡ́ριοι, 10,000, μῡρίοι, countless, 352."
+   },
+   {
+    "rule": "vision",
+    "page": "773",
+    "line": 37,
+    "before": "-ντι, in 3 pl., in Dor., 462 D, 463 D.",
+    "after": "-ντι, in 3 pl., in Dor., 462 D, 463 d."
+   },
+   {
+    "rule": "vision",
+    "page": "773",
+    "line": 88,
+    "before": "aug., 435; final, usul. short in Att.,",
+    "after": "aug., 435; final, usu. short in Att.,"
+   },
+   {
+    "rule": "vision",
+    "page": "775",
+    "line": 94,
+    "before": "οὐ γάρ, 2805 b; οὐ μέντοι, 2918 a;",
+    "after": "οὐ γάρ, 2805 b; οὐ μέντοι, 2918 a; οὐ"
+   },
+   {
+    "rule": "vision",
+    "page": "776",
+    "line": 37,
+    "before": "οὐκοῦν and , 186 a, 2951-2953;",
+    "after": "οὔκουν and οὐκοῦν, 186 a, 2951-2953;"
+   },
+   {
+    "rule": "vision",
+    "page": "777",
+    "line": 1,
+    "before": "παιδεύω, παιδεύω τινά τινι or τινά εἰς,",
+    "after": "παιδεύω, παιδεύω τινά τινι or τινὰ εἰς,"
+   },
+   {
+    "rule": "vision",
+    "page": "777",
+    "line": 55,
+    "before": "πολλοῦ τιμάομαι, etc., 1373 ; use, 1675-",
+    "after": "πολλοῦ τῑμάομαι, etc., 1373 ; use, 1675-"
+   },
+   {
+    "rule": "vision",
+    "page": "777",
+    "line": 72,
+    "before": "πῑ́νω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466.",
+    "after": "πίνω, 529, 488 b ; ἔπιον, 529 ; πῖθι, 466."
+   },
+   {
+    "rule": "vision",
+    "page": "777",
+    "line": 92,
+    "before": "πλύνω, 491.",
+    "after": "πλῡ́νω, 491."
+   },
+   {
+    "rule": "vision",
+    "page": "778",
+    "line": 4,
+    "before": "ποῖ, enclit., 181 b, 346 ; ποί, 346.",
+    "after": "ποί, enclit., 181 b, 346 ; ποῖ, 346."
+   },
+   {
+    "rule": "vision",
+    "page": "778",
+    "line": 16,
+    "before": "πολιτεύομαι, dep. w. pass. mean., 813 d.",
+    "after": "πολῑτεύομαι, dep. w. pass. mean., 813 d."
+   },
+   {
+    "rule": "vision",
+    "page": "778",
+    "line": 37,
+    "before": "πραγματεύομαι, 812 a, 813 d.",
+    "after": "πρᾱγματεύομαι, 812 a, 813 d."
+   },
+   {
+    "rule": "vision",
+    "page": "779",
+    "line": 1,
+    "before": "P, initial, 13, 18 ; pp, see pp ; for σ, dial.,",
+    "after": "Ρ, initial, 13, 18 ; ρρ, see ρρ ; for σ, dial.,"
+   },
+   {
+    "rule": "vision",
+    "page": "780",
+    "line": 20,
+    "before": "T, bef. dental stop, 83; bef. μ, 86;",
+    "after": "Τ, bef. dental stop, 83; bef. μ, 86;"
+   },
+   {
+    "rule": "vision",
+    "page": "780",
+    "line": 78,
+    "before": "τῑμάομαι τινος, 1374.",
+    "after": "τῑμάομαί τινος, 1374."
+   },
+   {
+    "rule": "vision",
+    "page": "782",
+    "line": 48,
+    "before": "hastily, 2062 a; φέρων, with, 2068 a",
+    "after": "hastily, 2062 a; φέρων, with, 2068 a;"
+   },
+   {
+    "rule": "vision",
+    "page": "783",
+    "line": 23,
+    "before": "Χ, pronunc., 26 ; bef. dental stop, 82 ;",
+    "after": "Χ, pronunc., 26 : bef. dental stop, 82 ;"
+   },
+   {
+    "rule": "vision",
+    "page": "783",
+    "line": 65,
+    "before": "and inf., 1562, 1985 b ; w. acc and",
+    "after": "and inf., 1562, 1985 b ; w. acc. and"
+   },
+   {
+    "rule": "vision",
+    "page": "783",
+    "line": 82,
+    "before": "36, 738 c ; for ou, dial., 33 D ; inter-",
+    "after": "36, 738 c ; for ου, dial., 33 D ; inter-"
+   },
+   {
+    "rule": "vision",
+    "page": "784",
+    "line": 1,
+    "before": "604: vowel vbs., 606-613; cons. vbs.,",
+    "after": "604; vowel vbs., 606-613; cons. vbs.,"
+   },
+   {
+    "rule": "vision",
+    "page": "784",
+    "line": 8,
+    "before": "-ων, parts. in decl., 305.",
+    "after": "-ων, parts. in, decl., 305."
+   },
+   {
+    "rule": "stacking",
+    "page": "768",
+    "line": 34,
+    "before": "ἤν, the form, 2283. See ἐά̄ν.",
+    "after": "ἤν, the form, 2283. See ἐᾱ́ν."
+   },
+   {
+    "rule": "xref-caps",
+    "page": "767",
+    "line": 70,
+    "before": "433, 436. See A, E.",
+    "after": "433, 436. See Α, Ε."
+   }
+  ],
+  "flags": [
+   {
+    "rule": "caps-ambiguous",
+    "page": "758",
+    "line": 3,
+    "cite": "539 D.",
+    "section": 539,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "758",
+    "line": 8,
+    "cite": "539 d.",
+    "section": 539,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "758",
+    "line": 18,
+    "cite": "238 D.",
+    "section": 238,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "759",
+    "line": 48,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "759",
+    "line": 53,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "759",
+    "line": 93,
+    "cite": "72 D",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "759",
+    "line": 94,
+    "cite": "72 D",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "760",
+    "line": 11,
+    "cite": "819 N.",
+    "section": 819,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "760",
+    "line": 17,
+    "cite": "1 D",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "760",
+    "line": 18,
+    "cite": "539 D",
+    "section": 539,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "760",
+    "line": 75,
+    "cite": "894 N.",
+    "section": 894,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "760",
+    "line": 85,
+    "cite": "463 d",
+    "section": 463,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "761",
+    "line": 9,
+    "cite": "325 d",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "761",
+    "line": 45,
+    "cite": "711 d.",
+    "section": 711,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "761",
+    "line": 63,
+    "cite": "489 d",
+    "section": 489,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "761",
+    "line": 73,
+    "cite": "181 d",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "761",
+    "line": 81,
+    "cite": "643 N.",
+    "section": 643,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "762",
+    "line": 18,
+    "cite": "539 D",
+    "section": 539,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "762",
+    "line": 19,
+    "cite": "747 D",
+    "section": 747,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "762",
+    "line": 27,
+    "cite": "181 d",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "762",
+    "line": 69,
+    "cite": "1982 N.",
+    "section": 1982,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 18,
+    "cite": "354 D.",
+    "section": 354,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 23,
+    "cite": "354 d.",
+    "section": 354,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 24,
+    "cite": "354 D",
+    "section": 354,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 28,
+    "cite": "349 D.",
+    "section": 349,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 49,
+    "cite": "349 d",
+    "section": 349,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 56,
+    "cite": "1 D",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 72,
+    "cite": "187 N.",
+    "section": 187,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "763",
+    "line": 91,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 1,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 1,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 29,
+    "cite": "72 D",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 38,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 40,
+    "cite": "747 D",
+    "section": 747,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 54,
+    "cite": "463 d",
+    "section": 463,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 54,
+    "cite": "747 D",
+    "section": 747,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 60,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 69,
+    "cite": "2017 N.",
+    "section": 2017,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "764",
+    "line": 94,
+    "cite": "325 d",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 24,
+    "cite": "2 d",
+    "section": 2,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 25,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 26,
+    "cite": "325 D.",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 29,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 34,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 47,
+    "cite": "469 D.",
+    "section": 469,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 50,
+    "cite": "469 N.",
+    "section": 469,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 50,
+    "cite": "469 D",
+    "section": 469,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 56,
+    "cite": "292 d.",
+    "section": 292,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 75,
+    "cite": "489 d",
+    "section": 489,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 95,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "765",
+    "line": 95,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "766",
+    "line": 2,
+    "cite": "704 d",
+    "section": 704,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "766",
+    "line": 7,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "766",
+    "line": 60,
+    "cite": "489 d",
+    "section": 489,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "766",
+    "line": 60,
+    "cite": "1 D.",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "766",
+    "line": 91,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "766",
+    "line": 91,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "767",
+    "line": 49,
+    "cite": "238 d",
+    "section": 238,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "767",
+    "line": 55,
+    "cite": "746 D",
+    "section": 746,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "767",
+    "line": 62,
+    "cite": "289 D.",
+    "section": 289,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "768",
+    "line": 18,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "768",
+    "line": 35,
+    "cite": "469 D",
+    "section": 469,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "768",
+    "line": 76,
+    "cite": "181 D.",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "769",
+    "line": 1,
+    "cite": "1 D",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "769",
+    "line": 3,
+    "cite": "1 D.",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "769",
+    "line": 13,
+    "cite": "460 D.",
+    "section": 460,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "770",
+    "line": 28,
+    "cite": "1996 N.",
+    "section": 1996,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "770",
+    "line": 30,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "770",
+    "line": 32,
+    "cite": "258 D",
+    "section": 258,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "770",
+    "line": 68,
+    "cite": "264 D",
+    "section": 264,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "770",
+    "line": 74,
+    "cite": "442 N.",
+    "section": 442,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "771",
+    "line": 24,
+    "cite": "374 N.",
+    "section": 374,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "771",
+    "line": 25,
+    "cite": "711 D.",
+    "section": 711,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "771",
+    "line": 67,
+    "cite": "469 D",
+    "section": 469,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "771",
+    "line": 71,
+    "cite": "469 D",
+    "section": 469,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "771",
+    "line": 81,
+    "cite": "465 d.",
+    "section": 465,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "771",
+    "line": 90,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "771",
+    "line": 90,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "772",
+    "line": 62,
+    "cite": "442 N.",
+    "section": 442,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "772",
+    "line": 67,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "772",
+    "line": 67,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "772",
+    "line": 67,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "772",
+    "line": 76,
+    "cite": "72 D.",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 3,
+    "cite": "469 D",
+    "section": 469,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 4,
+    "cite": "72 D.",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 11,
+    "cite": "488 D",
+    "section": 488,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 27,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 27,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 37,
+    "cite": "463 D.",
+    "section": 463,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 40,
+    "cite": "3 N.",
+    "section": 3,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 49,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 51,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 54,
+    "cite": "489 d",
+    "section": 489,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 58,
+    "cite": "1 D.",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 67,
+    "cite": "338 D",
+    "section": 338,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 80,
+    "cite": "489 d",
+    "section": 489,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "773",
+    "line": 93,
+    "cite": "325 d",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "774",
+    "line": 27,
+    "cite": "2 D.",
+    "section": 2,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "774",
+    "line": 49,
+    "cite": "746 D",
+    "section": 746,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "775",
+    "line": 9,
+    "cite": "746 D",
+    "section": 746,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "775",
+    "line": 14,
+    "cite": "338 d",
+    "section": 338,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "776",
+    "line": 10,
+    "cite": "325 d",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "776",
+    "line": 10,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "776",
+    "line": 14,
+    "cite": "264 D",
+    "section": 264,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "776",
+    "line": 83,
+    "cite": "894 N.",
+    "section": 894,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 24,
+    "cite": "526 d",
+    "section": 526,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 33,
+    "cite": "489 D",
+    "section": 489,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 36,
+    "cite": "1992 N.",
+    "section": 1992,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 38,
+    "cite": "1992 N.",
+    "section": 1992,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 48,
+    "cite": "72 D.",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 49,
+    "cite": "181 d",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 63,
+    "cite": "36 N.",
+    "section": 36,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 73,
+    "cite": "2 D",
+    "section": 2,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 77,
+    "cite": "36 N.",
+    "section": 36,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "777",
+    "line": 83,
+    "cite": "489 d",
+    "section": 489,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "778",
+    "line": 24,
+    "cite": "894 N.",
+    "section": 894,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "778",
+    "line": 36,
+    "cite": "311 d.",
+    "section": 311,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "778",
+    "line": 71,
+    "cite": "1042 N.",
+    "section": 1042,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "778",
+    "line": 82,
+    "cite": "1 D.",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "778",
+    "line": 92,
+    "cite": "1 d.",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 5,
+    "cite": "72 D",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 5,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 14,
+    "cite": "1 D",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 31,
+    "cite": "2 d",
+    "section": 2,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 33,
+    "cite": "325 D.",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 39,
+    "cite": "469 d",
+    "section": 469,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 39,
+    "cite": "72 D.",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 61,
+    "cite": "544 D",
+    "section": 544,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 70,
+    "cite": "72 D",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 77,
+    "cite": "894 N.",
+    "section": 894,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 92,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 93,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "779",
+    "line": 95,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 1,
+    "cite": "2 d",
+    "section": 2,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 3,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 4,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 6,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 7,
+    "cite": "325 d",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 8,
+    "cite": "326 D",
+    "section": 326,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 10,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 19,
+    "cite": "289 D.",
+    "section": 289,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 27,
+    "cite": "1 D",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 34,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 34,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 35,
+    "cite": "181 d",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 36,
+    "cite": "338 d",
+    "section": 338,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 41,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 46,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 59,
+    "cite": "333 d",
+    "section": 333,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 61,
+    "cite": "464 d.",
+    "section": 464,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 82,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "780",
+    "line": 93,
+    "cite": "339 d",
+    "section": 339,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 5,
+    "cite": "338 D",
+    "section": 338,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 6,
+    "cite": "72 D",
+    "section": 72,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 7,
+    "cite": "181 d",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 10,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 14,
+    "cite": "333 d",
+    "section": 333,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 20,
+    "cite": "333 d",
+    "section": 333,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 34,
+    "cite": "354 d.",
+    "section": 354,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 35,
+    "cite": "354 D.",
+    "section": 354,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 41,
+    "cite": "181 D",
+    "section": 181,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 41,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 47,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 66,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 67,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 68,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 73,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "781",
+    "line": 76,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "782",
+    "line": 21,
+    "cite": "1 D",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "782",
+    "line": 39,
+    "cite": "1982 N.",
+    "section": 1982,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "782",
+    "line": 40,
+    "cite": "258 D.",
+    "section": 258,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "782",
+    "line": 44,
+    "cite": "544 d",
+    "section": 544,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "782",
+    "line": 62,
+    "cite": "374 N.",
+    "section": 374,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "782",
+    "line": 71,
+    "cite": "463 D",
+    "section": 463,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "782",
+    "line": 76,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "783",
+    "line": 8,
+    "cite": "522 N.",
+    "section": 522,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "783",
+    "line": 14,
+    "cite": "1 D",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "783",
+    "line": 40,
+    "cite": "1 d",
+    "section": 1,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "783",
+    "line": 70,
+    "cite": "2 D.",
+    "section": 2,
+    "has_letter": false,
+    "has_dialect": false
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "783",
+    "line": 78,
+    "cite": "325 D",
+    "section": 325,
+    "has_letter": true,
+    "has_dialect": true
+   },
+   {
+    "rule": "caps-ambiguous",
+    "page": "783",
+    "line": 90,
+    "cite": "238 d.",
+    "section": 238,
+    "has_letter": true,
+    "has_dialect": true
+   }
+  ]
+ },
+ "stage3": {
+  "joins": [
+   {
+    "page": 757,
+    "line": 10,
+    "kind": "compound",
+    "joined": "added to verb- + stem, 486 ; at"
+   },
+   {
+    "page": 757,
+    "line": 43,
+    "kind": "wrap",
+    "joined": "438 d ; ἀγῑνέ- + μεναι, 657."
+   },
+   {
+    "page": 758,
+    "line": 93,
+    "kind": "range",
+    "joined": "or inf., 2110- + 2112, 2144; w."
+   },
+   {
+    "page": 759,
+    "line": 25,
+    "kind": "range",
+    "joined": "ρ, 2786, 2816- + 2819; ἀλλὰ μέν"
+   },
+   {
+    "page": 759,
+    "line": 72,
+    "kind": "wrap",
+    "joined": "ted, 1767; de- + pendent subjv."
+   },
+   {
+    "page": 759,
+    "line": 74,
+    "kind": "wrap",
+    "joined": "indic., denot- + ing unreality,"
+   },
+   {
+    "page": 759,
+    "line": 80,
+    "kind": "range",
+    "joined": "., 1822, 1824- + 1834, 2405; w."
+   },
+   {
+    "page": 759,
+    "line": 81,
+    "kind": "range",
+    "joined": "d part., 1845- + 1849, 2023, 21"
+   },
+   {
+    "page": 760,
+    "line": 24,
+    "kind": "wrap",
+    "joined": "98 ; w. redun- + dant μή, 2740."
+   },
+   {
+    "page": 760,
+    "line": 78,
+    "kind": "wrap",
+    "joined": ", 1538 ; ἄρχο- + μαι, w. gen., "
+   },
+   {
+    "page": 761,
+    "line": 18,
+    "kind": "wrap",
+    "joined": "06-1209; unem- + phatic αὐτοῦ, "
+   },
+   {
+    "page": 761,
+    "line": 20,
+    "kind": "wrap",
+    "joined": "7, 1228 a; em- + phatic or refl"
+   },
+   {
+    "page": 761,
+    "line": 21,
+    "kind": "range",
+    "joined": " prons., 1233- + 1237; dat. w. "
+   },
+   {
+    "page": 761,
+    "line": 34,
+    "kind": "wrap",
+    "joined": ", 866. 1; fre- + quentatives an"
+   },
+   {
+    "page": 761,
+    "line": 35,
+    "kind": "wrap",
+    "joined": "ives, 867; de- + sideratives, 8"
+   },
+   {
+    "page": 761,
+    "line": 47,
+    "kind": "wrap",
+    "joined": "; w. and with- + out article, 1"
+   },
+   {
+    "page": 761,
+    "line": 59,
+    "kind": "wrap",
+    "joined": ", βούλεσθε be- + fore delib. su"
+   },
+   {
+    "page": 761,
+    "line": 65,
+    "kind": "wrap",
+    "joined": "1, 84, 92; be- + fore dental st"
+   },
+   {
+    "page": 762,
+    "line": 12,
+    "kind": "wrap",
+    "joined": "ef. μ, 86; de- + veloped, betwe"
+   },
+   {
+    "page": 762,
+    "line": 52,
+    "kind": "wrap",
+    "joined": "and D; δεδέξο- + μαι, 580 D; mi"
+   },
+   {
+    "page": 762,
+    "line": 62,
+    "kind": "range",
+    "joined": ", 339 e; 2840- + 2847; οὐ δή, ο"
+   },
+   {
+    "page": 763,
+    "line": 6,
+    "kind": "wrap",
+    "joined": "ς, 1376; δικά- + ζειν δίκην, δι"
+   },
+   {
+    "page": 763,
+    "line": 17,
+    "kind": "wrap",
+    "joined": " 1700. See δι- + κάζω, διώκω."
+   },
+   {
+    "page": 763,
+    "line": 27,
+    "kind": "wrap",
+    "joined": "74; διώκω γρα- + φήν τινα, 1576"
+   },
+   {
+    "page": 763,
+    "line": 30,
+    "kind": "wrap",
+    "joined": "., 1983; I be- + lieve, 1983 a;"
+   },
+   {
+    "page": 763,
+    "line": 33,
+    "kind": "wrap",
+    "joined": "εῖ τίς μοι ἐλ- + θεῖν, 1983 a; "
+   },
+   {
+    "page": 763,
+    "line": 81,
+    "kind": "range",
+    "joined": "9; uses, 1218- + 1237, 1201. 2 "
+   },
+   {
+    "page": 764,
+    "line": 7,
+    "kind": "wrap",
+    "joined": "31 a ; by com- + pens. length. "
+   },
+   {
+    "page": 764,
+    "line": 12,
+    "kind": "range",
+    "joined": " 2087 a, 2478- + 2480 ; ὡς εἴ ("
+   },
+   {
+    "page": 764,
+    "line": 13,
+    "kind": "range",
+    "joined": "b, 2347, 2481- + 2485 ; in caus"
+   },
+   {
+    "page": 764,
+    "line": 23,
+    "kind": "range",
+    "joined": "ὐ, 2696, 2698- + 2701 ; εἰ ἄρα,"
+   },
+   {
+    "page": 764,
+    "line": 42,
+    "kind": "wrap",
+    "joined": " 806 ; copula- + tive, 917 a ; "
+   },
+   {
+    "page": 764,
+    "line": 47,
+    "kind": "wrap",
+    "joined": "verbals of un- + fulfilled obli"
+   },
+   {
+    "page": 764,
+    "line": 50,
+    "kind": "wrap",
+    "joined": "; ἔστι, quasi- + impers., 1985 "
+   },
+   {
+    "page": 765,
+    "line": 87,
+    "kind": "wrap",
+    "joined": "w., 136 ; pro- + clitic, 179 ; "
+   },
+   {
+    "page": 766,
+    "line": 30,
+    "kind": "range",
+    "joined": "w. dat., 1544- + 1550."
+   },
+   {
+    "page": 767,
+    "line": 38,
+    "kind": "wrap",
+    "joined": "499, 522 ; in- + flec. of, 635-"
+   },
+   {
+    "page": 767,
+    "line": 48,
+    "kind": "wrap",
+    "joined": "18-2421 ; sum- + mary of constr"
+   },
+   {
+    "page": 767,
+    "line": 64,
+    "kind": "wrap",
+    "joined": "., 24 ; inter- + changed w. ε, "
+   },
+   {
+    "page": 767,
+    "line": 67,
+    "kind": "wrap",
+    "joined": "0 D 2 ; inter- + changed w. ω a"
+   },
+   {
+    "page": 767,
+    "line": 79,
+    "kind": "wrap",
+    "joined": ": πότερον (πό- + τερα) . . . ἤ,"
+   },
+   {
+    "page": 768,
+    "line": 48,
+    "kind": "wrap",
+    "joined": "3 a; of endur- + ing result, 18"
+   },
+   {
+    "page": 768,
+    "line": 58,
+    "kind": "wrap",
+    "joined": "tem, 490; suf- + fixes w., 863 "
+   },
+   {
+    "page": 769,
+    "line": 6,
+    "kind": "wrap",
+    "joined": ", 4, 500; sub- + script, 5, 25;"
+   },
+   {
+    "page": 769,
+    "line": 10,
+    "kind": "compound",
+    "joined": "70-73; subst.- + stems in, 268-"
+   },
+   {
+    "page": 770,
+    "line": 19,
+    "kind": "wrap",
+    "joined": "r., 819; κατα- + πλήττομαι, w. "
+   },
+   {
+    "page": 771,
+    "line": 24,
+    "kind": "wrap",
+    "joined": "306, 309; con- + jug., 382, 383"
+   },
+   {
+    "page": 771,
+    "line": 36,
+    "kind": "wrap",
+    "joined": "68, 1084; μᾶλ- + λον ἤ, 1065, 1"
+   },
+   {
+    "page": 771,
+    "line": 41,
+    "kind": "wrap",
+    "joined": "and pres. com- + bined, 1885 a;"
+   },
+   {
+    "page": 772,
+    "line": 13,
+    "kind": "wrap",
+    "joined": ", 2759 a; pro- + viso, 2279; co"
+   },
+   {
+    "page": 772,
+    "line": 16,
+    "kind": "wrap",
+    "joined": " w. indef. an- + tec., 2506, 27"
+   },
+   {
+    "page": 772,
+    "line": 18,
+    "kind": "wrap",
+    "joined": "2555 b, of re- + sult, 2556, of"
+   },
+   {
+    "page": 772,
+    "line": 44,
+    "kind": "wrap",
+    "joined": "4; mean.) (οὐ- + δείς, 2736."
+   },
+   {
+    "page": 772,
+    "line": 56,
+    "kind": "wrap",
+    "joined": "7-767; irregu- + lar, 768-799."
+   },
+   {
+    "page": 773,
+    "line": 63,
+    "kind": "wrap",
+    "joined": "ω, 37 D 2; be- + comes ω in aug"
+   },
+   {
+    "page": 773,
+    "line": 70,
+    "kind": "range",
+    "joined": ". prose, 1106- + 1117; as pers."
+   },
+   {
+    "page": 773,
+    "line": 76,
+    "kind": "range",
+    "joined": "78; use, 1238- + 1261; )( οὗτος"
+   },
+   {
+    "page": 774,
+    "line": 27,
+    "kind": "wrap",
+    "joined": ", 2726 ; ὀῑ́ο- + μαι, 500. 2 D."
+   },
+   {
+    "page": 774,
+    "line": 42,
+    "kind": "wrap",
+    "joined": " without arti- + cle, 1189 ; ὀλ"
+   },
+   {
+    "page": 774,
+    "line": 66,
+    "kind": "wrap",
+    "joined": "b, 1134 ; ὀνό- + ματι, 1516 ; ὄ"
+   },
+   {
+    "page": 774,
+    "line": 86,
+    "kind": "wrap",
+    "joined": "to avert some- + thing, 1921, i"
+   },
+   {
+    "page": 775,
+    "line": 40,
+    "kind": "wrap",
+    "joined": "n indir. ques- + tions, 1263; i"
+   },
+   {
+    "page": 775,
+    "line": 51,
+    "kind": "wrap",
+    "joined": "on for preced- + ing question, "
+   },
+   {
+    "page": 775,
+    "line": 63,
+    "kind": "wrap",
+    "joined": "pendent state- + ments, 2577-25"
+   },
+   {
+    "page": 775,
+    "line": 65,
+    "kind": "wrap",
+    "joined": "duc. dir. quo- + tation, 2590 a"
+   },
+   {
+    "page": 775,
+    "line": 74,
+    "kind": "wrap",
+    "joined": "75; never aug- + mented, 437."
+   },
+   {
+    "page": 776,
+    "line": 3,
+    "kind": "wrap",
+    "joined": "subjv. in pro- + hib., 1800 c N"
+   },
+   {
+    "page": 776,
+    "line": 28,
+    "kind": "wrap",
+    "joined": "b; ἤ τις ἢ οὐ- + δείς, 1270; οὐ"
+   },
+   {
+    "page": 777,
+    "line": 14,
+    "kind": "wrap",
+    "joined": ". w. vbs. com- + pounded w., 15"
+   },
+   {
+    "page": 777,
+    "line": 27,
+    "kind": "wrap",
+    "joined": " 1752 ; τί πα- + θών, 2064 a."
+   },
+   {
+    "page": 777,
+    "line": 56,
+    "kind": "range",
+    "joined": "3 ; use, 1675- + 1677, 1693 ; g"
+   },
+   {
+    "page": 777,
+    "line": 86,
+    "kind": "wrap",
+    "joined": "ὐ, 2753 ; con- + junc., 2966 ; "
+   },
+   {
+    "page": 778,
+    "line": 48,
+    "kind": "range",
+    "joined": "30-2441, 2448- + 2452 ; w. inf."
+   },
+   {
+    "page": 778,
+    "line": 62,
+    "kind": "range",
+    "joined": "nded w., 1544- + 1550."
+   },
+   {
+    "page": 778,
+    "line": 89,
+    "kind": "wrap",
+    "joined": "and pres. com- + bined, 1885 a "
+   },
+   {
+    "page": 778,
+    "line": 90,
+    "kind": "range",
+    "joined": "ι or ὡς, 2110- + 2112, 2145 ; w"
+   },
+   {
+    "page": 779,
+    "line": 3,
+    "kind": "wrap",
+    "joined": "259-262 ; ini- + tial, doubled "
+   },
+   {
+    "page": 779,
+    "line": 19,
+    "kind": "range",
+    "joined": "f. cons., 103- + 108 ; disappea"
+   },
+   {
+    "page": 779,
+    "line": 32,
+    "kind": "range",
+    "joined": "00. 2 d, 1218- + 1237."
+   },
+   {
+    "page": 779,
+    "line": 71,
+    "kind": "wrap",
+    "joined": "ic, 72 D ; en- + clit., 181 a a"
+   },
+   {
+    "page": 780,
+    "line": 7,
+    "kind": "wrap",
+    "joined": " as indir. re- + flex. in Att. "
+   },
+   {
+    "page": 780,
+    "line": 39,
+    "kind": "range",
+    "joined": "6; uses, 2967- + 2983."
+   },
+   {
+    "page": 780,
+    "line": 87,
+    "kind": "range",
+    "joined": "nd adj., 1262- + 1265; τί w. co"
+   },
+   {
+    "page": 782,
+    "line": 51,
+    "kind": "wrap",
+    "joined": "806; be prose- + cuted, equival"
+   },
+   {
+    "page": 782,
+    "line": 58,
+    "kind": "range",
+    "joined": "flec. of, 783- + 786; mean. of "
+   },
+   {
+    "page": 783,
+    "line": 67,
+    "kind": "wrap",
+    "joined": "ν w. and with- + out ἄν, 1774-1"
+   },
+   {
+    "page": 783,
+    "line": 83,
+    "kind": "wrap",
+    "joined": " 33 D ; inter- + changed w. ᾱ a"
+   },
+   {
+    "page": 783,
+    "line": 92,
+    "kind": "wrap",
+    "joined": "2-411 ; forma- + tion of tense-"
+   },
+   {
+    "page": 784,
+    "line": 1,
+    "kind": "range",
+    "joined": "-conjug., 602- + 604; vowel vbs"
+   },
+   {
+    "page": 784,
+    "line": 32,
+    "kind": "range",
+    "joined": "1, 2239, 2250- + 2278; ἢ ὥστε, "
+   },
+   {
+    "page": 784,
+    "line": 34,
+    "kind": "wrap",
+    "joined": "ἅτε, 2085; in- + troduc. clause"
+   }
+  ],
+  "indent_flags": [],
+  "transforms": [
+   {
+    "page": 757,
+    "line": 1,
+    "rule": "letter-homoglyph",
+    "before": "A, pronunc., 24 ; qu",
+    "after": "Α, pronunc., 24 ; qu"
+   },
+   {
+    "page": 763,
+    "line": 59,
+    "rule": "letter-homoglyph",
+    "before": "E, sign, 2 a; name, ",
+    "after": "Ε, sign, 2 a; name, "
+   },
+   {
+    "page": 767,
+    "line": 51,
+    "rule": "letter-homoglyph",
+    "before": "F, see Digamma.",
+    "after": "Ϝ, see Digamma."
+   },
+   {
+    "page": 767,
+    "line": 52,
+    "rule": "letter-homoglyph",
+    "before": "Z, 21, 116 ; pronunc",
+    "after": "Ζ, 21, 116 ; pronunc"
+   },
+   {
+    "page": 767,
+    "line": 63,
+    "rule": "letter-homoglyph",
+    "before": "H, sign, 2 a, 14 ; p",
+    "after": "Η, sign, 2 a, 14 ; p"
+   },
+   {
+    "page": 771,
+    "line": 29,
+    "rule": "letter-homoglyph",
+    "before": "M, 19; stops bef., 8",
+    "after": "Μ, 19; stops bef., 8"
+   },
+   {
+    "page": 772,
+    "line": 92,
+    "rule": "letter-homoglyph",
+    "before": "N, 19; movable, 73, ",
+    "after": "Ν, 19; movable, 73, "
+   }
+  ],
+  "textual_rescues": [
+   {
+    "page": 757,
+    "line": 2,
+    "text": "lengthens to ᾱ after ε, ι, ρ, 217, 218,"
+   },
+   {
+    "page": 757,
+    "line": 3,
+    "text": "484, elsewhere, 28 D., 30 a, 37, 96,"
+   },
+   {
+    "page": 759,
+    "line": 78,
+    "text": "subjv., in Hom., in independent sent.,"
+   },
+   {
+    "page": 759,
+    "line": 79,
+    "text": "1813; w. potent. opt., 1822, 1824-"
+   },
+   {
+    "page": 759,
+    "line": 80,
+    "text": "1834, 2405; w. inf. and part., 1845-"
+   },
+   {
+    "page": 759,
+    "line": 81,
+    "text": "1849, 2023, 2146, 2270; in final"
+   },
+   {
+    "page": 764,
+    "line": 22,
+    "text": ". . . ἤ (εἴτε), 2675 ; εἰ οὐ, 2696, 2698-"
+   },
+   {
+    "page": 764,
+    "line": 47,
+    "text": "fulfilled obligation, 1774 ; gen. w.,"
+   },
+   {
+    "page": 764,
+    "line": 48,
+    "text": "1303, 1304 ; dat. w., 1476 ; ἄν acc. abs.,"
+   },
+   {
+    "page": 765,
+    "line": 60,
+    "text": "1679."
+   },
+   {
+    "page": 767,
+    "line": 3,
+    "text": ". . . καί, 2169."
+   },
+   {
+    "page": 767,
+    "line": 64,
+    "text": "changed w. ε, 27, w. α, 27 ; for orig."
+   },
+   {
+    "page": 771,
+    "line": 95,
+    "text": "(1) In indep. clauses . dir. quest.,"
+   },
+   {
+    "page": 772,
+    "line": 1,
+    "text": "1809, 2651; with indic. in doubtful"
+   },
+   {
+    "page": 772,
+    "line": 2,
+    "text": "assertions, 1772, 1801; in unattain."
+   },
+   {
+    "page": 772,
+    "line": 3,
+    "text": "wishes, 1780, 1781; w. subjv., 2706;"
+   },
+   {
+    "page": 772,
+    "line": 4,
+    "text": "hort., 1797, 1798; prohib., 1800,"
+   },
+   {
+    "page": 772,
+    "line": 5,
+    "text": "1802; to indicate fear (Hom.), 1802;"
+   },
+   {
+    "page": 772,
+    "line": 6,
+    "text": "delib., 1805; w. opt. in wishes,"
+   },
+   {
+    "page": 772,
+    "line": 7,
+    "text": "1814 ff.; w. imper., 1835-1841, 2709."
+   },
+   {
+    "page": 772,
+    "line": 9,
+    "text": "2193 ff., 2705 a; obj. cl. w. vbs. of"
+   },
+   {
+    "page": 772,
+    "line": 10,
+    "text": "effort, 2209 ff., 2705 b; w. vbs. of"
+   },
+   {
+    "page": 772,
+    "line": 11,
+    "text": "caution, 2220, and of fear, 2221 ff.;"
+   },
+   {
+    "page": 772,
+    "line": 12,
+    "text": "result w. inf., 2251 ff., 2759 a; pro-"
+   },
+   {
+    "page": 772,
+    "line": 13,
+    "text": "viso, 2279; condition, 2286, 2705 e;"
+   },
+   {
+    "page": 772,
+    "line": 14,
+    "text": "concession, 2371; temporal, 2392,"
+   },
+   {
+    "page": 772,
+    "line": 15,
+    "text": "2397, 2401, 2409; rel. w. indef. an-"
+   },
+   {
+    "page": 772,
+    "line": 16,
+    "text": "tec., 2506, 2705 d, e, of purpose,"
+   },
+   {
+    "page": 772,
+    "line": 17,
+    "text": "2554, 2705 f, of cause, 2555 b, of re-"
+   },
+   {
+    "page": 772,
+    "line": 18,
+    "text": "sult, 2556, of condit., 2560; in oaths,"
+   },
+   {
+    "page": 772,
+    "line": 19,
+    "text": "2705 i; in indir. quest., 2676; in"
+   },
+   {
+    "page": 772,
+    "line": 20,
+    "text": "indir. disc. (finite moods), 2710."
+   },
+   {
+    "page": 772,
+    "line": 22,
+    "text": "1971, 1991, 2013, 2014, 2028, 2713 ff.,"
+   },
+   {
+    "page": 772,
+    "line": 23,
+    "text": "2759; in indir. disc., 2722; with"
+   },
+   {
+    "page": 772,
+    "line": 24,
+    "text": "part., 2045, 2067, 2728 ff.; w. substs."
+   },
+   {
+    "page": 772,
+    "line": 25,
+    "text": "and adjs., 2735; redundant, after"
+   },
+   {
+    "page": 772,
+    "line": 26,
+    "text": "negative vbs., w. inf., 2739-2749."
+   },
+   {
+    "page": 772,
+    "line": 28,
+    "text": "accumul. of neg., 2760."
+   },
+   {
+    "page": 774,
+    "line": 92,
+    "text": "2551-2552 ; ὅπως and ὅπως τάχιστα,"
+   },
+   {
+    "page": 774,
+    "line": 93,
+    "text": "in temp. cl., 2383 ; in comp. cl., 2463 ;"
+   },
+   {
+    "page": 774,
+    "line": 94,
+    "text": "introduc. depend. statement, 2578 ;"
+   },
+   {
+    "page": 774,
+    "line": 95,
+    "text": "in indir. quest., 2668 c ; οὐχ (μὴ)"
+   },
+   {
+    "page": 775,
+    "line": 84,
+    "text": "2691 ff.; w. inf. not in indir. disc.,"
+   },
+   {
+    "page": 775,
+    "line": 85,
+    "text": "2714, 2721; in indir. disc., 2711 a,"
+   },
+   {
+    "page": 775,
+    "line": 86,
+    "text": "2722, 2759 c; w. part., 2045, 2729,"
+   },
+   {
+    "page": 775,
+    "line": 87,
+    "text": "2732-2734; w. substs. and adjs.,"
+   },
+   {
+    "page": 775,
+    "line": 88,
+    "text": "2735; apparent exchange w. μή,"
+   },
+   {
+    "page": 775,
+    "line": 89,
+    "text": "2738; redund., 2753; οὐ μά, 1596 b,"
+   },
+   {
+    "page": 775,
+    "line": 90,
+    "text": "2894; οὐχ ὅπως (ὅτι), 2763; οὐ μόνον"
+   },
+   {
+    "page": 775,
+    "line": 91,
+    "text": ". . . ἀλλὰ καί, 2764; μόνον (ὅσον) οὐ,"
+   },
+   {
+    "page": 775,
+    "line": 92,
+    "text": "2766; οὐ μὴν (γὰρ, μέντοι) ἀλλά, 2767,"
+   },
+   {
+    "page": 775,
+    "line": 93,
+    "text": "2786, 2921; οὐ μὴν οὐδέ, 2768, 2921;"
+   },
+   {
+    "page": 776,
+    "line": 25,
+    "text": ". . . οὐδέ, 2949; οὔτε . . . οὐδὲ . . ."
+   },
+   {
+    "page": 777,
+    "line": 12,
+    "text": "1692, 1755 ; dat. w. vbs. compounded"
+   },
+   {
+    "page": 777,
+    "line": 59,
+    "text": "w., 1546."
+   },
+   {
+    "page": 779,
+    "line": 52,
+    "text": "2224 a ; w. μή and inf., 2210 b."
+   },
+   {
+    "page": 779,
+    "line": 61,
+    "text": "in aor., 544 D, 545 D."
+   },
+   {
+    "page": 781,
+    "line": 54,
+    "text": "500; semivowel, 20; not elided, 72 e;"
+   },
+   {
+    "page": 783,
+    "line": 60,
+    "text": "641 D."
+   },
+   {
+    "page": 783,
+    "line": 63,
+    "text": "inflec., 793 ; an old noun, 793, 1562 ;"
+   },
+   {
+    "page": 783,
+    "line": 65,
+    "text": "and inf., 1562, 1985 b ; w. acc. and"
+   },
+   {
+    "page": 783,
+    "line": 67,
+    "text": "out ἄν, 1774-1779, 1905, 2313-2315 ;"
+   },
+   {
+    "page": 783,
+    "line": 68,
+    "text": "w. either μή or οὐ, 2714."
+   }
+  ],
+  "suspect_entry_starts": [
+   {
+    "page": 769,
+    "line": 59,
+    "text": "καθίστημι, καταστήσᾱς ἔχω, 762; w. part."
+   },
+   {
+    "page": 774,
+    "line": 73,
+    "text": "ὄπισθεν, improper prep., 1700."
+   },
+   {
+    "page": 784,
+    "line": 39,
+    "text": "ὠφελέω, fut. mid. w. pass. mean., 809;"
+   }
+  ],
+  "cont_entryish": [
+   {
+    "page": 757,
+    "line": 43,
+    "indent": 54,
+    "text": "μεναι, 657."
+   },
+   {
+    "page": 757,
+    "line": 56,
+    "indent": 55,
+    "text": "ἄγομαι γυναῖκα, 1721 ; fut. mid. as"
+   },
+   {
+    "page": 758,
+    "line": 13,
+    "indent": 41,
+    "text": "-ηθεν, 342; -ησι, 342, 1535; Ἀθηνᾶ,"
+   },
+   {
+    "page": 758,
+    "line": 14,
+    "indent": 42,
+    "text": "-αίᾱ, 227; Ἀθηναίη, 227 D."
+   },
+   {
+    "page": 758,
+    "line": 26,
+    "indent": 45,
+    "text": "οἶδα, etc., in Hom., 2673."
+   },
+   {
+    "page": 758,
+    "line": 32,
+    "indent": 40,
+    "text": "Ἀϊδόσδε, 342 D."
+   },
+   {
+    "page": 759,
+    "line": 27,
+    "indent": 45,
+    "text": "ἀλλὰ μήν, 2786, 2921; ἀλλ᾽ οὖν, 2957."
+   },
+   {
+    "page": 759,
+    "line": 39,
+    "indent": 46,
+    "text": "τε καί, 1273, cp. 2980; ἄλλος ἄλλο,"
+   },
+   {
+    "page": 759,
+    "line": 71,
+    "indent": 54,
+    "text": "κᾱ̓̀ν εἰ, 1766 b; omitted, 1767; de-"
+   },
+   {
+    "page": 760,
+    "line": 31,
+    "indent": 42,
+    "text": "ἀπέχομαι, w. redundant μή, 2740."
+   },
+   {
+    "page": 760,
+    "line": 51,
+    "indent": 41,
+    "text": "τι, 1630 ; w. redundant μή, 2740."
+   },
+   {
+    "page": 760,
+    "line": 60,
+    "indent": 44,
+    "text": "οὐ, ἆρα μή, 2651."
+   },
+   {
+    "page": 760,
+    "line": 71,
+    "indent": 44,
+    "text": "μή, 2740."
+   },
+   {
+    "page": 760,
+    "line": 78,
+    "indent": 42,
+    "text": "μαι, w. gen., 1391 ; meaning of act."
+   },
+   {
+    "page": 760,
+    "line": 80,
+    "indent": 42,
+    "text": "ἄρχομαι w. part. or inf., 2098, 2128."
+   },
+   {
+    "page": 761,
+    "line": 22,
+    "indent": 43,
+    "text": "ἀνδράσι, etc., 1525."
+   },
+   {
+    "page": 761,
+    "line": 24,
+    "indent": 41,
+    "text": "τι, 1630; w. redundant μή, 2741."
+   },
+   {
+    "page": 761,
+    "line": 38,
+    "indent": 42,
+    "text": "ν, 88; developed between μ and ρ"
+   },
+   {
+    "page": 761,
+    "line": 70,
+    "indent": 55,
+    "text": "ἀλλὰ γάρ, 2786, 2816-2819; ) (γοῦν,"
+   },
+   {
+    "page": 761,
+    "line": 72,
+    "indent": 55,
+    "text": "οὖν, 2958."
+   },
+   {
+    "page": 761,
+    "line": 74,
+    "indent": 56,
+    "text": "ἀλλὰ . . . γε, 2786; ἀλλά γέ τοι (τοί"
+   },
+   {
+    "page": 761,
+    "line": 75,
+    "indent": 54,
+    "text": "γε), 2786; γὲ μέν, 2902; καὶ μὴν . . ."
+   },
+   {
+    "page": 761,
+    "line": 76,
+    "indent": 55,
+    "text": "γε, 2921."
+   },
+   {
+    "page": 762,
+    "line": 9,
+    "indent": 44,
+    "text": "τινα γραφήν, 1576; pass., 1742."
+   },
+   {
+    "page": 762,
+    "line": 24,
+    "indent": 41,
+    "text": "μὲν . . . δέ, 2903-2916; οὔτε . . . δέ,"
+   },
+   {
+    "page": 762,
+    "line": 34,
+    "indent": 39,
+    "text": "ἔδει, of pres. or past time, 1774-1779,"
+   },
+   {
+    "page": 762,
+    "line": 57,
+    "indent": 43,
+    "text": "δέομαι, constr. w., 1398; δέομαι, w. fut."
+   },
+   {
+    "page": 762,
+    "line": 59,
+    "indent": 50,
+    "text": "δέον, acc. abs., 2076 A. See δεῖ."
+   },
+   {
+    "page": 762,
+    "line": 63,
+    "indent": 40,
+    "text": "δή, 2786; γὰρ δή, 2820; γὰρ δή που,"
+   },
+   {
+    "page": 762,
+    "line": 69,
+    "indent": 39,
+    "text": "ὅτι, 1982 N.; δῆλός εἰμι, w. part., 2107;"
+   },
+   {
+    "page": 762,
+    "line": 70,
+    "indent": 41,
+    "text": "δ. εἰμι ὅτι, 2584; δῆλον ὅτι (δηλονότι),"
+   },
+   {
+    "page": 763,
+    "line": 6,
+    "indent": 43,
+    "text": "ζειν δίκην, δικάζεσθαι δίκην τινί, 1576,"
+   },
+   {
+    "page": 763,
+    "line": 13,
+    "indent": 42,
+    "text": "δίκην, 1576; νῑκάω δίκην, 1576; τίνω"
+   },
+   {
+    "page": 763,
+    "line": 14,
+    "indent": 46,
+    "text": "(τίνομαι) δίκην, 1734. 18; δίκην δοῦναι,"
+   },
+   {
+    "page": 763,
+    "line": 16,
+    "indent": 42,
+    "text": "δίκην, improper prep., 1700. See δι-"
+   },
+   {
+    "page": 763,
+    "line": 17,
+    "indent": 42,
+    "text": "κάζω, διώκω."
+   },
+   {
+    "page": 763,
+    "line": 27,
+    "indent": 40,
+    "text": "φήν τινα, 1576."
+   },
+   {
+    "page": 763,
+    "line": 31,
+    "indent": 44,
+    "text": "δοκεῖ w. inf., 1983 a, 1985; δοκεῖ μοί"
+   },
+   {
+    "page": 763,
+    "line": 32,
+    "indent": 43,
+    "text": "τινα ἐλθεῖν, rare for δοκεῖ τίς μοι ἐλ-"
+   },
+   {
+    "page": 763,
+    "line": 33,
+    "indent": 43,
+    "text": "θεῖν, 1983 a; δοκῶ, δοκεῖ μοι, I have"
+   },
+   {
+    "page": 763,
+    "line": 35,
+    "indent": 44,
+    "text": "οὐ δοκῶ, 2692 a; w. μή, 2726."
+   },
+   {
+    "page": 763,
+    "line": 67,
+    "indent": 40,
+    "text": "-έεο, 650 a; prefixed, 41; added to"
+   },
+   {
+    "page": 763,
+    "line": 69,
+    "indent": 41,
+    "text": "ε : ο, 229 b; ε : ο : α, 36, 483 a, 831 b;"
+   },
+   {
+    "page": 763,
+    "line": 70,
+    "indent": 40,
+    "text": "ε : η : ω, 36, 831 a; ε : ο : ω, 483 b;"
+   },
+   {
+    "page": 763,
+    "line": 77,
+    "indent": 41,
+    "text": "καὶ ἐᾱ́ν, 2369-2381; ἐᾱ̀ν οὐ, 2696, 2698;"
+   },
+   {
+    "page": 763,
+    "line": 78,
+    "indent": 42,
+    "text": "ἐᾱ̀ν ἄρα, 2796, 2797; ἐᾱ́ν τε (ἤν τε, ᾱ̓́ν"
+   },
+   {
+    "page": 763,
+    "line": 79,
+    "indent": 43,
+    "text": "τε), 2852 a."
+   },
+   {
+    "page": 763,
+    "line": 84,
+    "indent": 41,
+    "text": "οὐκ ἐάω, 2692 a."
+   },
+   {
+    "page": 764,
+    "line": 16,
+    "indent": 40,
+    "text": "εἰ μή, εἰ δὲ μή, εἰ μὴ διά (εἰ), w. vb."
+   },
+   {
+    "page": 764,
+    "line": 19,
+    "indent": 41,
+    "text": "καί, καὶ εἰ, 2369, 2374-2381 ; in ind."
+   },
+   {
+    "page": 764,
+    "line": 37,
+    "indent": 41,
+    "text": "μή, 2726 ; εἰκὸς ἦν, 1774, 1905, 2313."
+   },
+   {
+    "page": 764,
+    "line": 65,
+    "indent": 40,
+    "text": "εἰπέμεν, in Hom., 680 D ; sec. aor.,"
+   },
+   {
+    "page": 764,
+    "line": 76,
+    "indent": 41,
+    "text": "εἰς ὅτε (κε), εἰς ὅ (κε), ἐς ὅ, ἐς οὗ, 2383"
+   },
+   {
+    "page": 764,
+    "line": 84,
+    "indent": 41,
+    "text": "οὖν, 2961."
+   },
+   {
+    "page": 766,
+    "line": 16,
+    "indent": 42,
+    "text": "πρῶτον (τάχιστα), 2383 B; ἐπεὶ οὖν,"
+   },
+   {
+    "page": 766,
+    "line": 21,
+    "indent": 42,
+    "text": "τάχιστα, 2383 B."
+   },
+   {
+    "page": 766,
+    "line": 87,
+    "indent": 41,
+    "text": "πράττω intr., 1709 b; w. ποιέω (λέγω)"
+   },
+   {
+    "page": 766,
+    "line": 90,
+    "indent": 46,
+    "text": "(ποιέω), 1593, 1752."
+   },
+   {
+    "page": 767,
+    "line": 31,
+    "indent": 42,
+    "text": "ἔχων, continually, 2062 a, with, 2068 a ;"
+   },
+   {
+    "page": 767,
+    "line": 32,
+    "indent": 42,
+    "text": "τί ἔχων, 2064 b ; οὐκ ἔχω, constr. of,"
+   },
+   {
+    "page": 767,
+    "line": 65,
+    "indent": 54,
+    "text": "ᾱ, 30, Intr. C, N. 4 ; in nouns, for"
+   },
+   {
+    "page": 767,
+    "line": 76,
+    "indent": 43,
+    "text": "(πρόσθεν, πρίν) ἤ, 2458-2460 ; ἀλλ᾽ ἤ,"
+   },
+   {
+    "page": 767,
+    "line": 79,
+    "indent": 40,
+    "text": "τερα) . . . ἤ, 2656 ; ἤ alone, 2657, 2856,"
+   },
+   {
+    "page": 767,
+    "line": 81,
+    "indent": 41,
+    "text": "ἢ . . . ἤ, 2852 a, 2856 ; εἴτε . . . ἤ, ἢ . . ."
+   },
+   {
+    "page": 767,
+    "line": 82,
+    "indent": 41,
+    "text": "εἴτε, 2854 ; ἢ . . . τέ, τὲ . . . ἤ, 2982."
+   },
+   {
+    "page": 768,
+    "line": 47,
+    "indent": 49,
+    "text": "ὑπό and gen., 1402, 1493 a; of endur-"
+   },
+   {
+    "page": 769,
+    "line": 9,
+    "indent": 45,
+    "text": "ι : ει : οι, see ει; elided, 70-73; subst.-"
+   },
+   {
+    "page": 769,
+    "line": 53,
+    "indent": 41,
+    "text": "τ, dial., 132 D, Intr. C, N. 4; suffixes"
+   },
+   {
+    "page": 769,
+    "line": 67,
+    "indent": 40,
+    "text": "γάρ, 2813-2815; καὶ δή, 2847; καὶ δὴ"
+   },
+   {
+    "page": 769,
+    "line": 68,
+    "indent": 40,
+    "text": "καί, 2890; ἦ καί, 2865; καὶ . . . μέντοι,"
+   },
+   {
+    "page": 769,
+    "line": 70,
+    "indent": 39,
+    "text": "καὶ . . . δέ, 2891; καὶ μέν, 2902; μὲν"
+   },
+   {
+    "page": 769,
+    "line": 73,
+    "indent": 41,
+    "text": "καί, τὲ . . . καί, etc., 2974-2978; καί"
+   },
+   {
+    "page": 769,
+    "line": 74,
+    "indent": 38,
+    "text": "τε, 2979; ἄλλως τε καί, 2980."
+   },
+   {
+    "page": 769,
+    "line": 86,
+    "indent": 39,
+    "text": "κακῶς ποιέω, 1593, 1752; ἀκούω, as"
+   },
+   {
+    "page": 769,
+    "line": 93,
+    "indent": 41,
+    "text": "λέγω, 1752; ποιέω, w. part., 2101."
+   },
+   {
+    "page": 770,
+    "line": 6,
+    "indent": 40,
+    "text": "κατά, 1079; cpds. of, w. gen., 1384;"
+   },
+   {
+    "page": 770,
+    "line": 19,
+    "indent": 39,
+    "text": "πλήττομαι, w. acc., 1595 a."
+   },
+   {
+    "page": 770,
+    "line": 29,
+    "indent": 41,
+    "text": "κελεύω, 2692 a; w. μή, 2720."
+   },
+   {
+    "page": 770,
+    "line": 52,
+    "indent": 39,
+    "text": "λέγω, 1752."
+   },
+   {
+    "page": 770,
+    "line": 95,
+    "indent": 44,
+    "text": "λανθάνει ὅτι, 2584."
+   },
+   {
+    "page": 771,
+    "line": 36,
+    "indent": 42,
+    "text": "λον ἤ, 1065, 1072, 1080 a; (οὐ) μ. ἤ,"
+   },
+   {
+    "page": 771,
+    "line": 44,
+    "indent": 42,
+    "text": "ὅτι and ὡς, 2580 a; w. μή, 2726."
+   },
+   {
+    "page": 771,
+    "line": 50,
+    "indent": 59,
+    "text": "τινι (μετά τινος), 1523 b N. 1."
+   },
+   {
+    "page": 771,
+    "line": 52,
+    "indent": 53,
+    "text": "φρονεῖν, 1518."
+   },
+   {
+    "page": 771,
+    "line": 57,
+    "indent": 52,
+    "text": "ἔμικτο, 736 D."
+   },
+   {
+    "page": 771,
+    "line": 62,
+    "indent": 54,
+    "text": "οὐ μέλλω and τί οὐ μέλλω, 1959 d;"
+   },
+   {
+    "page": 771,
+    "line": 63,
+    "indent": 55,
+    "text": "ἔμελλον, use, 1960, 2318."
+   },
+   {
+    "page": 771,
+    "line": 74,
+    "indent": 55,
+    "text": "ἀλλὰ μέντοι, 2786; καὶ . . . μέντοι,"
+   },
+   {
+    "page": 772,
+    "line": 44,
+    "indent": 40,
+    "text": "δείς, 2736."
+   },
+   {
+    "page": 772,
+    "line": 47,
+    "indent": 41,
+    "text": "μὴν οὐδέ, 2768; ἀλλὰ μήν, 2786; ἦ"
+   },
+   {
+    "page": 772,
+    "line": 48,
+    "indent": 42,
+    "text": "μήν, 2865, 2921."
+   },
+   {
+    "page": 772,
+    "line": 82,
+    "indent": 39,
+    "text": "μόνον οὐ, 2766."
+   },
+   {
+    "page": 772,
+    "line": 89,
+    "indent": 40,
+    "text": "μῶν μή, 2651 c."
+   },
+   {
+    "page": 773,
+    "line": 25,
+    "indent": 47,
+    "text": "νῑκάω γνώμην, etc., 1576 ; as perf.,"
+   },
+   {
+    "page": 773,
+    "line": 87,
+    "indent": 40,
+    "text": "ει : οι : ι, 36, see ι; elided, 74; ῳ in"
+   },
+   {
+    "page": 774,
+    "line": 26,
+    "indent": 40,
+    "text": "οἴομαι, 2692 a ; w. μή, 2723, 2726 ; ὀῑ́ο-"
+   },
+   {
+    "page": 774,
+    "line": 27,
+    "indent": 40,
+    "text": "μαι, 500. 2 D."
+   },
+   {
+    "page": 774,
+    "line": 66,
+    "indent": 37,
+    "text": "ματι, 1516 ; ὄνομα καλέω τινά, 1620."
+   },
+   {
+    "page": 775,
+    "line": 3,
+    "indent": 46,
+    "text": "(ὡς), 2110-2112; w. obj. cl., 2210 b,"
+   },
+   {
+    "page": 775,
+    "line": 18,
+    "indent": 45,
+    "text": "ὅστις, w. def. and indef. antec., 2508."
+   },
+   {
+    "page": 775,
+    "line": 30,
+    "indent": 45,
+    "text": "ὅσος, w. inf., 2003, 2497; ὅσῳ, ὅσον, in"
+   },
+   {
+    "page": 775,
+    "line": 35,
+    "indent": 41,
+    "text": "μή, 2765; ὅσον οὐ, 2766."
+   },
+   {
+    "page": 775,
+    "line": 45,
+    "indent": 44,
+    "text": "οὐ, 2534, 2557; ὅστις γε, 2826."
+   },
+   {
+    "page": 775,
+    "line": 72,
+    "indent": 40,
+    "text": "ευ : ου : υ, see ευ; by compens. length."
+   },
+   {
+    "page": 776,
+    "line": 7,
+    "indent": 41,
+    "text": "ὅς, etc., under εἰμί, and μὴ οὐ."
+   },
+   {
+    "page": 776,
+    "line": 11,
+    "indent": 40,
+    "text": "ἕ, pers. pron., 1194, 1195."
+   },
+   {
+    "page": 776,
+    "line": 16,
+    "indent": 40,
+    "text": "εἰ (ἐάν), in neg. concessive cl., 2381;"
+   },
+   {
+    "page": 776,
+    "line": 17,
+    "indent": 40,
+    "text": "οὐδὲ γὰρ οὐδέ, 2761 a, 2814 a, 2938;"
+   },
+   {
+    "page": 776,
+    "line": 18,
+    "indent": 40,
+    "text": "οὐ μὴν οὐδέ, 2768; ἀλλ᾽ οὐδέ, ἀλλ᾽"
+   },
+   {
+    "page": 776,
+    "line": 19,
+    "indent": 40,
+    "text": "οὐδὲ μὲν δή, 2786; οὐδὲ γάρ, 2814,"
+   },
+   {
+    "page": 776,
+    "line": 22,
+    "indent": 39,
+    "text": "οὐδὲ . . . οὐδέ, 2937; οὐ . . . οὐδέ,"
+   },
+   {
+    "page": 776,
+    "line": 24,
+    "indent": 40,
+    "text": "οὐ, 2940; οὐδὲ . . . οὔτε, 2941; οὔτε"
+   },
+   {
+    "page": 776,
+    "line": 26,
+    "indent": 40,
+    "text": "οὔτε, 2950; τὲ . . . οὐδέ, 2982."
+   },
+   {
+    "page": 776,
+    "line": 28,
+    "indent": 41,
+    "text": "δείς, 1270; οὐδὲν καινόν, 1312; οὐδὲν"
+   },
+   {
+    "page": 776,
+    "line": 30,
+    "indent": 40,
+    "text": "οὐ, 2534; and μηδείς, meaning, 2736;"
+   },
+   {
+    "page": 776,
+    "line": 38,
+    "indent": 40,
+    "text": "οὐκοῦν expecting answer yes, 2651,"
+   },
+   {
+    "page": 776,
+    "line": 45,
+    "indent": 41,
+    "text": "οὖν, ἀλλ᾽ οὖν . . . γε, 2957; γὰρ οὖν"
+   },
+   {
+    "page": 776,
+    "line": 48,
+    "indent": 40,
+    "text": "οὖν δῆτα, 2960; εἴτε οὖν, οὔτε οὖν,"
+   },
+   {
+    "page": 776,
+    "line": 58,
+    "indent": 40,
+    "text": "μήτε, 2942 a; οὔτε . . . τε, 2945, 2946;"
+   },
+   {
+    "page": 776,
+    "line": 59,
+    "indent": 40,
+    "text": "οὔτε . . . δέ, 2947; οὔτε . . . οὐ, 2948;"
+   },
+   {
+    "page": 776,
+    "line": 60,
+    "indent": 40,
+    "text": "οὐ . . . οὔτε, 2948; οὔτε . . . οὐδέ,"
+   },
+   {
+    "page": 776,
+    "line": 62,
+    "indent": 39,
+    "text": "οὔτε οὖν, 2961."
+   },
+   {
+    "page": 776,
+    "line": 66,
+    "indent": 41,
+    "text": "αὐτὸ τοῦτο, introduc. follow. subst.,"
+   },
+   {
+    "page": 776,
+    "line": 91,
+    "indent": 52,
+    "text": "οῳ for αοι, 643; for οοι, 652."
+   },
+   {
+    "page": 776,
+    "line": 94,
+    "indent": 54,
+    "text": "τ, dial., 132 D; suffixes w., 862."
+   },
+   {
+    "page": 777,
+    "line": 2,
+    "indent": 44,
+    "text": "πρός, 1579, 1630."
+   },
+   {
+    "page": 777,
+    "line": 22,
+    "indent": 41,
+    "text": "πάντα w. superl., 1091 ; position, 1163,"
+   },
+   {
+    "page": 777,
+    "line": 27,
+    "indent": 43,
+    "text": "θών, 2064 a."
+   },
+   {
+    "page": 777,
+    "line": 39,
+    "indent": 46,
+    "text": "μή, 2726."
+   },
+   {
+    "page": 777,
+    "line": 55,
+    "indent": 55,
+    "text": "πολλοῦ τῑμάομαι, etc., 1373 ; use, 1675-"
+   },
+   {
+    "page": 777,
+    "line": 82,
+    "indent": 41,
+    "text": "πλέον (πλεῖν) w. case, 1074."
+   },
+   {
+    "page": 777,
+    "line": 87,
+    "indent": 41,
+    "text": "πλὴν εἰ, 2966 a ; w. inf., 2966 b."
+   },
+   {
+    "page": 778,
+    "line": 12,
+    "indent": 40,
+    "text": "σύν τινι (μετά τινος), 1523 b N. 1."
+   },
+   {
+    "page": 778,
+    "line": 18,
+    "indent": 42,
+    "text": "πολλῷ, πολύ, παρὰ πολύ w. superl.,"
+   },
+   {
+    "page": 778,
+    "line": 20,
+    "indent": 41,
+    "text": "πολλῷ w. comp., 1514, 1586 ; πολλοὶ"
+   },
+   {
+    "page": 778,
+    "line": 21,
+    "indent": 42,
+    "text": "καὶ ἄλλοι, 2879 a."
+   },
+   {
+    "page": 778,
+    "line": 49,
+    "indent": 40,
+    "text": "ἢ πρίν, 2457 ; πρὶν ἤ, 2460 ; after neg.,"
+   },
+   {
+    "page": 778,
+    "line": 58,
+    "indent": 42,
+    "text": "προῑ́εμαι w. part., 2103."
+   },
+   {
+    "page": 778,
+    "line": 96,
+    "indent": 39,
+    "text": "γάρ ; 2805 b, 2806 a."
+   },
+   {
+    "page": 779,
+    "line": 15,
+    "indent": 40,
+    "text": "μή, 2741."
+   },
+   {
+    "page": 779,
+    "line": 20,
+    "indent": 42,
+    "text": "θ, dial., 132 D ; movable, 136, 136 D ;"
+   },
+   {
+    "page": 779,
+    "line": 91,
+    "indent": 43,
+    "text": "σφάς for, 325 f."
+   },
+   {
+    "page": 780,
+    "line": 38,
+    "indent": 43,
+    "text": "οὔτε ... τέ, 2945, 2946; uses, 2967-"
+   },
+   {
+    "page": 780,
+    "line": 50,
+    "indent": 40,
+    "text": "-τέον, 944 b; dat. of agent w., 1488."
+   },
+   {
+    "page": 780,
+    "line": 53,
+    "indent": 40,
+    "text": "τέρπομαι, w. part., 2100."
+   },
+   {
+    "page": 780,
+    "line": 78,
+    "indent": 41,
+    "text": "τῑμάομαί τινος, 1374."
+   },
+   {
+    "page": 780,
+    "line": 90,
+    "indent": 41,
+    "text": "ὅτι τί, 2644 a; τί γάρ; 2805 b; τί μήν;"
+   },
+   {
+    "page": 781,
+    "line": 2,
+    "indent": 44,
+    "text": "γε, 2763 e."
+   },
+   {
+    "page": 781,
+    "line": 8,
+    "indent": 46,
+    "text": "(τοί γε), 2786; γάρ τοι, 2820; τοιγάρ,"
+   },
+   {
+    "page": 781,
+    "line": 22,
+    "indent": 45,
+    "text": "τοσούτῳ, τοσοῦτον, correl. to ὅσῳ, ὅσον,"
+   },
+   {
+    "page": 781,
+    "line": 60,
+    "indent": 53,
+    "text": "εἴς τινα, or πρός τινα, 1591 a, 1592."
+   },
+   {
+    "page": 782,
+    "line": 39,
+    "indent": 42,
+    "text": "ἐστι w. ὅτι, 1982 N., 2107."
+   },
+   {
+    "page": 782,
+    "line": 49,
+    "indent": 40,
+    "text": "φέρω χαλεπῶς, ῥᾳδίως, w. part., 2100."
+   },
+   {
+    "page": 782,
+    "line": 53,
+    "indent": 42,
+    "text": "δίκην (γραφήν), 1576; pres. for perf.,"
+   },
+   {
+    "page": 782,
+    "line": 57,
+    "indent": 56,
+    "text": "φῆσθα, 463 b (2) D; inflec. of, 783-"
+   },
+   {
+    "page": 782,
+    "line": 59,
+    "indent": 54,
+    "text": "φημι, 787, 2691, 2692 a; ἔφη betw."
+   },
+   {
+    "page": 782,
+    "line": 61,
+    "indent": 54,
+    "text": "ὡς), 2017 a; φημὶ μή, 2723."
+   },
+   {
+    "page": 782,
+    "line": 67,
+    "indent": 37,
+    "text": "οὐκ ἔφθην . . . καί, 2876."
+   },
+   {
+    "page": 782,
+    "line": 83,
+    "indent": 42,
+    "text": "φοβέομαι, w. redund. μή, 2741."
+   },
+   {
+    "page": 782,
+    "line": 91,
+    "indent": 42,
+    "text": "ὅτι or ὡς, 2017."
+   },
+   {
+    "page": 783,
+    "line": 11,
+    "indent": 43,
+    "text": "φυλάττομαι w. inf., 2210 b ; φυλάττω,"
+   },
+   {
+    "page": 784,
+    "line": 27,
+    "indent": 41,
+    "text": "ὥσπερ ἂν εἰ, 2087 a, 2478-2480;"
+   }
+  ]
+ },
+ "stage4": {
+  "unresolvedRefs": [
+   {
+    "headword": "ᾱ (Dor., Aeol.) for η",
+    "verbatim": "Introd. C, N. 1",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "Η",
+    "verbatim": "Intr. C, N. 4",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "Κ",
+    "verbatim": "Intr. C, N. 4",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "-μεν",
+    "verbatim": "Intr. C, N. 2",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "-μες",
+    "verbatim": "Intr. C, N. 2",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "ξύν",
+    "verbatim": "Intr. E, N. 2",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "ρρ",
+    "verbatim": "Intr. E, N. 2",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "σσ",
+    "verbatim": "Intr. E, N. 2",
+    "reason": "introduction reference"
+   },
+   {
+    "headword": "Τ",
+    "verbatim": "Intr. C, N. 1, 4",
+    "reason": "introduction reference"
+   }
+  ],
+  "parserLeftovers": []
+ }
+}

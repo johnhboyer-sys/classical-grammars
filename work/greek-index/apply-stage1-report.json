@@ -1,0 +1,3735 @@
+{
+ "applied": 440,
+ "overrides": 9,
+ "skipped_malformed": [
+  {
+   "page": 770,
+   "line": 45,
+   "find": "τὸ ὄνειρ ὄρρου",
+   "replace": "s",
+   "source": "auto-gross"
+  }
+ ],
+ "missed": [
+  {
+   "page": 758,
+   "line": 6,
+   "find": "ἀετός",
+   "replace": "ἀ̄ετός",
+   "source": "ga|758|6|1"
+  },
+  {
+   "page": 760,
+   "line": 11,
+   "find": "N. ανύω",
+   "replace": "N. αννῡμι",
+   "source": "g|760|11|38"
+  },
+  {
+   "page": 761,
+   "line": 63,
+   "find": "βυνέω",
+   "replace": "βῡνέω",
+   "source": "ga|761|63|7"
+  },
+  {
+   "page": 768,
+   "line": 94,
+   "find": "θρώσκω",
+   "replace": "θρῴσκω",
+   "source": "ga|768|94|19"
+  }
+ ],
+ "legacy_displaced": [
+  {
+   "source": "g|758|25|17",
+   "page": 758,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 23
+  },
+  {
+   "source": "g|761|11|53",
+   "page": 761,
+   "ruled_line": 11,
+   "landed_line": 11,
+   "mode": "on_target",
+   "legacy_line": 8
+  },
+  {
+   "source": "g|761|75|63",
+   "page": 761,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 73
+  },
+  {
+   "source": "g|763|31|69",
+   "page": 763,
+   "ruled_line": 31,
+   "landed_line": 31,
+   "mode": "on_target",
+   "legacy_line": 30
+  },
+  {
+   "source": "g|764|37|96",
+   "page": 764,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 35
+  },
+  {
+   "source": "g|767|74|118",
+   "page": 767,
+   "ruled_line": 74,
+   "landed_line": 74,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|767|75|124",
+   "page": 767,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|767|77|126",
+   "page": 767,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 76
+  },
+  {
+   "source": "g|767|81|120",
+   "page": 767,
+   "ruled_line": 81,
+   "landed_line": 81,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "g|768|86|156",
+   "page": 768,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 84
+  },
+  {
+   "source": "g|773|5|171",
+   "page": 773,
+   "ruled_line": 5,
+   "landed_line": 5,
+   "mode": "on_target",
+   "legacy_line": 3
+  },
+  {
+   "source": "g|775|76|229",
+   "page": 775,
+   "ruled_line": 76,
+   "landed_line": 76,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|775|96|196",
+   "page": 775,
+   "ruled_line": 96,
+   "landed_line": 96,
+   "mode": "on_target",
+   "legacy_line": 93
+  },
+  {
+   "source": "g|776|61|237",
+   "page": 776,
+   "ruled_line": 61,
+   "landed_line": 61,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "g|777|86|225",
+   "page": 777,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 85
+  },
+  {
+   "source": "g|779|91|238",
+   "page": 779,
+   "ruled_line": 91,
+   "landed_line": 91,
+   "mode": "on_target",
+   "legacy_line": 90
+  },
+  {
+   "source": "g|784|20|319",
+   "page": 784,
+   "ruled_line": 20,
+   "landed_line": 20,
+   "mode": "on_target",
+   "legacy_line": 17
+  }
+ ],
+ "placements": [
+  {
+   "source": "g|757|14|1",
+   "page": 757,
+   "ruled_line": 14,
+   "landed_line": 14,
+   "mode": "on_target",
+   "legacy_line": 14
+  },
+  {
+   "source": "g|757|23|3",
+   "page": 757,
+   "ruled_line": 23,
+   "landed_line": 23,
+   "mode": "on_target",
+   "legacy_line": 23
+  },
+  {
+   "source": "g|757|46|9",
+   "page": 757,
+   "ruled_line": 46,
+   "landed_line": 46,
+   "mode": "on_target",
+   "legacy_line": 46
+  },
+  {
+   "source": "g|757|48|10",
+   "page": 757,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|757|66|16",
+   "page": 757,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "g|758|5|17",
+   "page": 758,
+   "ruled_line": 5,
+   "landed_line": 5,
+   "mode": "wrap",
+   "legacy_line": 5
+  },
+  {
+   "source": "ga|758|6|1",
+   "page": 758,
+   "ruled_line": 6,
+   "landed_line": null,
+   "mode": "miss",
+   "legacy_line": null
+  },
+  {
+   "source": "g|758|13|13",
+   "page": 758,
+   "ruled_line": 13,
+   "landed_line": 13,
+   "mode": "wrap",
+   "legacy_line": 13
+  },
+  {
+   "source": "g|758|17|14",
+   "page": 758,
+   "ruled_line": 17,
+   "landed_line": 17,
+   "mode": "on_target",
+   "legacy_line": 17
+  },
+  {
+   "source": "g|758|18|16",
+   "page": 758,
+   "ruled_line": 18,
+   "landed_line": 18,
+   "mode": "on_target",
+   "legacy_line": 18
+  },
+  {
+   "source": "g|758|22|19",
+   "page": 758,
+   "ruled_line": 22,
+   "landed_line": 22,
+   "mode": "on_target",
+   "legacy_line": 22
+  },
+  {
+   "source": "g|758|25|17",
+   "page": 758,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 23
+  },
+  {
+   "source": "g|758|27|20",
+   "page": 758,
+   "ruled_line": 27,
+   "landed_line": 27,
+   "mode": "on_target",
+   "legacy_line": 27
+  },
+  {
+   "source": "g|758|31|18",
+   "page": 758,
+   "ruled_line": 31,
+   "landed_line": 31,
+   "mode": "on_target",
+   "legacy_line": 31
+  },
+  {
+   "source": "g|758|31|19",
+   "page": 758,
+   "ruled_line": 31,
+   "landed_line": 31,
+   "mode": "on_target",
+   "legacy_line": 31
+  },
+  {
+   "source": "g|758|34|21",
+   "page": 758,
+   "ruled_line": 34,
+   "landed_line": 34,
+   "mode": "on_target",
+   "legacy_line": 34
+  },
+  {
+   "source": "g|758|35|22",
+   "page": 758,
+   "ruled_line": 35,
+   "landed_line": 35,
+   "mode": "on_target",
+   "legacy_line": 35
+  },
+  {
+   "source": "g|758|41|23",
+   "page": 758,
+   "ruled_line": 41,
+   "landed_line": 41,
+   "mode": "on_target",
+   "legacy_line": 41
+  },
+  {
+   "source": "g|758|45|24",
+   "page": 758,
+   "ruled_line": 45,
+   "landed_line": 45,
+   "mode": "on_target",
+   "legacy_line": 45
+  },
+  {
+   "source": "g|758|48|22",
+   "page": 758,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|758|58|23",
+   "page": 758,
+   "ruled_line": 58,
+   "landed_line": 58,
+   "mode": "on_target",
+   "legacy_line": 58
+  },
+  {
+   "source": "auto-gross",
+   "page": 758,
+   "ruled_line": 60,
+   "landed_line": 60,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "g|758|67|25",
+   "page": 758,
+   "ruled_line": 67,
+   "landed_line": 67,
+   "mode": "on_target",
+   "legacy_line": 67
+  },
+  {
+   "source": "g|758|70|26",
+   "page": 758,
+   "ruled_line": 70,
+   "landed_line": 70,
+   "mode": "on_target",
+   "legacy_line": 70
+  },
+  {
+   "source": "g|758|77|27",
+   "page": 758,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|758|82|28",
+   "page": 758,
+   "ruled_line": 82,
+   "landed_line": 82,
+   "mode": "on_target",
+   "legacy_line": 82
+  },
+  {
+   "source": "ga|759|2|3",
+   "page": 759,
+   "ruled_line": 2,
+   "landed_line": 2,
+   "mode": "on_target",
+   "legacy_line": 2
+  },
+  {
+   "source": "g|759|10|30",
+   "page": 759,
+   "ruled_line": 10,
+   "landed_line": 10,
+   "mode": "on_target",
+   "legacy_line": 10
+  },
+  {
+   "source": "g|759|12|31",
+   "page": 759,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|759|15|24",
+   "page": 759,
+   "ruled_line": 15,
+   "landed_line": 15,
+   "mode": "on_target",
+   "legacy_line": 15
+  },
+  {
+   "source": "auto-gross",
+   "page": 759,
+   "ruled_line": 30,
+   "landed_line": 30,
+   "mode": "on_target",
+   "legacy_line": 30
+  },
+  {
+   "source": "g|759|40|30",
+   "page": 759,
+   "ruled_line": 40,
+   "landed_line": 40,
+   "mode": "on_target",
+   "legacy_line": 40
+  },
+  {
+   "source": "g|759|47|32",
+   "page": 759,
+   "ruled_line": 47,
+   "landed_line": 47,
+   "mode": "on_target",
+   "legacy_line": 47
+  },
+  {
+   "source": "g|759|55|34",
+   "page": 759,
+   "ruled_line": 55,
+   "landed_line": 55,
+   "mode": "on_target",
+   "legacy_line": 55
+  },
+  {
+   "source": "g|759|56|31",
+   "page": 759,
+   "ruled_line": 56,
+   "landed_line": 56,
+   "mode": "on_target",
+   "legacy_line": 56
+  },
+  {
+   "source": "g|759|60|32",
+   "page": 759,
+   "ruled_line": 60,
+   "landed_line": 60,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "g|759|61|33",
+   "page": 759,
+   "ruled_line": 61,
+   "landed_line": 61,
+   "mode": "on_target",
+   "legacy_line": 61
+  },
+  {
+   "source": "auto-gross",
+   "page": 759,
+   "ruled_line": 62,
+   "landed_line": 62,
+   "mode": "on_target",
+   "legacy_line": 62
+  },
+  {
+   "source": "g|759|63|34",
+   "page": 759,
+   "ruled_line": 63,
+   "landed_line": 63,
+   "mode": "on_target",
+   "legacy_line": 63
+  },
+  {
+   "source": "g|759|71|35",
+   "page": 759,
+   "ruled_line": 71,
+   "landed_line": 71,
+   "mode": "on_target",
+   "legacy_line": 71
+  },
+  {
+   "source": "g|759|90|36",
+   "page": 759,
+   "ruled_line": 90,
+   "landed_line": 90,
+   "mode": "on_target",
+   "legacy_line": 90
+  },
+  {
+   "source": "g|759|91|37",
+   "page": 759,
+   "ruled_line": 91,
+   "landed_line": 91,
+   "mode": "on_target",
+   "legacy_line": 91
+  },
+  {
+   "source": "g|760|4|35",
+   "page": 760,
+   "ruled_line": 4,
+   "landed_line": 4,
+   "mode": "on_target",
+   "legacy_line": 4
+  },
+  {
+   "source": "g|760|11|38",
+   "page": 760,
+   "ruled_line": 11,
+   "landed_line": null,
+   "mode": "miss",
+   "legacy_line": null
+  },
+  {
+   "source": "g|760|13|39",
+   "page": 760,
+   "ruled_line": 13,
+   "landed_line": 13,
+   "mode": "on_target",
+   "legacy_line": 13
+  },
+  {
+   "source": "g|760|14|36",
+   "page": 760,
+   "ruled_line": 14,
+   "landed_line": 14,
+   "mode": "on_target",
+   "legacy_line": 14
+  },
+  {
+   "source": "g|760|18|37",
+   "page": 760,
+   "ruled_line": 18,
+   "landed_line": 18,
+   "mode": "on_target",
+   "legacy_line": 18
+  },
+  {
+   "source": "g|760|20|40",
+   "page": 760,
+   "ruled_line": 20,
+   "landed_line": 20,
+   "mode": "on_target",
+   "legacy_line": 20
+  },
+  {
+   "source": "g|760|22|38",
+   "page": 760,
+   "ruled_line": 22,
+   "landed_line": 22,
+   "mode": "on_target",
+   "legacy_line": 22
+  },
+  {
+   "source": "g|760|25|41",
+   "page": 760,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 25
+  },
+  {
+   "source": "ga|760|42|5",
+   "page": 760,
+   "ruled_line": 42,
+   "landed_line": 42,
+   "mode": "on_target",
+   "legacy_line": 42
+  },
+  {
+   "source": "g|760|45|42",
+   "page": 760,
+   "ruled_line": 45,
+   "landed_line": 45,
+   "mode": "on_target",
+   "legacy_line": 45
+  },
+  {
+   "source": "g|760|49|43",
+   "page": 760,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "g|760|57|44",
+   "page": 760,
+   "ruled_line": 57,
+   "landed_line": 57,
+   "mode": "on_target",
+   "legacy_line": 57
+  },
+  {
+   "source": "g|760|65|43",
+   "page": 760,
+   "ruled_line": 65,
+   "landed_line": 65,
+   "mode": "on_target",
+   "legacy_line": 65
+  },
+  {
+   "source": "g|760|67|45",
+   "page": 760,
+   "ruled_line": 67,
+   "landed_line": 67,
+   "mode": "on_target",
+   "legacy_line": 67
+  },
+  {
+   "source": "g|760|81|46",
+   "page": 760,
+   "ruled_line": 81,
+   "landed_line": 81,
+   "mode": "on_target",
+   "legacy_line": 81
+  },
+  {
+   "source": "g|760|82|47",
+   "page": 760,
+   "ruled_line": 82,
+   "landed_line": 82,
+   "mode": "on_target",
+   "legacy_line": 82
+  },
+  {
+   "source": "g|760|83|47",
+   "page": 760,
+   "ruled_line": 83,
+   "landed_line": 83,
+   "mode": "on_target",
+   "legacy_line": 83
+  },
+  {
+   "source": "g|760|84|48",
+   "page": 760,
+   "ruled_line": 84,
+   "landed_line": 84,
+   "mode": "on_target",
+   "legacy_line": 84
+  },
+  {
+   "source": "g|760|85|49",
+   "page": 760,
+   "ruled_line": 85,
+   "landed_line": 85,
+   "mode": "on_target",
+   "legacy_line": 85
+  },
+  {
+   "source": "g|760|86|50",
+   "page": 760,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 86
+  },
+  {
+   "source": "g|760|89|51",
+   "page": 760,
+   "ruled_line": 89,
+   "landed_line": 89,
+   "mode": "on_target",
+   "legacy_line": 89
+  },
+  {
+   "source": "g|760|93|49",
+   "page": 760,
+   "ruled_line": 93,
+   "landed_line": 93,
+   "mode": "on_target",
+   "legacy_line": 93
+  },
+  {
+   "source": "g|760|94|50",
+   "page": 760,
+   "ruled_line": 94,
+   "landed_line": 94,
+   "mode": "on_target",
+   "legacy_line": 94
+  },
+  {
+   "source": "g|760|96|52",
+   "page": 760,
+   "ruled_line": 96,
+   "landed_line": 96,
+   "mode": "on_target",
+   "legacy_line": 96
+  },
+  {
+   "source": "g|761|6|54",
+   "page": 761,
+   "ruled_line": 6,
+   "landed_line": 6,
+   "mode": "on_target",
+   "legacy_line": 6
+  },
+  {
+   "source": "g|761|11|53",
+   "page": 761,
+   "ruled_line": 11,
+   "landed_line": 11,
+   "mode": "on_target",
+   "legacy_line": 8
+  },
+  {
+   "source": "auto-gross",
+   "page": 761,
+   "ruled_line": 22,
+   "landed_line": 22,
+   "mode": "wrap",
+   "legacy_line": 22
+  },
+  {
+   "source": "g|761|23|55",
+   "page": 761,
+   "ruled_line": 23,
+   "landed_line": 23,
+   "mode": "on_target",
+   "legacy_line": 23
+  },
+  {
+   "source": "ga|761|25|6",
+   "page": 761,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 25
+  },
+  {
+   "source": "g|761|36|57",
+   "page": 761,
+   "ruled_line": 36,
+   "landed_line": 36,
+   "mode": "on_target",
+   "legacy_line": 36
+  },
+  {
+   "source": "g|761|48|58",
+   "page": 761,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|761|62|60",
+   "page": 761,
+   "ruled_line": 62,
+   "landed_line": 62,
+   "mode": "wrap",
+   "legacy_line": 62
+  },
+  {
+   "source": "ga|761|63|7",
+   "page": 761,
+   "ruled_line": 63,
+   "landed_line": null,
+   "mode": "miss",
+   "legacy_line": null
+  },
+  {
+   "source": "g|761|71|62",
+   "page": 761,
+   "ruled_line": 71,
+   "landed_line": 71,
+   "mode": "on_target",
+   "legacy_line": 71
+  },
+  {
+   "source": "g|761|74|60",
+   "page": 761,
+   "ruled_line": 74,
+   "landed_line": 74,
+   "mode": "on_target",
+   "legacy_line": 74
+  },
+  {
+   "source": "g|761|75|63",
+   "page": 761,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 73
+  },
+  {
+   "source": "auto-gross",
+   "page": 761,
+   "ruled_line": 79,
+   "landed_line": 79,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "g|761|85|69",
+   "page": 761,
+   "ruled_line": 85,
+   "landed_line": 85,
+   "mode": "on_target",
+   "legacy_line": 85
+  },
+  {
+   "source": "ga|761|94|8",
+   "page": 761,
+   "ruled_line": 94,
+   "landed_line": 94,
+   "mode": "on_target",
+   "legacy_line": 94
+  },
+  {
+   "source": "g|762|8|70",
+   "page": 762,
+   "ruled_line": 8,
+   "landed_line": 8,
+   "mode": "on_target",
+   "legacy_line": 8
+  },
+  {
+   "source": "g|762|15|71",
+   "page": 762,
+   "ruled_line": 15,
+   "landed_line": 15,
+   "mode": "on_target",
+   "legacy_line": 15
+  },
+  {
+   "source": "ga|762|17|9",
+   "page": 762,
+   "ruled_line": 17,
+   "landed_line": 17,
+   "mode": "on_target",
+   "legacy_line": 17
+  },
+  {
+   "source": "g|762|18|72",
+   "page": 762,
+   "ruled_line": 18,
+   "landed_line": 18,
+   "mode": "on_target",
+   "legacy_line": 18
+  },
+  {
+   "source": "g|762|18|73",
+   "page": 762,
+   "ruled_line": 18,
+   "landed_line": 18,
+   "mode": "on_target",
+   "legacy_line": 18
+  },
+  {
+   "source": "ga|762|22|10",
+   "page": 762,
+   "ruled_line": 22,
+   "landed_line": 22,
+   "mode": "on_target",
+   "legacy_line": 22
+  },
+  {
+   "source": "g|762|25|74",
+   "page": 762,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 25
+  },
+  {
+   "source": "g|762|25|75",
+   "page": 762,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 25
+  },
+  {
+   "source": "auto-gross",
+   "page": 762,
+   "ruled_line": 38,
+   "landed_line": 38,
+   "mode": "on_target",
+   "legacy_line": 38
+  },
+  {
+   "source": "g|762|40|76",
+   "page": 762,
+   "ruled_line": 40,
+   "landed_line": 40,
+   "mode": "on_target",
+   "legacy_line": 40
+  },
+  {
+   "source": "g|762|51|77",
+   "page": 762,
+   "ruled_line": 51,
+   "landed_line": 51,
+   "mode": "wrap",
+   "legacy_line": 51
+  },
+  {
+   "source": "g|762|66|79",
+   "page": 762,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "g|762|68|80",
+   "page": 762,
+   "ruled_line": 68,
+   "landed_line": 68,
+   "mode": "on_target",
+   "legacy_line": 68
+  },
+  {
+   "source": "auto-gross",
+   "page": 762,
+   "ruled_line": 68,
+   "landed_line": 68,
+   "mode": "on_target",
+   "legacy_line": 68
+  },
+  {
+   "source": "g|762|69|64",
+   "page": 762,
+   "ruled_line": 69,
+   "landed_line": 69,
+   "mode": "on_target",
+   "legacy_line": 69
+  },
+  {
+   "source": "auto-gross",
+   "page": 762,
+   "ruled_line": 70,
+   "landed_line": 70,
+   "mode": "on_target",
+   "legacy_line": 70
+  },
+  {
+   "source": "g|762|77|81",
+   "page": 762,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "ga|763|2|11",
+   "page": 763,
+   "ruled_line": 2,
+   "landed_line": 2,
+   "mode": "on_target",
+   "legacy_line": 2
+  },
+  {
+   "source": "g|763|5|82",
+   "page": 763,
+   "ruled_line": 5,
+   "landed_line": 5,
+   "mode": "on_target",
+   "legacy_line": 5
+  },
+  {
+   "source": "g|763|13|83",
+   "page": 763,
+   "ruled_line": 13,
+   "landed_line": 13,
+   "mode": "on_target",
+   "legacy_line": 13
+  },
+  {
+   "source": "g|763|15|84",
+   "page": 763,
+   "ruled_line": 15,
+   "landed_line": 15,
+   "mode": "on_target",
+   "legacy_line": 15
+  },
+  {
+   "source": "g|763|20|67",
+   "page": 763,
+   "ruled_line": 20,
+   "landed_line": 20,
+   "mode": "on_target",
+   "legacy_line": 20
+  },
+  {
+   "source": "g|763|31|69",
+   "page": 763,
+   "ruled_line": 31,
+   "landed_line": 31,
+   "mode": "on_target",
+   "legacy_line": 30
+  },
+  {
+   "source": "g|763|32|85",
+   "page": 763,
+   "ruled_line": 32,
+   "landed_line": 32,
+   "mode": "on_target",
+   "legacy_line": 32
+  },
+  {
+   "source": "g|763|55|86",
+   "page": 763,
+   "ruled_line": 55,
+   "landed_line": 55,
+   "mode": "on_target",
+   "legacy_line": 55
+  },
+  {
+   "source": "g|763|66|88",
+   "page": 763,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "wrap",
+   "legacy_line": 66
+  },
+  {
+   "source": "g|763|74|89",
+   "page": 763,
+   "ruled_line": 74,
+   "landed_line": 74,
+   "mode": "on_target",
+   "legacy_line": 74
+  },
+  {
+   "source": "g|763|75|73",
+   "page": 763,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|763|75|74",
+   "page": 763,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|763|76|75",
+   "page": 763,
+   "ruled_line": 76,
+   "landed_line": 76,
+   "mode": "on_target",
+   "legacy_line": 76
+  },
+  {
+   "source": "g|763|77|90",
+   "page": 763,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|763|77|76",
+   "page": 763,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|763|78|91",
+   "page": 763,
+   "ruled_line": 78,
+   "landed_line": 78,
+   "mode": "on_target",
+   "legacy_line": 78
+  },
+  {
+   "source": "g|763|78|77",
+   "page": 763,
+   "ruled_line": 78,
+   "landed_line": 78,
+   "mode": "on_target",
+   "legacy_line": 78
+  },
+  {
+   "source": "auto-gross",
+   "page": 764,
+   "ruled_line": 17,
+   "landed_line": 17,
+   "mode": "on_target",
+   "legacy_line": 17
+  },
+  {
+   "source": "auto-gross",
+   "page": 764,
+   "ruled_line": 22,
+   "landed_line": 22,
+   "mode": "on_target",
+   "legacy_line": 22
+  },
+  {
+   "source": "g|764|31|95",
+   "page": 764,
+   "ruled_line": 31,
+   "landed_line": 31,
+   "mode": "on_target",
+   "legacy_line": 31
+  },
+  {
+   "source": "auto-gross",
+   "page": 764,
+   "ruled_line": 34,
+   "landed_line": 34,
+   "mode": "on_target",
+   "legacy_line": 34
+  },
+  {
+   "source": "g|764|37|96",
+   "page": 764,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 35
+  },
+  {
+   "source": "g|764|39|79",
+   "page": 764,
+   "ruled_line": 39,
+   "landed_line": 39,
+   "mode": "on_target",
+   "legacy_line": 39
+  },
+  {
+   "source": "g|764|49|80",
+   "page": 764,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "g|764|49|81",
+   "page": 764,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "g|764|50|97",
+   "page": 764,
+   "ruled_line": 50,
+   "landed_line": 50,
+   "mode": "on_target",
+   "legacy_line": 50
+  },
+  {
+   "source": "g|764|51|82",
+   "page": 764,
+   "ruled_line": 51,
+   "landed_line": 51,
+   "mode": "on_target",
+   "legacy_line": 51
+  },
+  {
+   "source": "g|764|51|83",
+   "page": 764,
+   "ruled_line": 51,
+   "landed_line": 51,
+   "mode": "on_target",
+   "legacy_line": 51
+  },
+  {
+   "source": "g|764|54|84",
+   "page": 764,
+   "ruled_line": 54,
+   "landed_line": 54,
+   "mode": "on_target",
+   "legacy_line": 54
+  },
+  {
+   "source": "g|764|55|85",
+   "page": 764,
+   "ruled_line": 55,
+   "landed_line": 55,
+   "mode": "on_target",
+   "legacy_line": 55
+  },
+  {
+   "source": "g|764|58|86",
+   "page": 764,
+   "ruled_line": 58,
+   "landed_line": 58,
+   "mode": "on_target",
+   "legacy_line": 58
+  },
+  {
+   "source": "g|764|60|99",
+   "page": 764,
+   "ruled_line": 60,
+   "landed_line": 60,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "g|764|61|100",
+   "page": 764,
+   "ruled_line": 61,
+   "landed_line": 61,
+   "mode": "on_target",
+   "legacy_line": 61
+  },
+  {
+   "source": "g|764|63|87",
+   "page": 764,
+   "ruled_line": 63,
+   "landed_line": 63,
+   "mode": "on_target",
+   "legacy_line": 63
+  },
+  {
+   "source": "g|764|64|101",
+   "page": 764,
+   "ruled_line": 64,
+   "landed_line": 64,
+   "mode": "on_target",
+   "legacy_line": 64
+  },
+  {
+   "source": "g|764|66|102",
+   "page": 764,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "auto-gross",
+   "page": 764,
+   "ruled_line": 69,
+   "landed_line": 69,
+   "mode": "on_target",
+   "legacy_line": 69
+  },
+  {
+   "source": "g|764|76|89",
+   "page": 764,
+   "ruled_line": 76,
+   "landed_line": 76,
+   "mode": "on_target",
+   "legacy_line": 76
+  },
+  {
+   "source": "g|764|77|103",
+   "page": 764,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|764|87|90",
+   "page": 764,
+   "ruled_line": 87,
+   "landed_line": 87,
+   "mode": "on_target",
+   "legacy_line": 87
+  },
+  {
+   "source": "g|765|3|104",
+   "page": 765,
+   "ruled_line": 3,
+   "landed_line": 3,
+   "mode": "on_target",
+   "legacy_line": 3
+  },
+  {
+   "source": "g|765|5|105",
+   "page": 765,
+   "ruled_line": 5,
+   "landed_line": 5,
+   "mode": "on_target",
+   "legacy_line": 5
+  },
+  {
+   "source": "g|765|6|91",
+   "page": 765,
+   "ruled_line": 6,
+   "landed_line": 6,
+   "mode": "on_target",
+   "legacy_line": 6
+  },
+  {
+   "source": "g|765|7|92",
+   "page": 765,
+   "ruled_line": 7,
+   "landed_line": 7,
+   "mode": "on_target",
+   "legacy_line": 7
+  },
+  {
+   "source": "g|765|9|106",
+   "page": 765,
+   "ruled_line": 9,
+   "landed_line": 9,
+   "mode": "on_target",
+   "legacy_line": 9
+  },
+  {
+   "source": "g|765|10|93",
+   "page": 765,
+   "ruled_line": 10,
+   "landed_line": 10,
+   "mode": "on_target",
+   "legacy_line": 10
+  },
+  {
+   "source": "g|765|11|94",
+   "page": 765,
+   "ruled_line": 11,
+   "landed_line": 11,
+   "mode": "on_target",
+   "legacy_line": 11
+  },
+  {
+   "source": "g|765|26|95",
+   "page": 765,
+   "ruled_line": 26,
+   "landed_line": 26,
+   "mode": "on_target",
+   "legacy_line": 26
+  },
+  {
+   "source": "g|765|34|107",
+   "page": 765,
+   "ruled_line": 34,
+   "landed_line": 34,
+   "mode": "on_target",
+   "legacy_line": 34
+  },
+  {
+   "source": "auto-gross",
+   "page": 765,
+   "ruled_line": 50,
+   "landed_line": 50,
+   "mode": "on_target",
+   "legacy_line": 50
+  },
+  {
+   "source": "ga|765|69|12",
+   "page": 765,
+   "ruled_line": 69,
+   "landed_line": 69,
+   "mode": "on_target",
+   "legacy_line": 69
+  },
+  {
+   "source": "g|765|75|109",
+   "page": 765,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|765|76|110",
+   "page": 765,
+   "ruled_line": 76,
+   "landed_line": 76,
+   "mode": "on_target",
+   "legacy_line": 76
+  },
+  {
+   "source": "g|765|93|111",
+   "page": 765,
+   "ruled_line": 93,
+   "landed_line": 93,
+   "mode": "on_target",
+   "legacy_line": 93
+  },
+  {
+   "source": "g|765|95|112",
+   "page": 765,
+   "ruled_line": 95,
+   "landed_line": 95,
+   "mode": "on_target",
+   "legacy_line": 95
+  },
+  {
+   "source": "g|766|6|97",
+   "page": 766,
+   "ruled_line": 6,
+   "landed_line": 6,
+   "mode": "on_target",
+   "legacy_line": 6
+  },
+  {
+   "source": "g|766|7|114",
+   "page": 766,
+   "ruled_line": 7,
+   "landed_line": 7,
+   "mode": "on_target",
+   "legacy_line": 7
+  },
+  {
+   "source": "ga|766|10|13",
+   "page": 766,
+   "ruled_line": 10,
+   "landed_line": 10,
+   "mode": "on_target",
+   "legacy_line": 10
+  },
+  {
+   "source": "auto-gross",
+   "page": 766,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|766|27|98",
+   "page": 766,
+   "ruled_line": 27,
+   "landed_line": 27,
+   "mode": "on_target",
+   "legacy_line": 27
+  },
+  {
+   "source": "g|766|32|99",
+   "page": 766,
+   "ruled_line": 32,
+   "landed_line": 32,
+   "mode": "on_target",
+   "legacy_line": 32
+  },
+  {
+   "source": "g|766|44|100",
+   "page": 766,
+   "ruled_line": 44,
+   "landed_line": 44,
+   "mode": "on_target",
+   "legacy_line": 44
+  },
+  {
+   "source": "g|766|48|101",
+   "page": 766,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|766|58|115",
+   "page": 766,
+   "ruled_line": 58,
+   "landed_line": 58,
+   "mode": "on_target",
+   "legacy_line": 58
+  },
+  {
+   "source": "ga|766|59|14",
+   "page": 766,
+   "ruled_line": 59,
+   "landed_line": 59,
+   "mode": "on_target",
+   "legacy_line": 59
+  },
+  {
+   "source": "auto-gross",
+   "page": 766,
+   "ruled_line": 60,
+   "landed_line": 60,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "g|766|62|102",
+   "page": 766,
+   "ruled_line": 62,
+   "landed_line": 62,
+   "mode": "on_target",
+   "legacy_line": 62
+  },
+  {
+   "source": "g|766|91|116",
+   "page": 766,
+   "ruled_line": 91,
+   "landed_line": 91,
+   "mode": "on_target",
+   "legacy_line": 91
+  },
+  {
+   "source": "g|766|94|106",
+   "page": 766,
+   "ruled_line": 94,
+   "landed_line": 94,
+   "mode": "on_target",
+   "legacy_line": 94
+  },
+  {
+   "source": "g|767|12|108",
+   "page": 767,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|767|24|117",
+   "page": 767,
+   "ruled_line": 24,
+   "landed_line": 24,
+   "mode": "on_target",
+   "legacy_line": 24
+  },
+  {
+   "source": "g|767|44|118",
+   "page": 767,
+   "ruled_line": 44,
+   "landed_line": 44,
+   "mode": "on_target",
+   "legacy_line": 44
+  },
+  {
+   "source": "auto-gross",
+   "page": 767,
+   "ruled_line": 50,
+   "landed_line": 50,
+   "mode": "on_target",
+   "legacy_line": 50
+  },
+  {
+   "source": "g|767|55|116",
+   "page": 767,
+   "ruled_line": 55,
+   "landed_line": 55,
+   "mode": "on_target",
+   "legacy_line": 55
+  },
+  {
+   "source": "g|767|61|117",
+   "page": 767,
+   "ruled_line": 61,
+   "landed_line": 61,
+   "mode": "on_target",
+   "legacy_line": 61
+  },
+  {
+   "source": "g|767|73|123",
+   "page": 767,
+   "ruled_line": 73,
+   "landed_line": 73,
+   "mode": "on_target",
+   "legacy_line": 73
+  },
+  {
+   "source": "g|767|74|118",
+   "page": 767,
+   "ruled_line": 74,
+   "landed_line": 74,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|767|75|124",
+   "page": 767,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "auto-gross",
+   "page": 767,
+   "ruled_line": 76,
+   "landed_line": 76,
+   "mode": "on_target",
+   "legacy_line": 76
+  },
+  {
+   "source": "g|767|77|126",
+   "page": 767,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 76
+  },
+  {
+   "source": "g|767|77|127",
+   "page": 767,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|767|80|128",
+   "page": 767,
+   "ruled_line": 80,
+   "landed_line": 80,
+   "mode": "on_target",
+   "legacy_line": 80
+  },
+  {
+   "source": "g|767|81|120",
+   "page": 767,
+   "ruled_line": 81,
+   "landed_line": 81,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "g|768|3|131",
+   "page": 768,
+   "ruled_line": 3,
+   "landed_line": 3,
+   "mode": "on_target",
+   "legacy_line": 3
+  },
+  {
+   "source": "g|768|4|132",
+   "page": 768,
+   "ruled_line": 4,
+   "landed_line": 4,
+   "mode": "on_target",
+   "legacy_line": 4
+  },
+  {
+   "source": "ga|768|9|16",
+   "page": 768,
+   "ruled_line": 9,
+   "landed_line": 9,
+   "mode": "on_target",
+   "legacy_line": 9
+  },
+  {
+   "source": "g|768|11|126",
+   "page": 768,
+   "ruled_line": 11,
+   "landed_line": 11,
+   "mode": "on_target",
+   "legacy_line": 11
+  },
+  {
+   "source": "g|768|20|128",
+   "page": 768,
+   "ruled_line": 20,
+   "landed_line": 20,
+   "mode": "on_target",
+   "legacy_line": 20
+  },
+  {
+   "source": "g|768|29|135",
+   "page": 768,
+   "ruled_line": 29,
+   "landed_line": 29,
+   "mode": "on_target",
+   "legacy_line": 29
+  },
+  {
+   "source": "g|768|32|138",
+   "page": 768,
+   "ruled_line": 32,
+   "landed_line": 32,
+   "mode": "on_target",
+   "legacy_line": 32
+  },
+  {
+   "source": "auto-gross",
+   "page": 768,
+   "ruled_line": 33,
+   "landed_line": 33,
+   "mode": "on_target",
+   "legacy_line": 33
+  },
+  {
+   "source": "g|768|34|130",
+   "page": 768,
+   "ruled_line": 34,
+   "landed_line": 34,
+   "mode": "on_target",
+   "legacy_line": 34
+  },
+  {
+   "source": "g|768|39|144",
+   "page": 768,
+   "ruled_line": 39,
+   "landed_line": 39,
+   "mode": "on_target",
+   "legacy_line": 39
+  },
+  {
+   "source": "g|768|40|131",
+   "page": 768,
+   "ruled_line": 40,
+   "landed_line": 40,
+   "mode": "on_target",
+   "legacy_line": 40
+  },
+  {
+   "source": "ga|768|75|17",
+   "page": 768,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "auto-gross",
+   "page": 768,
+   "ruled_line": 78,
+   "landed_line": 78,
+   "mode": "on_target",
+   "legacy_line": 78
+  },
+  {
+   "source": "ga|768|83|18",
+   "page": 768,
+   "ruled_line": 83,
+   "landed_line": 83,
+   "mode": "on_target",
+   "legacy_line": 83
+  },
+  {
+   "source": "g|768|86|156",
+   "page": 768,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 84
+  },
+  {
+   "source": "g|768|93|157",
+   "page": 768,
+   "ruled_line": 93,
+   "landed_line": 93,
+   "mode": "wrap",
+   "legacy_line": 93
+  },
+  {
+   "source": "ga|768|94|19",
+   "page": 768,
+   "ruled_line": 94,
+   "landed_line": null,
+   "mode": "miss",
+   "legacy_line": null
+  },
+  {
+   "source": "g|769|12|160",
+   "page": 769,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|769|14|161",
+   "page": 769,
+   "ruled_line": 14,
+   "landed_line": 14,
+   "mode": "on_target",
+   "legacy_line": 14
+  },
+  {
+   "source": "g|769|15|162",
+   "page": 769,
+   "ruled_line": 15,
+   "landed_line": 15,
+   "mode": "on_target",
+   "legacy_line": 15
+  },
+  {
+   "source": "g|769|18|139",
+   "page": 769,
+   "ruled_line": 18,
+   "landed_line": 18,
+   "mode": "on_target",
+   "legacy_line": 18
+  },
+  {
+   "source": "g|769|26|141",
+   "page": 769,
+   "ruled_line": 26,
+   "landed_line": 26,
+   "mode": "on_target",
+   "legacy_line": 26
+  },
+  {
+   "source": "ga|769|28|20",
+   "page": 769,
+   "ruled_line": 28,
+   "landed_line": 28,
+   "mode": "on_target",
+   "legacy_line": 28
+  },
+  {
+   "source": "g|769|33|164",
+   "page": 769,
+   "ruled_line": 33,
+   "landed_line": 33,
+   "mode": "on_target",
+   "legacy_line": 33
+  },
+  {
+   "source": "g|769|34|165",
+   "page": 769,
+   "ruled_line": 34,
+   "landed_line": 34,
+   "mode": "on_target",
+   "legacy_line": 34
+  },
+  {
+   "source": "g|769|38|167",
+   "page": 769,
+   "ruled_line": 38,
+   "landed_line": 38,
+   "mode": "on_target",
+   "legacy_line": 38
+  },
+  {
+   "source": "g|769|42|144",
+   "page": 769,
+   "ruled_line": 42,
+   "landed_line": 42,
+   "mode": "on_target",
+   "legacy_line": 42
+  },
+  {
+   "source": "g|769|42|145",
+   "page": 769,
+   "ruled_line": 42,
+   "landed_line": 42,
+   "mode": "on_target",
+   "legacy_line": 42
+  },
+  {
+   "source": "g|769|45|146",
+   "page": 769,
+   "ruled_line": 45,
+   "landed_line": 45,
+   "mode": "on_target",
+   "legacy_line": 45
+  },
+  {
+   "source": "ga|769|48|21",
+   "page": 769,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|769|50|168",
+   "page": 769,
+   "ruled_line": 50,
+   "landed_line": 50,
+   "mode": "on_target",
+   "legacy_line": 50
+  },
+  {
+   "source": "g|769|51|169",
+   "page": 769,
+   "ruled_line": 51,
+   "landed_line": 51,
+   "mode": "on_target",
+   "legacy_line": 51
+  },
+  {
+   "source": "g|769|59|171",
+   "page": 769,
+   "ruled_line": 59,
+   "landed_line": 59,
+   "mode": "on_target",
+   "legacy_line": 59
+  },
+  {
+   "source": "g|769|65|172",
+   "page": 769,
+   "ruled_line": 65,
+   "landed_line": 65,
+   "mode": "on_target",
+   "legacy_line": 65
+  },
+  {
+   "source": "g|769|68|148",
+   "page": 769,
+   "ruled_line": 68,
+   "landed_line": 68,
+   "mode": "on_target",
+   "legacy_line": 68
+  },
+  {
+   "source": "g|769|72|173",
+   "page": 769,
+   "ruled_line": 72,
+   "landed_line": 72,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|769|73|174",
+   "page": 769,
+   "ruled_line": 73,
+   "landed_line": 73,
+   "mode": "on_target",
+   "legacy_line": 73
+  },
+  {
+   "source": "g|769|79|175",
+   "page": 769,
+   "ruled_line": 79,
+   "landed_line": 79,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "g|770|1|176",
+   "page": 770,
+   "ruled_line": 1,
+   "landed_line": 1,
+   "mode": "on_target",
+   "legacy_line": 1
+  },
+  {
+   "source": "g|770|4|150",
+   "page": 770,
+   "ruled_line": 4,
+   "landed_line": 4,
+   "mode": "on_target",
+   "legacy_line": 4
+  },
+  {
+   "source": "g|770|5|151",
+   "page": 770,
+   "ruled_line": 5,
+   "landed_line": 5,
+   "mode": "on_target",
+   "legacy_line": 5
+  },
+  {
+   "source": "g|770|31|177",
+   "page": 770,
+   "ruled_line": 31,
+   "landed_line": 31,
+   "mode": "on_target",
+   "legacy_line": 31
+  },
+  {
+   "source": "g|770|35|178",
+   "page": 770,
+   "ruled_line": 35,
+   "landed_line": 35,
+   "mode": "on_target",
+   "legacy_line": 35
+  },
+  {
+   "source": "g|770|36|153",
+   "page": 770,
+   "ruled_line": 36,
+   "landed_line": 36,
+   "mode": "on_target",
+   "legacy_line": 36
+  },
+  {
+   "source": "g|770|37|154",
+   "page": 770,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 37
+  },
+  {
+   "source": "g|770|39|179",
+   "page": 770,
+   "ruled_line": 39,
+   "landed_line": 39,
+   "mode": "on_target",
+   "legacy_line": 39
+  },
+  {
+   "source": "g|770|41|180",
+   "page": 770,
+   "ruled_line": 41,
+   "landed_line": 41,
+   "mode": "on_target",
+   "legacy_line": 41
+  },
+  {
+   "source": "g|770|42|155",
+   "page": 770,
+   "ruled_line": 42,
+   "landed_line": 42,
+   "mode": "on_target",
+   "legacy_line": 42
+  },
+  {
+   "source": "g|770|49|156",
+   "page": 770,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "g|770|50|157",
+   "page": 770,
+   "ruled_line": 50,
+   "landed_line": 50,
+   "mode": "on_target",
+   "legacy_line": 50
+  },
+  {
+   "source": "auto-gross",
+   "page": 770,
+   "ruled_line": 61,
+   "landed_line": 61,
+   "mode": "on_target",
+   "legacy_line": 61
+  },
+  {
+   "source": "g|770|70|159",
+   "page": 770,
+   "ruled_line": 70,
+   "landed_line": 70,
+   "mode": "on_target",
+   "legacy_line": 70
+  },
+  {
+   "source": "g|770|79|160",
+   "page": 770,
+   "ruled_line": 79,
+   "landed_line": 79,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "g|770|82|161",
+   "page": 770,
+   "ruled_line": 82,
+   "landed_line": 82,
+   "mode": "on_target",
+   "legacy_line": 82
+  },
+  {
+   "source": "g|770|87|182",
+   "page": 770,
+   "ruled_line": 87,
+   "landed_line": 87,
+   "mode": "on_target",
+   "legacy_line": 87
+  },
+  {
+   "source": "g|771|10|183",
+   "page": 771,
+   "ruled_line": 10,
+   "landed_line": 10,
+   "mode": "on_target",
+   "legacy_line": 10
+  },
+  {
+   "source": "g|771|18|162",
+   "page": 771,
+   "ruled_line": 18,
+   "landed_line": 18,
+   "mode": "on_target",
+   "legacy_line": 18
+  },
+  {
+   "source": "g|771|20|163",
+   "page": 771,
+   "ruled_line": 20,
+   "landed_line": 20,
+   "mode": "on_target",
+   "legacy_line": 20
+  },
+  {
+   "source": "g|771|21|184",
+   "page": 771,
+   "ruled_line": 21,
+   "landed_line": 21,
+   "mode": "wrap",
+   "legacy_line": 21
+  },
+  {
+   "source": "g|771|25|185",
+   "page": 771,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 25
+  },
+  {
+   "source": "g|771|28|164",
+   "page": 771,
+   "ruled_line": 28,
+   "landed_line": 28,
+   "mode": "on_target",
+   "legacy_line": 28
+  },
+  {
+   "source": "g|771|35|186",
+   "page": 771,
+   "ruled_line": 35,
+   "landed_line": 35,
+   "mode": "wrap",
+   "legacy_line": 35
+  },
+  {
+   "source": "g|771|38|187",
+   "page": 771,
+   "ruled_line": 38,
+   "landed_line": 38,
+   "mode": "on_target",
+   "legacy_line": 38
+  },
+  {
+   "source": "g|771|39|188",
+   "page": 771,
+   "ruled_line": 39,
+   "landed_line": 39,
+   "mode": "on_target",
+   "legacy_line": 39
+  },
+  {
+   "source": "ga|771|46|22",
+   "page": 771,
+   "ruled_line": 46,
+   "landed_line": 46,
+   "mode": "on_target",
+   "legacy_line": 46
+  },
+  {
+   "source": "g|771|50|166",
+   "page": 771,
+   "ruled_line": 50,
+   "landed_line": 50,
+   "mode": "on_target",
+   "legacy_line": 50
+  },
+  {
+   "source": "g|771|56|189",
+   "page": 771,
+   "ruled_line": 56,
+   "landed_line": 56,
+   "mode": "on_target",
+   "legacy_line": 56
+  },
+  {
+   "source": "g|771|58|190",
+   "page": 771,
+   "ruled_line": 58,
+   "landed_line": 58,
+   "mode": "on_target",
+   "legacy_line": 58
+  },
+  {
+   "source": "g|771|59|191",
+   "page": 771,
+   "ruled_line": 59,
+   "landed_line": 59,
+   "mode": "on_target",
+   "legacy_line": 59
+  },
+  {
+   "source": "g|771|80|192",
+   "page": 771,
+   "ruled_line": 80,
+   "landed_line": 80,
+   "mode": "on_target",
+   "legacy_line": 80
+  },
+  {
+   "source": "g|771|88|193",
+   "page": 771,
+   "ruled_line": 88,
+   "landed_line": 88,
+   "mode": "on_target",
+   "legacy_line": 88
+  },
+  {
+   "source": "g|772|51|168",
+   "page": 772,
+   "ruled_line": 51,
+   "landed_line": 51,
+   "mode": "on_target",
+   "legacy_line": 51
+  },
+  {
+   "source": "auto-gross",
+   "page": 772,
+   "ruled_line": 55,
+   "landed_line": 55,
+   "mode": "on_target",
+   "legacy_line": 55
+  },
+  {
+   "source": "g|772|57|195",
+   "page": 772,
+   "ruled_line": 57,
+   "landed_line": 57,
+   "mode": "on_target",
+   "legacy_line": 57
+  },
+  {
+   "source": "ga|772|59|23",
+   "page": 772,
+   "ruled_line": 59,
+   "landed_line": 59,
+   "mode": "on_target",
+   "legacy_line": 59
+  },
+  {
+   "source": "ga|772|61|24",
+   "page": 772,
+   "ruled_line": 61,
+   "landed_line": 61,
+   "mode": "on_target",
+   "legacy_line": 61
+  },
+  {
+   "source": "g|772|62|169",
+   "page": 772,
+   "ruled_line": 62,
+   "landed_line": 62,
+   "mode": "on_target",
+   "legacy_line": 62
+  },
+  {
+   "source": "g|772|68|196",
+   "page": 772,
+   "ruled_line": 68,
+   "landed_line": 68,
+   "mode": "on_target",
+   "legacy_line": 68
+  },
+  {
+   "source": "ga|772|71|25",
+   "page": 772,
+   "ruled_line": 71,
+   "landed_line": 71,
+   "mode": "on_target",
+   "legacy_line": 71
+  },
+  {
+   "source": "g|772|73|197",
+   "page": 772,
+   "ruled_line": 73,
+   "landed_line": 73,
+   "mode": "on_target",
+   "legacy_line": 73
+  },
+  {
+   "source": "g|772|80|198",
+   "page": 772,
+   "ruled_line": 80,
+   "landed_line": 80,
+   "mode": "on_target",
+   "legacy_line": 80
+  },
+  {
+   "source": "g|772|86|199",
+   "page": 772,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 86
+  },
+  {
+   "source": "g|773|5|171",
+   "page": 773,
+   "ruled_line": 5,
+   "landed_line": 5,
+   "mode": "on_target",
+   "legacy_line": 3
+  },
+  {
+   "source": "auto-gross",
+   "page": 773,
+   "ruled_line": 7,
+   "landed_line": 7,
+   "mode": "on_target",
+   "legacy_line": 7
+  },
+  {
+   "source": "g|773|11|200",
+   "page": 773,
+   "ruled_line": 11,
+   "landed_line": 11,
+   "mode": "on_target",
+   "legacy_line": 11
+  },
+  {
+   "source": "auto-gross",
+   "page": 773,
+   "ruled_line": 13,
+   "landed_line": 13,
+   "mode": "on_target",
+   "legacy_line": 13
+  },
+  {
+   "source": "g|773|24|201",
+   "page": 773,
+   "ruled_line": 24,
+   "landed_line": 24,
+   "mode": "on_target",
+   "legacy_line": 24
+  },
+  {
+   "source": "g|773|25|202",
+   "page": 773,
+   "ruled_line": 25,
+   "landed_line": 25,
+   "mode": "on_target",
+   "legacy_line": 25
+  },
+  {
+   "source": "auto-gross",
+   "page": 773,
+   "ruled_line": 28,
+   "landed_line": 28,
+   "mode": "on_target",
+   "legacy_line": 28
+  },
+  {
+   "source": "g|773|37|204",
+   "page": 773,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 37
+  },
+  {
+   "source": "g|773|45|174",
+   "page": 773,
+   "ruled_line": 45,
+   "landed_line": 45,
+   "mode": "on_target",
+   "legacy_line": 45
+  },
+  {
+   "source": "g|773|48|206",
+   "page": 773,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|773|49|207",
+   "page": 773,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "ga|773|57|26",
+   "page": 773,
+   "ruled_line": 57,
+   "landed_line": 57,
+   "mode": "on_target",
+   "legacy_line": 57
+  },
+  {
+   "source": "g|773|66|209",
+   "page": 773,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "auto-gross",
+   "page": 773,
+   "ruled_line": 72,
+   "landed_line": 72,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|773|77|210",
+   "page": 773,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|773|78|175",
+   "page": 773,
+   "ruled_line": 78,
+   "landed_line": 78,
+   "mode": "on_target",
+   "legacy_line": 78
+  },
+  {
+   "source": "auto-gross",
+   "page": 773,
+   "ruled_line": 82,
+   "landed_line": 82,
+   "mode": "on_target",
+   "legacy_line": 82
+  },
+  {
+   "source": "g|773|84|176",
+   "page": 773,
+   "ruled_line": 84,
+   "landed_line": 84,
+   "mode": "on_target",
+   "legacy_line": 84
+  },
+  {
+   "source": "g|773|85|177",
+   "page": 773,
+   "ruled_line": 85,
+   "landed_line": 85,
+   "mode": "on_target",
+   "legacy_line": 85
+  },
+  {
+   "source": "g|773|86|178",
+   "page": 773,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 86
+  },
+  {
+   "source": "g|773|87|213",
+   "page": 773,
+   "ruled_line": 87,
+   "landed_line": 87,
+   "mode": "on_target",
+   "legacy_line": 87
+  },
+  {
+   "source": "g|773|87|179",
+   "page": 773,
+   "ruled_line": 87,
+   "landed_line": 87,
+   "mode": "on_target",
+   "legacy_line": 87
+  },
+  {
+   "source": "g|774|1|214",
+   "page": 774,
+   "ruled_line": 1,
+   "landed_line": 1,
+   "mode": "on_target",
+   "legacy_line": 1
+  },
+  {
+   "source": "g|774|12|215",
+   "page": 774,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|774|15|216",
+   "page": 774,
+   "ruled_line": 15,
+   "landed_line": 15,
+   "mode": "on_target",
+   "legacy_line": 15
+  },
+  {
+   "source": "g|774|19|181",
+   "page": 774,
+   "ruled_line": 19,
+   "landed_line": 19,
+   "mode": "on_target",
+   "legacy_line": 19
+  },
+  {
+   "source": "g|774|21|182",
+   "page": 774,
+   "ruled_line": 21,
+   "landed_line": 21,
+   "mode": "on_target",
+   "legacy_line": 21
+  },
+  {
+   "source": "g|774|26|217",
+   "page": 774,
+   "ruled_line": 26,
+   "landed_line": 26,
+   "mode": "wrap",
+   "legacy_line": 26
+  },
+  {
+   "source": "g|774|32|218",
+   "page": 774,
+   "ruled_line": 32,
+   "landed_line": 32,
+   "mode": "on_target",
+   "legacy_line": 32
+  },
+  {
+   "source": "ga|774|34|27",
+   "page": 774,
+   "ruled_line": 34,
+   "landed_line": 34,
+   "mode": "on_target",
+   "legacy_line": 34
+  },
+  {
+   "source": "g|774|38|183",
+   "page": 774,
+   "ruled_line": 38,
+   "landed_line": 38,
+   "mode": "on_target",
+   "legacy_line": 38
+  },
+  {
+   "source": "g|774|40|219",
+   "page": 774,
+   "ruled_line": 40,
+   "landed_line": 40,
+   "mode": "on_target",
+   "legacy_line": 40
+  },
+  {
+   "source": "g|774|43|220",
+   "page": 774,
+   "ruled_line": 43,
+   "landed_line": 43,
+   "mode": "on_target",
+   "legacy_line": 43
+  },
+  {
+   "source": "g|774|45|221",
+   "page": 774,
+   "ruled_line": 45,
+   "landed_line": 45,
+   "mode": "on_target",
+   "legacy_line": 45
+  },
+  {
+   "source": "g|774|49|222",
+   "page": 774,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "auto-gross",
+   "page": 774,
+   "ruled_line": 74,
+   "landed_line": 74,
+   "mode": "on_target",
+   "legacy_line": 74
+  },
+  {
+   "source": "g|774|95|225",
+   "page": 774,
+   "ruled_line": 95,
+   "landed_line": 95,
+   "mode": "on_target",
+   "legacy_line": 95
+  },
+  {
+   "source": "g|775|8|186",
+   "page": 775,
+   "ruled_line": 8,
+   "landed_line": 8,
+   "mode": "on_target",
+   "legacy_line": 8
+  },
+  {
+   "source": "g|775|9|226",
+   "page": 775,
+   "ruled_line": 9,
+   "landed_line": 9,
+   "mode": "on_target",
+   "legacy_line": 9
+  },
+  {
+   "source": "auto-gross",
+   "page": 775,
+   "ruled_line": 31,
+   "landed_line": 31,
+   "mode": "on_target",
+   "legacy_line": 31
+  },
+  {
+   "source": "g|775|37|227",
+   "page": 775,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 37
+  },
+  {
+   "source": "g|775|38|189",
+   "page": 775,
+   "ruled_line": 38,
+   "landed_line": 38,
+   "mode": "on_target",
+   "legacy_line": 38
+  },
+  {
+   "source": "g|775|42|228",
+   "page": 775,
+   "ruled_line": 42,
+   "landed_line": 42,
+   "mode": "on_target",
+   "legacy_line": 42
+  },
+  {
+   "source": "auto-gross",
+   "page": 775,
+   "ruled_line": 67,
+   "landed_line": 67,
+   "mode": "on_target",
+   "legacy_line": 67
+  },
+  {
+   "source": "g|775|76|229",
+   "page": 775,
+   "ruled_line": 76,
+   "landed_line": 76,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|775|96|196",
+   "page": 775,
+   "ruled_line": 96,
+   "landed_line": 96,
+   "mode": "on_target",
+   "legacy_line": 93
+  },
+  {
+   "source": "g|776|20|231",
+   "page": 776,
+   "ruled_line": 20,
+   "landed_line": 20,
+   "mode": "on_target",
+   "legacy_line": 20
+  },
+  {
+   "source": "g|776|26|233",
+   "page": 776,
+   "ruled_line": 26,
+   "landed_line": 26,
+   "mode": "on_target",
+   "legacy_line": 26
+  },
+  {
+   "source": "g|776|27|234",
+   "page": 776,
+   "ruled_line": 27,
+   "landed_line": 27,
+   "mode": "wrap",
+   "legacy_line": 27
+  },
+  {
+   "source": "g|776|28|206",
+   "page": 776,
+   "ruled_line": 28,
+   "landed_line": 28,
+   "mode": "on_target",
+   "legacy_line": 28
+  },
+  {
+   "source": "auto-gross",
+   "page": 776,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 37
+  },
+  {
+   "source": "g|776|39|209",
+   "page": 776,
+   "ruled_line": 39,
+   "landed_line": 39,
+   "mode": "on_target",
+   "legacy_line": 39
+  },
+  {
+   "source": "g|776|48|214",
+   "page": 776,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|776|61|237",
+   "page": 776,
+   "ruled_line": 61,
+   "landed_line": 61,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "ga|776|72|28",
+   "page": 776,
+   "ruled_line": 72,
+   "landed_line": 72,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|776|84|239",
+   "page": 776,
+   "ruled_line": 84,
+   "landed_line": 84,
+   "mode": "on_target",
+   "legacy_line": 84
+  },
+  {
+   "source": "g|776|89|240",
+   "page": 776,
+   "ruled_line": 89,
+   "landed_line": 89,
+   "mode": "on_target",
+   "legacy_line": 89
+  },
+  {
+   "source": "auto-gross",
+   "page": 777,
+   "ruled_line": 10,
+   "landed_line": 10,
+   "mode": "on_target",
+   "legacy_line": 10
+  },
+  {
+   "source": "g|777|19|243",
+   "page": 777,
+   "ruled_line": 19,
+   "landed_line": 19,
+   "mode": "on_target",
+   "legacy_line": 19
+  },
+  {
+   "source": "g|777|51|247",
+   "page": 777,
+   "ruled_line": 51,
+   "landed_line": 51,
+   "mode": "on_target",
+   "legacy_line": 51
+  },
+  {
+   "source": "g|777|63|220",
+   "page": 777,
+   "ruled_line": 63,
+   "landed_line": 63,
+   "mode": "on_target",
+   "legacy_line": 63
+  },
+  {
+   "source": "g|777|65|221",
+   "page": 777,
+   "ruled_line": 65,
+   "landed_line": 65,
+   "mode": "on_target",
+   "legacy_line": 65
+  },
+  {
+   "source": "g|777|66|223",
+   "page": 777,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "ga|777|72|31",
+   "page": 777,
+   "ruled_line": 72,
+   "landed_line": 72,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|777|82|224",
+   "page": 777,
+   "ruled_line": 82,
+   "landed_line": 82,
+   "mode": "on_target",
+   "legacy_line": 82
+  },
+  {
+   "source": "g|777|86|225",
+   "page": 777,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 85
+  },
+  {
+   "source": "g|778|4|248",
+   "page": 778,
+   "ruled_line": 4,
+   "landed_line": 4,
+   "mode": "on_target",
+   "legacy_line": 4
+  },
+  {
+   "source": "g|778|4|249",
+   "page": 778,
+   "ruled_line": 4,
+   "landed_line": 4,
+   "mode": "on_target",
+   "legacy_line": 4
+  },
+  {
+   "source": "g|778|10|250",
+   "page": 778,
+   "ruled_line": 10,
+   "landed_line": 10,
+   "mode": "on_target",
+   "legacy_line": 10
+  },
+  {
+   "source": "g|778|12|251",
+   "page": 778,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|778|12|252",
+   "page": 778,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|778|33|254",
+   "page": 778,
+   "ruled_line": 33,
+   "landed_line": 33,
+   "mode": "on_target",
+   "legacy_line": 33
+  },
+  {
+   "source": "g|778|33|255",
+   "page": 778,
+   "ruled_line": 33,
+   "landed_line": 33,
+   "mode": "on_target",
+   "legacy_line": 33
+  },
+  {
+   "source": "g|778|35|256",
+   "page": 778,
+   "ruled_line": 35,
+   "landed_line": 35,
+   "mode": "on_target",
+   "legacy_line": 35
+  },
+  {
+   "source": "ga|778|38|33",
+   "page": 778,
+   "ruled_line": 38,
+   "landed_line": 38,
+   "mode": "on_target",
+   "legacy_line": 38
+  },
+  {
+   "source": "g|778|39|226",
+   "page": 778,
+   "ruled_line": 39,
+   "landed_line": 39,
+   "mode": "on_target",
+   "legacy_line": 39
+  },
+  {
+   "source": "g|778|51|257",
+   "page": 778,
+   "ruled_line": 51,
+   "landed_line": 51,
+   "mode": "on_target",
+   "legacy_line": 51
+  },
+  {
+   "source": "g|778|52|258",
+   "page": 778,
+   "ruled_line": 52,
+   "landed_line": 52,
+   "mode": "on_target",
+   "legacy_line": 52
+  },
+  {
+   "source": "g|778|56|259",
+   "page": 778,
+   "ruled_line": 56,
+   "landed_line": 56,
+   "mode": "on_target",
+   "legacy_line": 56
+  },
+  {
+   "source": "g|778|57|260",
+   "page": 778,
+   "ruled_line": 57,
+   "landed_line": 57,
+   "mode": "on_target",
+   "legacy_line": 57
+  },
+  {
+   "source": "g|778|58|261",
+   "page": 778,
+   "ruled_line": 58,
+   "landed_line": 58,
+   "mode": "on_target",
+   "legacy_line": 58
+  },
+  {
+   "source": "g|778|64|262",
+   "page": 778,
+   "ruled_line": 64,
+   "landed_line": 64,
+   "mode": "on_target",
+   "legacy_line": 64
+  },
+  {
+   "source": "g|778|82|228",
+   "page": 778,
+   "ruled_line": 82,
+   "landed_line": 82,
+   "mode": "on_target",
+   "legacy_line": 82
+  },
+  {
+   "source": "g|778|94|229",
+   "page": 778,
+   "ruled_line": 94,
+   "landed_line": 94,
+   "mode": "on_target",
+   "legacy_line": 94
+  },
+  {
+   "source": "g|779|5|265",
+   "page": 779,
+   "ruled_line": 5,
+   "landed_line": 5,
+   "mode": "on_target",
+   "legacy_line": 5
+  },
+  {
+   "source": "g|779|6|230",
+   "page": 779,
+   "ruled_line": 6,
+   "landed_line": 6,
+   "mode": "on_target",
+   "legacy_line": 6
+  },
+  {
+   "source": "g|779|7|231",
+   "page": 779,
+   "ruled_line": 7,
+   "landed_line": 7,
+   "mode": "on_target",
+   "legacy_line": 7
+  },
+  {
+   "source": "g|779|10|232",
+   "page": 779,
+   "ruled_line": 10,
+   "landed_line": 10,
+   "mode": "on_target",
+   "legacy_line": 10
+  },
+  {
+   "source": "ga|779|11|34",
+   "page": 779,
+   "ruled_line": 11,
+   "landed_line": 11,
+   "mode": "on_target",
+   "legacy_line": 11
+  },
+  {
+   "source": "g|779|15|233",
+   "page": 779,
+   "ruled_line": 15,
+   "landed_line": 15,
+   "mode": "on_target",
+   "legacy_line": 15
+  },
+  {
+   "source": "g|779|16|234",
+   "page": 779,
+   "ruled_line": 16,
+   "landed_line": 16,
+   "mode": "on_target",
+   "legacy_line": 16
+  },
+  {
+   "source": "g|779|27|235",
+   "page": 779,
+   "ruled_line": 27,
+   "landed_line": 27,
+   "mode": "on_target",
+   "legacy_line": 27
+  },
+  {
+   "source": "g|779|49|266",
+   "page": 779,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "g|779|64|267",
+   "page": 779,
+   "ruled_line": 64,
+   "landed_line": 64,
+   "mode": "on_target",
+   "legacy_line": 64
+  },
+  {
+   "source": "g|779|67|236",
+   "page": 779,
+   "ruled_line": 67,
+   "landed_line": 67,
+   "mode": "on_target",
+   "legacy_line": 67
+  },
+  {
+   "source": "auto-gross",
+   "page": 779,
+   "ruled_line": 69,
+   "landed_line": 69,
+   "mode": "on_target",
+   "legacy_line": 69
+  },
+  {
+   "source": "g|779|77|268",
+   "page": 779,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|779|80|269",
+   "page": 779,
+   "ruled_line": 80,
+   "landed_line": 80,
+   "mode": "on_target",
+   "legacy_line": 80
+  },
+  {
+   "source": "g|779|86|237",
+   "page": 779,
+   "ruled_line": 86,
+   "landed_line": 86,
+   "mode": "on_target",
+   "legacy_line": 86
+  },
+  {
+   "source": "g|779|91|238",
+   "page": 779,
+   "ruled_line": 91,
+   "landed_line": 91,
+   "mode": "on_target",
+   "legacy_line": 90
+  },
+  {
+   "source": "g|780|19|241",
+   "page": 780,
+   "ruled_line": 19,
+   "landed_line": 19,
+   "mode": "on_target",
+   "legacy_line": 19
+  },
+  {
+   "source": "g|780|26|273",
+   "page": 780,
+   "ruled_line": 26,
+   "landed_line": 26,
+   "mode": "on_target",
+   "legacy_line": 26
+  },
+  {
+   "source": "g|780|32|274",
+   "page": 780,
+   "ruled_line": 32,
+   "landed_line": 32,
+   "mode": "on_target",
+   "legacy_line": 32
+  },
+  {
+   "source": "g|780|37|277",
+   "page": 780,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 37
+  },
+  {
+   "source": "g|780|41|278",
+   "page": 780,
+   "ruled_line": 41,
+   "landed_line": 41,
+   "mode": "on_target",
+   "legacy_line": 41
+  },
+  {
+   "source": "auto-gross",
+   "page": 780,
+   "ruled_line": 46,
+   "landed_line": 46,
+   "mode": "on_target",
+   "legacy_line": 46
+  },
+  {
+   "source": "g|780|60|243",
+   "page": 780,
+   "ruled_line": 60,
+   "landed_line": 60,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "g|780|66|244",
+   "page": 780,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "g|780|70|279",
+   "page": 780,
+   "ruled_line": 70,
+   "landed_line": 70,
+   "mode": "on_target",
+   "legacy_line": 70
+  },
+  {
+   "source": "g|780|75|280",
+   "page": 780,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|780|77|281",
+   "page": 780,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|780|78|282",
+   "page": 780,
+   "ruled_line": 78,
+   "landed_line": 78,
+   "mode": "on_target",
+   "legacy_line": 78
+  },
+  {
+   "source": "g|780|79|283",
+   "page": 780,
+   "ruled_line": 79,
+   "landed_line": 79,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "g|780|80|284",
+   "page": 780,
+   "ruled_line": 80,
+   "landed_line": 80,
+   "mode": "on_target",
+   "legacy_line": 80
+  },
+  {
+   "source": "g|780|82|285",
+   "page": 780,
+   "ruled_line": 82,
+   "landed_line": 82,
+   "mode": "on_target",
+   "legacy_line": 82
+  },
+  {
+   "source": "g|780|92|245",
+   "page": 780,
+   "ruled_line": 92,
+   "landed_line": 92,
+   "mode": "on_target",
+   "legacy_line": 92
+  },
+  {
+   "source": "g|781|1|287",
+   "page": 781,
+   "ruled_line": 1,
+   "landed_line": 1,
+   "mode": "on_target",
+   "legacy_line": 1
+  },
+  {
+   "source": "g|781|1|246",
+   "page": 781,
+   "ruled_line": 1,
+   "landed_line": 1,
+   "mode": "on_target",
+   "legacy_line": 1
+  },
+  {
+   "source": "g|781|7|288",
+   "page": 781,
+   "ruled_line": 7,
+   "landed_line": 7,
+   "mode": "on_target",
+   "legacy_line": 7
+  },
+  {
+   "source": "g|781|14|248",
+   "page": 781,
+   "ruled_line": 14,
+   "landed_line": 14,
+   "mode": "on_target",
+   "legacy_line": 14
+  },
+  {
+   "source": "g|781|26|289",
+   "page": 781,
+   "ruled_line": 26,
+   "landed_line": 26,
+   "mode": "on_target",
+   "legacy_line": 26
+  },
+  {
+   "source": "ga|781|27|36",
+   "page": 781,
+   "ruled_line": 27,
+   "landed_line": 27,
+   "mode": "on_target",
+   "legacy_line": 27
+  },
+  {
+   "source": "ga|781|32|37",
+   "page": 781,
+   "ruled_line": 32,
+   "landed_line": 32,
+   "mode": "on_target",
+   "legacy_line": 32
+  },
+  {
+   "source": "g|781|36|249",
+   "page": 781,
+   "ruled_line": 36,
+   "landed_line": 36,
+   "mode": "on_target",
+   "legacy_line": 36
+  },
+  {
+   "source": "g|781|52|251",
+   "page": 781,
+   "ruled_line": 52,
+   "landed_line": 52,
+   "mode": "on_target",
+   "legacy_line": 52
+  },
+  {
+   "source": "g|781|60|290",
+   "page": 781,
+   "ruled_line": 60,
+   "landed_line": 60,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "g|781|60|291",
+   "page": 781,
+   "ruled_line": 60,
+   "landed_line": 60,
+   "mode": "on_target",
+   "legacy_line": 60
+  },
+  {
+   "source": "ga|781|62|38",
+   "page": 781,
+   "ruled_line": 62,
+   "landed_line": 62,
+   "mode": "on_target",
+   "legacy_line": 62
+  },
+  {
+   "source": "g|781|63|292",
+   "page": 781,
+   "ruled_line": 63,
+   "landed_line": 63,
+   "mode": "on_target",
+   "legacy_line": 63
+  },
+  {
+   "source": "ga|781|66|39",
+   "page": 781,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "ga|781|69|40",
+   "page": 781,
+   "ruled_line": 69,
+   "landed_line": 69,
+   "mode": "on_target",
+   "legacy_line": 69
+  },
+  {
+   "source": "ga|781|72|41",
+   "page": 781,
+   "ruled_line": 72,
+   "landed_line": 72,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|781|73|252",
+   "page": 781,
+   "ruled_line": 73,
+   "landed_line": 73,
+   "mode": "on_target",
+   "legacy_line": 73
+  },
+  {
+   "source": "ga|781|75|42",
+   "page": 781,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|781|76|294",
+   "page": 781,
+   "ruled_line": 76,
+   "landed_line": 76,
+   "mode": "on_target",
+   "legacy_line": 76
+  },
+  {
+   "source": "g|781|78|295",
+   "page": 781,
+   "ruled_line": 78,
+   "landed_line": 78,
+   "mode": "on_target",
+   "legacy_line": 78
+  },
+  {
+   "source": "g|781|79|296",
+   "page": 781,
+   "ruled_line": 79,
+   "landed_line": 79,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "ga|781|94|43",
+   "page": 781,
+   "ruled_line": 94,
+   "landed_line": 94,
+   "mode": "on_target",
+   "legacy_line": 94
+  },
+  {
+   "source": "g|782|11|297",
+   "page": 782,
+   "ruled_line": 11,
+   "landed_line": 11,
+   "mode": "on_target",
+   "legacy_line": 11
+  },
+  {
+   "source": "g|782|13|298",
+   "page": 782,
+   "ruled_line": 13,
+   "landed_line": 13,
+   "mode": "on_target",
+   "legacy_line": 13
+  },
+  {
+   "source": "g|782|14|299",
+   "page": 782,
+   "ruled_line": 14,
+   "landed_line": 14,
+   "mode": "on_target",
+   "legacy_line": 14
+  },
+  {
+   "source": "auto-gross",
+   "page": 782,
+   "ruled_line": 48,
+   "landed_line": 48,
+   "mode": "on_target",
+   "legacy_line": 48
+  },
+  {
+   "source": "g|782|57|300",
+   "page": 782,
+   "ruled_line": 57,
+   "landed_line": 57,
+   "mode": "on_target",
+   "legacy_line": 57
+  },
+  {
+   "source": "g|782|58|301",
+   "page": 782,
+   "ruled_line": 58,
+   "landed_line": 58,
+   "mode": "wrap",
+   "legacy_line": 58
+  },
+  {
+   "source": "g|782|69|257",
+   "page": 782,
+   "ruled_line": 69,
+   "landed_line": 69,
+   "mode": "on_target",
+   "legacy_line": 69
+  },
+  {
+   "source": "g|782|75|302",
+   "page": 782,
+   "ruled_line": 75,
+   "landed_line": 75,
+   "mode": "on_target",
+   "legacy_line": 75
+  },
+  {
+   "source": "g|782|77|303",
+   "page": 782,
+   "ruled_line": 77,
+   "landed_line": 77,
+   "mode": "on_target",
+   "legacy_line": 77
+  },
+  {
+   "source": "g|782|79|304",
+   "page": 782,
+   "ruled_line": 79,
+   "landed_line": 79,
+   "mode": "on_target",
+   "legacy_line": 79
+  },
+  {
+   "source": "ga|782|84|44",
+   "page": 782,
+   "ruled_line": 84,
+   "landed_line": 84,
+   "mode": "on_target",
+   "legacy_line": 84
+  },
+  {
+   "source": "g|782|85|305",
+   "page": 782,
+   "ruled_line": 85,
+   "landed_line": 85,
+   "mode": "on_target",
+   "legacy_line": 85
+  },
+  {
+   "source": "g|782|87|306",
+   "page": 782,
+   "ruled_line": 87,
+   "landed_line": 87,
+   "mode": "on_target",
+   "legacy_line": 87
+  },
+  {
+   "source": "auto-gross",
+   "page": 782,
+   "ruled_line": 88,
+   "landed_line": 88,
+   "mode": "on_target",
+   "legacy_line": 88
+  },
+  {
+   "source": "g|782|94|308",
+   "page": 782,
+   "ruled_line": 94,
+   "landed_line": 94,
+   "mode": "on_target",
+   "legacy_line": 94
+  },
+  {
+   "source": "ga|783|1|45",
+   "page": 783,
+   "ruled_line": 1,
+   "landed_line": 1,
+   "mode": "on_target",
+   "legacy_line": 1
+  },
+  {
+   "source": "g|783|8|309",
+   "page": 783,
+   "ruled_line": 8,
+   "landed_line": 8,
+   "mode": "on_target",
+   "legacy_line": 8
+  },
+  {
+   "source": "g|783|13|310",
+   "page": 783,
+   "ruled_line": 13,
+   "landed_line": 13,
+   "mode": "wrap",
+   "legacy_line": 13
+  },
+  {
+   "source": "g|783|34|311",
+   "page": 783,
+   "ruled_line": 34,
+   "landed_line": 34,
+   "mode": "on_target",
+   "legacy_line": 34
+  },
+  {
+   "source": "g|783|49|314",
+   "page": 783,
+   "ruled_line": 49,
+   "landed_line": 49,
+   "mode": "on_target",
+   "legacy_line": 49
+  },
+  {
+   "source": "g|783|52|258",
+   "page": 783,
+   "ruled_line": 52,
+   "landed_line": 52,
+   "mode": "on_target",
+   "legacy_line": 52
+  },
+  {
+   "source": "auto-gross",
+   "page": 783,
+   "ruled_line": 53,
+   "landed_line": 53,
+   "mode": "on_target",
+   "legacy_line": 53
+  },
+  {
+   "source": "g|783|62|259",
+   "page": 783,
+   "ruled_line": 62,
+   "landed_line": 62,
+   "mode": "on_target",
+   "legacy_line": 62
+  },
+  {
+   "source": "g|783|66|260",
+   "page": 783,
+   "ruled_line": 66,
+   "landed_line": 66,
+   "mode": "on_target",
+   "legacy_line": 66
+  },
+  {
+   "source": "auto-gross",
+   "page": 783,
+   "ruled_line": 70,
+   "landed_line": 70,
+   "mode": "on_target",
+   "legacy_line": 70
+  },
+  {
+   "source": "auto-gross",
+   "page": 783,
+   "ruled_line": 71,
+   "landed_line": 71,
+   "mode": "on_target",
+   "legacy_line": 71
+  },
+  {
+   "source": "g|783|72|261",
+   "page": 783,
+   "ruled_line": 72,
+   "landed_line": 72,
+   "mode": "on_target",
+   "legacy_line": 72
+  },
+  {
+   "source": "g|783|74|263",
+   "page": 783,
+   "ruled_line": 74,
+   "landed_line": 74,
+   "mode": "on_target",
+   "legacy_line": 74
+  },
+  {
+   "source": "auto-gross",
+   "page": 783,
+   "ruled_line": 81,
+   "landed_line": 81,
+   "mode": "on_target",
+   "legacy_line": 81
+  },
+  {
+   "source": "auto-gross",
+   "page": 783,
+   "ruled_line": 83,
+   "landed_line": 83,
+   "mode": "on_target",
+   "legacy_line": 83
+  },
+  {
+   "source": "auto-gross",
+   "page": 783,
+   "ruled_line": 83,
+   "landed_line": 83,
+   "mode": "wrap",
+   "legacy_line": 83
+  },
+  {
+   "source": "auto-gross",
+   "page": 783,
+   "ruled_line": 84,
+   "landed_line": 84,
+   "mode": "on_target",
+   "legacy_line": 84
+  },
+  {
+   "source": "g|784|4|265",
+   "page": 784,
+   "ruled_line": 4,
+   "landed_line": 4,
+   "mode": "on_target",
+   "legacy_line": 4
+  },
+  {
+   "source": "g|784|7|316",
+   "page": 784,
+   "ruled_line": 7,
+   "landed_line": 7,
+   "mode": "on_target",
+   "legacy_line": 7
+  },
+  {
+   "source": "ga|784|12|46",
+   "page": 784,
+   "ruled_line": 12,
+   "landed_line": 12,
+   "mode": "on_target",
+   "legacy_line": 12
+  },
+  {
+   "source": "g|784|13|267",
+   "page": 784,
+   "ruled_line": 13,
+   "landed_line": 13,
+   "mode": "on_target",
+   "legacy_line": 13
+  },
+  {
+   "source": "g|784|14|318",
+   "page": 784,
+   "ruled_line": 14,
+   "landed_line": 14,
+   "mode": "on_target",
+   "legacy_line": 14
+  },
+  {
+   "source": "g|784|20|319",
+   "page": 784,
+   "ruled_line": 20,
+   "landed_line": 20,
+   "mode": "on_target",
+   "legacy_line": 17
+  },
+  {
+   "source": "g|784|21|320",
+   "page": 784,
+   "ruled_line": 21,
+   "landed_line": 21,
+   "mode": "on_target",
+   "legacy_line": 21
+  },
+  {
+   "source": "g|784|33|269",
+   "page": 784,
+   "ruled_line": 33,
+   "landed_line": 33,
+   "mode": "on_target",
+   "legacy_line": 33
+  },
+  {
+   "source": "g|784|36|321",
+   "page": 784,
+   "ruled_line": 36,
+   "landed_line": 36,
+   "mode": "on_target",
+   "legacy_line": 36
+  },
+  {
+   "source": "g|784|37|322",
+   "page": 784,
+   "ruled_line": 37,
+   "landed_line": 37,
+   "mode": "on_target",
+   "legacy_line": 37
+  },
+  {
+   "source": "g|784|38|323",
+   "page": 784,
+   "ruled_line": 38,
+   "landed_line": 38,
+   "mode": "on_target",
+   "legacy_line": 38
+  }
+ ]
+}
