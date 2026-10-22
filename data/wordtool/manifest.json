@@ -2,13 +2,14 @@
  "format": 2,
  "datasets": {
   "grc-analyses": {
-   "pack_bytes": 17928744,
+   "pack_bytes": 17933784,
    "buckets": 372,
-   "sha256": "001690a3601b23279a9f789446266f67166e7cdb9d003ec44be3244406db1798",
+   "sha256": "5c16eed326f9d9d0ab09f7ba9744580dad6d3669548c8e4a4f11a0c82e667c9e",
    "forms": 911519,
    "variant_aliases": 91813,
    "lemmas": 116350,
-   "lemmas_resolved": 92135
+   "lemmas_resolved": 92135,
+   "names_attached": 582
   },
   "grc-lsj": {
    "pack_bytes": 19200817,
@@ -18,15 +19,16 @@
    "fallback_rendered": 0
   },
   "grc-lsj-t8": {
-   "pack_bytes": 12630023,
+   "pack_bytes": 12695392,
    "buckets": 361,
-   "sha256": "dbedf1cb409017edf58d89ebb434f20f89d1b0f63981a015ef2f6c96516cc1f0",
+   "sha256": "ba1266479d2b0d5355b01b0b306973824631ceea62ca52082a31ce74d97e7f00",
    "entries": 116715,
    "errors": 0,
    "error_rate": 0.0,
    "unlabelled_divisions": 1,
    "bare_in_print": 6,
-   "source": "grc-lsj"
+   "source": "grc-lsj",
+   "names_supplement": 737
   },
   "lat-analyses": {
    "pack_bytes": 7533427,
@@ -83,5 +85,5 @@
    "commit": "02768b0c37d6102be4899fc0eb57f9d348195243"
   }
  },
- "license": "Perseus Digital Library data as distributed with Diogenes (P. J. Heslin). Lexica (LSJ 1940, Lewis & Short 1879): CC BY-SA (PerseusDL/lexica states 4.0). Middle Liddell (1889): CC BY-SA 4.0 from PerseusDL/canonical-pdlrefwk, text provided by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from the Annenberg Foundation. Morphology (Morpheus analyses): Perseus morphology data; Perseus notes component rights vary — verify terms before any public deployment. Derived packs carry the source licenses."
+ "license": "Perseus Digital Library data as distributed with Diogenes (P. J. Heslin). Lexica (LSJ 1940, Lewis & Short 1879): CC BY-SA (PerseusDL/lexica states 4.0). Middle Liddell (1889): CC BY-SA 4.0 from PerseusDL/canonical-pdlrefwk, text provided by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from the Annenberg Foundation. Morphology (Morpheus analyses): Perseus morphology data; Perseus notes component rights vary — verify terms before any public deployment. Names supplement (data/names, in grc-lsj-t8): short entries drawn from Smith's Dictionary of Greek and Roman Biography and Mythology (1849) and Dictionary of Greek and Roman Geography (1854), CC BY-SA 4.0, text provided by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from the National Endowment for the Humanities and Tufts University, from PerseusDL/canonical-pdlrefwk. Derived packs carry the source licenses."
 }

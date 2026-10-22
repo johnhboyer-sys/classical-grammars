@@ -71,7 +71,13 @@ LICENSE = (
     "Library, http://www.perseus.tufts.edu, with funding from the "
     "Annenberg Foundation. Morphology (Morpheus analyses): Perseus "
     "morphology data; Perseus notes component rights vary — verify terms "
-    "before any public deployment. Derived packs carry the source licenses."
+    "before any public deployment. Names supplement (data/names, in "
+    "grc-lsj-t8): short entries drawn from Smith's Dictionary of Greek and "
+    "Roman Biography and Mythology (1849) and Dictionary of Greek and Roman "
+    "Geography (1854), CC BY-SA 4.0, text provided by Perseus Digital "
+    "Library, http://www.perseus.tufts.edu, with funding from the National "
+    "Endowment for the Humanities and Tufts University, from "
+    "PerseusDL/canonical-pdlrefwk. Derived packs carry the source licenses."
 )
 
 # ---------------------------------------------------------------- betacode
@@ -944,6 +950,16 @@ def build_ml(out_dir: Path, manifest: dict) -> None:
     manifest["license"] = LICENSE
 
 
+def _apply_names(out_dir: Path, manifest: dict) -> None:
+    """The proper-name supplement (names_supplement.py) rides on every
+    Greek T8 build, so a rebuild never drops it."""
+    import names_supplement
+
+    print("names supplement…", flush=True)
+    manifest["datasets"].update(
+        names_supplement.apply(out_dir, names_supplement.load()))
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", type=Path, default=DEFAULT_OUT)
@@ -982,6 +998,8 @@ def main() -> int:
             print(f"{name}…", flush=True)
             manifest.setdefault("datasets", {})[name] = build_t8(
                 out_dir, ds, an, lang, name, expect, limit=args.t8_limit)
+        if not args.t8_limit:
+            _apply_names(out_dir, manifest)
         if args.t8_limit:
             print("smoke test only — manifest not written", flush=True)
         else:
@@ -1023,6 +1041,7 @@ def main() -> int:
     print("grc-lsj-t8…", flush=True)
     manifest["datasets"]["grc-lsj-t8"] = build_t8(
         out_dir, "grc-lsj", "grc-analyses", "grc", "grc-lsj-t8", lsj_n)
+    _apply_names(out_dir, manifest)
 
     # ---- Latin
     print("latin analyses…", flush=True)
