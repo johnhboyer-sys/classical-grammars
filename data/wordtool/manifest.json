@@ -2,14 +2,14 @@
  "format": 2,
  "datasets": {
   "grc-analyses": {
-   "pack_bytes": 17933784,
+   "pack_bytes": 17933800,
    "buckets": 372,
-   "sha256": "5c16eed326f9d9d0ab09f7ba9744580dad6d3669548c8e4a4f11a0c82e667c9e",
+   "sha256": "ad34c51a736452386984b0fbacb20deb8efee09e54f3b806814eb92e03a6f64e",
    "forms": 911519,
    "variant_aliases": 91813,
    "lemmas": 116350,
    "lemmas_resolved": 92135,
-   "names_attached": 582
+   "names_attached": 585
   },
   "grc-lsj": {
    "pack_bytes": 19200817,
@@ -19,16 +19,16 @@
    "fallback_rendered": 0
   },
   "grc-lsj-t8": {
-   "pack_bytes": 12695392,
+   "pack_bytes": 12695853,
    "buckets": 361,
-   "sha256": "ba1266479d2b0d5355b01b0b306973824631ceea62ca52082a31ce74d97e7f00",
+   "sha256": "102661d0ab6531b9168c8b59457d4af179da3bf9490305aef02d8f1ea6440e9d",
    "entries": 116715,
    "errors": 0,
    "error_rate": 0.0,
    "unlabelled_divisions": 1,
    "bare_in_print": 6,
    "source": "grc-lsj",
-   "names_supplement": 737
+   "names_supplement": 743
   },
   "lat-analyses": {
    "pack_bytes": 7533427,
